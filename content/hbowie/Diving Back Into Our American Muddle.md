@@ -8,7 +8,7 @@ Timestamp: 20210311190815
 
 Status: 9 - Published
 
-Type:   Blog
+Type:   blog
 
 Importance: 40
 

@@ -1,0 +1,20 @@
+<?nextrec?>
+<?if =$type$= eq "appreciation" ?>
+<?output "../appreciation/=$title&f$=.html"?>
+<?endif?>
+<?if =$type$= eq "blog" ?>
+<?output "../blog/hbowie/=$title&f$=.html"?>
+<?endif?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>=$title$=</title>
+</head>
+<body>
+<h1>=$title$=</h1>
+
+=$body&o$=
+</body>
+</html>
+<?loop?>

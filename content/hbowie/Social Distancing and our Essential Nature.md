@@ -6,7 +6,7 @@ Timestamp: 20210311202422
 
 Status: 6 - Completed
 
-Type:   Blog
+Type:   blog
 
 Importance: 80
 

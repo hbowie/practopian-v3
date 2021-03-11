@@ -6,7 +6,7 @@ Timestamp: 20210311155054
 
 Status: 9 - Published
 
-Type:   Blog
+Type:   blog
 
 Importance: 50
 
