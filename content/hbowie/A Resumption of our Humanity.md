@@ -16,8 +16,6 @@ Index:  Biden, Joe; inauguration; Guthrie, Woody; Gorman, Amanda;
 
 Minutes to Read: 4
 
-Image Name: people gathering
-
 Image Alt: Many people gathering together in a circle
 
 Image Credit: iStock/hkeita
@@ -27,6 +25,7 @@ Image Credit Link: https://www.istockphoto.com/photo/people-gather-at-the-center
 Teaser: 
 
 As I watched the Biden-Harris inaugural ceremonies this week, I found myself overcome by unanticipated thoughts and feelings.
+
 
 Body: 
 
