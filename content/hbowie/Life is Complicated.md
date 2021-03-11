@@ -16,8 +16,6 @@ Index:  Davies, Sir Raymond Douglas; Mencken, H. L.; Obama, Barack; evolution;
 
 Minutes to Read: 7
 
-Image Name: choice of straight line or twisted one
-
 Image Alt: Red tennis shoes pointing towards one straight line and one tangled line
 
 Image Credit: iStock/Prostock-Studio
