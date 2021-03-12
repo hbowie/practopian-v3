@@ -20,8 +20,6 @@ Index:  Cohen, Leonard; Hallelujah;
 
 Minutes to Read: 12
 
-Image Name: Leonard Cohen mural in Montreal
-
 Image Alt: Montreal's skyline with the downtown skyscrapers and the Leonard Cohen homage mural
 
 Image Credit: iStock/Chalffy

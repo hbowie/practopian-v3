@@ -16,6 +16,8 @@ Index:  capitalism; inequality;
 
 Minutes to Read: 8
 
+Image Name: greedy capitalist
+
 Image Alt: Multi-armed capitalism with his fingers in all the pies
 
 Teaser: 
@@ -24,8 +26,6 @@ As Americans we generally believe in capitalism as a superior economic system, a
 
 
 Body: 
-
-<p><img src="../../images/capitalism.jpg" alt="Capitalist Tentacles" title="Capitalist Tentacles" /></p>
 
 As Americans we generally believe in [capitalism][] as a superior economic system, and are typically convinced that our country is run on capitalistic principles. 
 
