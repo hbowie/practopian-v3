@@ -10,13 +10,16 @@
 <head>
 	<meta charset="utf-8" />
 	<title>=$title$=</title>
+	  <link rel="stylesheet" href="=$relative$=fonts/concourse_t3.css" type="text/css" />
+    <link rel="stylesheet" href="=$relative$=fonts/stylesheet.css" type="text/css" />
+    <link rel="stylesheet" href="=$relative$=css/styles.css" />
 </head>
 <body>
 <h1>=$title$=</h1>
 
 <?if "=$imagename$=" ?>
 <p>
-<img src="=$relative$=images/=$imagename&f$=">
+<img src="=$relative$=images/=$imagename&f$=" alt="=$imagealt$=">
 </p>
 
 <?copyfile "../content/hbowie/files/=$imagename$=" "../images/=$imagename&f$=" ?>

@@ -2,12 +2,14 @@ module	action	modifier	object	value
 input	set		xpltags	false
 input	set		dirdepth	1
 input	open	notenik-defined		/Users/hbowie/Sites/practopian 3/content/hbowie
-filter	clear			
-filter	set		params	
+filter	clear
+filter	set		params
 filter	add	ge	Status	9
-filter	set		params	
-sort	add	ascending	Title	
-sort	set		params	
+filter	set		params
+sort	add	ascending	Title
+sort	set		params
 template	webroot			/Users/hbowie/Sites/practopian 3
 template	open			/Users/hbowie/Sites/practopian 3/templates/content-page.html
-template	generate			
+template	generate
+template	open			/Users/hbowie/Sites/practopian 3/templates/original-by-title.html
+template	generate

@@ -1,0 +1,19 @@
+body {
+  font-family: 'equity-text', Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  line-height: 1.428571429;
+  color: #000000;
+  background-color: #ffffff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'concourse_t4regular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #3070AA;
+}
+
+h1 { font-size: 1.8em; margin-top: 0.3em; margin-bottom: 0.2em; }
+h2 { font-size: 1.5em; margin-top: 0.3em; margin-bottom: 0.3em; }
+h3 { font-size: 1.3em; }
+h4 { font-size: 1.2em; }
+h5 { font-size: 1.1em; margin-top: 16px; line-height: 120%; }
+h6 { font-size: 1.0em; }

@@ -1,0 +1,25 @@
+<?output "../index.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Original Content by Title</title>
+	  <link rel="stylesheet" href="=$relative$=fonts/concourse_t3.css" type="text/css" />
+    <link rel="stylesheet" href="=$relative$=fonts/stylesheet.css" type="text/css" />
+    <link rel="stylesheet" href="=$relative$=css/styles.css" />
+</head>
+<body>
+<h1>All Original Content by Title</h1>
+
+<ul>
+<?nextrec?>
+<?if =$type$= eq "appreciation" ?>
+<li><a href="appreciation/=$title&f$=.html">=$title$=</a> (appreciation)</li>
+<?endif?>
+<?if =$type$= eq "blog" ?>
+<li><a href="blog/hbowie/=$title&f$=.html">=$title$=</a> (essay)</li>
+<?endif?>
+<?loop?>
+</ul>
+</body>
+</html>
