@@ -16,8 +16,6 @@ Index:  capitalism; inequality;
 
 Minutes to Read: 8
 
-Image Name: greedy capitalist
-
 Image Alt: Multi-armed capitalism with his fingers in all the pies
 
 Teaser: 
@@ -35,13 +33,13 @@ If we really believe that the means of production should be owned by ordinary ci
 
 It makes for an odd picture: it's as if we were all strongly convinced of our right to gamble, and were all living in Las Vegas, and every one of us going out to the casinos every night after work -- but only a few of us being given any chips. Instead we seem to spend our free time on Facebook, telling each other how wonderful it is to live in a country where we all have the right to gamble -- and then being forced to earn a living by cleaning the ashtrays. 
 
-![US Wealth Distribution - Perception vs. Reality](https://practopian.org/images/us-wealth-distribution-perception.jpg)
+![US Wealth Distribution - Perception vs. Reality](../../images/us-wealth-distribution-perception.jpg)
 
 Of course, one of the wonderful things about capitalism is that it's supposed to be an economic meritocracy, in which everyone gets to compete in free and open markets, and the cream is allowed to rise to the top, in terms of the best products and services and companies and workers. 
 
 But, again, I've been wondering lately: if we believe so strongly in fair competition, then why don't all of our citizens get equal starts in life? Again, it makes for an odd picture: it's like going to the horse races only to see a few large and noble steeds competing against some old mares and broken-down drays that have been hauling the milk trucks. Of course it makes it all the more exciting when there's a surprise upset, when [some lowly newcomer beats the odds][shelby]... but wouldn't it be more in line with capitalist principles if [everyone got a fair start](https://news.harvard.edu/gazette/story/2016/02/the-costs-of-inequality-educations-the-one-key-that-rules-them-all/)?
 
-![Comparative Science and Reading Scores in Eighth Grade](https://practopian.org/images/science-reading-scores.png)
+![Comparative Science and Reading Scores in Eighth Grade](../../images/science-reading-scores.png)
 
 And, once more, I've been struck by another question: if we believe so strongly in competition, then why are there [so few competitors][cap-myth]? Why are so many of our markets dominated by near-monopolies, or small oligopolies, in which a few large companies  divvy up a large and profitable market between themselves? And then, to go a step further -- why are so many of the *markets themselves* owned by large monopolies generating huge profits for a few owners? For, if truth be told, Amazon is little more than a marketplace for products, and Facebook is nothing but a marketplace for ideas and news, and Comcast is a marketplace for network packets. Again, it's an odd image: it's as if there were only two teams in the NFL, and the only game being played was the Super Bowl, and the two teams just took turns winning every year. I'm not sure many fans would consider that sort of an arrangement to be much of a competition. 
 
