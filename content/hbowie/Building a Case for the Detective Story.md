@@ -16,6 +16,8 @@ Index:  humanism; art; Chandler, Raymond; Penny, Louise; Rowling, J.K.; Allingha
 
 Minutes to Read: 19
 
+Image Name: detective novel
+
 Image Alt: Reader engrossed in a detective story
 
 Image Credit: iStock/francescoch
