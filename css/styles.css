@@ -22,3 +22,17 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+.img-practopian { vertical-align: -70%; }
+
+.centered-block {
+	display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.the-practopian {
+	font-size: 1.8em;
+	font-family: 'concourse_t4bold', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: #3070AA;
+}
