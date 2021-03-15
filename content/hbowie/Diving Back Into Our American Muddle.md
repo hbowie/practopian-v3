@@ -1,8 +1,6 @@
 Title:  Diving Back Into Our American Muddle
 
-Tags:   US politics, cultural evolution, governance, society
-
-Link:   https://practopian.org/blog/hbowie/diving-back-into-our-american-muddle.html
+Tags:   US politics, USA, cultural evolution, governance, society
 
 Timestamp: 20210311190815
 
@@ -17,8 +15,6 @@ Date:   21 Nov 2020
 Index:  Doering, Jody; Covid-19; Hammett, Dashiell; Biden, Joe; Ted Lasso; 
 
 Minutes to Read: 6
-
-Image Name: diving into dark waters
 
 Image Alt: Diving into dark water
 
