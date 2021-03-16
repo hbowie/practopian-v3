@@ -16,6 +16,8 @@ Index:  Doering, Jody; Covid-19; Hammett, Dashiell; Biden, Joe; Ted Lasso;
 
 Minutes to Read: 6
 
+Image Name: diving into dark waters
+
 Image Alt: Diving into dark water
 
 Image Credit: iStock/vernonwiley
