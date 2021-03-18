@@ -24,8 +24,11 @@ input	set		dirdepth	1
 input	open	notenik-defined		/Users/hbowie/Sites/practopian 3/commonplace-book
 filter	clear
 filter	set		params
+sort	add	ascending	Author
 sort	add	ascending	Title
 sort	set		params
 template	webroot			/Users/hbowie/Sites/practopian 3
 template	open			/Users/hbowie/Sites/practopian 3/templates/quote-page.html
+template	generate
+template	open			/Users/hbowie/Sites/practopian 3/templates/author-page.html
 template	generate

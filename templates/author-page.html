@@ -1,0 +1,30 @@
+<?nextrec?>
+<?definegroup 1 “=$author$="?>
+<?ifendgroup 1 ?>
+</ul>
+</body>
+</html>
+<?ifnewgroup 1 ?>
+<?output "../authors/=$author&f$=.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>=$title$=</title>
+	  <link rel="stylesheet" href="=$relative$=fonts/concourse_t3.css" type="text/css" />
+    <link rel="stylesheet" href="=$relative$=fonts/stylesheet.css" type="text/css" />
+    <link rel="stylesheet" href="=$relative$=css/styles.css" />
+</head>
+<body>
+<h1>=$author$=</h1>
+
+<h3>Quotations</h3>
+<ul>
+<?endif?>
+<li>
+<a href="../quotes/=$title&f$=.html">
+=$title$=
+</a>
+</li>
+<?loop?>
