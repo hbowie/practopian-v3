@@ -1,0 +1,29 @@
+<?output "../authors/index.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>=$title$=</title>
+	  <link rel="stylesheet" href="=$relative$=fonts/concourse_t3.css" type="text/css" />
+    <link rel="stylesheet" href="=$relative$=fonts/stylesheet.css" type="text/css" />
+    <link rel="stylesheet" href="=$relative$=css/styles.css" />
+</head>
+<body>
+<h1>Quoted Authors</h1>
+
+<ul>
+<?nextrec?>
+<?definegroup 1 “=$author$="?>
+<?ifendgroup 1 ?>
+</li>
+<?ifnewgroup 1 ?>
+<li>
+<a href="=$author&f$=.html">
+=$author$=
+</a>
+<?endif?>
+<?loop?>
+</ul>
+</body>
+</html>
