@@ -1,0 +1,22 @@
+Title:  A Coke is a Coke
+
+Tags:   America, Pagan Tuna, Practopian, Reason to Rock, equality
+
+Author: Andy Warhol
+
+Date:   1975
+
+Work Title: The Philosophy of Andy Warhol
+
+Work Type: Book
+
+Work Minor Title: Work
+
+Work Id: 0156717204
+
+Date Added: 2012-01-09 17:37:44 -0800
+
+Body: 
+
+What's great about this country is that America started the tradition where the richest consumers buy essentially the same things as the poorest. You can be watching TV and see Coca-Cola, and you know that the President drinks Coke, Liz Taylor drinks Coke, and just think, you can drink Coke, too. A Coke is a Coke and no amount of money can get you a better Coke than the one the bum on the corner is drinking. All the Cokes are the same and all the Cokes are good. Liz Taylor knows it, the President knows it, the bum knows it, and you know it.
+

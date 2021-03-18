@@ -1,0 +1,16 @@
+Title:  Art is a Hammer
+
+Tags:   Practopian, art, individuals
+
+Author: Bertolt Brecht
+
+Work Title: Unknown
+
+Work Type: unknown
+
+Date Added: 2006-11-30 14:29:31 -0800
+
+Body: 
+
+Art is not a mirror held up to reality, but a hammer with which to shape it.
+

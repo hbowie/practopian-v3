@@ -1,0 +1,24 @@
+Title:  Chimps and Humans
+
+Tags:   Practopian, humanism, science
+
+Author: Carl Sagan and Ann Druyan
+
+Date:   1993
+
+Work Title: Shadows of Forgotten Ancestors: A Search for Who We Are
+
+Work Type: Book
+
+Work Id: 0345384725
+
+Work Rights: Copyright
+
+Work Rights Holder: Carl Sagan and Ann Druyan
+
+Date Added: 2007-10-08 19:33:03 -0700
+
+Body: 
+
+On the basis of all the evidence, the closest relative of the human proves to be the chimp. The closest relative of the chimp is the human. Not orangs, but people. Us. Chimps and humans are nearer kin than are chimps and gorillas or any other kinds of ape not of the same species.
+

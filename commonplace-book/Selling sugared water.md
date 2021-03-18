@@ -1,0 +1,20 @@
+Title:  Selling sugared water
+
+Tags:   Practopian, mission
+
+Author: Steve Jobs
+
+Date:   1987
+
+Work Title: made to John Sculley to convince him to leave Pepsi and become CEO of Apple
+
+Work Type: Comment
+
+Work Link: https://amzn.to/2T7pLiK
+
+Date Added: 2018-11-12 13:09:59 -0800
+
+Body: 
+
+Do you want to spend the rest of your life selling sugared water, or do you want a chance to change the world?
+
