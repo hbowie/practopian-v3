@@ -1,0 +1,25 @@
+<?output "../tags/index.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>Topics</title>
+	  <link rel="stylesheet" href="=$relative$=fonts/concourse_t3.css" type="text/css" />
+    <link rel="stylesheet" href="=$relative$=fonts/stylesheet.css" type="text/css" />
+    <link rel="stylesheet" href="=$relative$=css/styles.css" />
+</head>
+<body>
+
+<?include "=$relative$=includes/nav.html" ?>
+
+<h1>Topics</h1>
+
+<p>My interests and writings tend to revolve around a number of recurring topics representing concerns of mine about our modern world. These topics are listed below, and selecting one of them will reveal original content and quotations relevant to that topic. </p>
+<ul>
+<?nextrec?>
+<li><a href="=$title&f$=.html">=$title$=</a></li>
+<?loop?>
+</ul>
+</body>
+</html>
