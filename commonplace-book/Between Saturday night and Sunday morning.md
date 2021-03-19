@@ -1,6 +1,6 @@
 Title:  Between Saturday night and Sunday morning
 
-Tags:   Reason to Rock, imperfection
+Tags:   imperfection
 
 Author: Jimmy Buffet
 

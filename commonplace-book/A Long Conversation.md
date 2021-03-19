@@ -1,6 +1,6 @@
 Title:  A Long Conversation
 
-Tags:   Reason to Rock, art, connection
+Tags:   art, connection
 
 Author: Bruce Springsteen
 

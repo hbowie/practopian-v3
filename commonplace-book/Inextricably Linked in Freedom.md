@@ -1,6 +1,6 @@
 Title:  Inextricably Linked in Freedom
 
-Tags:   Reason to Rock, cultural evolution, liberty
+Tags:   cultural evolution, liberty
 
 Author: Wynton Marsalis
 

@@ -1,6 +1,6 @@
 Title:  The Tautness of this Resonant Connection
 
-Tags:   Reason to Rock, art
+Tags:   art
 
 Author: Herb Bowie
 

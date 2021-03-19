@@ -1,6 +1,6 @@
 Title:  Good Management is Like The Beatles
 
-Tags:   Apple, Management, Pagan Tuna, Reason to Rock, connection, equality
+Tags:   Apple, Management, Pagan Tuna, connection, equality
 
 Author: Steve Jobs
 

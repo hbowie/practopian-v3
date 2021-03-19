@@ -1,6 +1,6 @@
 Title:  Equals
 
-Tags:   Pagan Tuna, Reason to Rock, equality
+Tags:   Pagan Tuna, equality
 
 Author: John Lennon
 

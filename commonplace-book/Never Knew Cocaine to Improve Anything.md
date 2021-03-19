@@ -1,6 +1,6 @@
 Title:  Never Knew Cocaine to Improve Anything
 
-Tags:   Reason to Rock, art, cultural evolution
+Tags:   art, cultural evolution
 
 Author: Joe Boyd
 

@@ -1,6 +1,6 @@
 Title:  The Ultimate Democracy
 
-Tags:   Pagan Tuna, Reason to Rock, democracy, equality
+Tags:   Pagan Tuna, democracy, equality
 
 Author: Paul McCartney
 

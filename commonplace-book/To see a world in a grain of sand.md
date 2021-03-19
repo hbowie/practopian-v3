@@ -1,6 +1,6 @@
 Title:  To see a world in a grain of sand
 
-Tags:   Reason to Rock, art, love
+Tags:   art, love
 
 Author: William Blake
 

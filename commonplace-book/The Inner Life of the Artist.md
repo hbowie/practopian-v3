@@ -1,6 +1,6 @@
 Title:  The Inner Life of the Artist
 
-Tags:   Reason to Rock, art, individuals
+Tags:   art, individuals
 
 Author: Edward Hopper
 

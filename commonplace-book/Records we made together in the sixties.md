@@ -1,6 +1,6 @@
 Title:  Records we made together in the sixties
 
-Tags:   Reason to Rock, art, connection
+Tags:   art, connection
 
 Author: Joe Boyd
 

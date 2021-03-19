@@ -1,6 +1,6 @@
 Title:  Chaos and Mediocrity
 
-Tags:   Reason to Rock, cultural evolution, society
+Tags:   cultural evolution, society
 
 Author: Joe Boyd
 

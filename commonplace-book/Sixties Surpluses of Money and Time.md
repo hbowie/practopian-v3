@@ -1,6 +1,6 @@
 Title:  Sixties Surpluses of Money and Time
 
-Tags:   Reason to Rock, cultural evolution
+Tags:   cultural evolution
 
 Author: Joe Boyd
 

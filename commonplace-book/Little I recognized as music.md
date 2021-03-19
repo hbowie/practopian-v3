@@ -1,6 +1,6 @@
 Title:  Little I recognized as music
 
-Tags:   Reason to Rock, art
+Tags:   art
 
 Author: Joe Boyd
 

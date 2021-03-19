@@ -1,6 +1,6 @@
 Title:  Vital and Significant Forms of Art
 
-Tags:   Pagan Tuna, Reason to Rock, art, individuals
+Tags:   Pagan Tuna, art, individuals
 
 Author: Raymond Chandler
 

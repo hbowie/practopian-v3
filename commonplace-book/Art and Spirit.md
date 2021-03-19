@@ -1,6 +1,6 @@
 Title:  Art and Spirit
 
-Tags:   Reason to Rock, art, wonder
+Tags:   art, wonder
 
 Author: Ken Wilber
 

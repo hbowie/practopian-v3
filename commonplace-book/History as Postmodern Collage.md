@@ -1,6 +1,6 @@
 Title:  History as Postmodern Collage
 
-Tags:   Reason to Rock, art
+Tags:   art
 
 Author: Joe Boyd
 

@@ -1,6 +1,6 @@
 Title:  Myth-Makers
 
-Tags:   Reason to Rock, stories, written word
+Tags:   stories, written word
 
 Author: Kurt Vonnegut
 

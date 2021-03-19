@@ -1,6 +1,6 @@
 Title:  The Undisputed Sovereignty of the Human Being
 
-Tags:   Reason to Rock, art, humanism, individuals
+Tags:   art, humanism, individuals
 
 Author: Wynton Marsalis
 

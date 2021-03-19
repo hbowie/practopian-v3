@@ -1,6 +1,6 @@
 Title:  The Challenge of Swing
 
-Tags:   Pagan Tuna, Reason to Rock, connection, liberty
+Tags:   Pagan Tuna, connection, liberty
 
 Author: Wynton Marsalis
 

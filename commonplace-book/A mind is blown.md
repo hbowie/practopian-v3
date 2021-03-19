@@ -1,6 +1,6 @@
 Title:  A mind is blown
 
-Tags:   Reason to Rock, wonder
+Tags:   wonder
 
 Author: Michael Chabon
 

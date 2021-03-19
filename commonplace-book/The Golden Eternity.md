@@ -1,6 +1,6 @@
 Title:  The Golden Eternity
 
-Tags:   Reason to Rock, wonder
+Tags:   wonder
 
 Author: Jack Kerouac
 

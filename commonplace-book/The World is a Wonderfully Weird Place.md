@@ -1,6 +1,6 @@
 Title:  The World is a Wonderfully Weird Place
 
-Tags:   Reason to Rock, liberty, love, wonder
+Tags:   liberty, love, wonder
 
 Author: Tom Robbins
 

@@ -1,6 +1,6 @@
 Title:  The difference between construction and creation
 
-Tags:   Pagan Tuna, Reason to Rock, love
+Tags:   Pagan Tuna, love
 
 Author: G. K. Chesterton
 

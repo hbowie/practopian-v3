@@ -1,6 +1,6 @@
 Title:  The Power of Art
 
-Tags:   Reason to Rock, art, progress
+Tags:   art, progress
 
 Author: Wynton Marsalis
 

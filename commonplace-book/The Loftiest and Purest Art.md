@@ -1,6 +1,6 @@
 Title:  The Loftiest and Purest Art
 
-Tags:   Reason to Rock, art
+Tags:   art
 
 Author: Walt Whitman
 

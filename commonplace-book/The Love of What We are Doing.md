@@ -1,6 +1,6 @@
 Title:  The Love of What We are Doing
 
-Tags:   Reason to Rock, love
+Tags:   love
 
 Author: Wynton Marsalis
 

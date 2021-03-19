@@ -1,6 +1,6 @@
 Title:  The Philosophy of Jazz
 
-Tags:   Pagan Tuna, Reason to Rock, equality, individuals, liberty
+Tags:   Pagan Tuna, equality, individuals, liberty
 
 Author: Wynton Marsalis
 

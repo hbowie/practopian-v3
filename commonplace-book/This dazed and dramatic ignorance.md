@@ -1,6 +1,6 @@
 Title:  This dazed and dramatic ignorance
 
-Tags:   Reason to Rock, wonder
+Tags:   wonder
 
 Author: G. K. Chesterton
 

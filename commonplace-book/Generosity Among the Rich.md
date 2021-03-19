@@ -1,6 +1,6 @@
 Title:  Generosity Among the Rich
 
-Tags:   Reason to Rock, connection
+Tags:   connection
 
 Author: G. K. Chesterton
 

@@ -1,6 +1,6 @@
 Title:  Counter-Culture's own values and aesthetics decayed
 
-Tags:   Reason to Rock, cultural evolution
+Tags:   cultural evolution
 
 Author: Joe Boyd
 

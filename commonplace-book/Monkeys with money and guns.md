@@ -1,6 +1,6 @@
 Title:  Monkeys with money and guns
 
-Tags:   Reason to Rock, humanism
+Tags:   humanism
 
 Author: Tom Waits
 

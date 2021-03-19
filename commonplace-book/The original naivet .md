@@ -1,6 +1,6 @@
 Title:  The original naiveté
 
-Tags:   Reason to Rock, art, love, wonder
+Tags:   art, love, wonder
 
 Author: Henri Matisse
 

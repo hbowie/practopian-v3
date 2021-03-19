@@ -1,6 +1,6 @@
 Title:  Enemies of Art and Artist
 
-Tags:   Reason to Rock, art
+Tags:   art
 
 Author: Henry Miller
 
