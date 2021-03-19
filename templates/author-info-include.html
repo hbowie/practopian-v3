@@ -1,0 +1,33 @@
+<?nextrec?>
+<?definegroup 1 “=$author$="?>
+<?ifendgroup 1 ?>
+<?output "../includes-gen/author-=$holdauthor&f$=.html"?>
+<?if "=$holdinfo$=" ?>
+<p>Brief Info: =$holdinfo$=</p>
+
+<?endif?>
+<?if "=$holdyears$=" ?>
+<p>Years Lived: =$holdyears$=</p>
+
+<?endif?>
+<?if "=$holdlink$=" ?>
+<p>More Info: &lt;<a href="=$holdlink$=">link</a>&gt;</p>
+
+<?endif?>
+<?endif?>
+<?ifnewgroup 1 ?>
+<?set holdauthor = "=$author$=" ?>
+<?set holdyears  = "" ?>
+<?set holdinfo   = "" ?>
+<?set holdlink   = "" ?>
+<?endif?>
+<?if "=$authoryears$=" ?>
+<?set holdyears = "=$authoryears$=" ?>
+<?endif?>
+<?if "=$authorinfo$=" ?>
+<?set holdinfo = "=$authorinfo$=" ?>
+<?endif?>
+<?if "=$authorlink$=" ?>
+<?set holdlink = "=$authorlink$=" ?>
+<?endif?>
+<?loop?>

@@ -6,6 +6,12 @@ Author: Alan Kay
 
 Date:   1971
 
+Author Info: American computer scientist
+
+Author Years: 1940-
+
+Author Link: https://en.wikipedia.org/wiki/Alan_Kay
+
 Work Title: Meeting of the Palo Alto Research Center
 
 Work Type: Remarks

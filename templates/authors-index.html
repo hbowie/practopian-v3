@@ -15,18 +15,37 @@
 
 <h1>Quoted Authors</h1>
 
-<ul>
+<table>
+	<thead>
+	<tr>
+		<th>Author Name</th>
+		<th>Last Name</th>
+		<th>Years Lived</th>
+	</tr>
+	</thead>
+	<tbody>
 <?nextrec?>
 <?definegroup 1 “=$author$="?>
 <?ifendgroup 1 ?>
-</li>
+	<tr>
+		<td><a href="=$holdauthor&f$=.html">=$holdauthor$=</a></td>
+		<td>=$holdauthor&a1$=</td>
+		<td>=$holdyears$=</td>
+	</tr>
+<?endif?>
 <?ifnewgroup 1 ?>
-<li>
-<a href="=$author&f$=.html">
-=$author$=
-</a>
+<?set holdauthor = "=$author$=" ?>
+<?set holdyears  = "" ?>
+<?set holdinfo   = "" ?>
+<?endif?>
+<?if "=$authoryears$=" ?>
+<?set holdyears = "=$authoryears$=" ?>
+<?endif?>
+<?if "=$authorinfo$=" ?>
+<?set holdinfo = "=$authorinfo$=" ?>
 <?endif?>
 <?loop?>
-</ul>
+	</tbody>
+</table>
 </body>
 </html>
