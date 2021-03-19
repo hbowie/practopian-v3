@@ -1,6 +1,6 @@
 Title:  God and Morality
 
-Tags:   religion, stories
+Tags:   art, religion
 
 Author: Frans de Waal
 

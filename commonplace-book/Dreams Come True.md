@@ -1,6 +1,6 @@
 Title:  Dreams Come True
 
-Tags:   stories, wonder
+Tags:   art, wonder
 
 Author: John Updike
 

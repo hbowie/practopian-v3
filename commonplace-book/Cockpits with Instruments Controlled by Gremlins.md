@@ -1,6 +1,6 @@
 Title:  Cockpits with Instruments Controlled by Gremlins
 
-Tags:   Management, Measurement, humanism, liberty, stories
+Tags:   Management, Measurement, art, humanism, liberty
 
 Author: Robert D. Austin
 

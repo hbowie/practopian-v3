@@ -1,6 +1,6 @@
 Title:  That Magical Honeycomb of Words
 
-Tags:   art, stories, written word
+Tags:   art, written word
 
 Author: Tom Robbins
 

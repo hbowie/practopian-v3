@@ -1,6 +1,6 @@
 Title:  Unbelievable Heroes
 
-Tags:   imperfection, stories
+Tags:   art, imperfection
 
 Author: John Rogers
 

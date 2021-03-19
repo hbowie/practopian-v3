@@ -1,6 +1,6 @@
 Title:  The world is failing precisely because
 
-Tags:   stories
+Tags:   art
 
 Author: Richard Powers
 

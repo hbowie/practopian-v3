@@ -1,6 +1,6 @@
 Title:  Myth-Makers
 
-Tags:   stories, written word
+Tags:   art, written word
 
 Author: Kurt Vonnegut
 

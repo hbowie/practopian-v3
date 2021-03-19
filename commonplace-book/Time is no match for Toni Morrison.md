@@ -1,6 +1,6 @@
 Title:  Time is no match for Toni Morrison
 
-Tags:   stories
+Tags:   art
 
 Author: Barack Obama
 

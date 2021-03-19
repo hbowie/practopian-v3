@@ -1,6 +1,6 @@
 Title:  More Popular than Jesus
 
-Tags:   stories
+Tags:   art
 
 Author: John Lennon
 

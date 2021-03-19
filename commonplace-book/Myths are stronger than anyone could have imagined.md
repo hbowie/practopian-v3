@@ -1,6 +1,6 @@
 Title:  Myths are stronger than anyone could have imagined
 
-Tags:   cultural evolution, stories
+Tags:   art, cultural evolution
 
 Author: Yuval Noah Harari
 

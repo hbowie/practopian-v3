@@ -1,6 +1,6 @@
 Title:  Critical Thinking Followed by Action
 
-Tags:   critical thinking, individuals, progress, stories
+Tags:   art, critical thinking, individuals, progress
 
 Author: Dalai Lama
 
