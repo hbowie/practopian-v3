@@ -1,6 +1,6 @@
 Title:  Our American Class System
 
-Tags:   USA, democracy, equality, society
+Tags:   America, democracy, equality, society
 
 Timestamp: 20210314225738
 
