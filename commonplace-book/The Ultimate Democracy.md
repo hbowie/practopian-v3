@@ -1,6 +1,6 @@
 Title:  The Ultimate Democracy
 
-Tags:   Pagan Tuna, democracy, equality
+Tags:   democracy, equality
 
 Author: Paul McCartney
 

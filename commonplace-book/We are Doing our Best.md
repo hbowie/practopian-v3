@@ -1,6 +1,6 @@
 Title:  We are Doing our Best
 
-Tags:   Pagan Tuna, critical thinking
+Tags:   critical thinking
 
 Author: Winston Churchill
 

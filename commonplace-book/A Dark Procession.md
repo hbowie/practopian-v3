@@ -1,6 +1,6 @@
 Title:  A Dark Procession
 
-Tags:   Pagan Tuna, critical thinking
+Tags:   critical thinking
 
 Author: Margery Allingham
 

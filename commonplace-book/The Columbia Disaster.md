@@ -1,6 +1,6 @@
 Title:  The Columbia Disaster
 
-Tags:   Pagan Tuna, critical thinking, equality
+Tags:   critical thinking, equality
 
 Author: Dennis Stauffer
 

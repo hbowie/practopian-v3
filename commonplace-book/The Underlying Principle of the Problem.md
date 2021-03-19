@@ -1,6 +1,6 @@
 Title:  The Underlying Principle of the Problem
 
-Tags:   Pagan Tuna, critical thinking
+Tags:   critical thinking
 
 Author: Steve Jobs
 

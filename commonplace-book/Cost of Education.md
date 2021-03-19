@@ -1,6 +1,6 @@
 Title:  Cost of Education
 
-Tags:   Pagan Tuna, critical thinking, education
+Tags:   critical thinking, education
 
 Author: Derek Bok
 

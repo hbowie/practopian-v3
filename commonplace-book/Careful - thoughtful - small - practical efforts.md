@@ -1,6 +1,6 @@
 Title:  Careful, thoughtful, small, practical efforts
 
-Tags:   Pagan Tuna, individuals, practical
+Tags:   individuals, practical
 
 Author: Joseph L. Badaracco, Jr.
 

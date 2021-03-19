@@ -1,6 +1,6 @@
 Title:  A First-Rate Intelligence
 
-Tags:   Pagan Tuna, critical thinking
+Tags:   critical thinking
 
 Author: F. Scott Fitzgerald
 

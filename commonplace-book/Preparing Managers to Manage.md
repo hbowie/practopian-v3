@@ -1,6 +1,6 @@
 Title:  Preparing Managers to Manage
 
-Tags:   Business, Pagan Tuna, education
+Tags:   Business, education
 
 Author: Matthew Stewart
 

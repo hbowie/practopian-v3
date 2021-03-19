@@ -1,6 +1,6 @@
 Title:  Ten Commandments for Teachers
 
-Tags:   Pagan Tuna, critical thinking, diversity, education, liberty
+Tags:   critical thinking, diversity, education, liberty
 
 Author: Bertrand Russell
 

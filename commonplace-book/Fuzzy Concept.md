@@ -1,6 +1,6 @@
 Title:  Fuzzy Concept
 
-Tags:   Pagan Tuna, critical thinking
+Tags:   critical thinking
 
 Author: Ansel Adams
 

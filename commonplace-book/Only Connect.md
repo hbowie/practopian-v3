@@ -1,6 +1,6 @@
 Title:  Only Connect
 
-Tags:   Pagan Tuna, connection, integral, love
+Tags:   connection, integral, love
 
 Author: E. M. Forster
 

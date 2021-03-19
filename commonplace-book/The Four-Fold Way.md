@@ -1,6 +1,6 @@
 Title:  The Four-Fold Way
 
-Tags:   Pagan Tuna, critical thinking, love
+Tags:   critical thinking, love
 
 Author: Angeles Arrien
 

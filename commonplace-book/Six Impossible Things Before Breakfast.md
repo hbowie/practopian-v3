@@ -1,6 +1,6 @@
 Title:  Six Impossible Things Before Breakfast
 
-Tags:   Pagan Tuna, critical thinking
+Tags:   critical thinking
 
 Author: Lewis Carroll
 

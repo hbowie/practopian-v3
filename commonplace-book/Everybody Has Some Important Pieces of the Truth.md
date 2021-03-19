@@ -1,6 +1,6 @@
 Title:  Everybody Has Some Important Pieces of the Truth
 
-Tags:   Pagan Tuna, integral
+Tags:   integral
 
 Author: Ken Wilber
 

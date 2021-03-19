@@ -1,6 +1,6 @@
 Title:  Great minds discuss ideas
 
-Tags:   Pagan Tuna, critical thinking
+Tags:   critical thinking
 
 Author: Eleanor Roosevelt
 

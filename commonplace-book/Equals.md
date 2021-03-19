@@ -1,6 +1,6 @@
 Title:  Equals
 
-Tags:   Pagan Tuna, equality
+Tags:   equality
 
 Author: John Lennon
 

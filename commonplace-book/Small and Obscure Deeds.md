@@ -1,6 +1,6 @@
 Title:  Small and Obscure Deeds
 
-Tags:   Pagan Tuna, individuals, progress
+Tags:   individuals, progress
 
 Author: Albert Schweitzer
 

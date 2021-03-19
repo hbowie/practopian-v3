@@ -1,6 +1,6 @@
 Title:  Thinking's a Dizzy Business
 
-Tags:   Pagan Tuna, critical thinking
+Tags:   critical thinking
 
 Author: Dashiell Hammett
 

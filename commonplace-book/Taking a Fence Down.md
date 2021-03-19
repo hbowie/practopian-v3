@@ -1,6 +1,6 @@
 Title:  Taking a Fence Down
 
-Tags:   Pagan Tuna, critical thinking, governance, progress
+Tags:   critical thinking, governance, progress
 
 Author: G. K. Chesterton
 

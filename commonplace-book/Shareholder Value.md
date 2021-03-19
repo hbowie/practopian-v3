@@ -1,6 +1,6 @@
 Title:  Shareholder Value
 
-Tags:   Pagan Tuna, value creation
+Tags:   value creation
 
 Author: Jack Welch
 

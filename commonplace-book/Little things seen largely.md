@@ -1,6 +1,6 @@
 Title:  Little things seen largely
 
-Tags:   Pagan Tuna, individuals
+Tags:   individuals
 
 Author: Otto Jespersen
 

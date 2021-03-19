@@ -1,6 +1,6 @@
 Title:  The Challenge of Swing
 
-Tags:   Pagan Tuna, connection, liberty
+Tags:   connection, liberty
 
 Author: Wynton Marsalis
 

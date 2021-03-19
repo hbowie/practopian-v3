@@ -1,6 +1,6 @@
 Title:  Integrity and Conviction
 
-Tags:   Pagan Tuna, love
+Tags:   love
 
 Author: Wynton Marsalis
 

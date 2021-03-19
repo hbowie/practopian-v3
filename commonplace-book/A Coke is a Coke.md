@@ -1,6 +1,6 @@
 Title:  A Coke is a Coke
 
-Tags:   America, Pagan Tuna, equality
+Tags:   America, equality
 
 Author: Andy Warhol
 

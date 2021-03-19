@@ -1,6 +1,6 @@
 Title:  Intellectual Debate
 
-Tags:   Pagan Tuna, critical thinking
+Tags:   critical thinking
 
 Author: John Stuart Mill
 

@@ -1,6 +1,6 @@
 Title:  Relieving Ignorance
 
-Tags:   Business, Pagan Tuna, education
+Tags:   Business, education
 
 Author: Matthew Stewart
 

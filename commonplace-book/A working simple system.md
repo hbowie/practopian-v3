@@ -1,6 +1,6 @@
 Title:  A working simple system
 
-Tags:   Design, Pagan Tuna, evolution, systemic
+Tags:   Design, evolution, systemic
 
 Author: John Gall
 

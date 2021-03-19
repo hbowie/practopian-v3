@@ -1,6 +1,6 @@
 Title:  When you can measure what you are speaking about
 
-Tags:   Pagan Tuna, science
+Tags:   science
 
 Author: Lord Kelvin
 

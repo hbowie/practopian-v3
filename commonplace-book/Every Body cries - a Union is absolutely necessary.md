@@ -1,6 +1,6 @@
 Title:  Every Body cries, a Union is absolutely necessary
 
-Tags:   Pagan Tuna, governance
+Tags:   governance
 
 Author: Benjamin Franklin
 

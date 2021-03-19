@@ -1,6 +1,6 @@
 Title:  Steve Jobs Ideals
 
-Tags:   Apple, Business, Pagan Tuna, practical, progress
+Tags:   Apple, Business, practical, progress
 
 Author: Ron Johnson
 

@@ -1,6 +1,6 @@
 Title:  Learning from Experience
 
-Tags:   Business, Pagan Tuna, critical thinking, education, systemic
+Tags:   Business, critical thinking, education, systemic
 
 Author: Peter Senge
 

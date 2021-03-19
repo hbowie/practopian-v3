@@ -1,6 +1,6 @@
 Title:  The Other Side of Complexity
 
-Tags:   Pagan Tuna, critical thinking
+Tags:   critical thinking
 
 Author: Oliver Wendell Holmes
 

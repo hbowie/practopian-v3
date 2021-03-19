@@ -1,6 +1,6 @@
 Title:  Work, Soul and Life
 
-Tags:   Pagan Tuna, value creation
+Tags:   value creation
 
 Author: Albert Camus
 

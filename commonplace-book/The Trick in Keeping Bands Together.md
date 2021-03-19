@@ -1,6 +1,6 @@
 Title:  The Trick in Keeping Bands Together
 
-Tags:   Pagan Tuna, equality
+Tags:   equality
 
 Author: Bruce Springsteen
 

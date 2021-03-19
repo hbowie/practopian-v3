@@ -1,6 +1,6 @@
 Title:  Price of Success
 
-Tags:   Pagan Tuna, individuals
+Tags:   individuals
 
 Author: Frank Lloyd Wright
 

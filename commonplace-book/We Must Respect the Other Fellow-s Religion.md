@@ -1,6 +1,6 @@
 Title:  We Must Respect the Other Fellow's Religion
 
-Tags:   Pagan Tuna, critical thinking, equality, religion
+Tags:   critical thinking, equality, religion
 
 Author: H. L. Mencken
 

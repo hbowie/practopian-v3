@@ -1,6 +1,6 @@
 Title:  The Enormous Extension of our Being
 
-Tags:   Pagan Tuna, written word
+Tags:   written word
 
 Author: C. S. Lewis
 

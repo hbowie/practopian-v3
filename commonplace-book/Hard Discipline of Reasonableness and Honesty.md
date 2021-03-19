@@ -1,6 +1,6 @@
 Title:  Hard Discipline of Reasonableness and Honesty
 
-Tags:   Pagan Tuna, critical thinking
+Tags:   critical thinking
 
 Author: Gilbert Murray
 

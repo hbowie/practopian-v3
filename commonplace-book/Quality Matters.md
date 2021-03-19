@@ -1,6 +1,6 @@
 Title:  Quality Matters
 
-Tags:   Pagan Tuna, education
+Tags:   education
 
 Author: Dambisa Moyo
 

@@ -1,6 +1,6 @@
 Title:  Model II Values
 
-Tags:   Pagan Tuna, critical thinking, liberty, society
+Tags:   critical thinking, liberty, society
 
 Author: Chris Argyris and Donald Schön
 

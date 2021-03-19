@@ -1,6 +1,6 @@
 Title:  The Change Dilemma
 
-Tags:   Pagan Tuna, progress
+Tags:   progress
 
 Author: Sydney Harris
 

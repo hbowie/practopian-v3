@@ -1,6 +1,6 @@
 Title:  Model II Decision-Making
 
-Tags:   Pagan Tuna, critical thinking, diversity, liberty, society
+Tags:   critical thinking, diversity, liberty, society
 
 Author: Chris Argyris and Donald Schön
 

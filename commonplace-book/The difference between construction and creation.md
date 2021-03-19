@@ -1,6 +1,6 @@
 Title:  The difference between construction and creation
 
-Tags:   Pagan Tuna, love
+Tags:   love
 
 Author: G. K. Chesterton
 

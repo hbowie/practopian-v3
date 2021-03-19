@@ -1,6 +1,6 @@
 Title:  Introduction of a new order of things
 
-Tags:   Pagan Tuna, progress
+Tags:   progress
 
 Author: Niccolò Machiavelli
 

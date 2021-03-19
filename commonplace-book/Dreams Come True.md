@@ -1,6 +1,6 @@
 Title:  Dreams Come True
 
-Tags:   Pagan Tuna, stories, wonder
+Tags:   stories, wonder
 
 Author: John Updike
 

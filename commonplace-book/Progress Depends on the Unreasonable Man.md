@@ -1,6 +1,6 @@
 Title:  Progress Depends on the Unreasonable Man
 
-Tags:   Pagan Tuna, individuals, progress
+Tags:   individuals, progress
 
 Author: George Bernard Shaw
 

@@ -1,6 +1,6 @@
 Title:  The Discomfort of Thought
 
-Tags:   Pagan Tuna, critical thinking, cultural evolution
+Tags:   critical thinking, cultural evolution
 
 Author: John F. Kennedy
 

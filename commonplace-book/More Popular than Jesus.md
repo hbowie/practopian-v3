@@ -1,6 +1,6 @@
 Title:  More Popular than Jesus
 
-Tags:   Pagan Tuna, stories
+Tags:   stories
 
 Author: John Lennon
 

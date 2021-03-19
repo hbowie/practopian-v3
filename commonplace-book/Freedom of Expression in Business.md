@@ -1,6 +1,6 @@
 Title:  Freedom of Expression in Business
 
-Tags:   Business, Pagan Tuna, connection, liberty
+Tags:   Business, connection, liberty
 
 Author: Tom Peters and Robert H. Waterman Jr.
 

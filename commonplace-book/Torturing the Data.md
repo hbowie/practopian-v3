@@ -1,6 +1,6 @@
 Title:  Torturing the Data
 
-Tags:   Pagan Tuna, critical thinking
+Tags:   critical thinking
 
 Author: Darrell Huff
 

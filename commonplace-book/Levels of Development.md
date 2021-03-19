@@ -1,6 +1,6 @@
 Title:  Levels of Development
 
-Tags:   Pagan Tuna, cultural evolution
+Tags:   cultural evolution
 
 Author: Ken Wilber
 

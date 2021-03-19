@@ -1,6 +1,6 @@
 Title:  Postel’s Law
 
-Tags:   Pagan Tuna, diversity, liberty
+Tags:   diversity, liberty
 
 Author: Jon Postel
 

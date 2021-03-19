@@ -1,6 +1,6 @@
 Title:  Faster Horses
 
-Tags:   Pagan Tuna, progress
+Tags:   progress
 
 Author: Henry Ford
 
