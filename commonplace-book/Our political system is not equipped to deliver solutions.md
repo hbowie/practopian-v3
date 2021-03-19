@@ -1,6 +1,6 @@
 Title:  Our political system is not equipped to deliver solutions
 
-Tags:   Practopian, governance
+Tags:   governance
 
 Author: Leah Greenberg and Ezra Levin
 

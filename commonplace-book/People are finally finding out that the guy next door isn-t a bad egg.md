@@ -1,6 +1,6 @@
 Title:  People are finally finding out that the guy next door isn't a bad egg
 
-Tags:   Practopian, connection, society
+Tags:   connection, society
 
 Author: Robert Riskin
 

@@ -1,6 +1,6 @@
 Title:  Ten thousand fools proclaim themselves
 
-Tags:   Practopian, individuals, progress
+Tags:   individuals, progress
 
 Author: Martin Luther King Jr.
 

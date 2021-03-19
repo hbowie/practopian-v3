@@ -1,6 +1,6 @@
 Title:  The exercise of the intellect
 
-Tags:   Practopian, science
+Tags:   science
 
 Author: Alexis de Tocqueville
 

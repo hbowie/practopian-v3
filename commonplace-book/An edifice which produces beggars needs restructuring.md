@@ -1,6 +1,6 @@
 Title:  An edifice which produces beggars needs restructuring
 
-Tags:   Practopian, systemic
+Tags:   systemic
 
 Author: Martin Luther King Jr.
 

@@ -1,6 +1,6 @@
 Title:  Technology married with the humanities
 
-Tags:   Pagan Tuna, Practopian, integral
+Tags:   Pagan Tuna, integral
 
 Author: Steve Jobs
 

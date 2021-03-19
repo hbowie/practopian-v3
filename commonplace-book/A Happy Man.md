@@ -1,6 +1,6 @@
 Title:  A Happy Man
 
-Tags:   Practopian, progress
+Tags:   progress
 
 Author: Albert Einstein
 

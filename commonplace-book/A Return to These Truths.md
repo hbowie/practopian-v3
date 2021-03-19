@@ -1,6 +1,6 @@
 Title:  A Return to These Truths
 
-Tags:   Practopian, progress
+Tags:   progress
 
 Author: Barack Obama
 

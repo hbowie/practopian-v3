@@ -1,6 +1,6 @@
 Title:  The Divine Gift of Purely Nonsensical Speech and Action
 
-Tags:   Practopian, Reason to Rock, art, diversity
+Tags:   Reason to Rock, art, diversity
 
 Author: Edmund Crispin
 

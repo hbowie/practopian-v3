@@ -1,6 +1,6 @@
 Title:  When machines are considered more important than people
 
-Tags:   Practopian, humanism
+Tags:   humanism
 
 Author: Martin Luther King Jr.
 

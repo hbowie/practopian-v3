@@ -1,6 +1,6 @@
 Title:  We're part of something continuous
 
-Tags:   Practopian, humanism
+Tags:   humanism
 
 Author: Moira Buffini
 

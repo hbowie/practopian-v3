@@ -1,6 +1,6 @@
 Title:  Monkeys with money and guns
 
-Tags:   Practopian, Reason to Rock, humanism
+Tags:   Reason to Rock, humanism
 
 Author: Tom Waits
 

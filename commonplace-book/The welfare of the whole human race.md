@@ -1,6 +1,6 @@
 Title:  The welfare of the whole human race
 
-Tags:   Practopian, mission, society
+Tags:   mission, society
 
 Author: Arnold J. Toynbee
 

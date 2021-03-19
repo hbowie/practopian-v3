@@ -1,6 +1,6 @@
 Title:  When Growth Becomes a Supreme Good
 
-Tags:   Practopian, balance, governance
+Tags:   balance, governance
 
 Author: Yuval Noah Harari
 

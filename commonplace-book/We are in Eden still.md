@@ -1,6 +1,6 @@
 Title:  We are in Eden still
 
-Tags:   Practopian, humanism, wonder
+Tags:   humanism, wonder
 
 Author: G. K. Chesterton
 

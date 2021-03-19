@@ -1,6 +1,6 @@
 Title:  Man's nature is an open, constantly evolving system
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Clare W. Graves
 

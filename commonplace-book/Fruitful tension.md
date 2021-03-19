@@ -1,6 +1,6 @@
 Title:  Fruitful tension
 
-Tags:   Practopian, balance
+Tags:   balance
 
 Author: Trygve Throntveit
 

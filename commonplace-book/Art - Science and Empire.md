@@ -1,6 +1,6 @@
 Title:  Art, Science and Empire
 
-Tags:   Practopian, art, science
+Tags:   art, science
 
 Author: William Blake
 

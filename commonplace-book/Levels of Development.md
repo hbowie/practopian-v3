@@ -1,6 +1,6 @@
 Title:  Levels of Development
 
-Tags:   Pagan Tuna, Practopian, cultural evolution
+Tags:   Pagan Tuna, cultural evolution
 
 Author: Ken Wilber
 

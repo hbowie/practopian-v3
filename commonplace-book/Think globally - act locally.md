@@ -1,6 +1,6 @@
 Title:  Think globally, act locally
 
-Tags:   Practopian, connection, individuals
+Tags:   connection, individuals
 
 Author: Disputed
 

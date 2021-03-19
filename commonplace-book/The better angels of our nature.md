@@ -1,6 +1,6 @@
 Title:  The better angels of our nature
 
-Tags:   Practopian, connection
+Tags:   connection
 
 Author: Abraham Lincoln
 

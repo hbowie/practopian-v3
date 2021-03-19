@@ -1,6 +1,6 @@
 Title:  Governance is essential
 
-Tags:   Practopian, governance
+Tags:   governance
 
 Author: Tim O'Reilly
 

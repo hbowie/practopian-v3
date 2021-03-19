@@ -1,6 +1,6 @@
 Title:  Living happily ever after
 
-Tags:   Practopian, mission
+Tags:   mission
 
 Author: Bob Mandel
 

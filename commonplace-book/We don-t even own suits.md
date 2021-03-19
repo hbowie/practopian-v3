@@ -1,6 +1,6 @@
 Title:  We don't even own suits
 
-Tags:   Apple, Pagan Tuna, Practopian, critical thinking, diversity, liberty, systemic
+Tags:   Apple, Pagan Tuna, critical thinking, diversity, liberty, systemic
 
 Author: Apple
 

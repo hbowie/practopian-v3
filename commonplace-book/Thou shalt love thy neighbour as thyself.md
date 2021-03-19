@@ -1,6 +1,6 @@
 Title:  Thou shalt love thy neighbour as thyself
 
-Tags:   Practopian, love
+Tags:   love
 
 Author: Jesus
 

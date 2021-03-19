@@ -1,6 +1,6 @@
 Title:  The institution of the family
 
-Tags:   Practopian, parenthood
+Tags:   parenthood
 
 Author: Daniel Patrick Moynihan
 

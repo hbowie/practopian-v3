@@ -1,6 +1,6 @@
 Title:  Between Saturday night and Sunday morning
 
-Tags:   Practopian, Reason to Rock, imperfection
+Tags:   Reason to Rock, imperfection
 
 Author: Jimmy Buffet
 

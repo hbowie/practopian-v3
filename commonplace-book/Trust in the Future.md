@@ -1,6 +1,6 @@
 Title:  Trust in the Future
 
-Tags:   Practopian, governance
+Tags:   governance
 
 Author: Yuval Noah Harari
 

@@ -1,6 +1,6 @@
 Title:  That Magical Honeycomb of Words
 
-Tags:   Practopian, art, stories, written word
+Tags:   art, stories, written word
 
 Author: Tom Robbins
 

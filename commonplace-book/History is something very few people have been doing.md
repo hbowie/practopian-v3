@@ -1,6 +1,6 @@
 Title:  History is something very few people have been doing
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Yuval Noah Harari
 

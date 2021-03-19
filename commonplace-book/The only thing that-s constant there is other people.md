@@ -1,6 +1,6 @@
 Title:  The only thing that's constant there is other people
 
-Tags:   Practopian, connection, society
+Tags:   connection, society
 
 Author: Jim Coan
 

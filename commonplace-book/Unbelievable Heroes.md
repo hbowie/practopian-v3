@@ -1,6 +1,6 @@
 Title:  Unbelievable Heroes
 
-Tags:   Practopian, imperfection, stories
+Tags:   imperfection, stories
 
 Author: John Rogers
 

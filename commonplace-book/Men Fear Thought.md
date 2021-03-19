@@ -1,6 +1,6 @@
 Title:  Men Fear Thought
 
-Tags:   Pagan Tuna, Practopian, critical thinking, liberty
+Tags:   Pagan Tuna, critical thinking, liberty
 
 Author: Bertrand Russell
 

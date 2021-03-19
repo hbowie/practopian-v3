@@ -1,6 +1,6 @@
 Title:  Crosscutting Alliances
 
-Tags:   Practopian, connection, democracy, diversity
+Tags:   connection, democracy, diversity
 
 Author: Steven Levitsky and Daniel Ziblatt
 

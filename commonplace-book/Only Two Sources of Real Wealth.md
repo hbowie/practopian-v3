@@ -1,6 +1,6 @@
 Title:  Only Two Sources of Real Wealth
 
-Tags:   Practopian, individuals, value creation
+Tags:   individuals, value creation
 
 Author: Dorothy L. Sayers
 

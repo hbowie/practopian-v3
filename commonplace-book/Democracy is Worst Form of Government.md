@@ -1,6 +1,6 @@
 Title:  Democracy is Worst Form of Government
 
-Tags:   Practopian, democracy, equality, governance
+Tags:   democracy, equality, governance
 
 Author: Winston Churchill
 

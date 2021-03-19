@@ -1,6 +1,6 @@
 Title:  If you'll just rattle your jewelry
 
-Tags:   Practopian, equality, society
+Tags:   equality, society
 
 Author: John Lennon
 

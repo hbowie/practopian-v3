@@ -1,6 +1,6 @@
 Title:  Public Truth
 
-Tags:   Practopian, critical thinking
+Tags:   critical thinking
 
 Author: Robert B. Reich
 

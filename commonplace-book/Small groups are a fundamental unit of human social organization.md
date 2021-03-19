@@ -1,6 +1,6 @@
 Title:  Small groups are a fundamental unit of human social organization
 
-Tags:   Practopian, evolution, society
+Tags:   evolution, society
 
 Author: David Sloan Wilson
 

@@ -1,6 +1,6 @@
 Title:  The yen to work drops in flat economies
 
-Tags:   Practopian, society, value creation
+Tags:   society, value creation
 
 Author: Edward Luce
 

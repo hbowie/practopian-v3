@@ -1,6 +1,6 @@
 Title:  Human imagination more than biological reality
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Yuval Noah Harari
 

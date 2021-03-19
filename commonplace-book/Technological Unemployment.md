@@ -1,6 +1,6 @@
 Title:  Technological Unemployment
 
-Tags:   Practopian, value creation
+Tags:   value creation
 
 Author: John Maynard Keynes
 

@@ -1,6 +1,6 @@
 Title:  Why study history?
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Yuval Noah Harari
 

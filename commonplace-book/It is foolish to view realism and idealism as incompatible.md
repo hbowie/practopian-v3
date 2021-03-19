@@ -1,6 +1,6 @@
 Title:  It is foolish to view realism and idealism as incompatible
 
-Tags:   Practopian, balance
+Tags:   balance
 
 Author: John McCain
 

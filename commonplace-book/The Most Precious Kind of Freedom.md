@@ -1,6 +1,6 @@
 Title:  The Most Precious Kind of Freedom
 
-Tags:   Practopian, liberty
+Tags:   liberty
 
 Author: David Foster Wallace
 

@@ -1,6 +1,6 @@
 Title:  Capitalism works best in societies where there are high levels of trust
 
-Tags:   Practopian, equality, society
+Tags:   equality, society
 
 Author: Edward Luce
 

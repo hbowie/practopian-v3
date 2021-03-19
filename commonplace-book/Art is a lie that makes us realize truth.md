@@ -1,6 +1,6 @@
 Title:  Art is a lie that makes us realize truth
 
-Tags:   Practopian, art
+Tags:   art
 
 Author: Pablo Picasso
 

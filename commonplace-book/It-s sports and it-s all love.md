@@ -1,6 +1,6 @@
 Title:  It's sports and it's all love
 
-Tags:   Practopian, love
+Tags:   love
 
 Author: Moritz Wagner
 

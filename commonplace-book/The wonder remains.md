@@ -1,6 +1,6 @@
 Title:  The wonder remains
 
-Tags:   Practopian, wonder
+Tags:   wonder
 
 Author: Alfred North Whitehead
 

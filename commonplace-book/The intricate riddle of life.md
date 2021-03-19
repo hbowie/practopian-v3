@@ -1,6 +1,6 @@
 Title:  The intricate riddle of life
 
-Tags:   Practopian, mission
+Tags:   mission
 
 Author: Mary Shelley
 

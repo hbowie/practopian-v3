@@ -1,6 +1,6 @@
 Title:  Economic growth will not save the global ecosystem
 
-Tags:   Practopian, sustainability
+Tags:   sustainability
 
 Author: Yuval Noah Harari
 

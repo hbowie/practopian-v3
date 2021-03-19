@@ -1,6 +1,6 @@
 Title:  Merely a Muddle
 
-Tags:   Pagan Tuna, Practopian, critical thinking
+Tags:   Pagan Tuna, critical thinking
 
 Author: Michael Innes
 

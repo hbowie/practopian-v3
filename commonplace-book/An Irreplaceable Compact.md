@@ -1,6 +1,6 @@
 Title:  An Irreplaceable Compact
 
-Tags:   Murder, Practopian, TecFiction, humanism
+Tags:   Murder, TecFiction, humanism
 
 Author: Edmund Crispin
 

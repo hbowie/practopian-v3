@@ -1,6 +1,6 @@
 Title:  Quality Matters
 
-Tags:   Pagan Tuna, Practopian, education
+Tags:   Pagan Tuna, education
 
 Author: Dambisa Moyo
 

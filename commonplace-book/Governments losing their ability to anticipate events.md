@@ -1,6 +1,6 @@
 Title:  Governments losing their ability to anticipate events
 
-Tags:   Practopian, balance, governance
+Tags:   balance, governance
 
 Author: Edward Luce
 

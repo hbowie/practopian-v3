@@ -1,6 +1,6 @@
 Title:  Symbolic Language
 
-Tags:   Practopian, critical thinking, humanism, written word
+Tags:   critical thinking, humanism, written word
 
 Author: David Christian
 

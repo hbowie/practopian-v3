@@ -1,6 +1,6 @@
 Title:  A Meaningful Life
 
-Tags:   Practopian, mission
+Tags:   mission
 
 Author: Yuval Noah Harari
 

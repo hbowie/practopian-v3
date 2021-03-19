@@ -1,6 +1,6 @@
 Title:  Prime training for permanent underclasses
 
-Tags:   Practopian, education
+Tags:   education
 
 Author: John Taylor Gatto
 

@@ -1,6 +1,6 @@
 Title:  Moral Religion
 
-Tags:   Practopian, cultural evolution, religion, rule of law
+Tags:   cultural evolution, religion, rule of law
 
 Author: Albert Einstein
 

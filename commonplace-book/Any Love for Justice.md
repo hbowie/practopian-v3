@@ -1,6 +1,6 @@
 Title:  Any Love for Justice
 
-Tags:   Practopian, equality, rule of law
+Tags:   equality, rule of law
 
 Author: James Baldwin
 

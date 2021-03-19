@@ -1,6 +1,6 @@
 Title:  From a biological perspective, nothing is unnatural
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Yuval Noah Harari
 

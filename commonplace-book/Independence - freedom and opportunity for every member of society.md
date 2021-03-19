@@ -1,6 +1,6 @@
 Title:  Independence, freedom and opportunity for every member of society
 
-Tags:   Practopian, liberty
+Tags:   liberty
 
 Author: Anu Partanen
 

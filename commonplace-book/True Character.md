@@ -1,6 +1,6 @@
 Title:  True Character
 
-Tags:   Practopian, individuals, religion, society
+Tags:   individuals, religion, society
 
 Author: E. O. Wilson
 

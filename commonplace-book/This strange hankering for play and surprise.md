@@ -1,6 +1,6 @@
 Title:  This strange hankering for play and surprise
 
-Tags:   Practopian, wonder
+Tags:   wonder
 
 Author: Steven Johnson
 

@@ -1,6 +1,6 @@
 Title:  ESPN president meets Steve Jobs
 
-Tags:   Apple, Pagan Tuna, Practopian, critical thinking, equality
+Tags:   Apple, Pagan Tuna, critical thinking, equality
 
 Author: Tom Shales and James Andrew Miller
 

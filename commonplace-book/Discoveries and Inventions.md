@@ -1,6 +1,6 @@
 Title:  Discoveries and Inventions
 
-Tags:   Practopian, science
+Tags:   science
 
 Author: Abraham Lincoln
 

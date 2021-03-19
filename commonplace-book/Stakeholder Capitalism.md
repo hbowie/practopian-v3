@@ -1,6 +1,6 @@
 Title:  Stakeholder Capitalism
 
-Tags:   Practopian, governance
+Tags:   governance
 
 Author: Frank W. Abrams
 

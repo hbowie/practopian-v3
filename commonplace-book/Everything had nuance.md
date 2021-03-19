@@ -1,6 +1,6 @@
 Title:  Everything had nuance
 
-Tags:   Practopian, balance, integral
+Tags:   balance, integral
 
 Author: Celeste Ng
 

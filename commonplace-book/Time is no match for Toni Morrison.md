@@ -1,6 +1,6 @@
 Title:  Time is no match for Toni Morrison
 
-Tags:   Practopian, stories
+Tags:   stories
 
 Author: Barack Obama
 

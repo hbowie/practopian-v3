@@ -1,6 +1,6 @@
 Title:  The entire pageant of human history
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: David Sloan Wilson
 

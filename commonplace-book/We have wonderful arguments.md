@@ -1,6 +1,6 @@
 Title:  We have wonderful arguments
 
-Tags:   Business, Pagan Tuna, Practopian, critical thinking, equality
+Tags:   Business, Pagan Tuna, critical thinking, equality
 
 Author: Steve Jobs
 

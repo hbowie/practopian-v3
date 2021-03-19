@@ -1,6 +1,6 @@
 Title:  Inextricably Linked in Freedom
 
-Tags:   Practopian, Reason to Rock, cultural evolution, liberty
+Tags:   Reason to Rock, cultural evolution, liberty
 
 Author: Wynton Marsalis
 

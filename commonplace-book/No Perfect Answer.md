@@ -1,6 +1,6 @@
 Title:  No Perfect Answer
 
-Tags:   Practopian, critical thinking, governance
+Tags:   critical thinking, governance
 
 Author: Barack Obama
 

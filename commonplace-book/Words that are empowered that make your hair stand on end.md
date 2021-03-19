@@ -1,6 +1,6 @@
 Title:  Words that are empowered that make your hair stand on end
 
-Tags:   Practopian, art
+Tags:   art
 
 Author: Allen Ginsberg
 

@@ -1,6 +1,6 @@
 Title:  This dear fucked-up planet
 
-Tags:   Practopian, connection, love, progress
+Tags:   connection, love, progress
 
 Author: Henry Miller
 

@@ -1,6 +1,6 @@
 Title:  Two ideas of government
 
-Tags:   Practopian, equality, governance
+Tags:   equality, governance
 
 Author: William Jennings Bryan
 

@@ -1,6 +1,6 @@
 Title:  Our privileges can be no greater than our obligations
 
-Tags:   Practopian, individuals, liberty
+Tags:   individuals, liberty
 
 Author: John F. Kennedy
 

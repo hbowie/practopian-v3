@@ -1,6 +1,6 @@
 Title:  A reactionary conservative party
 
-Tags:   Practopian, governance
+Tags:   governance
 
 Author: Leah Greenberg and Ezra Levin
 

@@ -1,6 +1,6 @@
 Title:  This faith in consciousness
 
-Tags:   Practopian, critical thinking
+Tags:   critical thinking
 
 Author: Walter Mosley
 

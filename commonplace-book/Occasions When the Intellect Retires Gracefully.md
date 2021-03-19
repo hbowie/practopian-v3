@@ -1,6 +1,6 @@
 Title:  Occasions When the Intellect Retires Gracefully
 
-Tags:   Practopian, critical thinking
+Tags:   critical thinking
 
 Author: Margery Allingham
 

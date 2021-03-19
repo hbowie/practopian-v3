@@ -1,6 +1,6 @@
 Title:  Selling sugared water
 
-Tags:   Practopian, mission
+Tags:   mission
 
 Author: Steve Jobs
 

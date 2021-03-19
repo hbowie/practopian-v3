@@ -1,6 +1,6 @@
 Title:  Those Sharp, Scratchy, Harsh, Almost Unpleasant Guys
 
-Tags:   Pagan Tuna, Practopian, critical thinking
+Tags:   Pagan Tuna, critical thinking
 
 Author: Thomas J. Watson, Jr
 

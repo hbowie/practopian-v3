@@ -1,6 +1,6 @@
 Title:  Simplicity and Complexity
 
-Tags:   Pagan Tuna, Practopian, science
+Tags:   Pagan Tuna, science
 
 Author: Albert Einstein
 

@@ -17,6 +17,25 @@ template	generate
 template	open			/Users/hbowie/Sites/practopian 3/templates/original-by-title.html
 template	generate
 
+<!-- Original content by tag  -->
+
+input	set		normalization	0
+input	set		xpltags	true
+input	open	notenik-split-tags		/Users/hbowie/Sites/practopian 3/content/hbowie
+filter	clear
+filter	set		params
+filter	add	not equal to	Tag
+filter	set		params
+sort	clear
+sort	set		params
+sort	add	ascending	Tag
+sort	add	ascending	Importance
+sort	add	ascending	Title
+sort	set		params
+template	webroot			/Users/hbowie/Sites/practopian 3
+template	open			/Users/hbowie/Sites/practopian 3/templates/content-by-tag.html
+template	generate
+
 <!-- Generate Web pages for quotations  -->
 
 input	set		xpltags	false
@@ -33,4 +52,22 @@ template	generate
 template	open			/Users/hbowie/Sites/practopian 3/templates/author-page.html
 template	generate
 template	open			/Users/hbowie/Sites/practopian 3/templates/authors-index.html
+template	generate
+
+<!-- Quotations by tag  -->
+
+input	set		normalization	0
+input	set		xpltags	true
+input	open	notenik-split-tags		/Users/hbowie/Sites/practopian 3/commonplace-book
+filter	clear
+filter	set		params
+filter	add	not equal to	Tag
+filter	set		params
+sort	clear
+sort	set		params
+sort	add	ascending	Tag
+sort	add	ascending	Title
+sort	set		params
+template	webroot			/Users/hbowie/Sites/practopian 3
+template	open			/Users/hbowie/Sites/practopian 3/templates/quotes-by-tag.html
 template	generate

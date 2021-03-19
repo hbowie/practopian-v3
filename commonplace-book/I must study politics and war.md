@@ -1,6 +1,6 @@
 Title:  I must study politics and war
 
-Tags:   Practopian, cultural evolution, education, parenthood
+Tags:   cultural evolution, education, parenthood
 
 Author: John Adams
 

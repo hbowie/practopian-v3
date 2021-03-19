@@ -1,6 +1,6 @@
 Title:  Our Social Order Now in a State of Permanent Flux
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Yuval Noah Harari
 

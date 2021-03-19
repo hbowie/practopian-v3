@@ -1,6 +1,6 @@
 Title:  To Give in the Same Measure
 
-Tags:   Practopian, connection, mission
+Tags:   connection, mission
 
 Author: Albert Einstein
 

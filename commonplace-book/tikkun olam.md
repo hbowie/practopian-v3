@@ -1,6 +1,6 @@
 Title:  tikkun olam
 
-Tags:   Practopian, love, mission
+Tags:   love, mission
 
 Author: John Gottman
 

@@ -1,6 +1,6 @@
 Title:  The Opposite of Popularizing Economics
 
-Tags:   Practopian, democracy, education, society
+Tags:   democracy, education, society
 
 Author: Yanis Varoufakis
 

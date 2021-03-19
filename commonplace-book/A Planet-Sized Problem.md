@@ -1,6 +1,6 @@
 Title:  A Planet-Sized Problem
 
-Tags:   Practopian, sustainability
+Tags:   sustainability
 
 Author: E. O. Wilson
 

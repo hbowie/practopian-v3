@@ -1,6 +1,6 @@
 Title:  The chicken experiment
 
-Tags:   Practopian, evolution, society
+Tags:   evolution, society
 
 Author: David Sloan Wilson
 

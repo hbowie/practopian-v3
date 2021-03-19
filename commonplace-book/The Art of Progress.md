@@ -1,6 +1,6 @@
 Title:  The Art of Progress
 
-Tags:   Pagan Tuna, Practopian, progress
+Tags:   Pagan Tuna, progress
 
 Author: Alfred North Whitehead
 

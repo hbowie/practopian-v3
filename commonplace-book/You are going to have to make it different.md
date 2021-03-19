@@ -1,6 +1,6 @@
 Title:  You are going to have to make it different
 
-Tags:   Practopian, progress
+Tags:   progress
 
 Author: Jacob Bronowski
 

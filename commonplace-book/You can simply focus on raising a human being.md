@@ -1,6 +1,6 @@
 Title:  You can simply focus on raising a human being
 
-Tags:   Practopian, education, parenthood
+Tags:   education, parenthood
 
 Author: Anu Partanen
 

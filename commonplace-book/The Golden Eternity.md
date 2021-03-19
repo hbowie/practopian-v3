@@ -1,6 +1,6 @@
 Title:  The Golden Eternity
 
-Tags:   Practopian, Reason to Rock, wonder
+Tags:   Reason to Rock, wonder
 
 Author: Jack Kerouac
 

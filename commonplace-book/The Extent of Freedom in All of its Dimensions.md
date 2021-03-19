@@ -1,6 +1,6 @@
 Title:  The Extent of Freedom in All of its Dimensions
 
-Tags:   America, Practopian, cultural evolution, liberty
+Tags:   America, cultural evolution, liberty
 
 Author: Anthony M. Kennedy
 

@@ -1,6 +1,6 @@
 Title:  Critical Thinking Followed by Action
 
-Tags:   Practopian, critical thinking, individuals, progress, stories
+Tags:   critical thinking, individuals, progress, stories
 
 Author: Dalai Lama
 

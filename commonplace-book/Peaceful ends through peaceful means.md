@@ -1,6 +1,6 @@
 Title:  Peaceful ends through peaceful means
 
-Tags:   Practopian, connection
+Tags:   connection
 
 Author: Martin Luther King Jr.
 

@@ -1,6 +1,6 @@
 Title:  We Need a Place to Stand
 
-Tags:   Pagan Tuna, Practopian, society, written word
+Tags:   Pagan Tuna, society, written word
 
 Author: John Bacon and Ed Zeiders
 

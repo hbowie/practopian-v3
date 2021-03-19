@@ -1,6 +1,6 @@
 Title:  Faster Horses
 
-Tags:   Pagan Tuna, Practopian, progress
+Tags:   Pagan Tuna, progress
 
 Author: Henry Ford
 

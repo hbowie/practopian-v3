@@ -1,6 +1,6 @@
 Title:  History is not some self-driving car
 
-Tags:   Practopian, equality, individuals
+Tags:   equality, individuals
 
 Author: Edward Luce
 

@@ -1,6 +1,6 @@
 Title:  Frivolous and fanciful distrinctions
 
-Tags:   Practopian, society
+Tags:   society
 
 Author: James Madison
 

@@ -1,6 +1,6 @@
 Title:  Ends for which We Live
 
-Tags:   Practopian, mission
+Tags:   mission
 
 Author: Martin Luther King Jr.
 

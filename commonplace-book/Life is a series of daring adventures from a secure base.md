@@ -1,6 +1,6 @@
 Title:  Life is a series of daring adventures from a secure base
 
-Tags:   Practopian, connection, education, governance, parenthood, value creation
+Tags:   connection, education, governance, parenthood, value creation
 
 Author: David Brooks
 

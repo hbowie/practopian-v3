@@ -1,6 +1,6 @@
 Title:  Evolutionary Drive Towards Complexity
 
-Tags:   Practopian, evolution
+Tags:   evolution
 
 Author: Richard Dawkins
 

@@ -1,6 +1,6 @@
 Title:  White people will have quite enough to do
 
-Tags:   Practopian, equality
+Tags:   equality
 
 Author: James Baldwin
 

@@ -1,6 +1,6 @@
 Title:  Most sociopolitical hierarchies lack a logical or biological basis
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Yuval Noah Harari
 

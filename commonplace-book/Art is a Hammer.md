@@ -1,6 +1,6 @@
 Title:  Art is a Hammer
 
-Tags:   Practopian, art, individuals
+Tags:   art, individuals
 
 Author: Bertolt Brecht
 

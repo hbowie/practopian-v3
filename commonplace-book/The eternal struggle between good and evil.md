@@ -1,6 +1,6 @@
 Title:  The eternal struggle between good and evil
 
-Tags:   Practopian, society
+Tags:   society
 
 Author: David Sloan Wilson
 

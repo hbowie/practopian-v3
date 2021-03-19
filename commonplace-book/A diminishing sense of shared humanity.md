@@ -1,6 +1,6 @@
 Title:  A diminishing sense of shared humanity
 
-Tags:   Practopian, connection, love
+Tags:   connection, love
 
 Author: Brené Brown
 

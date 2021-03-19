@@ -1,6 +1,6 @@
 Title:  Cockpits with Instruments Controlled by Gremlins
 
-Tags:   Management, Measurement, Pagan Tuna, Practopian, humanism, liberty, stories
+Tags:   Management, Measurement, Pagan Tuna, humanism, liberty, stories
 
 Author: Robert D. Austin
 

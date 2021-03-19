@@ -1,6 +1,6 @@
 Title:  Having Fewer Children and Grandchildren
 
-Tags:   Practopian, sustainability
+Tags:   sustainability
 
 Author: Herb Bowie
 

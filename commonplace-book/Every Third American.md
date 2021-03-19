@@ -1,6 +1,6 @@
 Title:  Every Third American
 
-Tags:   America, Practopian, liberty
+Tags:   America, liberty
 
 Author: H. L. Mencken
 

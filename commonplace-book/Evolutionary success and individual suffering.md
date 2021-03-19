@@ -1,6 +1,6 @@
 Title:  Evolutionary success and individual suffering
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Yuval Noah Harari
 

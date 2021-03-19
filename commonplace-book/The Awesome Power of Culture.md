@@ -1,6 +1,6 @@
 Title:  The Awesome Power of Culture
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Yuval Noah Harari
 

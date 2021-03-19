@@ -1,6 +1,6 @@
 Title:  The economy is too important to leave to the economists
 
-Tags:   Practopian, society
+Tags:   society
 
 Author: Yanis Varoufakis
 

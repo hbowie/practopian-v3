@@ -1,6 +1,6 @@
 Title:  No person in America should be too poor to live
 
-Tags:   Practopian, equality
+Tags:   equality
 
 Author: Alexandria Ocasio-Cortez
 

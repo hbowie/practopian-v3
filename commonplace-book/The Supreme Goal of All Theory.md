@@ -1,6 +1,6 @@
 Title:  The Supreme Goal of All Theory
 
-Tags:   Pagan Tuna, Practopian, science
+Tags:   Pagan Tuna, science
 
 Author: Albert Einstein
 

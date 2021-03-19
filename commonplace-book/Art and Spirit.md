@@ -1,6 +1,6 @@
 Title:  Art and Spirit
 
-Tags:   Practopian, Reason to Rock, art, wonder
+Tags:   Reason to Rock, art, wonder
 
 Author: Ken Wilber
 

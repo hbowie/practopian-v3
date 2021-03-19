@@ -1,6 +1,6 @@
 Title:  The Rainbow Bridge
 
-Tags:   Practopian, connection, humanism, integral
+Tags:   connection, humanism, integral
 
 Author: E. M. Forster
 

@@ -1,6 +1,6 @@
 Title:  Set off from the rest by a line drawn
 
-Tags:   Practopian, equality
+Tags:   equality
 
 Author: Walt Whitman
 

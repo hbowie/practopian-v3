@@ -1,6 +1,6 @@
 Title:  Americans' faith in democracy is at a record low
 
-Tags:   Practopian, democracy
+Tags:   democracy
 
 Author: Leah Greenberg and Ezra Levin
 

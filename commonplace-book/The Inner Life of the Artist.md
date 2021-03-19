@@ -1,6 +1,6 @@
 Title:  The Inner Life of the Artist
 
-Tags:   Practopian, Reason to Rock, art, individuals
+Tags:   Reason to Rock, art, individuals
 
 Author: Edward Hopper
 

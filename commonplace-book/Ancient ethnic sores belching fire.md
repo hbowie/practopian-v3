@@ -1,6 +1,6 @@
 Title:  Ancient ethnic sores belching fire
 
-Tags:   Practopian, cultural evolution, diversity, systemic
+Tags:   cultural evolution, diversity, systemic
 
 Author: Don Beck and Chris Cowan
 

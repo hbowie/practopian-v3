@@ -1,6 +1,6 @@
 Title:  When I get a little money I buy books
 
-Tags:   Practopian, written word
+Tags:   written word
 
 Author: Desiderius Erasmus
 

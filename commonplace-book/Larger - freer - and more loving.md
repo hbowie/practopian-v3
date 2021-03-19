@@ -1,6 +1,6 @@
 Title:  Larger, freer, and more loving
 
-Tags:   Practopian, religion
+Tags:   religion
 
 Author: James Baldwin
 

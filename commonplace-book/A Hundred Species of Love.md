@@ -1,6 +1,6 @@
 Title:  A Hundred Species of Love
 
-Tags:   Practopian, love
+Tags:   love
 
 Author: Richard Powers
 

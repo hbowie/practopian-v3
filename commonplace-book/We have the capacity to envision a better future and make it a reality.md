@@ -1,6 +1,6 @@
 Title:  We have the capacity to envision a better future and make it a reality
 
-Tags:   Practopian, cultural evolution, society
+Tags:   cultural evolution, society
 
 Author: Victor Hwang
 

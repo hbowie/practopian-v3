@@ -1,6 +1,6 @@
 Title:  Design is not Appearance
 
-Tags:   Practopian, art
+Tags:   art
 
 Author: Milton Glaser
 

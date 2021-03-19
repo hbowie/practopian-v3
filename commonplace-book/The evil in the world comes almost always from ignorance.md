@@ -1,6 +1,6 @@
 Title:  The evil in the world comes almost always from ignorance
 
-Tags:   Practopian, critical thinking, education
+Tags:   critical thinking, education
 
 Author: Albert Camus
 

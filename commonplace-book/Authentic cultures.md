@@ -1,6 +1,6 @@
 Title:  Authentic cultures
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Yuval Noah Harari
 

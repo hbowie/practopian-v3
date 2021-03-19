@@ -1,6 +1,6 @@
 Title:  By Gifts One Makes Slaves
 
-Tags:   Practopian, connection, equality
+Tags:   connection, equality
 
 Author: Peter Freuchen
 

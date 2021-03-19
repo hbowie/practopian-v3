@@ -1,6 +1,6 @@
 Title:  The growth of firms
 
-Tags:   Practopian, value creation
+Tags:   value creation
 
 Author: Edith Penrose
 

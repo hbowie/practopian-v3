@@ -1,6 +1,6 @@
 Title:  Practice kindness all day to everybody
 
-Tags:   Practopian, connection, love
+Tags:   connection, love
 
 Author: Jack Kerouac
 

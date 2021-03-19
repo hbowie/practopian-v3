@@ -1,6 +1,6 @@
 Title:  No single natural way of life for Sapiens
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Yuval Noah Harari
 

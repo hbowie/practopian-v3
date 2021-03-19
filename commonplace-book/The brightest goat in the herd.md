@@ -1,6 +1,6 @@
 Title:  The brightest goat in the herd
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Yuval Noah Harari
 

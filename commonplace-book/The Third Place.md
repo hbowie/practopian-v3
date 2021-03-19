@@ -1,6 +1,6 @@
 Title:  The Third Place
 
-Tags:   Practopian, connection
+Tags:   connection
 
 Author: Ray Oldenburg
 

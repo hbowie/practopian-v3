@@ -1,6 +1,6 @@
 Title:  Cooperative communication
 
-Tags:   Practopian, society
+Tags:   society
 
 Author: Brian Hare and Vanessa Woods
 

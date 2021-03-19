@@ -1,6 +1,6 @@
 Title:  Mysticism has kept men sane
 
-Tags:   Practopian, wonder
+Tags:   wonder
 
 Author: G. K. Chesterton
 

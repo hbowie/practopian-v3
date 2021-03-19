@@ -1,6 +1,6 @@
 Title:  Never Knew Cocaine to Improve Anything
 
-Tags:   Practopian, Reason to Rock, art, cultural evolution
+Tags:   Reason to Rock, art, cultural evolution
 
 Author: Joe Boyd
 

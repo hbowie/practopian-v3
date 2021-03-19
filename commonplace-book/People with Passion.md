@@ -1,6 +1,6 @@
 Title:  People with Passion
 
-Tags:   Practopian, individuals, progress
+Tags:   individuals, progress
 
 Author: Steve Jobs
 

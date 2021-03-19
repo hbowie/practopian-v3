@@ -1,6 +1,6 @@
 Title:  This dazed and dramatic ignorance
 
-Tags:   Practopian, Reason to Rock, wonder
+Tags:   Reason to Rock, wonder
 
 Author: G. K. Chesterton
 

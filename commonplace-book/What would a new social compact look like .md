@@ -1,6 +1,6 @@
 Title:  What would a new social compact look like?
 
-Tags:   Practopian, democracy, equality, society
+Tags:   democracy, equality, society
 
 Author: Edward Luce
 

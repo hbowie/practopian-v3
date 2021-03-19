@@ -1,6 +1,6 @@
 Title:  Nurturance is a master variable
 
-Tags:   Practopian, connection, society
+Tags:   connection, society
 
 Author: David Sloan Wilson
 

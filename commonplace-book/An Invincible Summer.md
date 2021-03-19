@@ -1,6 +1,6 @@
 Title:  An Invincible Summer
 
-Tags:   Practopian, humanism
+Tags:   humanism
 
 Author: Albert Camus
 

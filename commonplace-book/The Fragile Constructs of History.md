@@ -1,6 +1,6 @@
 Title:  The Fragile Constructs of History
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Eamonn Kelly
 

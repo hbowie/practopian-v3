@@ -1,6 +1,6 @@
 Title:  Records we made together in the sixties
 
-Tags:   Practopian, Reason to Rock, art, connection
+Tags:   Reason to Rock, art, connection
 
 Author: Joe Boyd
 

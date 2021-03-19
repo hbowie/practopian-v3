@@ -1,6 +1,6 @@
 Title:  The cause which is blocking all progress
 
-Tags:   Practopian, love, progress
+Tags:   love, progress
 
 Author: G. K. Chesterton
 

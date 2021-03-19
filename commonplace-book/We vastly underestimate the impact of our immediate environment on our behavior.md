@@ -1,6 +1,6 @@
 Title:  We vastly underestimate the impact of our immediate environment on our behavior
 
-Tags:   Practopian, connection, society
+Tags:   connection, society
 
 Author: Dave Mayer
 

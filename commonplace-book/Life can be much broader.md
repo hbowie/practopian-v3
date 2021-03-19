@@ -1,6 +1,6 @@
 Title:  Life can be much broader
 
-Tags:   Practopian, individuals, progress
+Tags:   individuals, progress
 
 Author: Steve Jobs
 

@@ -1,6 +1,6 @@
 Title:  Unintelligible Propositions
 
-Tags:   Practopian, critical thinking
+Tags:   critical thinking
 
 Author: Thomas Jefferson
 

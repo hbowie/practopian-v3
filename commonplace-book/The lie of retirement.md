@@ -1,6 +1,6 @@
 Title:  The lie of retirement
 
-Tags:   Practopian, mission
+Tags:   mission
 
 Author: Milton Glaser
 

@@ -1,6 +1,6 @@
 Title:  A Progressive Annual Tax on Capital
 
-Tags:   Practopian, equality, value creation
+Tags:   equality, value creation
 
 Author: Thomas Piketty
 

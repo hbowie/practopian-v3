@@ -1,6 +1,6 @@
 Title:  In the thrall of a vast, world-spanning machine
 
-Tags:   Practopian, systemic
+Tags:   systemic
 
 Author: Tim O'Reilly
 

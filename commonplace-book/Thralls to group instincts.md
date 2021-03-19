@@ -1,6 +1,6 @@
 Title:  Thralls to group instincts
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Walter Mosley
 

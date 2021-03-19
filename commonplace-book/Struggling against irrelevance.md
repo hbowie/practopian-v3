@@ -1,6 +1,6 @@
 Title:  Struggling against irrelevance
 
-Tags:   Practopian, democracy
+Tags:   democracy
 
 Author: Yuval Noah Harari
 

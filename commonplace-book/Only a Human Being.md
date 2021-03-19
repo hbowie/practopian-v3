@@ -1,6 +1,6 @@
 Title:  Only a Human Being
 
-Tags:   Practopian, cultural evolution, humanism
+Tags:   cultural evolution, humanism
 
 Author: Albert Einstein
 

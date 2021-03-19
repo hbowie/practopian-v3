@@ -1,6 +1,6 @@
 Title:  The malleability of life
 
-Tags:   Practopian, evolution, mission
+Tags:   evolution, mission
 
 Author: David Sloan Wilson
 

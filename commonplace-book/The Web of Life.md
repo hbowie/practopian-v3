@@ -1,6 +1,6 @@
 Title:  The Web of Life
 
-Tags:   Practopian, connection
+Tags:   connection
 
 Author: Ted Perry
 

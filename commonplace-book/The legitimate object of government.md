@@ -1,6 +1,6 @@
 Title:  The legitimate object of government
 
-Tags:   Practopian, governance, society
+Tags:   governance, society
 
 Author: Abraham Lincoln
 

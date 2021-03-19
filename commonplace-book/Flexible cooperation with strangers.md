@@ -1,6 +1,6 @@
 Title:  Flexible cooperation with strangers
 
-Tags:   Practopian, society
+Tags:   society
 
 Author: Yuval Noah Harari
 

@@ -1,6 +1,6 @@
 Title:  Diversity Helps Your Business -- But Not The Way You Think
 
-Tags:   Practopian, diversity
+Tags:   diversity
 
 Author: Katherine Phillips
 

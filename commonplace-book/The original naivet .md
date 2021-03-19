@@ -1,6 +1,6 @@
 Title:  The original naiveté
 
-Tags:   Practopian, Reason to Rock, art, love, wonder
+Tags:   Reason to Rock, art, love, wonder
 
 Author: Henri Matisse
 

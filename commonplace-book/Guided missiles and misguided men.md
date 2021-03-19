@@ -1,6 +1,6 @@
 Title:  Guided missiles and misguided men
 
-Tags:   Practopian, equality
+Tags:   equality
 
 Author: Martin Luther King Jr.
 

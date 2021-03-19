@@ -1,6 +1,6 @@
 Title:  That community asks for and gets chaos
 
-Tags:   Practopian, parenthood
+Tags:   parenthood
 
 Author: Daniel Patrick Moynihan
 

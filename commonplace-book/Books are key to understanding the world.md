@@ -1,6 +1,6 @@
 Title:  Books are key to understanding the world
 
-Tags:   Practopian, written word
+Tags:   written word
 
 Author: Carl Sagan
 

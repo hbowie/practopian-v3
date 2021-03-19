@@ -1,6 +1,6 @@
 Title:  Most advertising an insane irrelevance
 
-Tags:   Practopian, critical thinking
+Tags:   critical thinking
 
 Author: Raymond Williams
 

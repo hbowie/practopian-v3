@@ -1,6 +1,6 @@
 Title:  Peace with Justice
 
-Tags:   Practopian, equality, liberty, rule of law, society
+Tags:   equality, liberty, rule of law, society
 
 Author: Dwight D. Eisenhower
 

@@ -1,6 +1,6 @@
 Title:  Notions to Explain Nature
 
-Tags:   Practopian, science
+Tags:   science
 
 Author: Baruch Spinoza
 

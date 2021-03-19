@@ -1,6 +1,6 @@
 Title:  Bathing in mystery and confusion
 
-Tags:   Practopian, wonder
+Tags:   wonder
 
 Author: Carl Sagan
 

@@ -1,6 +1,6 @@
 Title:  Love is the ultimate and the highest goal
 
-Tags:   Practopian, love
+Tags:   love
 
 Author: Victor Frankl
 

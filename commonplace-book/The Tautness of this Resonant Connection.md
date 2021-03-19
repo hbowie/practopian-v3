@@ -1,6 +1,6 @@
 Title:  The Tautness of this Resonant Connection
 
-Tags:   Practopian, Reason to Rock, art
+Tags:   Reason to Rock, art
 
 Author: Herb Bowie
 

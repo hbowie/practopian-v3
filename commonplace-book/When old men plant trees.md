@@ -1,6 +1,6 @@
 Title:  When old men plant trees
 
-Tags:   Practopian, mission
+Tags:   mission
 
 Author: anonymous
 

@@ -1,6 +1,6 @@
 Title:  Unarmed Truth and Unconditional Love
 
-Tags:   Practopian, love, written word
+Tags:   love, written word
 
 Author: Martin Luther King Jr.
 

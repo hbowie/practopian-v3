@@ -1,6 +1,6 @@
 Title:  Generosity Among the Rich
 
-Tags:   Practopian, Reason to Rock, connection
+Tags:   Reason to Rock, connection
 
 Author: G. K. Chesterton
 

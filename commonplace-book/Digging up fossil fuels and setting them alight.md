@@ -1,6 +1,6 @@
 Title:  Digging up fossil fuels and setting them alight
 
-Tags:   Practopian, sustainability
+Tags:   sustainability
 
 Author: Bill McKibben
 

@@ -1,0 +1,17 @@
+<?nextrec?>
+<?definegroup 1 “=$tag$="?>
+<?ifendgroup 1 ?>
+</ul>
+<?ifnewgroup 1 ?>
+<?output "../includes-gen/tag-=$tag&f$=-content.html"?>
+<h3>Original Content</h3>
+<ul>
+<?endif?>
+
+<?if =$type$= eq "appreciation" ?>
+<li><a href="../appreciation/=$title&f$=.html">An Appreciation for =$title$=</a></li>
+<?endif?>
+<?if =$type$= eq "blog" ?>
+<li><a href="../blog/hbowie/=$title&f$=.html">An Appreciation for =$title$=</a></li>
+<?endif?>
+<?loop?>

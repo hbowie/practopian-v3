@@ -1,6 +1,6 @@
 Title:  A hereditary meritocracy
 
-Tags:   Practopian, equality
+Tags:   equality
 
 Author: Edward Luce
 

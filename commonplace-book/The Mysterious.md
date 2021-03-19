@@ -1,6 +1,6 @@
 Title:  The Mysterious
 
-Tags:   Practopian, art, religion, science, wonder
+Tags:   art, religion, science, wonder
 
 Author: Albert Einstein
 

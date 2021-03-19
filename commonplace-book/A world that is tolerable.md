@@ -1,6 +1,6 @@
 Title:  A world that is tolerable
 
-Tags:   Practopian, mission
+Tags:   mission
 
 Author: Walter Mosley
 

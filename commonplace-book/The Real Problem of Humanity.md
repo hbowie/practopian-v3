@@ -1,6 +1,6 @@
 Title:  The Real Problem of Humanity
 
-Tags:   Practopian, cultural evolution, humanism
+Tags:   cultural evolution, humanism
 
 Author: E. O. Wilson
 

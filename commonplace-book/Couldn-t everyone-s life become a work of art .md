@@ -1,6 +1,6 @@
 Title:  Couldn’t everyone’s life become a work of art?
 
-Tags:   Practopian, art
+Tags:   art
 
 Author: Michel Foucault
 

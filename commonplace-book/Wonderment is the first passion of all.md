@@ -1,6 +1,6 @@
 Title:  Wonderment is the first passion of all
 
-Tags:   Practopian, wonder
+Tags:   wonder
 
 Author: René Descartes
 

@@ -1,6 +1,6 @@
 Title:  Expectations of holiness
 
-Tags:   Practopian, imperfection
+Tags:   imperfection
 
 Author: William Blake
 

@@ -1,6 +1,6 @@
 Title:  Selfish and contentious people will not cohere
 
-Tags:   Practopian, connection
+Tags:   connection
 
 Author: Charles Darwin
 

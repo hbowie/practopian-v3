@@ -1,6 +1,6 @@
 Title:  The Only Sign of Mental Activity
 
-Tags:   Practopian, written word
+Tags:   written word
 
 Author: Margery Allingham
 

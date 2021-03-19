@@ -1,6 +1,6 @@
 Title:  I learned a lot of things from failure
 
-Tags:   Practopian, imperfection
+Tags:   imperfection
 
 Author: Brooks Robinson
 

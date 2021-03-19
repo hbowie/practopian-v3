@@ -1,6 +1,6 @@
 Title:  Do the Right Thing
 
-Tags:   Pagan Tuna, Practopian, individuals
+Tags:   Pagan Tuna, individuals
 
 Author: Mark Twain
 

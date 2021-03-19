@@ -1,6 +1,6 @@
 Title:  Thinking should be generous and have a good appetite
 
-Tags:   Practopian, critical thinking
+Tags:   critical thinking
 
 Author: Sarah Bakewell
 

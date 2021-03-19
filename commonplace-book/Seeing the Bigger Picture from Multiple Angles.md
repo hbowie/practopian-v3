@@ -1,6 +1,6 @@
 Title:  Seeing the Bigger Picture from Multiple Angles
 
-Tags:   Business, Pagan Tuna, Practopian, critical thinking, diversity, integral
+Tags:   Business, Pagan Tuna, critical thinking, diversity, integral
 
 Author: Jeff Bezos and Jason Fried
 

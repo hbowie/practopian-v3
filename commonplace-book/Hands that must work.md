@@ -1,6 +1,6 @@
 Title:  Hands that must work
 
-Tags:   Practopian, education
+Tags:   education
 
 Author: Lauretta Bender
 

@@ -1,6 +1,6 @@
 Title:  To save man from the morass of propaganda
 
-Tags:   Practopian, education
+Tags:   education
 
 Author: Martin Luther King Jr.
 

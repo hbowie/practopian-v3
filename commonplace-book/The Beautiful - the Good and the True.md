@@ -1,6 +1,6 @@
 Title:  The Beautiful, the Good and the True
 
-Tags:   Practopian, integral
+Tags:   integral
 
 Author: Ken Wilber
 

@@ -1,6 +1,6 @@
 Title:  The point of modern propaganda
 
-Tags:   Practopian, critical thinking
+Tags:   critical thinking
 
 Author: Garry Kasparov
 

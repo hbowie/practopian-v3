@@ -1,6 +1,6 @@
 Title:  Down These Mean Streets
 
-Tags:   Practopian, individuals
+Tags:   individuals
 
 Author: Raymond Chandler
 

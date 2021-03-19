@@ -1,6 +1,6 @@
 Title:  Confusion leads to understanding
 
-Tags:   Practopian, critical thinking
+Tags:   critical thinking
 
 Author: Vishavjit Singh
 

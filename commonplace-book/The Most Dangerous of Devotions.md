@@ -1,6 +1,6 @@
 Title:  The Most Dangerous of Devotions
 
-Tags:   Practopian, humanism, religion
+Tags:   humanism, religion
 
 Author: E. O. Wilson
 

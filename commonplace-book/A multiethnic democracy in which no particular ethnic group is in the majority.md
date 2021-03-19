@@ -1,6 +1,6 @@
 Title:  A multiethnic democracy in which no particular ethnic group is in the majority
 
-Tags:   Practopian, democracy, diversity, equality
+Tags:   democracy, diversity, equality
 
 Author: Danielle Allen
 

@@ -1,6 +1,6 @@
 Title:  Between-group selection became the primary evolutionary force
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: David Sloan Wilson
 

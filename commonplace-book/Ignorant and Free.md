@@ -1,6 +1,6 @@
 Title:  Ignorant and Free
 
-Tags:   Practopian, education, governance, liberty, written word
+Tags:   education, governance, liberty, written word
 
 Author: Thomas Jefferson
 

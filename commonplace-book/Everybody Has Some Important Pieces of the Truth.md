@@ -1,6 +1,6 @@
 Title:  Everybody Has Some Important Pieces of the Truth
 
-Tags:   Pagan Tuna, Practopian, Reason to Rock, integral
+Tags:   Pagan Tuna, Reason to Rock, integral
 
 Author: Ken Wilber
 

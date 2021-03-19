@@ -1,6 +1,6 @@
 Title:  A vast repository of information learned and passed down from previous generations
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: David Sloan Wilson
 

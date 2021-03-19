@@ -1,6 +1,6 @@
 Title:  An ultracultural species is born
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Brian Hare and Vanessa Woods
 

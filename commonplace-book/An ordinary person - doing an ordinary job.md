@@ -1,6 +1,6 @@
 Title:  An ordinary person, doing an ordinary job
 
-Tags:   Practopian, individuals
+Tags:   individuals
 
 Author: Martin Luther King Jr.
 

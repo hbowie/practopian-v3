@@ -1,6 +1,6 @@
 Title:  Everyone is entitled to his own opinion, but not his own facts
 
-Tags:   Practopian, critical thinking
+Tags:   critical thinking
 
 Author: Daniel Patrick Moynihan
 

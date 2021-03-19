@@ -1,6 +1,6 @@
 Title:  Discovering that I am Nobody
 
-Tags:   Practopian, connection
+Tags:   connection
 
 Author: Josiah Royce
 

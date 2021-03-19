@@ -1,6 +1,6 @@
 Title:  Liberalism is not Socialism
 
-Tags:   Practopian, equality, governance, value creation
+Tags:   equality, governance, value creation
 
 Author: Winston Churchill
 

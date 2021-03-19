@@ -1,6 +1,6 @@
 Title:  The Celestial Teapot
 
-Tags:   Pagan Tuna, Practopian, critical thinking, religion
+Tags:   Pagan Tuna, critical thinking, religion
 
 Author: Bertrand Russell
 

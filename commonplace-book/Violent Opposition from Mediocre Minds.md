@@ -1,6 +1,6 @@
 Title:  Violent Opposition from Mediocre Minds
 
-Tags:   Practopian, Reason to Rock, critical thinking, science
+Tags:   Reason to Rock, critical thinking, science
 
 Author: Albert Einstein
 

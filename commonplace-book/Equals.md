@@ -1,6 +1,6 @@
 Title:  Equals
 
-Tags:   Pagan Tuna, Practopian, Reason to Rock, equality
+Tags:   Pagan Tuna, Reason to Rock, equality
 
 Author: John Lennon
 

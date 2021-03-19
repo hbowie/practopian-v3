@@ -1,6 +1,6 @@
 Title:  History as Postmodern Collage
 
-Tags:   Practopian, Reason to Rock, art
+Tags:   Reason to Rock, art
 
 Author: Joe Boyd
 

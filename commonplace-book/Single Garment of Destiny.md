@@ -1,6 +1,6 @@
 Title:  Single Garment of Destiny
 
-Tags:   Practopian, connection
+Tags:   connection
 
 Author: Martin Luther King Jr.
 

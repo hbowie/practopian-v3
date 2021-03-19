@@ -1,6 +1,6 @@
 Title:  Each man is questioned by life
 
-Tags:   Practopian, mission
+Tags:   mission
 
 Author: Victor Frankl
 

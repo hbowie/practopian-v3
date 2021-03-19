@@ -1,6 +1,6 @@
 Title:  The Power of Art
 
-Tags:   Practopian, Reason to Rock, art, progress
+Tags:   Reason to Rock, art, progress
 
 Author: Wynton Marsalis
 

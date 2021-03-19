@@ -1,6 +1,6 @@
 Title:  The Trick in Keeping Bands Together
 
-Tags:   Pagan Tuna, Practopian, Reason to Rock, equality
+Tags:   Pagan Tuna, Reason to Rock, equality
 
 Author: Bruce Springsteen
 

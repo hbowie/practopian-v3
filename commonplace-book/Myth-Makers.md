@@ -1,6 +1,6 @@
 Title:  Myth-Makers
 
-Tags:   Practopian, Reason to Rock, stories, written word
+Tags:   Reason to Rock, stories, written word
 
 Author: Kurt Vonnegut
 

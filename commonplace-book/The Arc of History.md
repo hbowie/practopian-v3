@@ -1,6 +1,6 @@
 Title:  The Arc of History
 
-Tags:   Practopian, cultural evolution, equality
+Tags:   cultural evolution, equality
 
 Author: Martin Luther King Jr.
 

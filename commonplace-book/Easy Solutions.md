@@ -1,6 +1,6 @@
 Title:  Easy Solutions
 
-Tags:   Pagan Tuna, Practopian, critical thinking
+Tags:   Pagan Tuna, critical thinking
 
 Author: H. L. Mencken
 

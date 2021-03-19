@@ -1,6 +1,6 @@
 Title:  Myths are stronger than anyone could have imagined
 
-Tags:   Practopian, cultural evolution, stories
+Tags:   cultural evolution, stories
 
 Author: Yuval Noah Harari
 

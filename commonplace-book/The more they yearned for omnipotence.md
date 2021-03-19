@@ -1,6 +1,6 @@
 Title:  The more they yearned for omnipotence
 
-Tags:   Practopian, balance, power
+Tags:   balance, power
 
 Author: Ross MacDonald
 

@@ -1,6 +1,6 @@
 Title:  Intelligent guides of family planning
 
-Tags:   Practopian, population
+Tags:   population
 
 Author: Martin Luther King Jr.
 

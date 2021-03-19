@@ -1,6 +1,6 @@
 Title:  People are happy to give away their most valuable asset
 
-Tags:   Practopian, critical thinking
+Tags:   critical thinking
 
 Author: Yuval Noah Harari
 

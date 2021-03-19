@@ -1,6 +1,6 @@
 Title:  A law against private jets
 
-Tags:   Practopian, equality
+Tags:   equality
 
 Author: Abigail Disney
 

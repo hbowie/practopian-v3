@@ -1,6 +1,6 @@
 Title:  What Democracy Is
 
-Tags:   Practopian, democracy
+Tags:   democracy
 
 Author: E. B. White
 

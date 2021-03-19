@@ -1,6 +1,6 @@
 Title:  Increase nurturance thoughout the life span
 
-Tags:   Practopian, connection
+Tags:   connection
 
 Author: David Sloan Wilson
 

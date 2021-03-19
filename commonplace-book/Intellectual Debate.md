@@ -1,6 +1,6 @@
 Title:  Intellectual Debate
 
-Tags:   Pagan Tuna, Practopian, critical thinking
+Tags:   Pagan Tuna, critical thinking
 
 Author: John Stuart Mill
 

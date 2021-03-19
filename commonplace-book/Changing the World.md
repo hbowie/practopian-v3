@@ -1,6 +1,6 @@
 Title:  Changing the World
 
-Tags:   Practopian, cultural evolution, individuals, progress
+Tags:   cultural evolution, individuals, progress
 
 Author: Margaret Mead
 

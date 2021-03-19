@@ -1,6 +1,6 @@
 Title:  Television mesmerizes people
 
-Tags:   Practopian, written word
+Tags:   written word
 
 Author: Eric Braverman
 

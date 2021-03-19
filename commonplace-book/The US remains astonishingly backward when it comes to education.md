@@ -1,6 +1,6 @@
 Title:  The US remains astonishingly backward when it comes to education
 
-Tags:   Practopian, education, equality
+Tags:   education, equality
 
 Author: Anu Partanen
 

@@ -1,6 +1,6 @@
 Title:  Wriggling
 
-Tags:   Practopian, individuals
+Tags:   individuals
 
 Author: E. M. Forster
 

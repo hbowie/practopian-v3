@@ -1,6 +1,6 @@
 Title:  Liberal democracy's strongest glue is economic growth
 
-Tags:   Practopian, equality
+Tags:   equality
 
 Author: Edward Luce
 

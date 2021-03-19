@@ -1,6 +1,6 @@
 Title:  Consistency is the playground of dull minds
 
-Tags:   Practopian, balance
+Tags:   balance
 
 Author: Yuval Noah Harari
 

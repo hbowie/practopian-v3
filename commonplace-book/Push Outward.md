@@ -1,6 +1,6 @@
 Title:  Push Outward
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Michel Foucault
 

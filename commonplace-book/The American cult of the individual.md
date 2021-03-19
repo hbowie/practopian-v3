@@ -1,6 +1,6 @@
 Title:  The American cult of the individual
 
-Tags:   Practopian, society
+Tags:   society
 
 Author: Wade Davis
 

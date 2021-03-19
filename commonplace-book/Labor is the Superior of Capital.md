@@ -1,6 +1,6 @@
 Title:  Labor is the Superior of Capital
 
-Tags:   Practopian, governance, individuals, society
+Tags:   governance, individuals, society
 
 Author: Abraham Lincoln
 

@@ -1,6 +1,6 @@
 Title:  The Left Hand Dimension
 
-Tags:   Practopian, integral
+Tags:   integral
 
 Author: Ken Wilber
 

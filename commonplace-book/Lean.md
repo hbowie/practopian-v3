@@ -1,6 +1,6 @@
 Title:  Lean
 
-Tags:   Lean, Pagan Tuna, Practopian, value creation
+Tags:   Lean, Pagan Tuna, value creation
 
 Author: Jim Womack
 

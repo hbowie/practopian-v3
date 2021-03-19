@@ -1,6 +1,6 @@
 Title:  Our species does represent a new evolutionary process
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: David Sloan Wilson
 

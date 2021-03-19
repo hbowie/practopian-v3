@@ -1,6 +1,6 @@
 Title:  Life is more like settling a sequence of villages
 
-Tags:   Practopian, connection
+Tags:   connection
 
 Author: David Brooks
 

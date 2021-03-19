@@ -1,6 +1,6 @@
 Title:  The center of every man's existence is a dream
 
-Tags:   Practopian, humanism
+Tags:   humanism
 
 Author: G. K. Chesterton
 

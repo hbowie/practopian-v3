@@ -1,6 +1,6 @@
 Title:  Let us accept our own responsibility for the future
 
-Tags:   Practopian, mission
+Tags:   mission
 
 Author: John F. Kennedy
 

@@ -1,6 +1,6 @@
 Title:  Rough consensus and running code
 
-Tags:   Pagan Tuna, Practopian, Software Development.Agility, practical
+Tags:   Pagan Tuna, Software Development.Agility, practical
 
 Author: David D. Clark
 

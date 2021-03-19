@@ -1,6 +1,6 @@
 Title:  The Credibility of a Comedian
 
-Tags:   America, Practopian, democracy
+Tags:   America, democracy
 
 Author: Jon Stewart
 

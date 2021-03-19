@@ -1,6 +1,6 @@
 Title:  Civilization was a thin and precarious crust
 
-Tags:   Practopian, society
+Tags:   society
 
 Author: John Maynard Keynes
 

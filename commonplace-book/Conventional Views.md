@@ -1,6 +1,6 @@
 Title:  Conventional Views
 
-Tags:   Pagan Tuna, Practopian, critical thinking
+Tags:   Pagan Tuna, critical thinking
 
 Author: John Kenneth Galbraith
 

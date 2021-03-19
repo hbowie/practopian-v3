@@ -1,6 +1,6 @@
 Title:  The World is a Wonderfully Weird Place
 
-Tags:   Practopian, Reason to Rock, liberty, love, wonder
+Tags:   Reason to Rock, liberty, love, wonder
 
 Author: Tom Robbins
 

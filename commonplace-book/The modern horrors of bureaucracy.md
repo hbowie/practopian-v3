@@ -1,6 +1,6 @@
 Title:  The modern horrors of bureaucracy
 
-Tags:   Practopian, humanism, systemic
+Tags:   humanism, systemic
 
 Author: Amanda Cross
 

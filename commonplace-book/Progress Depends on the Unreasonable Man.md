@@ -1,6 +1,6 @@
 Title:  Progress Depends on the Unreasonable Man
 
-Tags:   Pagan Tuna, Practopian, Reason to Rock, individuals, progress
+Tags:   Pagan Tuna, Reason to Rock, individuals, progress
 
 Author: George Bernard Shaw
 

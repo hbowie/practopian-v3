@@ -1,6 +1,6 @@
 Title:  A beast or a god
 
-Tags:   Practopian, society
+Tags:   society
 
 Author: Aristotle
 

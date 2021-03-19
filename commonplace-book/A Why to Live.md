@@ -1,6 +1,6 @@
 Title:  A Why to Live
 
-Tags:   Practopian, mission
+Tags:   mission
 
 Author: Friedrich Nietzsche
 

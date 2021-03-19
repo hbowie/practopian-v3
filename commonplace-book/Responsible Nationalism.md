@@ -1,6 +1,6 @@
 Title:  Responsible Nationalism
 
-Tags:   Practopian, governance
+Tags:   governance
 
 Author: Edward Luce
 

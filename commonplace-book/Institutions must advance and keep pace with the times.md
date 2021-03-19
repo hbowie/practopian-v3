@@ -1,6 +1,6 @@
 Title:  Institutions must advance and keep pace with the times
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Thomas Jefferson
 

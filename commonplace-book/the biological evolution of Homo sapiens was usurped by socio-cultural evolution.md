@@ -1,6 +1,6 @@
 Title:  the biological evolution of Homo sapiens was usurped by socio-cultural evolution
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Jürgen Klüver
 

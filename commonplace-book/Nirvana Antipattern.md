@@ -1,6 +1,6 @@
 Title:  Nirvana Antipattern
 
-Tags:   Pagan Tuna, Practopian, critical thinking
+Tags:   Pagan Tuna, critical thinking
 
 Author: William J. Brown, Hays W. McCormick III and Scott W. Thomas
 

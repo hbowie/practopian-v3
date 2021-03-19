@@ -1,6 +1,6 @@
 Title:  Cultures as a kind of mental infection
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Yuval Noah Harari
 

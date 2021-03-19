@@ -1,6 +1,6 @@
 Title:  It's the rich class that's winning
 
-Tags:   Practopian, society, value creation
+Tags:   society, value creation
 
 Author: Warren Buffett
 

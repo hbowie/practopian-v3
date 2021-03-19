@@ -1,6 +1,6 @@
 Title:  The time-worn yoke of their opinions
 
-Tags:   Practopian, cultural evolution, progress
+Tags:   cultural evolution, progress
 
 Author: Ralph Waldo Emerson
 

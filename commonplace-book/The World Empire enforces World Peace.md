@@ -1,6 +1,6 @@
 Title:  The World Empire enforces World Peace
 
-Tags:   Practopian, governance, systemic
+Tags:   governance, systemic
 
 Author: Yuval Noah Harari
 

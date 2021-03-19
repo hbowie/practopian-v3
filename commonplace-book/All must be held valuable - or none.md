@@ -1,6 +1,6 @@
 Title:  All must be held valuable, or none
 
-Tags:   Practopian, equality, humanism
+Tags:   equality, humanism
 
 Author: Edmund Crispin
 

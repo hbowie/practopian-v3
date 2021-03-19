@@ -1,6 +1,6 @@
 Title:  Balance is Required to Maintain Democracy
 
-Tags:   Practopian, balance, governance
+Tags:   balance, governance
 
 Author: Wynton Marsalis
 

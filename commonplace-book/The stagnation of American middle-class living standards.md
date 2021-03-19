@@ -1,6 +1,6 @@
 Title:  The stagnation of American middle-class living standards
 
-Tags:   Practopian, society
+Tags:   society
 
 Author: Ben Friedman
 

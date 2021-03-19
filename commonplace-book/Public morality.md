@@ -1,6 +1,6 @@
 Title:  Public morality
 
-Tags:   Practopian, connection, democracy, diversity, equality, love, society
+Tags:   connection, democracy, diversity, equality, love, society
 
 Author: Robert B. Reich
 

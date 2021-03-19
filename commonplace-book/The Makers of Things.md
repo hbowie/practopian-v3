@@ -1,6 +1,6 @@
 Title:  The Makers of Things
 
-Tags:   America, Pagan Tuna, Practopian, cultural evolution, individuals, progress
+Tags:   America, Pagan Tuna, cultural evolution, individuals, progress
 
 Author: Barack Obama
 

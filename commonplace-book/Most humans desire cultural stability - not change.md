@@ -1,6 +1,6 @@
 Title:  Most humans desire cultural stability, not change
 
-Tags:   Practopian, progress
+Tags:   progress
 
 Author: Stephen E. Nash
 

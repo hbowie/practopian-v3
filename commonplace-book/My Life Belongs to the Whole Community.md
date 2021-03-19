@@ -1,6 +1,6 @@
 Title:  My Life Belongs to the Whole Community
 
-Tags:   Practopian, society
+Tags:   society
 
 Author: George Bernard Shaw
 

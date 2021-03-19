@@ -1,6 +1,6 @@
 Title:  Our Reply to Violence
 
-Tags:   Practopian, art, love
+Tags:   art, love
 
 Author: Leonard Bernstein
 

@@ -1,6 +1,6 @@
 Title:  We All Derive From the Same Source
 
-Tags:   Practopian, art, equality, humanism, individuals
+Tags:   art, equality, humanism, individuals
 
 Author: Henry Miller
 

@@ -1,6 +1,6 @@
 Title:  We shall see the sky sparkling with diamonds
 
-Tags:   Practopian, wonder
+Tags:   wonder
 
 Author: Anton Chekhov
 

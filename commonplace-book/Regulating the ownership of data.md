@@ -1,6 +1,6 @@
 Title:  Regulating the ownership of data
 
-Tags:   Practopian, rule of law
+Tags:   rule of law
 
 Author: Yuval Noah Harari
 

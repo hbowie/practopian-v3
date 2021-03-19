@@ -1,6 +1,6 @@
 Title:  Hard Discipline of Reasonableness and Honesty
 
-Tags:   Pagan Tuna, Practopian, critical thinking
+Tags:   Pagan Tuna, critical thinking
 
 Author: Gilbert Murray
 

@@ -1,6 +1,6 @@
 Title:  More Popular than Jesus
 
-Tags:   Pagan Tuna, Practopian, Reason to Rock, stories
+Tags:   Pagan Tuna, Reason to Rock, stories
 
 Author: John Lennon
 

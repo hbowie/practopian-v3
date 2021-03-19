@@ -1,6 +1,6 @@
 Title:  Progress Depends on Retentiveness
 
-Tags:   Pagan Tuna, Practopian, progress
+Tags:   Pagan Tuna, progress
 
 Author: George Santayana
 

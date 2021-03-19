@@ -1,6 +1,6 @@
 Title:  Intelligence plus Character
 
-Tags:   Practopian, education
+Tags:   education
 
 Author: Martin Luther King Jr.
 

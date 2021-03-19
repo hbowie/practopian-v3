@@ -1,6 +1,6 @@
 Title:  God and Morality
 
-Tags:   Practopian, religion, stories
+Tags:   religion, stories
 
 Author: Frans de Waal
 

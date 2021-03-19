@@ -1,6 +1,6 @@
 Title:  Defending the pursuit of learning
 
-Tags:   Practopian, education
+Tags:   education
 
 Author: John F. Kennedy
 

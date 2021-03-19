@@ -1,6 +1,6 @@
 Title:  Politics and the Debasement of Language
 
-Tags:   Practopian, critical thinking, written word
+Tags:   critical thinking, written word
 
 Author: George Orwell
 

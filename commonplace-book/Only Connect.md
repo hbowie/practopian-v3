@@ -1,6 +1,6 @@
 Title:  Only Connect
 
-Tags:   Pagan Tuna, Practopian, Reason to Rock, connection, integral, love
+Tags:   Pagan Tuna, Reason to Rock, connection, integral, love
 
 Author: E. M. Forster
 

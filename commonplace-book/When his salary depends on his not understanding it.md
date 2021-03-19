@@ -1,6 +1,6 @@
 Title:  When his salary depends on his not understanding it
 
-Tags:   Practopian, critical thinking
+Tags:   critical thinking
 
 Author: Upton Sinclair
 

@@ -1,6 +1,6 @@
 Title:  More than enough
 
-Tags:   Practopian, liberty
+Tags:   liberty
 
 Author: William Blake
 

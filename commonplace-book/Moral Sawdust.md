@@ -1,6 +1,6 @@
 Title:  Moral Sawdust
 
-Tags:   Practopian, connection
+Tags:   connection
 
 Author: John Dickson Carr and Cecil Street
 

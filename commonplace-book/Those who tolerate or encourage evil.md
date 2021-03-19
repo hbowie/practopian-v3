@@ -1,6 +1,6 @@
 Title:  Those who tolerate or encourage evil
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Albert Einstein
 

@@ -1,6 +1,6 @@
 Title:  Climate Changers
 
-Tags:   Practopian, sustainability
+Tags:   sustainability
 
 Author: John Guillebaud
 

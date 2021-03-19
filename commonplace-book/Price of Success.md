@@ -1,6 +1,6 @@
 Title:  Price of Success
 
-Tags:   Pagan Tuna, Practopian, Reason to Rock, individuals
+Tags:   Pagan Tuna, Reason to Rock, individuals
 
 Author: Frank Lloyd Wright
 

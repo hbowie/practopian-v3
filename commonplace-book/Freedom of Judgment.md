@@ -1,6 +1,6 @@
 Title:  Freedom of Judgment
 
-Tags:   Practopian, liberty, society
+Tags:   liberty, society
 
 Author: Baruch Spinoza
 

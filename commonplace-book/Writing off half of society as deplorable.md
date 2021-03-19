@@ -1,6 +1,6 @@
 Title:  Writing off half of society as deplorable
 
-Tags:   Practopian, democracy
+Tags:   democracy
 
 Author: Edward Luce
 

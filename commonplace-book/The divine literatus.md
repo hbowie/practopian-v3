@@ -1,6 +1,6 @@
 Title:  The divine literatus
 
-Tags:   Practopian, art
+Tags:   art
 
 Author: Walt Whitman
 

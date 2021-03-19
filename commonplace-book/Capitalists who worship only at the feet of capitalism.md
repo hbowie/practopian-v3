@@ -1,6 +1,6 @@
 Title:  Capitalists who worship only at the feet of capitalism
 
-Tags:   Practopian, value creation
+Tags:   value creation
 
 Author: Herb Bowie
 

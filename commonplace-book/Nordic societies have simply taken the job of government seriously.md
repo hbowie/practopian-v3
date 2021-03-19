@@ -1,6 +1,6 @@
 Title:  Nordic societies have simply taken the job of government seriously
 
-Tags:   Practopian, governance
+Tags:   governance
 
 Author: Anu Partanen
 

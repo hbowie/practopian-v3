@@ -1,6 +1,6 @@
 Title:  I'll take the big sordid dirty crooked city
 
-Tags:   Practopian, cultural evolution, imperfection, society
+Tags:   cultural evolution, imperfection, society
 
 Author: Raymond Chandler
 

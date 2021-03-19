@@ -1,6 +1,6 @@
 Title:  The sort of organisms that interpret and modify their agency
 
-Tags:   Practopian, humanism
+Tags:   humanism
 
 Author: Amélie Rorty
 

@@ -1,6 +1,6 @@
 Title:  Learning how to exercise some control over how and what you think
 
-Tags:   Practopian, education
+Tags:   education
 
 Author: David Foster Wallace
 

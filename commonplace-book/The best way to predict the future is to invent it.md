@@ -1,6 +1,6 @@
 Title:  The best way to predict the future is to invent it
 
-Tags:   Practopian, individuals
+Tags:   individuals
 
 Author: Alan Kay
 

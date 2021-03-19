@@ -1,6 +1,6 @@
 Title:  National parks and reserves
 
-Tags:   Practopian, property
+Tags:   property
 
 Author: John F. Kennedy
 

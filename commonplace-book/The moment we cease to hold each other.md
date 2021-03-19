@@ -1,6 +1,6 @@
 Title:  The moment we cease to hold each other
 
-Tags:   Practopian, love
+Tags:   love
 
 Author: James Baldwin
 

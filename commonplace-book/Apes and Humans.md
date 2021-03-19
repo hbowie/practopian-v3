@@ -1,6 +1,6 @@
 Title:  Apes and Humans
 
-Tags:   Practopian, evolution, humanism, science
+Tags:   evolution, humanism, science
 
 Author: Carl Sagan and Ann Druyan
 

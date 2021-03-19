@@ -1,6 +1,6 @@
 Title:  Imagination is not a means of making money
 
-Tags:   Practopian, humanism
+Tags:   humanism
 
 Author: Ursula K. Le Guin
 

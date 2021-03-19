@@ -1,6 +1,6 @@
 Title:  A Work Ethic Gone Mad
 
-Tags:   Business, Pagan Tuna, Practopian, balance, humanism
+Tags:   Business, Pagan Tuna, balance, humanism
 
 Author: Matthew Stewart
 

@@ -1,6 +1,6 @@
 Title:  Which side will lose by winning
 
-Tags:   Practopian, evolution, practopian, systemic
+Tags:   evolution, practopian, systemic
 
 Author: Richard Powers
 

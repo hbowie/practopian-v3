@@ -1,6 +1,6 @@
 Title:  People ask me to predict the future
 
-Tags:   Practopian, individuals, progress
+Tags:   individuals, progress
 
 Author: Ray Bradbury
 

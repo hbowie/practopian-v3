@@ -1,6 +1,6 @@
 Title:  Fear of Missing Out
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Yuval Noah Harari
 

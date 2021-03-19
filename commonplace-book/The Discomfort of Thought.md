@@ -1,6 +1,6 @@
 Title:  The Discomfort of Thought
 
-Tags:   Pagan Tuna, Practopian, critical thinking, cultural evolution
+Tags:   Pagan Tuna, critical thinking, cultural evolution
 
 Author: John F. Kennedy
 

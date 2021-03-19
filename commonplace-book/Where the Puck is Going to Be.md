@@ -1,6 +1,6 @@
 Title:  Where the Puck is Going to Be
 
-Tags:   Business, Pagan Tuna, Practopian, critical thinking, progress
+Tags:   Business, Pagan Tuna, critical thinking, progress
 
 Author: Steve Jobs
 

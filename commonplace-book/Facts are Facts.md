@@ -1,6 +1,6 @@
 Title:  Facts are Facts
 
-Tags:   Practopian, critical thinking
+Tags:   critical thinking
 
 Author: Peter Kann
 

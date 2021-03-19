@@ -1,6 +1,6 @@
 Title:  First they came...
 
-Tags:   Practopian, connection, diversity, equality
+Tags:   connection, diversity, equality
 
 Author: Martin Niemöller
 

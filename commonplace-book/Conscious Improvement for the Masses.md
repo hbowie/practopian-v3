@@ -1,6 +1,6 @@
 Title:  Conscious Improvement for the Masses
 
-Tags:   Practopian, education, equality
+Tags:   education, equality
 
 Author: Edward Luce
 

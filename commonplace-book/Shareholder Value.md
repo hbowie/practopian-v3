@@ -1,6 +1,6 @@
 Title:  Shareholder Value
 
-Tags:   Pagan Tuna, Practopian, value creation
+Tags:   Pagan Tuna, value creation
 
 Author: Jack Welch
 

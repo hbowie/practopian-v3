@@ -1,6 +1,6 @@
 Title:  Generosity is the robust strategy
 
-Tags:   Practopian, equality
+Tags:   equality
 
 Author: Tim O'Reilly
 

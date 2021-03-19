@@ -1,6 +1,6 @@
 Title:  Cinema was about revelation
 
-Tags:   Practopian, art
+Tags:   art
 
 Author: Martin Scorsese
 

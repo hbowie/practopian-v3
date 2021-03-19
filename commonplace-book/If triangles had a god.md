@@ -1,6 +1,6 @@
 Title:  If triangles had a god
 
-Tags:   Practopian, religion
+Tags:   religion
 
 Author: Montesquieu
 

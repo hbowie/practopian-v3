@@ -1,6 +1,6 @@
 Title:  The only dependable things are humility and looking
 
-Tags:   Practopian, cultural evolution, science
+Tags:   cultural evolution, science
 
 Author: Richard Powers
 

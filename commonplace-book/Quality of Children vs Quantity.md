@@ -1,6 +1,6 @@
 Title:  Quality of Children vs. Quantity
 
-Tags:   Practopian, education, parenthood, sustainability
+Tags:   education, parenthood, sustainability
 
 Author: Margaret Mead
 

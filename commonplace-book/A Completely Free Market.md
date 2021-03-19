@@ -1,6 +1,6 @@
 Title:  A Completely Free Market
 
-Tags:   Practopian, balance, governance
+Tags:   balance, governance
 
 Author: Yuval Noah Harari
 

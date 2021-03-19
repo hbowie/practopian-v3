@@ -1,6 +1,6 @@
 Title:  The Love of What We are Doing
 
-Tags:   Practopian, Reason to Rock, love
+Tags:   Reason to Rock, love
 
 Author: Wynton Marsalis
 

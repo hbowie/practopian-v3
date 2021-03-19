@@ -1,6 +1,6 @@
 Title:  Socialism is their name for anything that helps the people
 
-Tags:   Practopian, governance
+Tags:   governance
 
 Author: Harry S. Truman
 

@@ -1,6 +1,6 @@
 Title:  Man must believe in an open future
 
-Tags:   Practopian, liberty, mission
+Tags:   liberty, mission
 
 Author: Colin Wilson
 

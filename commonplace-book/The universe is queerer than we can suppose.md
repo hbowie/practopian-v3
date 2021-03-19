@@ -1,6 +1,6 @@
 Title:  The universe is queerer than we can suppose
 
-Tags:   Practopian, wonder
+Tags:   wonder
 
 Author: J. B. S. Haldane
 

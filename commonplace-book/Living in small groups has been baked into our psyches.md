@@ -1,6 +1,6 @@
 Title:  Living in small groups has been baked into our psyches
 
-Tags:   Practopian, connection, evolution, society
+Tags:   connection, evolution, society
 
 Author: David Sloan Wilson
 

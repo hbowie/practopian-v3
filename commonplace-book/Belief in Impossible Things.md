@@ -1,6 +1,6 @@
 Title:  Belief in Impossible Things
 
-Tags:   Pagan Tuna, Practopian, Project Management, critical thinking
+Tags:   Pagan Tuna, Project Management, critical thinking
 
 Author: Tom DeMarco and Timothy Lister
 

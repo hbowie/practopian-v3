@@ -1,6 +1,6 @@
 Title:  All of us are trim tabs
 
-Tags:   Practopian, individuals
+Tags:   individuals
 
 Author: Jeff Bridges
 

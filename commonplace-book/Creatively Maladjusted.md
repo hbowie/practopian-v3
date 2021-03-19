@@ -1,6 +1,6 @@
 Title:  Creatively Maladjusted
 
-Tags:   Practopian, individuals
+Tags:   individuals
 
 Author: Martin Luther King Jr.
 

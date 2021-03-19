@@ -1,6 +1,6 @@
 Title:  We should always be fighting evil
 
-Tags:   Practopian, mission
+Tags:   mission
 
 Author: Stan Lee
 

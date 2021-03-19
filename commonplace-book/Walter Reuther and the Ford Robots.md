@@ -1,6 +1,6 @@
 Title:  Walter Reuther and the Ford Robots
 
-Tags:   Practopian, progress
+Tags:   progress
 
 Author: Walter Reuther
 

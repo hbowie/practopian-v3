@@ -1,6 +1,6 @@
 Title:  Successful Planning
 
-Tags:   Pagan Tuna, Practopian, critical thinking
+Tags:   Pagan Tuna, critical thinking
 
 Author: Dashiell Hammett
 

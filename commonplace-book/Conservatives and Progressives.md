@@ -1,6 +1,6 @@
 Title:  Conservatives and Progressives
 
-Tags:   Pagan Tuna, Practopian, governance, progress
+Tags:   Pagan Tuna, governance, progress
 
 Author: G. K. Chesterton
 

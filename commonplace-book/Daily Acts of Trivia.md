@@ -1,6 +1,6 @@
 Title:  Daily Acts of Trivia
 
-Tags:   Pagan Tuna, Practopian, progress
+Tags:   Pagan Tuna, progress
 
 Author: Robert Heinlein
 

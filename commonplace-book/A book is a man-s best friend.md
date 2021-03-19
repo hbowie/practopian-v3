@@ -1,6 +1,6 @@
 Title:  A book is a man's best friend
 
-Tags:   Practopian, integral, written word
+Tags:   integral, written word
 
 Author: Groucho Marx
 

@@ -1,6 +1,6 @@
 Title:  Worshipping the divine right of capital
 
-Tags:   Practopian, value creation
+Tags:   value creation
 
 Author: Tim O'Reilly
 

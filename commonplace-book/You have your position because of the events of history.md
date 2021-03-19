@@ -1,6 +1,6 @@
 Title:  You have your position because of the events of history
 
-Tags:   Practopian, connection, cultural evolution
+Tags:   connection, cultural evolution
 
 Author: Martin Luther King Jr.
 

@@ -1,6 +1,6 @@
 Title:  The historical trajectory of violence
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Steven Pinker
 

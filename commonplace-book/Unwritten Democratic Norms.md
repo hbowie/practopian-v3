@@ -1,6 +1,6 @@
 Title:  Unwritten Democratic Norms
 
-Tags:   Practopian, democracy
+Tags:   democracy
 
 Author: Steven Levitsky and Daniel Ziblatt
 

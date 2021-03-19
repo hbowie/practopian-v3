@@ -1,6 +1,6 @@
 Title:  All the World's Cultures Now Available to Us
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Ken Wilber
 

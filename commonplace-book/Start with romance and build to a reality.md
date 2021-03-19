@@ -1,6 +1,6 @@
 Title:  Start with romance and build to a reality
 
-Tags:   Practopian, art, humanism, wonder
+Tags:   art, humanism, wonder
 
 Author: Ray Bradbury
 

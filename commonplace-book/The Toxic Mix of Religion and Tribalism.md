@@ -1,6 +1,6 @@
 Title:  The Toxic Mix of Religion and Tribalism
 
-Tags:   Practopian, cultural evolution, religion, science
+Tags:   cultural evolution, religion, science
 
 Author: E. O. Wilson
 

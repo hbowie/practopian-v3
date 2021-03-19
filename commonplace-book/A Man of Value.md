@@ -1,6 +1,6 @@
 Title:  A Man of Value
 
-Tags:   Practopian, value creation
+Tags:   value creation
 
 Author: Albert Einstein
 

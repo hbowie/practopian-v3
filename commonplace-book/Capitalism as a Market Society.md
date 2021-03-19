@@ -1,6 +1,6 @@
 Title:  Capitalism as a Market Society
 
-Tags:   Practopian, critical thinking, equality, society, systemic
+Tags:   critical thinking, equality, society, systemic
 
 Author: Yanis Varoufakis
 

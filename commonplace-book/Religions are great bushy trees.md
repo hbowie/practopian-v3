@@ -1,6 +1,6 @@
 Title:  Religions are great bushy trees
 
-Tags:   Practopian, cultural evolution, religion
+Tags:   cultural evolution, religion
 
 Author: David Sloan Wilson
 

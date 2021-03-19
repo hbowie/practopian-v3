@@ -1,6 +1,6 @@
 Title:  To end up here in a pile of bones
 
-Tags:   Practopian, humanism
+Tags:   humanism
 
 Author: Frank Capra
 

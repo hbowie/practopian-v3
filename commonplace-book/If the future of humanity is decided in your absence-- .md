@@ -1,6 +1,6 @@
 Title:  If the future of humanity is decided in your absence...
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Yuval Noah Harari
 

@@ -1,6 +1,6 @@
 Title:  Unprecedented growth in human power
 
-Tags:   Practopian, sustainability
+Tags:   sustainability
 
 Author: Yuval Noah Harari
 

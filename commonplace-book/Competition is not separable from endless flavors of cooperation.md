@@ -1,6 +1,6 @@
 Title:  Competition is not separable from endless flavors of cooperation
 
-Tags:   Practopian, evolution, systemic, wonder
+Tags:   evolution, systemic, wonder
 
 Author: Richard Powers
 

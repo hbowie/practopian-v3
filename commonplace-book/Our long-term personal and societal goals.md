@@ -1,6 +1,6 @@
 Title:  Our long-term personal and societal goals
 
-Tags:   Practopian, cultural evolution, mission
+Tags:   cultural evolution, mission
 
 Author: David Sloan Wilson
 

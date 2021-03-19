@@ -1,6 +1,6 @@
 Title:  Six Impossible Things Before Breakfast
 
-Tags:   Pagan Tuna, Practopian, critical thinking
+Tags:   Pagan Tuna, critical thinking
 
 Author: Lewis Carroll
 

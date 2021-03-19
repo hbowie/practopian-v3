@@ -1,6 +1,6 @@
 Title:  Merely Thoroughly Outrageous
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Margery Allingham
 

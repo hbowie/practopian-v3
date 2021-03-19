@@ -1,6 +1,6 @@
 Title:  Belief is the end of Observation
 
-Tags:   Practopian, critical thinking, cultural evolution
+Tags:   critical thinking, cultural evolution
 
 Author: Milton Glaser
 

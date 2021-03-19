@@ -1,6 +1,6 @@
 Title:  A bicycle for our minds
 
-Tags:   Practopian, tools
+Tags:   tools
 
 Author: Steve Jobs
 

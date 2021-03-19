@@ -1,6 +1,6 @@
 Title:  I Dream Things That Never Were
 
-Tags:   Practopian, progress
+Tags:   progress
 
 Author: George Bernard Shaw
 

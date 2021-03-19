@@ -1,6 +1,6 @@
 Title:  Little I recognized as music
 
-Tags:   Practopian, Reason to Rock, art
+Tags:   Reason to Rock, art
 
 Author: Joe Boyd
 

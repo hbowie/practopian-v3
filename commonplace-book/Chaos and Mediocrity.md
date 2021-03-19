@@ -1,6 +1,6 @@
 Title:  Chaos and Mediocrity
 
-Tags:   Practopian, Reason to Rock, cultural evolution, society
+Tags:   Reason to Rock, cultural evolution, society
 
 Author: Joe Boyd
 

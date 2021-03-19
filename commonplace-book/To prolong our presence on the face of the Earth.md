@@ -1,6 +1,6 @@
 Title:  To prolong our presence on the face of the Earth
 
-Tags:   Practopian, critical thinking, humanism, mission
+Tags:   critical thinking, humanism, mission
 
 Author: Jonas Salk
 

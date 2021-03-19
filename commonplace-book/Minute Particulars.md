@@ -1,6 +1,6 @@
 Title:  Minute Particulars
 
-Tags:   Pagan Tuna, Practopian, practical
+Tags:   Pagan Tuna, practical
 
 Author: William Blake
 

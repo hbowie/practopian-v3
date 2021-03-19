@@ -1,6 +1,6 @@
 Title:  Cultural, as opposed to biological, evolution
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Edwin G. Pulleyblank
 

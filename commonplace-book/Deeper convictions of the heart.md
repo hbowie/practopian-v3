@@ -1,6 +1,6 @@
 Title:  Deeper convictions of the heart
 
-Tags:   Practopian, art
+Tags:   art
 
 Author: Leonard Cohen
 

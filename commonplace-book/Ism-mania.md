@@ -1,6 +1,6 @@
 Title:  Ism-mania
 
-Tags:   America, Practopian, diversity
+Tags:   America, diversity
 
 Author: Robert Riskin
 

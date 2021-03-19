@@ -1,6 +1,6 @@
 Title:  The Half-Finished Heaven
 
-Tags:   Practopian, connection, wonder
+Tags:   connection, wonder
 
 Author: Tomas Tranströmer
 

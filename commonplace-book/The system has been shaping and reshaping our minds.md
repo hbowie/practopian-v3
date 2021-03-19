@@ -1,6 +1,6 @@
 Title:  The system has been shaping and reshaping our minds
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Yuval Noah Harari
 

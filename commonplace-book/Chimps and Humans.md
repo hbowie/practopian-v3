@@ -1,6 +1,6 @@
 Title:  Chimps and Humans
 
-Tags:   Practopian, humanism, science
+Tags:   humanism, science
 
 Author: Carl Sagan and Ann Druyan
 

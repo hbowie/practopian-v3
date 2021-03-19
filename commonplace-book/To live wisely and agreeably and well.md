@@ -1,6 +1,6 @@
 Title:  To live wisely and agreeably and well
 
-Tags:   Practopian, equality
+Tags:   equality
 
 Author: John Maynard Keynes
 

@@ -1,6 +1,6 @@
 Title:  A foolish consistency
 
-Tags:   Practopian, balance
+Tags:   balance
 
 Author: Ralph Waldo Emerson
 

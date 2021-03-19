@@ -1,6 +1,6 @@
 Title:  Accidents of birth
 
-Tags:   Practopian, equality
+Tags:   equality
 
 Author: Anu Partanen
 

@@ -1,6 +1,6 @@
 Title:  Culture can be either mutualistic or predatory
 
-Tags:   Practopian, cultural evolution, society
+Tags:   cultural evolution, society
 
 Author: Victor Hwang
 

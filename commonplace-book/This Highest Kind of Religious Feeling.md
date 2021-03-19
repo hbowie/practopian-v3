@@ -1,6 +1,6 @@
 Title:  This Highest Kind of Religious Feeling
 
-Tags:   Practopian, cultural evolution, religion, wonder
+Tags:   cultural evolution, religion, wonder
 
 Author: Albert Einstein
 

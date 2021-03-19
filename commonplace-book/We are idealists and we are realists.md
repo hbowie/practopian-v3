@@ -1,6 +1,6 @@
 Title:  We are idealists and we are realists
 
-Tags:   Practopian, integral
+Tags:   integral
 
 Author: Alan Lightman
 

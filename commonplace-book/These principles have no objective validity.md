@@ -1,6 +1,6 @@
 Title:  These principles have no objective validity
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Yuval Noah Harari
 

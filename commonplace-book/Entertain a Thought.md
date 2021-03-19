@@ -1,6 +1,6 @@
 Title:  Entertain a Thought
 
-Tags:   Pagan Tuna, Practopian, critical thinking
+Tags:   Pagan Tuna, critical thinking
 
 Author: Aristotle
 

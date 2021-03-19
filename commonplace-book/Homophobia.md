@@ -1,6 +1,6 @@
 Title:  Homophobia
 
-Tags:   Practopian, cultural evolution, diversity
+Tags:   cultural evolution, diversity
 
 Author: Ken Wilber
 

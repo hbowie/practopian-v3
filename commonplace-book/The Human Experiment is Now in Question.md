@@ -1,6 +1,6 @@
 Title:  The Human Experiment is Now in Question
 
-Tags:   Practopian, sustainability
+Tags:   sustainability
 
 Author: Bill McKibben
 

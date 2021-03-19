@@ -1,6 +1,6 @@
 Title:  A Long Conversation
 
-Tags:   Practopian, Reason to Rock, art, connection
+Tags:   Reason to Rock, art, connection
 
 Author: Bruce Springsteen
 

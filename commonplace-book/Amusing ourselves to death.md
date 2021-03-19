@@ -1,6 +1,6 @@
 Title:  Amusing ourselves to death
 
-Tags:   Practopian, written word
+Tags:   written word
 
 Author: Neil Postman
 

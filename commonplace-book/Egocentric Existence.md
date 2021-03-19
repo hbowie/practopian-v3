@@ -1,6 +1,6 @@
 Title:  Egocentric Existence
 
-Tags:   Practopian, cultural evolution
+Tags:   cultural evolution
 
 Author: Clare W. Graves
 

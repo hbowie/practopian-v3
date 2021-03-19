@@ -1,6 +1,6 @@
 Title:  The Paranoid Style in American Politics
 
-Tags:   Practopian, democracy
+Tags:   democracy
 
 Author: Richard Hofstadter
 

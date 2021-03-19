@@ -1,6 +1,6 @@
 Title:  Investing in other people's children
 
-Tags:   Practopian, education, society
+Tags:   education, society
 
 Author: Robert Putnam
 

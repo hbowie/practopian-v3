@@ -1,6 +1,6 @@
 Title:  Living with the strains of complexity
 
-Tags:   Practopian, governance
+Tags:   governance
 
 Author: Daniel Patrick Moynihan
 

@@ -1,6 +1,6 @@
 Title:  The Cult of Ignorance
 
-Tags:   America, Practopian, critical thinking
+Tags:   America, critical thinking
 
 Author: Isaac Asimov
 

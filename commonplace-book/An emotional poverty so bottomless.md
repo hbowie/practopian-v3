@@ -1,6 +1,6 @@
 Title:  An emotional poverty so bottomless
 
-Tags:   Practopian, connection
+Tags:   connection
 
 Author: James Baldwin
 

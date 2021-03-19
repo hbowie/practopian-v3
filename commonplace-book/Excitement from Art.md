@@ -1,6 +1,6 @@
 Title:  Excitement from Art
 
-Tags:   Practopian, art
+Tags:   art
 
 Author: Anthony Burgess
 

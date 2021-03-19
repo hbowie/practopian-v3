@@ -1,6 +1,6 @@
 Title:  An Integral God
 
-Tags:   Practopian, integral, religion
+Tags:   integral, religion
 
 Author: Ken Wilber
 

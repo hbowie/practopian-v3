@@ -1,6 +1,6 @@
 Title:  The axis is constructive-destructive
 
-Tags:   Practopian, mission
+Tags:   mission
 
 Author: Steve Jobs
 

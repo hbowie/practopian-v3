@@ -1,6 +1,6 @@
 Title:  Power and Privilege have been amassed
 
-Tags:   Practopian, society
+Tags:   society
 
 Author: Peter Boettke
 

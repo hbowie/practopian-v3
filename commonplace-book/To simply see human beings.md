@@ -1,6 +1,6 @@
 Title:  To simply see human beings
 
-Tags:   Practopian, humanism
+Tags:   humanism
 
 Author: Charles Woodson
 

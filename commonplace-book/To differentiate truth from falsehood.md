@@ -1,6 +1,6 @@
 Title:  To differentiate truth from falsehood
 
-Tags:   Practopian, critical thinking, education
+Tags:   critical thinking, education
 
 Author: Robert B. Reich
 
