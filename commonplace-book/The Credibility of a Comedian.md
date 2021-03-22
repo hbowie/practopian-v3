@@ -1,6 +1,6 @@
 Title:  The Credibility of a Comedian
 
-Tags:   America, democracy
+Tags:   USA, democracy
 
 Author: Jon Stewart
 

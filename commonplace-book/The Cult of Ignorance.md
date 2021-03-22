@@ -1,6 +1,6 @@
 Title:  The Cult of Ignorance
 
-Tags:   America, critical thinking
+Tags:   USA, critical thinking
 
 Author: Isaac Asimov
 

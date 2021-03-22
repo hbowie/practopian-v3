@@ -1,6 +1,6 @@
 Title:  The Makers of Things
 
-Tags:   America, cultural evolution, individuals, progress
+Tags:   USA, cultural evolution, individuals, progress
 
 Author: Barack Obama
 

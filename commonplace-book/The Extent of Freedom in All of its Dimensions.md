@@ -1,6 +1,6 @@
 Title:  The Extent of Freedom in All of its Dimensions
 
-Tags:   America, cultural evolution, liberty
+Tags:   USA, cultural evolution, liberty
 
 Author: Anthony M. Kennedy
 

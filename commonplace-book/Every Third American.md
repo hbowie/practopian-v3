@@ -1,6 +1,6 @@
 Title:  Every Third American
 
-Tags:   America, liberty
+Tags:   USA, liberty
 
 Author: H. L. Mencken
 

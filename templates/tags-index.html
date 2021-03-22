@@ -5,21 +5,23 @@
 	<meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0" />
 	<title>Topics</title>
-	  <link rel="stylesheet" href="=$relative$=fonts/concourse_t3.css" type="text/css" />
-    <link rel="stylesheet" href="=$relative$=fonts/stylesheet.css" type="text/css" />
-    <link rel="stylesheet" href="=$relative$=css/styles.css" />
+<?include "../includes/head-links.html" ?>
 </head>
 <body>
 
 <?include "../includes/nav.html" ?>
 
+<main>
+
 <h1>Topics</h1>
 
 <p>My interests and writings tend to revolve around a number of recurring topics representing concerns of mine about our modern world. These topics are listed below, and selecting one of them will reveal original content and quotations relevant to that topic. </p>
-<ul>
+
 <?nextrec?>
-<li><a href="=$title&f$=.html">=$title$=</a></li>
 <?loop?>
-</ul>
+
+<?include "../includes-gen/tags-box.html" ?>
+
+</main>
 </body>
 </html>

@@ -1,6 +1,6 @@
 Title:  Ism-mania
 
-Tags:   America, diversity
+Tags:   USA, diversity
 
 Author: Robert Riskin
 

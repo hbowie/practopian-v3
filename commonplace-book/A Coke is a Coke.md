@@ -1,6 +1,6 @@
 Title:  A Coke is a Coke
 
-Tags:   America, equality
+Tags:   USA, equality
 
 Author: Andy Warhol
 

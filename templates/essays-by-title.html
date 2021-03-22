@@ -1,0 +1,27 @@
+<?output "../blog/hbowie/index.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>Essays by Title</title>
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+
+<?include "../includes/nav.html" ?>
+
+<main>
+
+<h1>Essays by Title</h1>
+
+<ul>
+<?nextrec?>
+<?if =$type$= eq "blog" ?>
+<li><a href="=$title&f$=.html">=$title$=</a></li>
+<?endif?>
+<?loop?>
+</ul>
+</main>
+</body>
+</html>

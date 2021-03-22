@@ -16,11 +16,18 @@ Index:  developmental levels; levels, developmental; social structures; penguins
 
 Minutes to Read: 7
 
-Image Name: network of people
+Image Name: connected wooden people blocks
+
+Image Alt: Wooden blocks depicting people, connected by dotted lines
+
+Image Credit: iStock/Eoneren
+
+Image Credit Link: https://www.istockphoto.com/photo/leadership-and-social-network-gm1187593774-335539057
 
 Teaser: 
 
 As human society has evolved over the centuries, we have developed different types of social structures. None of the later structures  replace earlier ones, yet each new structure has been devised in order to confer some new sort of evolutionary advantage to our species -- in other words, to help us survive and thrive more effectively.
+
 
 Body: 
 

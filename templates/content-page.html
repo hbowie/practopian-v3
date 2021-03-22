@@ -11,28 +11,50 @@
 	<meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0" />
 	<title>=$title$=</title>
-	  <link rel="stylesheet" href="=$relative$=fonts/concourse_t3.css" type="text/css" />
-    <link rel="stylesheet" href="=$relative$=fonts/stylesheet.css" type="text/css" />
-    <link rel="stylesheet" href="=$relative$=css/styles.css" />
+<?include "../includes/head-links.html" ?>
 </head>
 <body>
 
 <?include "../includes/nav.html" ?>
 
-<h1>=$title$=</h1>
+<div class="container">
 
-<p>tags: =$tags&gtags/$=</p>
+	<div class="row">
 
-<p>=$minutes-to-read$= min read</p>
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-10 col-lg-8 col-xl-6">
+
+			<main>
+
+				<h1>=$title$=</h1>
+
+				<p><span class="pr-topics-label">topics:</span> =$tags&gtags/;btn btn-secondary mx-1 pr-topic$=</p>
+
+				<p>=$minutes-to-read$= min read</p>
 
 <?if "=$imagename$=" ?>
-<p>
-<img src="=$relative$=images/=$imagename&f$=" alt="=$imagealt$=">
-</p>
+				<p>
+				<img src="=$relative$=images/=$imagename&f$=" alt="=$imagealt$=">
+				</p>
 
 <?copyfile "../content/hbowie/files/=$imagename$=" "../images/=$imagename&f$=" ?>
 <?endif?>
-=$body&o$=
+				=$body&o$=
+
+			</main>
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+	</div> <!-- /.row -->
+</div> <!-- /.container -->
+    <script src="=$relative$=js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
 <?loop?>

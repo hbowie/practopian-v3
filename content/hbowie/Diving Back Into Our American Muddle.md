@@ -1,6 +1,6 @@
 Title:  Diving Back Into Our American Muddle
 
-Tags:   America, US politics, cultural evolution, governance, society
+Tags:   US politics, USA, cultural evolution, governance, society
 
 Timestamp: 20210311190815
 
