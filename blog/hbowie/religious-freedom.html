@@ -33,18 +33,47 @@
 
     <div class="collapse navbar-collapse" id="main-navigation">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-                <a class="nav-link" href="../../index.html">Home</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../../blog/hbowie/index.html">Essays</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../../tags/index.html">Topics</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../../authors/index.html">Authors</a>
-            </li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../index.html">Home</a>
+					</li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../blog/hbowie/index.html">Essays</a>
+					</li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../tags/index.html">Topics</a>
+					</li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-quotes" data-bs-toggle="dropdown" aria-expanded="false">
+            	Quotes
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-quotes">
+              <li><a class="dropdown-item pr-nav-item" href="../../authors/index.html">
+              	Authors
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../quotes/latest.html">
+              	Latest Quotes
+              </a></li>
+            </ul>
+          </li>
+
+          <li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-about" data-bs-toggle="dropdown" aria-expanded="false">
+            	About
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-about">
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-author.html">
+              	About the Author
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-site.html">
+              	About the Site
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-tools.html">
+              	About the Tools
+              </a></li>
+            </ul>
+          </li>
+
         </ul>
     </div> <!-- /#main-navigation -->
 
@@ -64,16 +93,18 @@
 
 			<main>
 
-				<h1>Religious Freedom</h1>
+				<h1 class="pr-page-title">Religious Freedom</h1>
 
-				<p><span class="pr-topics-label">topics:</span> <a class='btn btn-secondary mx-1 pr-topic' href='../../tags/balance.html' rel='tag'>balance</a><a class='btn btn-secondary mx-1 pr-topic' href='../../tags/critical-thinking.html' rel='tag'>critical thinking</a><a class='btn btn-secondary mx-1 pr-topic' href='../../tags/liberty.html' rel='tag'>liberty</a><a class='btn btn-secondary mx-1 pr-topic' href='../../tags/love.html' rel='tag'>love</a><a class='btn btn-secondary mx-1 pr-topic' href='../../tags/religion.html' rel='tag'>religion</a><a class='btn btn-secondary mx-1 pr-topic' href='../../tags/written-word.html' rel='tag'>written word</a></p>
+				<p class="pr-date-and-mins">04 Aug 2012 &middot; 4 min read</p>
 
-				<p>4 min read</p>
+				<p><span class="pr-topics-label">topics:</span> <a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/balance.html' rel='tag'>balance</a><a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/critical-thinking.html' rel='tag'>critical thinking</a><a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/liberty.html' rel='tag'>liberty</a><a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/love.html' rel='tag'>love</a><a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/religion.html' rel='tag'>religion</a><a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/written-word.html' rel='tag'>written word</a></p>
 
 				<p>
-				<img src="../../images/religious-freedom-flushing-remonstrance.jpg" alt="U.S. Postage Stamp Commemorating Religious Freedom">
+					<img class="img-fluid rounded" src="../../images/religious-freedom-flushing-remonstrance.jpg" alt="U.S. Postage Stamp Commemorating Religious Freedom">
 				</p>
 
+
+				<div class="pr-content">
 				<p>When it comes to religion, I have to confess to being a bit of a mongrel. </p>
 <p>My mother was a Methodist. My father was a nudist. And I once called myself an <a href="http://www.amazon.com/Why-Die-Beginners-Living-Forever/dp/1890457078">immortalist</a>. </p>
 <p>These days I choose not to align myself with any particular religious group. </p>
@@ -100,6 +131,13 @@
 <p>The purpose of free speech is not to give equal time to every citizen to speak whatever idiocy pops into their heads, while the rest of us sit around and nod our heads in pretended agreement &#8211; the purpose of free speech is to encourage a vigorous public discourse that will make all of us better informed and wiser citizens. Sometimes we must suffer the former in order to achieve the latter, but we should never confuse the two. </p>
 </blockquote>
 
+				</div>
+
+				<div>
+				  <p class="float-end">
+    				<a href="#" class="btn btn-outline-secondary" role="button">Back to top</a>
+  				</p>
+  			</div>
 
 			</main>
 
@@ -110,7 +148,37 @@
 		</div>
 
 	</div> <!-- /.row -->
+
+	<div class="row">
+
+		<div class="col-12">
+
+			<hr />
+
+			<p class="text-center pr-footer-p" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+				<a class="pr-footer-a" property="dct:title" rel="cc:attributionURL" href="https://practopian.org">
+					The Practical Utopian website
+				</a>
+				by
+				<a  class="pr-footer-a" rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://hbowie.net">
+					Herb Bowie
+				</a>
+				is licensed under
+				<a  class="pr-footer-a" href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
+					CC BY-SA 4.0
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1">
+				</a>
+			</p>
+
+		</div>
+
+	</div> <!-- /.row -->
+
 </div> <!-- /.container -->
+
+
     <script src="../../js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

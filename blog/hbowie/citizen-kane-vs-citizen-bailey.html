@@ -33,18 +33,47 @@
 
     <div class="collapse navbar-collapse" id="main-navigation">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-                <a class="nav-link" href="../../index.html">Home</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../../blog/hbowie/index.html">Essays</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../../tags/index.html">Topics</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../../authors/index.html">Authors</a>
-            </li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../index.html">Home</a>
+					</li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../blog/hbowie/index.html">Essays</a>
+					</li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../tags/index.html">Topics</a>
+					</li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-quotes" data-bs-toggle="dropdown" aria-expanded="false">
+            	Quotes
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-quotes">
+              <li><a class="dropdown-item pr-nav-item" href="../../authors/index.html">
+              	Authors
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../quotes/latest.html">
+              	Latest Quotes
+              </a></li>
+            </ul>
+          </li>
+
+          <li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-about" data-bs-toggle="dropdown" aria-expanded="false">
+            	About
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-about">
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-author.html">
+              	About the Author
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-site.html">
+              	About the Site
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-tools.html">
+              	About the Tools
+              </a></li>
+            </ul>
+          </li>
+
         </ul>
     </div> <!-- /#main-navigation -->
 
@@ -64,16 +93,18 @@
 
 			<main>
 
-				<h1>Citizen Kane vs. Citizen Bailey</h1>
+				<h1 class="pr-page-title">Citizen Kane vs. Citizen Bailey</h1>
 
-				<p><span class="pr-topics-label">topics:</span> <a class='btn btn-secondary mx-1 pr-topic' href='../../tags/art.html' rel='tag'>art</a><a class='btn btn-secondary mx-1 pr-topic' href='../../tags/cultural-evolution.html' rel='tag'>cultural evolution</a><a class='btn btn-secondary mx-1 pr-topic' href='../../tags/integral.html' rel='tag'>integral</a></p>
+				<p class="pr-date-and-mins">04 Mar 2019 &middot; 7 min read</p>
 
-				<p>7 min read</p>
+				<p><span class="pr-topics-label">topics:</span> <a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/art.html' rel='tag'>art</a><a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/cultural-evolution.html' rel='tag'>cultural evolution</a><a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/integral.html' rel='tag'>integral</a></p>
 
 				<p>
-				<img src="../../images/citizen-kane-vs-citizen-bailey-kane-vs-bailey.jpg" alt="">
+					<img class="img-fluid rounded" src="../../images/citizen-kane-vs-citizen-bailey-kane-vs-bailey.jpg" alt="">
 				</p>
 
+
+				<div class="pr-content">
 				<p>I've often considered <em><a href="https://en.wikipedia.org/wiki/Citizen_Kane">Citizen Kane</a></em> and <em><a href="https://en.wikipedia.org/wiki/It%27s_a_Wonderful_Life">It's A Wonderful Life</a></em> to be complementary works, much like cinematic twins separated at birth. </p>
 <p>Consider first their similarities. <em>Kane</em> was released in 1941, while <em>Wonderful Life</em> was released in '46. Both were highly collaborative productions, and both were ultimately considered the signature works of their respective directors, Orson Welles and Frank Capra. Both films were box office failures when initially released, but found appreciative audiences later in their long careers. And both are often considered among the <a href="https://www.afi.com/100Years/movies.aspx">finest movies ever made</a>. </p>
 <p>More significantly, each film took on the challenge of summarizing a character's entire life during the course of roughly two hours. Both told their stories via flashbacks, and both used the dramatic device of having one or more narrators explaining elements of the character's life to an inquisitive outsider: a reporter, in <em>Kane</em>, and an angel in <em>Life</em>. And both began their stories with children playing in the snow. </p>
@@ -135,6 +166,13 @@ The First-Tier Developmental Spiral
 <p>All of us are faced with difficult decisions over the courses of our lives, but none of us should have to choose individualism over community, and none of us should worship at the feet of these sorts of individualists. We can't always have it all &#8211; we do have to make tough choices, just as Citizens Kane and Bailey did &#8211; but we can still strive to integrate individualistic concerns with concerns for community, in order to become whole, integral human beings. </p>
 <p>And works of art such as <em>Citizen Kane</em> and <em>It's A Wonderful Life</em>, when viewed with thoughtful appreciation, can help show us the way. </p>
 
+				</div>
+
+				<div>
+				  <p class="float-end">
+    				<a href="#" class="btn btn-outline-secondary" role="button">Back to top</a>
+  				</p>
+  			</div>
 
 			</main>
 
@@ -145,7 +183,37 @@ The First-Tier Developmental Spiral
 		</div>
 
 	</div> <!-- /.row -->
+
+	<div class="row">
+
+		<div class="col-12">
+
+			<hr />
+
+			<p class="text-center pr-footer-p" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+				<a class="pr-footer-a" property="dct:title" rel="cc:attributionURL" href="https://practopian.org">
+					The Practical Utopian website
+				</a>
+				by
+				<a  class="pr-footer-a" rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://hbowie.net">
+					Herb Bowie
+				</a>
+				is licensed under
+				<a  class="pr-footer-a" href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
+					CC BY-SA 4.0
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1">
+				</a>
+			</p>
+
+		</div>
+
+	</div> <!-- /.row -->
+
 </div> <!-- /.container -->
+
+
     <script src="../../js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

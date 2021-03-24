@@ -33,18 +33,47 @@
 
     <div class="collapse navbar-collapse" id="main-navigation">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-                <a class="nav-link" href="../../index.html">Home</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../../blog/hbowie/index.html">Essays</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../../tags/index.html">Topics</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../../authors/index.html">Authors</a>
-            </li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../index.html">Home</a>
+					</li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../blog/hbowie/index.html">Essays</a>
+					</li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../tags/index.html">Topics</a>
+					</li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-quotes" data-bs-toggle="dropdown" aria-expanded="false">
+            	Quotes
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-quotes">
+              <li><a class="dropdown-item pr-nav-item" href="../../authors/index.html">
+              	Authors
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../quotes/latest.html">
+              	Latest Quotes
+              </a></li>
+            </ul>
+          </li>
+
+          <li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-about" data-bs-toggle="dropdown" aria-expanded="false">
+            	About
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-about">
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-author.html">
+              	About the Author
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-site.html">
+              	About the Site
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-tools.html">
+              	About the Tools
+              </a></li>
+            </ul>
+          </li>
+
         </ul>
     </div> <!-- /#main-navigation -->
 
@@ -64,16 +93,18 @@
 
 			<main>
 
-				<h1>Developmental Levels</h1>
+				<h1 class="pr-page-title">Developmental Levels</h1>
 
-				<p><span class="pr-topics-label">topics:</span> <a class='btn btn-secondary mx-1 pr-topic' href='../../tags/cultural-evolution.html' rel='tag'>cultural evolution</a><a class='btn btn-secondary mx-1 pr-topic' href='../../tags/integral.html' rel='tag'>integral</a></p>
+				<p class="pr-date-and-mins">22 Oct 2009 &middot; 2 min read</p>
 
-				<p>2 min read</p>
+				<p><span class="pr-topics-label">topics:</span> <a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/cultural-evolution.html' rel='tag'>cultural evolution</a><a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/integral.html' rel='tag'>integral</a></p>
 
 				<p>
-				<img src="../../images/developmental-levels-stacking-blocks.jpg" alt="Ascending series of wood blocks with arrows pointing up">
+					<img class="img-fluid rounded" src="../../images/developmental-levels-stacking-blocks.jpg" alt="Ascending series of wood blocks with arrows pointing up">
 				</p>
 
+
+				<div class="pr-content">
 				<p>A number of authors and systems of thought espouse one or another series of developmental levels, in fields of study as diverse as psychology, sociology, economics and organizational development. <a href="https://en.wikipedia.org/wiki/Ken_Wilber">Ken Wilber</a> was the first author I encountered who proposed an integration of these various developmental progressions into a single unifying scheme. However, much of Ken's take  on these levels was heavily influenced by the Spiral Dynamics work done by Clare W. Graves, Don Beck and Chris Cowan. </p>
 <p>The following reference table lists the levels in this general, unifying model, showing the color schemes used by both Integral Theory and Spiral Dynamics. </p>
 <table>
@@ -161,6 +192,13 @@ Developmental Levels
 <p>What I am referring to as levels 1 - 6 are sometimes referred to as &#8220;first tier,&#8221; while higher levels are &#8220;second tier&#8221; or &#8220;third tier.&#8221; It seems to me that gradations of levels beyond 7 are sometimes based more on aspiration than on reality: of course, proponents of these higher levels would probably insist that my position is based on me being &#8220;stuck&#8221; at a lower level. I will leave it to the reader to make these sorts of judgments. </p>
 <p>I should be clear that while the table above summarizes material from both Integral Theory and Spiral Dynamics, it does full justice to neither; interested readers are encouraged to seek out more authoritative source materials such as <cite><a href="http://www.amazon.com/Brief-History-Everything-Ken-Wilber/dp/1570627401/ref=sr_1_3?s=books&ie=UTF8&qid=1351079735&sr=1-3&keywords=ken+wilber">A Brief History of Everything</a></cite>, by Wilber, as well as <cite><a href="http://www.amazon.com/Spiral-Dynamics-Mastering-Values-Leadership/dp/1405133562">Spiral Dynamics: Mastering Values, Leadership and Change</a></cite>, by Graves, Beck and Cowan. </p>
 
+				</div>
+
+				<div>
+				  <p class="float-end">
+    				<a href="#" class="btn btn-outline-secondary" role="button">Back to top</a>
+  				</p>
+  			</div>
 
 			</main>
 
@@ -171,7 +209,37 @@ Developmental Levels
 		</div>
 
 	</div> <!-- /.row -->
+
+	<div class="row">
+
+		<div class="col-12">
+
+			<hr />
+
+			<p class="text-center pr-footer-p" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+				<a class="pr-footer-a" property="dct:title" rel="cc:attributionURL" href="https://practopian.org">
+					The Practical Utopian website
+				</a>
+				by
+				<a  class="pr-footer-a" rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://hbowie.net">
+					Herb Bowie
+				</a>
+				is licensed under
+				<a  class="pr-footer-a" href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
+					CC BY-SA 4.0
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1">
+				</a>
+			</p>
+
+		</div>
+
+	</div> <!-- /.row -->
+
 </div> <!-- /.container -->
+
+
     <script src="../../js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

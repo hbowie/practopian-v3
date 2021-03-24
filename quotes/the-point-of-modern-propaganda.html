@@ -33,18 +33,47 @@
 
     <div class="collapse navbar-collapse" id="main-navigation">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-                <a class="nav-link" href="../index.html">Home</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../blog/hbowie/index.html">Essays</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../tags/index.html">Topics</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../authors/index.html">Authors</a>
-            </li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../index.html">Home</a>
+					</li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../blog/hbowie/index.html">Essays</a>
+					</li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../tags/index.html">Topics</a>
+					</li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-quotes" data-bs-toggle="dropdown" aria-expanded="false">
+            	Quotes
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-quotes">
+              <li><a class="dropdown-item pr-nav-item" href="../authors/index.html">
+              	Authors
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../quotes/latest.html">
+              	Latest Quotes
+              </a></li>
+            </ul>
+          </li>
+
+          <li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-about" data-bs-toggle="dropdown" aria-expanded="false">
+            	About
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-about">
+              <li><a class="dropdown-item pr-nav-item" href="../about/the-author.html">
+              	About the Author
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../about/the-site.html">
+              	About the Site
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../about/the-tools.html">
+              	About the Tools
+              </a></li>
+            </ul>
+          </li>
+
         </ul>
     </div> <!-- /#main-navigation -->
 
@@ -52,27 +81,81 @@
 
 </nav>
 
-<main>
+<div class="container">
 
-<h1>The point of modern propaganda</h1>
+	<div class="row">
 
-				<p><span class="pr-topics-label">topics:</span> <a class='btn btn-secondary mx-1 pr-topic' href='../tags/critical-thinking.html' rel='tag'>critical thinking</a></p>
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
 
-<blockquote>
-<p>The point of modern propaganda isn't only to misinform or push an agenda. It is to exhaust your critical thinking, to annihilate truth. </p>
+		</div>
 
-</blockquote>
+		<div class="col-12 col-sm-12 col-md-10 col-lg-8 col-xl-6">
 
-<p>&mdash; <a href="../authors/garry-kasparov.html">Garry Kasparov</a>, 12/13/2016</p>
+			<main>
 
-<p>From
-the unknown
-<cite>
-<a href="https://twitter.com/kasparov63/status/808750564284702720?lang=en">
-Twitter
-</a>
-</cite></p>
+				<h1 class="pr-page-title">The point of modern propaganda</h1>
 
-</main>
+					<p><span class="pr-topics-label">topics:</span> <a class='btn btn-secondary mx-1 my-1 pr-topic' href='../tags/critical-thinking.html' rel='tag'>critical thinking</a></p>
+
+				<div class="pr-content">
+
+					<blockquote>
+						<p>The point of modern propaganda isn't only to misinform or push an agenda. It is to exhaust your critical thinking, to annihilate truth. </p>
+
+					</blockquote>
+
+					<p>&mdash; <a href="../authors/garry-kasparov.html">Garry Kasparov</a>, 12/13/2016</p>
+
+					<p>From
+						the unknown
+						<cite>
+						<a href="https://twitter.com/kasparov63/status/808750564284702720?lang=en">
+						Twitter
+						</a>
+						</cite></p>
+
+				</div>
+
+			</main>
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+	</div> <!-- /.row -->
+
+	<div class="row">
+
+		<div class="col-12">
+
+			<hr />
+
+			<p class="text-center pr-footer-p" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+				<a class="pr-footer-a" property="dct:title" rel="cc:attributionURL" href="https://practopian.org">
+					The Practical Utopian website
+				</a>
+				by
+				<a  class="pr-footer-a" rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://hbowie.net">
+					Herb Bowie
+				</a>
+				is licensed under
+				<a  class="pr-footer-a" href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
+					CC BY-SA 4.0
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1">
+				</a>
+			</p>
+
+		</div>
+
+	</div> <!-- /.row -->
+
+</div> <!-- /.container -->
+
+
+    <script src="../js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

@@ -33,18 +33,47 @@
 
     <div class="collapse navbar-collapse" id="main-navigation">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-                <a class="nav-link" href="../../index.html">Home</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../../blog/hbowie/index.html">Essays</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../../tags/index.html">Topics</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../../authors/index.html">Authors</a>
-            </li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../index.html">Home</a>
+					</li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../blog/hbowie/index.html">Essays</a>
+					</li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../tags/index.html">Topics</a>
+					</li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-quotes" data-bs-toggle="dropdown" aria-expanded="false">
+            	Quotes
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-quotes">
+              <li><a class="dropdown-item pr-nav-item" href="../../authors/index.html">
+              	Authors
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../quotes/latest.html">
+              	Latest Quotes
+              </a></li>
+            </ul>
+          </li>
+
+          <li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-about" data-bs-toggle="dropdown" aria-expanded="false">
+            	About
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-about">
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-author.html">
+              	About the Author
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-site.html">
+              	About the Site
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-tools.html">
+              	About the Tools
+              </a></li>
+            </ul>
+          </li>
+
         </ul>
     </div> <!-- /#main-navigation -->
 
@@ -64,16 +93,18 @@
 
 			<main>
 
-				<h1>Why I Use Markdown (And Why You Should Too)</h1>
+				<h1 class="pr-page-title">Why I Use Markdown (And Why You Should Too)</h1>
 
-				<p><span class="pr-topics-label">topics:</span> <a class='btn btn-secondary mx-1 pr-topic' href='../../tags/critical-thinking.html' rel='tag'>critical thinking</a><a class='btn btn-secondary mx-1 pr-topic' href='../../tags/written-word.html' rel='tag'>written word</a></p>
+				<p class="pr-date-and-mins">25 Feb 2020 &middot; 8 min read</p>
 
-				<p>8 min read</p>
+				<p><span class="pr-topics-label">topics:</span> <a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/critical-thinking.html' rel='tag'>critical thinking</a><a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/written-word.html' rel='tag'>written word</a></p>
 
 				<p>
-				<img src="../../images/why-i-use-markdown-and-why-you-should-too-markdown-mark.png" alt="Capital M followed by down arrow">
+					<img class="img-fluid rounded" src="../../images/why-i-use-markdown-and-why-you-should-too-markdown-mark.png" alt="Capital M followed by down arrow">
 				</p>
 
+
+				<div class="pr-content">
 				<p>What is Markdown, and why should you care? </p>
 <p>Let's just start by saying that Markdown is a deceptively simple tool for writers. </p>
 <p>Why do I call Markdown's simplicity <em>deceptive</em>? </p>
@@ -121,6 +152,13 @@
 <p>On the other hand, I will say this: if more organizations were using Markdown rather than word docs and digital slide decks, they would probably be wasting less time and making better decisions. </p>
 <p>In my experience, all of the formatting options found in traditional office tools are generally used to disguise a lack of critical, original thinking, and divert and distract an audience from the actual thoughts being expressed. On the other hand, if all you have to express your thoughts are your words and a few minimal formatting options, then it's easier for people to evaluate your ideas on their own merits. </p>
 
+				</div>
+
+				<div>
+				  <p class="float-end">
+    				<a href="#" class="btn btn-outline-secondary" role="button">Back to top</a>
+  				</p>
+  			</div>
 
 			</main>
 
@@ -131,7 +169,37 @@
 		</div>
 
 	</div> <!-- /.row -->
+
+	<div class="row">
+
+		<div class="col-12">
+
+			<hr />
+
+			<p class="text-center pr-footer-p" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+				<a class="pr-footer-a" property="dct:title" rel="cc:attributionURL" href="https://practopian.org">
+					The Practical Utopian website
+				</a>
+				by
+				<a  class="pr-footer-a" rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://hbowie.net">
+					Herb Bowie
+				</a>
+				is licensed under
+				<a  class="pr-footer-a" href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
+					CC BY-SA 4.0
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1">
+				</a>
+			</p>
+
+		</div>
+
+	</div> <!-- /.row -->
+
 </div> <!-- /.container -->
+
+
     <script src="../../js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

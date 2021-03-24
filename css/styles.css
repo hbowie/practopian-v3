@@ -11,17 +11,12 @@ h1, h2, h3, h4, h5, h6 {
   color: #3070AA;
 }
 
-h1 { font-size: 1.8em; margin-top: 0.3em; margin-bottom: 0.2em; }
+/* h1 { font-size: 1.8em; margin-top: 0.3em; margin-bottom: 0.2em; }
 h2 { font-size: 1.5em; margin-top: 0.3em; margin-bottom: 0.3em; }
 h3 { font-size: 1.3em; }
 h4 { font-size: 1.2em; }
 h5 { font-size: 1.1em; margin-top: 16px; line-height: 120%; }
-h6 { font-size: 1.0em; }
-
-img {
-  max-width: 100%;
-  height: auto;
-}
+h6 { font-size: 1.0em; } */
 
 .img-practopian { vertical-align: -70%; }
 
@@ -37,6 +32,10 @@ img {
 	color: #3070AA;
 }
 
+.pr-nav-item {
+	font-family: 'concourse_c4regular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
 .pr-topics-label {
 	font-family: 'concourse_t3regular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -44,3 +43,91 @@ img {
 .pr-topic {
 	font-family: 'concourse_c4regular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
+
+.pr-page-title {
+	margin-top: 0.5rem;
+}
+
+.pr-date-and-mins {
+	font-family: 'concourse_t3regular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+th.pr-sort-header {
+	color: #005493;
+	text-decoration: none;
+	border: 1px #005493 dotted;
+}
+
+.pr-content a:link
+{
+	color: #005493;
+	text-decoration: none;
+	border-bottom: 1px #005493 dotted;
+}
+
+.pr-content a:visited {
+	color: #005493;
+	text-decoration: none;
+}
+
+.pr-content a:active {
+	color: #005493;
+	text-decoration: none;
+}
+
+.pr-content a:hover {
+	color: #005493;
+	text-decoration: none;
+	border-bottom: 1px #3C4A66 dotted;
+}
+
+.pr-footer-p {
+  font-family: 'concourse_t3regular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+a.pr-footer-a:link {
+	text-decoration: none;
+	color: inherit;
+}
+
+a.pr-footer-a:visited {
+	text-decoration: none;
+	color: inherit;
+}
+
+a.pr-footer-a:hover
+{
+	text-decoration: none;
+	color: inherit;
+	background-color: #F4F4F4;
+	border-bottom: 0;
+}
+
+a.pr-footer-a:active {
+	text-decoration: none;
+	color: inherit;
+}
+
+blockquote {
+    /* font-family: Georgia, serif;
+    font-size: 18px;
+    font-style: italic;
+    width: 500px; */
+    margin: 0.25em 0;
+    padding: 0.35em 40px;
+    line-height: 1.45;
+    position: relative;
+    /* color: #383838; */
+}
+
+blockquote:before {
+    display: block;
+    padding-left: 10px;
+    content: "\201C";
+    font-size: 80px;
+    position: absolute;
+    left: -20px;
+    top: -20px;
+    color: #7a7a7a;
+}
+

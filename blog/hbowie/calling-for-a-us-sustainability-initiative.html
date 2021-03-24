@@ -33,18 +33,47 @@
 
     <div class="collapse navbar-collapse" id="main-navigation">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-                <a class="nav-link" href="../../index.html">Home</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../../blog/hbowie/index.html">Essays</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../../tags/index.html">Topics</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../../authors/index.html">Authors</a>
-            </li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../index.html">Home</a>
+					</li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../blog/hbowie/index.html">Essays</a>
+					</li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../tags/index.html">Topics</a>
+					</li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-quotes" data-bs-toggle="dropdown" aria-expanded="false">
+            	Quotes
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-quotes">
+              <li><a class="dropdown-item pr-nav-item" href="../../authors/index.html">
+              	Authors
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../quotes/latest.html">
+              	Latest Quotes
+              </a></li>
+            </ul>
+          </li>
+
+          <li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-about" data-bs-toggle="dropdown" aria-expanded="false">
+            	About
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-about">
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-author.html">
+              	About the Author
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-site.html">
+              	About the Site
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-tools.html">
+              	About the Tools
+              </a></li>
+            </ul>
+          </li>
+
         </ul>
     </div> <!-- /#main-navigation -->
 
@@ -64,16 +93,18 @@
 
 			<main>
 
-				<h1>Calling for a US Sustainability Initiative</h1>
+				<h1 class="pr-page-title">Calling for a US Sustainability Initiative</h1>
 
-				<p><span class="pr-topics-label">topics:</span> <a class='btn btn-secondary mx-1 pr-topic' href='../../tags/us-politics.html' rel='tag'>US politics</a><a class='btn btn-secondary mx-1 pr-topic' href='../../tags/sustainability.html' rel='tag'>sustainability</a></p>
+				<p class="pr-date-and-mins">03 Dec 2018 &middot; 5 min read</p>
 
-				<p>5 min read</p>
+				<p><span class="pr-topics-label">topics:</span> <a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/us-politics.html' rel='tag'>US politics</a><a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/sustainability.html' rel='tag'>sustainability</a></p>
 
 				<p>
-				<img src="../../images/calling-for-a-us-sustainability-initiative-green-city-life.jpg" alt="Green city life">
+					<img class="img-fluid rounded" src="../../images/calling-for-a-us-sustainability-initiative-green-city-life.jpg" alt="Green city life">
 				</p>
 
+
+				<div class="pr-content">
 				<p>Looking back over the history of the United States, it's easy to see in hindsight a series of events and actions that have either united or divided us. </p>
 <p>The Revolutionary War, the ratification of our US Constitution, World War II and the race to put a man on the moon can all be seen as efforts that ultimately brought us together as a nation. </p>
 <p>On the other hand, our Civil War and the Vietnam conflict are examples of actions that tragically divided us. </p>
@@ -108,6 +139,13 @@
 <p>But in any case I think this is a much-needed step in the right direction. </p>
 <p>A sustainable future won't happen by accident. It's going to take all of us to make it a reality. </p>
 
+				</div>
+
+				<div>
+				  <p class="float-end">
+    				<a href="#" class="btn btn-outline-secondary" role="button">Back to top</a>
+  				</p>
+  			</div>
 
 			</main>
 
@@ -118,7 +156,37 @@
 		</div>
 
 	</div> <!-- /.row -->
+
+	<div class="row">
+
+		<div class="col-12">
+
+			<hr />
+
+			<p class="text-center pr-footer-p" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+				<a class="pr-footer-a" property="dct:title" rel="cc:attributionURL" href="https://practopian.org">
+					The Practical Utopian website
+				</a>
+				by
+				<a  class="pr-footer-a" rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://hbowie.net">
+					Herb Bowie
+				</a>
+				is licensed under
+				<a  class="pr-footer-a" href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
+					CC BY-SA 4.0
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1">
+				</a>
+			</p>
+
+		</div>
+
+	</div> <!-- /.row -->
+
 </div> <!-- /.container -->
+
+
     <script src="../../js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

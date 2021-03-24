@@ -12,35 +12,64 @@
 
 <?include "../includes/nav.html" ?>
 
-<main>
+<div class="container">
 
-<h1>=$title$=</h1>
+	<div class="row">
 
-				<p><span class="pr-topics-label">topics:</span> =$tags&gtags/;btn btn-secondary mx-1 pr-topic$=</p>
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
 
-<blockquote>
-=$body&o$=
-</blockquote>
+		</div>
 
-<p>&mdash; <a href="../authors/=$author&f$=.html">=$author&,$=</a>=$date&,$=</p>
+		<div class="col-12 col-sm-12 col-md-10 col-lg-8 col-xl-6">
+
+			<main>
+
+				<h1 class="pr-page-title">=$title$=</h1>
+
+					<p><span class="pr-topics-label">topics:</span> =$tags&gtags/;btn btn-secondary mx-1 my-1 pr-topic$=</p>
+
+				<div class="pr-content">
+
+					<blockquote>
+						=$body&o$=
+					</blockquote>
+
+					<p>&mdash; <a href="../authors/=$author&f$=.html">=$author&,$=</a>=$date&,$=</p>
 
 <?if "=$worktitle$=" ?>
-<p>From
+					<p>From
 <?if =$worktype$= ?>
-the =$worktype&l$=
+						the =$worktype&l$=
 <?endif?>
-<cite>
+						<cite>
 <?if "=$worklink$=" ?>
-<a href="=$worklink$=">
+						<a href="=$worklink$=">
 <?endif?>
-=$worktitle$=
+						=$worktitle$=
 <?if "=$worklink$=" ?>
-</a>
+						</a>
 <?endif?>
-</cite></p>
+						</cite></p>
 <?endif?>
 
-</main>
+				</div>
+
+			</main>
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+	</div> <!-- /.row -->
+
+<?include "../includes/license.html" ?>
+
+</div> <!-- /.container -->
+
+
+    <script src="=$relative$=js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
 <?loop?>

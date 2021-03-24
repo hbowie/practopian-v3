@@ -33,18 +33,47 @@
 
     <div class="collapse navbar-collapse" id="main-navigation">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-                <a class="nav-link" href="../../index.html">Home</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../../blog/hbowie/index.html">Essays</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../../tags/index.html">Topics</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../../authors/index.html">Authors</a>
-            </li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../index.html">Home</a>
+					</li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../blog/hbowie/index.html">Essays</a>
+					</li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../tags/index.html">Topics</a>
+					</li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-quotes" data-bs-toggle="dropdown" aria-expanded="false">
+            	Quotes
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-quotes">
+              <li><a class="dropdown-item pr-nav-item" href="../../authors/index.html">
+              	Authors
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../quotes/latest.html">
+              	Latest Quotes
+              </a></li>
+            </ul>
+          </li>
+
+          <li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-about" data-bs-toggle="dropdown" aria-expanded="false">
+            	About
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-about">
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-author.html">
+              	About the Author
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-site.html">
+              	About the Site
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-tools.html">
+              	About the Tools
+              </a></li>
+            </ul>
+          </li>
+
         </ul>
     </div> <!-- /#main-navigation -->
 
@@ -64,16 +93,18 @@
 
 			<main>
 
-				<h1>Understanding Human History</h1>
+				<h1 class="pr-page-title">Understanding Human History</h1>
 
-				<p><span class="pr-topics-label">topics:</span> <a class='btn btn-secondary mx-1 pr-topic' href='../../tags/critical-thinking.html' rel='tag'>critical thinking</a><a class='btn btn-secondary mx-1 pr-topic' href='../../tags/cultural-evolution.html' rel='tag'>cultural evolution</a><a class='btn btn-secondary mx-1 pr-topic' href='../../tags/education.html' rel='tag'>education</a><a class='btn btn-secondary mx-1 pr-topic' href='../../tags/progress.html' rel='tag'>progress</a><a class='btn btn-secondary mx-1 pr-topic' href='../../tags/systemic.html' rel='tag'>systemic</a></p>
+				<p class="pr-date-and-mins">24 Mar 2020 &middot; 7 min read</p>
 
-				<p>7 min read</p>
+				<p><span class="pr-topics-label">topics:</span> <a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/critical-thinking.html' rel='tag'>critical thinking</a><a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/cultural-evolution.html' rel='tag'>cultural evolution</a><a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/education.html' rel='tag'>education</a><a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/progress.html' rel='tag'>progress</a><a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/systemic.html' rel='tag'>systemic</a></p>
 
 				<p>
-				<img src="../../images/understanding-human-history-history-book.jpg" alt="Open book with history doodles and lettering">
+					<img class="img-fluid rounded" src="../../images/understanding-human-history-history-book.jpg" alt="Open book with history doodles and lettering">
 				</p>
 
+
+				<div class="pr-content">
 				<p>When I was in school, history was one of my least favorite subjects: It just seemed like a bunch of arbitrary names and dates and events that I had to memorize. </p>
 <p>In hindsight, I realize now, the problem I had with the subject was that it had been &#8220;storified.&#8221; That is, rather than trying to educate us on grand themes, everything had been turned into a story: certain people did certain things, in a certain sequence, and interacted with other people in certain ways, and ended up with some conclusion. </p>
 <p>Part of the problem with teaching history in this manner is that you don't end up with very satisfying stories. As Shakespeare had MacBeth say, &#8220;It is a tale told by an idiot, full of sound and fury, signifying nothing.&#8221; </p>
@@ -106,6 +137,13 @@
 <p>And this is where storification really gets in the way. Because stories, by their very nature, tend to focus on individuals and their singular actions. Which means that stories tend to obscure or diminish the actions of groups of individuals working together. And so, many of us are not really aware of differing means of social organization, and how these have evolved over time, and how they have influenced history. </p>
 <p>But that topic is certainly worth a post of its own, so I'll leave that subject for another day. </p>
 
+				</div>
+
+				<div>
+				  <p class="float-end">
+    				<a href="#" class="btn btn-outline-secondary" role="button">Back to top</a>
+  				</p>
+  			</div>
 
 			</main>
 
@@ -116,7 +154,37 @@
 		</div>
 
 	</div> <!-- /.row -->
+
+	<div class="row">
+
+		<div class="col-12">
+
+			<hr />
+
+			<p class="text-center pr-footer-p" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+				<a class="pr-footer-a" property="dct:title" rel="cc:attributionURL" href="https://practopian.org">
+					The Practical Utopian website
+				</a>
+				by
+				<a  class="pr-footer-a" rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://hbowie.net">
+					Herb Bowie
+				</a>
+				is licensed under
+				<a  class="pr-footer-a" href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
+					CC BY-SA 4.0
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1">
+				</a>
+			</p>
+
+		</div>
+
+	</div> <!-- /.row -->
+
 </div> <!-- /.container -->
+
+
     <script src="../../js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

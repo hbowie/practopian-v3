@@ -33,18 +33,47 @@
 
     <div class="collapse navbar-collapse" id="main-navigation">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-                <a class="nav-link" href="../../index.html">Home</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../../blog/hbowie/index.html">Essays</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../../tags/index.html">Topics</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../../authors/index.html">Authors</a>
-            </li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../index.html">Home</a>
+					</li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../blog/hbowie/index.html">Essays</a>
+					</li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../tags/index.html">Topics</a>
+					</li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-quotes" data-bs-toggle="dropdown" aria-expanded="false">
+            	Quotes
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-quotes">
+              <li><a class="dropdown-item pr-nav-item" href="../../authors/index.html">
+              	Authors
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../quotes/latest.html">
+              	Latest Quotes
+              </a></li>
+            </ul>
+          </li>
+
+          <li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-about" data-bs-toggle="dropdown" aria-expanded="false">
+            	About
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-about">
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-author.html">
+              	About the Author
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-site.html">
+              	About the Site
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-tools.html">
+              	About the Tools
+              </a></li>
+            </ul>
+          </li>
+
         </ul>
     </div> <!-- /#main-navigation -->
 
@@ -64,16 +93,18 @@
 
 			<main>
 
-				<h1>Religion, Storytelling and Art</h1>
+				<h1 class="pr-page-title">Religion, Storytelling and Art</h1>
 
-				<p><span class="pr-topics-label">topics:</span> <a class='btn btn-secondary mx-1 pr-topic' href='../../tags/cultural-evolution.html' rel='tag'>cultural evolution</a><a class='btn btn-secondary mx-1 pr-topic' href='../../tags/democracy.html' rel='tag'>democracy</a><a class='btn btn-secondary mx-1 pr-topic' href='../../tags/humanism.html' rel='tag'>humanism</a><a class='btn btn-secondary mx-1 pr-topic' href='../../tags/religion.html' rel='tag'>religion</a><a class='btn btn-secondary mx-1 pr-topic' href='../../tags/science.html' rel='tag'>science</a><a class='btn btn-secondary mx-1 pr-topic' href='../../tags/written-word.html' rel='tag'>written word</a></p>
+				<p class="pr-date-and-mins">27 Nov 2014 &middot; 5 min read</p>
 
-				<p>5 min read</p>
+				<p><span class="pr-topics-label">topics:</span> <a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/cultural-evolution.html' rel='tag'>cultural evolution</a><a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/democracy.html' rel='tag'>democracy</a><a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/humanism.html' rel='tag'>humanism</a><a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/religion.html' rel='tag'>religion</a><a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/science.html' rel='tag'>science</a><a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/written-word.html' rel='tag'>written word</a></p>
 
 				<p>
-				<img src="../../images/religion-storytelling-and-art-fanciful-open-book.jpg" alt="Open Book in fanciful surroundings">
+					<img class="img-fluid rounded" src="../../images/religion-storytelling-and-art-fanciful-open-book.jpg" alt="Open Book in fanciful surroundings">
 				</p>
 
+
+				<div class="pr-content">
 				<p>Religion can be thought of as a collection of shared cultural artifacts that provide a sense of meaning about human existence. </p>
 <p>Religion attempts to answer &#8220;big&#8221; questions such as the following: </p>
 <ul>
@@ -140,6 +171,13 @@
 <p>But if certain works of art help to shape our lives and give meaning to them &#8211; as many certainly have for me &#8211; then does it not make sense to speak of them with this same depth of feeling usually reserved for religious texts? </p>
 <p>One advantage of this form of religious feeling, of course, is that we know who the artists are, and know they are fallible humans, just like us. What's more, I can speak to you about my favorite works of art, and tell you why they are so meaningful to me, without any danger that I will condemn you if you find other works more moving than my favorites. And so my form of worship is to <a href="http://www.reasontorock.com">tell you in some detail about the works of art I find most moving, and to attempt to describe why they affect me so deeply</a>. </p>
 
+				</div>
+
+				<div>
+				  <p class="float-end">
+    				<a href="#" class="btn btn-outline-secondary" role="button">Back to top</a>
+  				</p>
+  			</div>
 
 			</main>
 
@@ -150,7 +188,37 @@
 		</div>
 
 	</div> <!-- /.row -->
+
+	<div class="row">
+
+		<div class="col-12">
+
+			<hr />
+
+			<p class="text-center pr-footer-p" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+				<a class="pr-footer-a" property="dct:title" rel="cc:attributionURL" href="https://practopian.org">
+					The Practical Utopian website
+				</a>
+				by
+				<a  class="pr-footer-a" rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://hbowie.net">
+					Herb Bowie
+				</a>
+				is licensed under
+				<a  class="pr-footer-a" href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
+					CC BY-SA 4.0
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1">
+				</a>
+			</p>
+
+		</div>
+
+	</div> <!-- /.row -->
+
 </div> <!-- /.container -->
+
+
     <script src="../../js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

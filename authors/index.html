@@ -33,18 +33,47 @@
 
     <div class="collapse navbar-collapse" id="main-navigation">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-                <a class="nav-link" href="../index.html">Home</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../blog/hbowie/index.html">Essays</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../tags/index.html">Topics</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../authors/index.html">Authors</a>
-            </li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../index.html">Home</a>
+					</li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../blog/hbowie/index.html">Essays</a>
+					</li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../tags/index.html">Topics</a>
+					</li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-quotes" data-bs-toggle="dropdown" aria-expanded="false">
+            	Quotes
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-quotes">
+              <li><a class="dropdown-item pr-nav-item" href="../authors/index.html">
+              	Authors
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../quotes/latest.html">
+              	Latest Quotes
+              </a></li>
+            </ul>
+          </li>
+
+          <li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-about" data-bs-toggle="dropdown" aria-expanded="false">
+            	About
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-about">
+              <li><a class="dropdown-item pr-nav-item" href="../about/the-author.html">
+              	About the Author
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../about/the-site.html">
+              	About the Site
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../about/the-tools.html">
+              	About the Tools
+              </a></li>
+            </ul>
+          </li>
+
         </ul>
     </div> <!-- /#main-navigation -->
 
@@ -52,1101 +81,1180 @@
 
 </nav>
 
-<main>
+<div class="container">
 
-<h1>Quoted Authors</h1>
+	<div class="row">
 
-<table>
-	<thead>
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-10 col-lg-8 col-xl-6">
+
+			<main>
+
+				<h1 class="pr-page-title">Quoted Authors</h1>
+
+				<div class="pr-content">
+
+				<p>You may sort the table by <button type="button" class="btn btn-outline-primary my-1" onclick="sortTable(0)">Author Name</button> (first-name first), or by Author <button type="button" class="btn btn-outline-primary my-1" onclick="sortTable(1)">Last Name</button>, or by <button type="button" class="btn btn-outline-primary my-1" onclick="sortTable(2)">Years Lived</button>. Hover over an author's name for brief info about them. Click on an author name to see collected quotations from that person. </p>
+
+				<table class="table" id="authors-table">
+					<col style="width:50%">
+					<col style="width:25%">
+					<col style="width:25%">
+					<thead>
+					<tr>
+						<th class="pr-sort-header" onclick="sortTable(0)">Author Name</th>
+						<th class="pr-sort-header" onclick="sortTable(1)">Last Name</th>
+						<th class="pr-sort-header" onclick="sortTable(2)">Years Lived</th>
+					</tr>
+					</thead>
+					<tbody>
 	<tr>
-		<th>Author Name</th>
-		<th>Last Name</th>
-		<th>Years Lived</th>
-	</tr>
-	</thead>
-	<tbody>
-	<tr>
-		<td><a href="abigail-disney.html">Abigail Disney</a></td>
+		<td><a href="abigail-disney.html" data-bs-toggle="tooltip" title="Disney family fortune heir">Abigail Disney</a></td>
 		<td>Disney</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="abraham-lincoln.html">Abraham Lincoln</a></td>
+		<td><a href="abraham-lincoln.html" data-bs-toggle="tooltip" title="American statesman and lawyer">Abraham Lincoln</a></td>
 		<td>Lincoln</td>
 		<td>1809-1865</td>
 	</tr>
 	<tr>
-		<td><a href="alan-kay.html">Alan Kay</a></td>
+		<td><a href="alan-kay.html" data-bs-toggle="tooltip" title="American computer scientist">Alan Kay</a></td>
 		<td>Kay</td>
 		<td>1940-</td>
 	</tr>
 	<tr>
-		<td><a href="alan-lightman.html">Alan Lightman</a></td>
+		<td><a href="alan-lightman.html" data-bs-toggle="tooltip" title="">Alan Lightman</a></td>
 		<td>Lightman</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="albert-camus.html">Albert Camus</a></td>
+		<td><a href="albert-camus.html" data-bs-toggle="tooltip" title="">Albert Camus</a></td>
 		<td>Camus</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="albert-einstein.html">Albert Einstein</a></td>
+		<td><a href="albert-einstein.html" data-bs-toggle="tooltip" title="German-born theoretical physicist">Albert Einstein</a></td>
 		<td>Einstein</td>
 		<td>1879-1955</td>
 	</tr>
 	<tr>
-		<td><a href="albert-schweitzer.html">Albert Schweitzer</a></td>
+		<td><a href="albert-schweitzer.html" data-bs-toggle="tooltip" title="">Albert Schweitzer</a></td>
 		<td>Schweitzer</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="alexandria-ocasio-cortez.html">Alexandria Ocasio-Cortez</a></td>
+		<td><a href="alexandria-ocasio-cortez.html" data-bs-toggle="tooltip" title="">Alexandria Ocasio-Cortez</a></td>
 		<td>Ocasio-Cortez</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="alexis-de-tocqueville.html">Alexis de Tocqueville</a></td>
+		<td><a href="alexis-de-tocqueville.html" data-bs-toggle="tooltip" title="">Alexis de Tocqueville</a></td>
 		<td>Tocqueville</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="alfred-north-whitehead.html">Alfred North Whitehead</a></td>
+		<td><a href="alfred-north-whitehead.html" data-bs-toggle="tooltip" title="">Alfred North Whitehead</a></td>
 		<td>Whitehead</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="allen-ginsberg.html">Allen Ginsberg</a></td>
+		<td><a href="allen-ginsberg.html" data-bs-toggle="tooltip" title="">Allen Ginsberg</a></td>
 		<td>Ginsberg</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="amanda-cross.html">Amanda Cross</a></td>
+		<td><a href="amanda-cross.html" data-bs-toggle="tooltip" title="">Amanda Cross</a></td>
 		<td>Cross</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="amlie-rorty.html">Amélie Rorty</a></td>
+		<td><a href="amlie-rorty.html" data-bs-toggle="tooltip" title="">Amélie Rorty</a></td>
 		<td>Rorty</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="andy-warhol.html">Andy Warhol</a></td>
+		<td><a href="andy-warhol.html" data-bs-toggle="tooltip" title="">Andy Warhol</a></td>
 		<td>Warhol</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="angeles-arrien.html">Angeles Arrien</a></td>
+		<td><a href="angeles-arrien.html" data-bs-toggle="tooltip" title="">Angeles Arrien</a></td>
 		<td>Arrien</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="ansel-adams.html">Ansel Adams</a></td>
+		<td><a href="ansel-adams.html" data-bs-toggle="tooltip" title="">Ansel Adams</a></td>
 		<td>Adams</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="anthony-burgess.html">Anthony Burgess</a></td>
+		<td><a href="anthony-burgess.html" data-bs-toggle="tooltip" title="">Anthony Burgess</a></td>
 		<td>Burgess</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="anthony-m-kennedy.html">Anthony M. Kennedy</a></td>
+		<td><a href="anthony-m-kennedy.html" data-bs-toggle="tooltip" title="">Anthony M. Kennedy</a></td>
 		<td>Kennedy</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="anton-chekhov.html">Anton Chekhov</a></td>
+		<td><a href="anton-chekhov.html" data-bs-toggle="tooltip" title="">Anton Chekhov</a></td>
 		<td>Chekhov</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="anu-partanen.html">Anu Partanen</a></td>
+		<td><a href="anu-partanen.html" data-bs-toggle="tooltip" title="">Anu Partanen</a></td>
 		<td>Partanen</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="apple.html">Apple</a></td>
+		<td><a href="apple.html" data-bs-toggle="tooltip" title="">Apple</a></td>
 		<td>Apple</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="aristotle.html">Aristotle</a></td>
+		<td><a href="aristotle.html" data-bs-toggle="tooltip" title="">Aristotle</a></td>
 		<td>Aristotle</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="arnold-j-toynbee.html">Arnold J. Toynbee</a></td>
+		<td><a href="arnold-j-toynbee.html" data-bs-toggle="tooltip" title="">Arnold J. Toynbee</a></td>
 		<td>Toynbee</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="barack-obama.html">Barack Obama</a></td>
+		<td><a href="barack-obama.html" data-bs-toggle="tooltip" title="">Barack Obama</a></td>
 		<td>Obama</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="baruch-spinoza.html">Baruch Spinoza</a></td>
+		<td><a href="baruch-spinoza.html" data-bs-toggle="tooltip" title="">Baruch Spinoza</a></td>
 		<td>Spinoza</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="ben-friedman.html">Ben Friedman</a></td>
+		<td><a href="ben-friedman.html" data-bs-toggle="tooltip" title="">Ben Friedman</a></td>
 		<td>Friedman</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="benjamin-franklin.html">Benjamin Franklin</a></td>
+		<td><a href="benjamin-franklin.html" data-bs-toggle="tooltip" title="">Benjamin Franklin</a></td>
 		<td>Franklin</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="bertolt-brecht.html">Bertolt Brecht</a></td>
+		<td><a href="bertolt-brecht.html" data-bs-toggle="tooltip" title="">Bertolt Brecht</a></td>
 		<td>Brecht</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="bertrand-russell.html">Bertrand Russell</a></td>
+		<td><a href="bertrand-russell.html" data-bs-toggle="tooltip" title="">Bertrand Russell</a></td>
 		<td>Russell</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="bill-mckibben.html">Bill McKibben</a></td>
+		<td><a href="bill-mckibben.html" data-bs-toggle="tooltip" title="">Bill McKibben</a></td>
 		<td>McKibben</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="bob-mandel.html">Bob Mandel</a></td>
+		<td><a href="bob-mandel.html" data-bs-toggle="tooltip" title="">Bob Mandel</a></td>
 		<td>Mandel</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="bren-brown.html">Brené Brown</a></td>
+		<td><a href="bren-brown.html" data-bs-toggle="tooltip" title="">Brené Brown</a></td>
 		<td>Brown</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="brian-hare-and-vanessa-woods.html">Brian Hare and Vanessa Woods</a></td>
+		<td><a href="brian-hare-and-vanessa-woods.html" data-bs-toggle="tooltip" title="">Brian Hare and Vanessa Woods</a></td>
 		<td>Woods</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="brooks-robinson.html">Brooks Robinson</a></td>
+		<td><a href="brooks-robinson.html" data-bs-toggle="tooltip" title="">Brooks Robinson</a></td>
 		<td>Robinson</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="bruce-springsteen.html">Bruce Springsteen</a></td>
+		<td><a href="bruce-springsteen.html" data-bs-toggle="tooltip" title="">Bruce Springsteen</a></td>
 		<td>Springsteen</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="c-s-lewis.html">C. S. Lewis</a></td>
+		<td><a href="c-s-lewis.html" data-bs-toggle="tooltip" title="">C. S. Lewis</a></td>
 		<td>Lewis</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="carl-sagan.html">Carl Sagan</a></td>
+		<td><a href="carl-sagan.html" data-bs-toggle="tooltip" title="">Carl Sagan</a></td>
 		<td>Sagan</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="carl-sagan-and-ann-druyan.html">Carl Sagan and Ann Druyan</a></td>
+		<td><a href="carl-sagan-and-ann-druyan.html" data-bs-toggle="tooltip" title="">Carl Sagan and Ann Druyan</a></td>
 		<td>Druyan</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="celeste-ng.html">Celeste Ng</a></td>
+		<td><a href="celeste-ng.html" data-bs-toggle="tooltip" title="">Celeste Ng</a></td>
 		<td>Ng</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="charles-darwin.html">Charles Darwin</a></td>
+		<td><a href="charles-darwin.html" data-bs-toggle="tooltip" title="">Charles Darwin</a></td>
 		<td>Darwin</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="charles-woodson.html">Charles Woodson</a></td>
+		<td><a href="charles-woodson.html" data-bs-toggle="tooltip" title="">Charles Woodson</a></td>
 		<td>Woodson</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="chris-argyris-and-donald-schn.html">Chris Argyris and Donald Schön</a></td>
+		<td><a href="chris-argyris-and-donald-schn.html" data-bs-toggle="tooltip" title="">Chris Argyris and Donald Schön</a></td>
 		<td>Schön</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="clare-w-graves.html">Clare W. Graves</a></td>
+		<td><a href="clare-w-graves.html" data-bs-toggle="tooltip" title="">Clare W. Graves</a></td>
 		<td>Graves</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="colin-wilson.html">Colin Wilson</a></td>
+		<td><a href="colin-wilson.html" data-bs-toggle="tooltip" title="">Colin Wilson</a></td>
 		<td>Wilson</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="dalai-lama.html">Dalai Lama</a></td>
+		<td><a href="dalai-lama.html" data-bs-toggle="tooltip" title="">Dalai Lama</a></td>
 		<td>Lama</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="dambisa-moyo.html">Dambisa Moyo</a></td>
+		<td><a href="dambisa-moyo.html" data-bs-toggle="tooltip" title="">Dambisa Moyo</a></td>
 		<td>Moyo</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="daniel-patrick-moynihan.html">Daniel Patrick Moynihan</a></td>
+		<td><a href="daniel-patrick-moynihan.html" data-bs-toggle="tooltip" title="">Daniel Patrick Moynihan</a></td>
 		<td>Moynihan</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="danielle-allen.html">Danielle Allen</a></td>
+		<td><a href="danielle-allen.html" data-bs-toggle="tooltip" title="">Danielle Allen</a></td>
 		<td>Allen</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="darrell-huff.html">Darrell Huff</a></td>
+		<td><a href="darrell-huff.html" data-bs-toggle="tooltip" title="">Darrell Huff</a></td>
 		<td>Huff</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="dashiell-hammett.html">Dashiell Hammett</a></td>
+		<td><a href="dashiell-hammett.html" data-bs-toggle="tooltip" title="">Dashiell Hammett</a></td>
 		<td>Hammett</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="dave-mayer.html">Dave Mayer</a></td>
+		<td><a href="dave-mayer.html" data-bs-toggle="tooltip" title="">Dave Mayer</a></td>
 		<td>Mayer</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="david-brooks.html">David Brooks</a></td>
+		<td><a href="david-brooks.html" data-bs-toggle="tooltip" title="">David Brooks</a></td>
 		<td>Brooks</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="david-christian.html">David Christian</a></td>
+		<td><a href="david-christian.html" data-bs-toggle="tooltip" title="">David Christian</a></td>
 		<td>Christian</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="david-d-clark.html">David D. Clark</a></td>
+		<td><a href="david-d-clark.html" data-bs-toggle="tooltip" title="">David D. Clark</a></td>
 		<td>Clark</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="david-foster-wallace.html">David Foster Wallace</a></td>
+		<td><a href="david-foster-wallace.html" data-bs-toggle="tooltip" title="">David Foster Wallace</a></td>
 		<td>Wallace</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="david-sloan-wilson.html">David Sloan Wilson</a></td>
+		<td><a href="david-sloan-wilson.html" data-bs-toggle="tooltip" title="">David Sloan Wilson</a></td>
 		<td>Wilson</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="dennis-stauffer.html">Dennis Stauffer</a></td>
+		<td><a href="dennis-stauffer.html" data-bs-toggle="tooltip" title="">Dennis Stauffer</a></td>
 		<td>Stauffer</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="derek-bok.html">Derek Bok</a></td>
+		<td><a href="derek-bok.html" data-bs-toggle="tooltip" title="">Derek Bok</a></td>
 		<td>Bok</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="desiderius-erasmus.html">Desiderius Erasmus</a></td>
+		<td><a href="desiderius-erasmus.html" data-bs-toggle="tooltip" title="">Desiderius Erasmus</a></td>
 		<td>Erasmus</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="disputed.html">Disputed</a></td>
+		<td><a href="disputed.html" data-bs-toggle="tooltip" title="">Disputed</a></td>
 		<td>Disputed</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="don-beck-and-chris-cowan.html">Don Beck and Chris Cowan</a></td>
+		<td><a href="don-beck-and-chris-cowan.html" data-bs-toggle="tooltip" title="">Don Beck and Chris Cowan</a></td>
 		<td>Cowan</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="dorothy-l-sayers.html">Dorothy L. Sayers</a></td>
+		<td><a href="dorothy-l-sayers.html" data-bs-toggle="tooltip" title="">Dorothy L. Sayers</a></td>
 		<td>Sayers</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="dwight-d-eisenhower.html">Dwight D. Eisenhower</a></td>
+		<td><a href="dwight-d-eisenhower.html" data-bs-toggle="tooltip" title="">Dwight D. Eisenhower</a></td>
 		<td>Eisenhower</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="e-b-white.html">E. B. White</a></td>
+		<td><a href="e-b-white.html" data-bs-toggle="tooltip" title="">E. B. White</a></td>
 		<td>White</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="e-m-forster.html">E. M. Forster</a></td>
+		<td><a href="e-m-forster.html" data-bs-toggle="tooltip" title="">E. M. Forster</a></td>
 		<td>Forster</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="e-o-wilson.html">E. O. Wilson</a></td>
+		<td><a href="e-o-wilson.html" data-bs-toggle="tooltip" title="">E. O. Wilson</a></td>
 		<td>Wilson</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="eamonn-kelly.html">Eamonn Kelly</a></td>
+		<td><a href="eamonn-kelly.html" data-bs-toggle="tooltip" title="">Eamonn Kelly</a></td>
 		<td>Kelly</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="edith-penrose.html">Edith Penrose</a></td>
+		<td><a href="edith-penrose.html" data-bs-toggle="tooltip" title="">Edith Penrose</a></td>
 		<td>Penrose</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="edmund-crispin.html">Edmund Crispin</a></td>
+		<td><a href="edmund-crispin.html" data-bs-toggle="tooltip" title="">Edmund Crispin</a></td>
 		<td>Crispin</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="edward-hopper.html">Edward Hopper</a></td>
+		<td><a href="edward-hopper.html" data-bs-toggle="tooltip" title="">Edward Hopper</a></td>
 		<td>Hopper</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="edward-luce.html">Edward Luce</a></td>
+		<td><a href="edward-luce.html" data-bs-toggle="tooltip" title="Edward Luce">Edward Luce</a></td>
 		<td>Luce</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="edwin-g-pulleyblank.html">Edwin G. Pulleyblank</a></td>
+		<td><a href="edwin-g-pulleyblank.html" data-bs-toggle="tooltip" title="">Edwin G. Pulleyblank</a></td>
 		<td>Pulleyblank</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="eleanor-roosevelt.html">Eleanor Roosevelt</a></td>
+		<td><a href="eleanor-roosevelt.html" data-bs-toggle="tooltip" title="">Eleanor Roosevelt</a></td>
 		<td>Roosevelt</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="eric-braverman.html">Eric Braverman</a></td>
+		<td><a href="eric-braverman.html" data-bs-toggle="tooltip" title="president of Path Foundation NY">Eric Braverman</a></td>
 		<td>Braverman</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="f-scott-fitzgerald.html">F. Scott Fitzgerald</a></td>
+		<td><a href="erich-fromm.html" data-bs-toggle="tooltip" title="humanistic philosopher and psychologist">Erich Fromm</a></td>
+		<td>Fromm</td>
+		<td>1900-1980</td>
+	</tr>
+	<tr>
+		<td><a href="f-scott-fitzgerald.html" data-bs-toggle="tooltip" title="">F. Scott Fitzgerald</a></td>
 		<td>Fitzgerald</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="frank-capra.html">Frank Capra</a></td>
+		<td><a href="frank-capra.html" data-bs-toggle="tooltip" title="">Frank Capra</a></td>
 		<td>Capra</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="frank-lloyd-wright.html">Frank Lloyd Wright</a></td>
+		<td><a href="frank-lloyd-wright.html" data-bs-toggle="tooltip" title="">Frank Lloyd Wright</a></td>
 		<td>Wright</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="frank-w-abrams.html">Frank W. Abrams</a></td>
+		<td><a href="frank-w-abrams.html" data-bs-toggle="tooltip" title="">Frank W. Abrams</a></td>
 		<td>Abrams</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="frans-de-waal.html">Frans de Waal</a></td>
+		<td><a href="frans-de-waal.html" data-bs-toggle="tooltip" title="">Frans de Waal</a></td>
 		<td>Waal</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="friedrich-nietzsche.html">Friedrich Nietzsche</a></td>
+		<td><a href="friedrich-nietzsche.html" data-bs-toggle="tooltip" title="">Friedrich Nietzsche</a></td>
 		<td>Nietzsche</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="g-k-chesterton.html">G. K. Chesterton</a></td>
+		<td><a href="g-k-chesterton.html" data-bs-toggle="tooltip" title="">G. K. Chesterton</a></td>
 		<td>Chesterton</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="garry-kasparov.html">Garry Kasparov</a></td>
+		<td><a href="garry-kasparov.html" data-bs-toggle="tooltip" title="">Garry Kasparov</a></td>
 		<td>Kasparov</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="george-bernard-shaw.html">George Bernard Shaw</a></td>
+		<td><a href="george-bernard-shaw.html" data-bs-toggle="tooltip" title="">George Bernard Shaw</a></td>
 		<td>Shaw</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="george-orwell.html">George Orwell</a></td>
+		<td><a href="george-orwell.html" data-bs-toggle="tooltip" title="">George Orwell</a></td>
 		<td>Orwell</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="george-santayana.html">George Santayana</a></td>
+		<td><a href="george-santayana.html" data-bs-toggle="tooltip" title="">George Santayana</a></td>
 		<td>Santayana</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="gilbert-murray.html">Gilbert Murray</a></td>
+		<td><a href="gilbert-murray.html" data-bs-toggle="tooltip" title="">Gilbert Murray</a></td>
 		<td>Murray</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="groucho-marx.html">Groucho Marx</a></td>
+		<td><a href="groucho-marx.html" data-bs-toggle="tooltip" title="">Groucho Marx</a></td>
 		<td>Marx</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="h-l-mencken.html">H. L. Mencken</a></td>
+		<td><a href="h-l-mencken.html" data-bs-toggle="tooltip" title="">H. L. Mencken</a></td>
 		<td>Mencken</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="harry-s-truman.html">Harry S. Truman</a></td>
+		<td><a href="harry-s-truman.html" data-bs-toggle="tooltip" title="">Harry S. Truman</a></td>
 		<td>Truman</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="henri-matisse.html">Henri Matisse</a></td>
+		<td><a href="henri-matisse.html" data-bs-toggle="tooltip" title="">Henri Matisse</a></td>
 		<td>Matisse</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="henry-ford.html">Henry Ford</a></td>
+		<td><a href="henry-ford.html" data-bs-toggle="tooltip" title="">Henry Ford</a></td>
 		<td>Ford</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="henry-miller.html">Henry Miller</a></td>
+		<td><a href="henry-miller.html" data-bs-toggle="tooltip" title="">Henry Miller</a></td>
 		<td>Miller</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="herb-bowie.html">Herb Bowie</a></td>
+		<td><a href="herb-bowie.html" data-bs-toggle="tooltip" title="">Herb Bowie</a></td>
 		<td>Bowie</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="isaac-asimov.html">Isaac Asimov</a></td>
+		<td><a href="isaac-asimov.html" data-bs-toggle="tooltip" title="">Isaac Asimov</a></td>
 		<td>Asimov</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="j-b-s-haldane.html">J. B. S. Haldane</a></td>
+		<td><a href="j-b-s-haldane.html" data-bs-toggle="tooltip" title="">J. B. S. Haldane</a></td>
 		<td>Haldane</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="jack-kerouac.html">Jack Kerouac</a></td>
+		<td><a href="jack-kerouac.html" data-bs-toggle="tooltip" title="">Jack Kerouac</a></td>
 		<td>Kerouac</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="jack-welch.html">Jack Welch</a></td>
+		<td><a href="jack-welch.html" data-bs-toggle="tooltip" title="">Jack Welch</a></td>
 		<td>Welch</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="jacob-bronowski.html">Jacob Bronowski</a></td>
+		<td><a href="jacob-bronowski.html" data-bs-toggle="tooltip" title="">Jacob Bronowski</a></td>
 		<td>Bronowski</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="james-baldwin.html">James Baldwin</a></td>
+		<td><a href="james-baldwin.html" data-bs-toggle="tooltip" title="">James Baldwin</a></td>
 		<td>Baldwin</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="james-madison.html">James Madison</a></td>
+		<td><a href="james-madison.html" data-bs-toggle="tooltip" title="">James Madison</a></td>
 		<td>Madison</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="jeff-bezos-and-jason-fried.html">Jeff Bezos and Jason Fried</a></td>
+		<td><a href="jeff-bezos-and-jason-fried.html" data-bs-toggle="tooltip" title="">Jeff Bezos and Jason Fried</a></td>
 		<td>Fried</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="jeff-bridges.html">Jeff Bridges</a></td>
+		<td><a href="jeff-bridges.html" data-bs-toggle="tooltip" title="">Jeff Bridges</a></td>
 		<td>Bridges</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="jesus.html">Jesus</a></td>
+		<td><a href="jesus.html" data-bs-toggle="tooltip" title="">Jesus</a></td>
 		<td>Jesus</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="jim-coan.html">Jim Coan</a></td>
+		<td><a href="jim-coan.html" data-bs-toggle="tooltip" title="Clinical Psychologist at the University of Virginia">Jim Coan</a></td>
 		<td>Coan</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="jim-womack.html">Jim Womack</a></td>
+		<td><a href="jim-womack.html" data-bs-toggle="tooltip" title="">Jim Womack</a></td>
 		<td>Womack</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="jimmy-buffet.html">Jimmy Buffet</a></td>
+		<td><a href="jimmy-buffet.html" data-bs-toggle="tooltip" title="">Jimmy Buffet</a></td>
 		<td>Buffet</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="joe-boyd.html">Joe Boyd</a></td>
+		<td><a href="joe-boyd.html" data-bs-toggle="tooltip" title="">Joe Boyd</a></td>
 		<td>Boyd</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="john-adams.html">John Adams</a></td>
+		<td><a href="john-adams.html" data-bs-toggle="tooltip" title="">John Adams</a></td>
 		<td>Adams</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="john-bacon-and-ed-zeiders.html">John Bacon and Ed Zeiders</a></td>
+		<td><a href="john-bacon-and-ed-zeiders.html" data-bs-toggle="tooltip" title="">John Bacon and Ed Zeiders</a></td>
 		<td>Zeiders</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="john-dickson-carr-and-cecil-street.html">John Dickson Carr and Cecil Street</a></td>
+		<td><a href="john-dickson-carr-and-cecil-street.html" data-bs-toggle="tooltip" title="">John Dickson Carr and Cecil Street</a></td>
 		<td>Street</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="john-f-kennedy.html">John F. Kennedy</a></td>
+		<td><a href="john-f-kennedy.html" data-bs-toggle="tooltip" title="">John F. Kennedy</a></td>
 		<td>Kennedy</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="john-gall.html">John Gall</a></td>
+		<td><a href="john-gall.html" data-bs-toggle="tooltip" title="">John Gall</a></td>
 		<td>Gall</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="john-gottman.html">John Gottman</a></td>
+		<td><a href="john-gottman.html" data-bs-toggle="tooltip" title="">John Gottman</a></td>
 		<td>Gottman</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="john-guillebaud.html">John Guillebaud</a></td>
+		<td><a href="john-guillebaud.html" data-bs-toggle="tooltip" title="">John Guillebaud</a></td>
 		<td>Guillebaud</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="john-kenneth-galbraith.html">John Kenneth Galbraith</a></td>
+		<td><a href="john-kenneth-galbraith.html" data-bs-toggle="tooltip" title="">John Kenneth Galbraith</a></td>
 		<td>Galbraith</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="john-lennon.html">John Lennon</a></td>
+		<td><a href="john-lennon.html" data-bs-toggle="tooltip" title="">John Lennon</a></td>
 		<td>Lennon</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="john-maynard-keynes.html">John Maynard Keynes</a></td>
+		<td><a href="john-maynard-keynes.html" data-bs-toggle="tooltip" title="">John Maynard Keynes</a></td>
 		<td>Keynes</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="john-mccain.html">John McCain</a></td>
+		<td><a href="john-mccain.html" data-bs-toggle="tooltip" title="">John McCain</a></td>
 		<td>McCain</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="john-rogers.html">John Rogers</a></td>
+		<td><a href="john-rogers.html" data-bs-toggle="tooltip" title="">John Rogers</a></td>
 		<td>Rogers</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="john-stuart-mill.html">John Stuart Mill</a></td>
+		<td><a href="john-stuart-mill.html" data-bs-toggle="tooltip" title="">John Stuart Mill</a></td>
 		<td>Mill</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="john-taylor-gatto.html">John Taylor Gatto</a></td>
+		<td><a href="john-taylor-gatto.html" data-bs-toggle="tooltip" title="">John Taylor Gatto</a></td>
 		<td>Gatto</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="john-updike.html">John Updike</a></td>
+		<td><a href="john-updike.html" data-bs-toggle="tooltip" title="">John Updike</a></td>
 		<td>Updike</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="jon-postel.html">Jon Postel</a></td>
+		<td><a href="jon-postel.html" data-bs-toggle="tooltip" title="">Jon Postel</a></td>
 		<td>Postel</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="jon-stewart.html">Jon Stewart</a></td>
+		<td><a href="jon-stewart.html" data-bs-toggle="tooltip" title="">Jon Stewart</a></td>
 		<td>Stewart</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="jonas-salk.html">Jonas Salk</a></td>
+		<td><a href="jonas-salk.html" data-bs-toggle="tooltip" title="">Jonas Salk</a></td>
 		<td>Salk</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="joseph-l-badaracco-jr..html">Joseph L. Badaracco, Jr.</a></td>
+		<td><a href="joseph-l-badaracco-jr..html" data-bs-toggle="tooltip" title="">Joseph L. Badaracco, Jr.</a></td>
 		<td>L. Badaracco</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="josiah-royce.html">Josiah Royce</a></td>
+		<td><a href="josiah-royce.html" data-bs-toggle="tooltip" title="">Josiah Royce</a></td>
 		<td>Royce</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="jrgen-klver.html">Jürgen Klüver</a></td>
+		<td><a href="jrgen-klver.html" data-bs-toggle="tooltip" title="">Jürgen Klüver</a></td>
 		<td>Klüver</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="katherine-phillips.html">Katherine Phillips</a></td>
+		<td><a href="katherine-phillips.html" data-bs-toggle="tooltip" title="">Katherine Phillips</a></td>
 		<td>Phillips</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="ken-wilber.html">Ken Wilber</a></td>
+		<td><a href="ken-wilber.html" data-bs-toggle="tooltip" title="">Ken Wilber</a></td>
 		<td>Wilber</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="kurt-vonnegut.html">Kurt Vonnegut</a></td>
+		<td><a href="kurt-vonnegut.html" data-bs-toggle="tooltip" title="">Kurt Vonnegut</a></td>
 		<td>Vonnegut</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="lauretta-bender.html">Lauretta Bender</a></td>
+		<td><a href="lauretta-bender.html" data-bs-toggle="tooltip" title="">Lauretta Bender</a></td>
 		<td>Bender</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="leah-greenberg-and-ezra-levin.html">Leah Greenberg and Ezra Levin</a></td>
+		<td><a href="leah-greenberg-and-ezra-levin.html" data-bs-toggle="tooltip" title="">Leah Greenberg and Ezra Levin</a></td>
 		<td>Levin</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="leonard-bernstein.html">Leonard Bernstein</a></td>
+		<td><a href="leonard-bernstein.html" data-bs-toggle="tooltip" title="">Leonard Bernstein</a></td>
 		<td>Bernstein</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="leonard-cohen.html">Leonard Cohen</a></td>
+		<td><a href="leonard-cohen.html" data-bs-toggle="tooltip" title="">Leonard Cohen</a></td>
 		<td>Cohen</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="lewis-carroll.html">Lewis Carroll</a></td>
+		<td><a href="lewis-carroll.html" data-bs-toggle="tooltip" title="">Lewis Carroll</a></td>
 		<td>Carroll</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="lord-kelvin.html">Lord Kelvin</a></td>
+		<td><a href="lord-kelvin.html" data-bs-toggle="tooltip" title="">Lord Kelvin</a></td>
 		<td>Kelvin</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="margaret-mead.html">Margaret Mead</a></td>
+		<td><a href="margaret-mead.html" data-bs-toggle="tooltip" title="">Margaret Mead</a></td>
 		<td>Mead</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="margery-allingham.html">Margery Allingham</a></td>
+		<td><a href="margery-allingham.html" data-bs-toggle="tooltip" title="">Margery Allingham</a></td>
 		<td>Allingham</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="mark-twain.html">Mark Twain</a></td>
+		<td><a href="mark-twain.html" data-bs-toggle="tooltip" title="">Mark Twain</a></td>
 		<td>Twain</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="martin-luther-king-jr..html">Martin Luther King Jr.</a></td>
+		<td><a href="martin-luther-king-jr..html" data-bs-toggle="tooltip" title="">Martin Luther King Jr.</a></td>
 		<td>King</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="martin-niemller.html">Martin Niemöller</a></td>
+		<td><a href="martin-niemller.html" data-bs-toggle="tooltip" title="">Martin Niemöller</a></td>
 		<td>Niemöller</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="martin-scorsese.html">Martin Scorsese</a></td>
+		<td><a href="martin-scorsese.html" data-bs-toggle="tooltip" title="">Martin Scorsese</a></td>
 		<td>Scorsese</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="mary-shelley.html">Mary Shelley</a></td>
+		<td><a href="mary-shelley.html" data-bs-toggle="tooltip" title="English novelist">Mary Shelley</a></td>
 		<td>Shelley</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="matthew-stewart.html">Matthew Stewart</a></td>
+		<td><a href="matthew-stewart.html" data-bs-toggle="tooltip" title="">Matthew Stewart</a></td>
 		<td>Stewart</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="michael-chabon.html">Michael Chabon</a></td>
+		<td><a href="michael-chabon.html" data-bs-toggle="tooltip" title="">Michael Chabon</a></td>
 		<td>Chabon</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="michael-innes.html">Michael Innes</a></td>
+		<td><a href="michael-innes.html" data-bs-toggle="tooltip" title="">Michael Innes</a></td>
 		<td>Innes</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="michel-foucault.html">Michel Foucault</a></td>
+		<td><a href="michel-foucault.html" data-bs-toggle="tooltip" title="">Michel Foucault</a></td>
 		<td>Foucault</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="milton-glaser.html">Milton Glaser</a></td>
+		<td><a href="milton-glaser.html" data-bs-toggle="tooltip" title="">Milton Glaser</a></td>
 		<td>Glaser</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="moira-buffini.html">Moira Buffini</a></td>
+		<td><a href="moira-buffini.html" data-bs-toggle="tooltip" title="">Moira Buffini</a></td>
 		<td>Buffini</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="montesquieu.html">Montesquieu</a></td>
+		<td><a href="montesquieu.html" data-bs-toggle="tooltip" title="">Montesquieu</a></td>
 		<td>Montesquieu</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="moritz-wagner.html">Moritz Wagner</a></td>
+		<td><a href="moritz-wagner.html" data-bs-toggle="tooltip" title="">Moritz Wagner</a></td>
 		<td>Wagner</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="neil-postman.html">Neil Postman</a></td>
+		<td><a href="neil-postman.html" data-bs-toggle="tooltip" title="">Neil Postman</a></td>
 		<td>Postman</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="niccol-machiavelli.html">Niccolò Machiavelli</a></td>
+		<td><a href="niccol-machiavelli.html" data-bs-toggle="tooltip" title="">Niccolò Machiavelli</a></td>
 		<td>Machiavelli</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="oliver-wendell-holmes.html">Oliver Wendell Holmes</a></td>
+		<td><a href="oliver-wendell-holmes.html" data-bs-toggle="tooltip" title="">Oliver Wendell Holmes</a></td>
 		<td>Holmes</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="otto-jespersen.html">Otto Jespersen</a></td>
+		<td><a href="otto-jespersen.html" data-bs-toggle="tooltip" title="">Otto Jespersen</a></td>
 		<td>Jespersen</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="pablo-picasso.html">Pablo Picasso</a></td>
+		<td><a href="pablo-picasso.html" data-bs-toggle="tooltip" title="">Pablo Picasso</a></td>
 		<td>Picasso</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="paul-mccartney.html">Paul McCartney</a></td>
+		<td><a href="paul-mccartney.html" data-bs-toggle="tooltip" title="">Paul McCartney</a></td>
 		<td>McCartney</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="peter-boettke.html">Peter Boettke</a></td>
+		<td><a href="peter-boettke.html" data-bs-toggle="tooltip" title="">Peter Boettke</a></td>
 		<td>Boettke</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="peter-freuchen.html">Peter Freuchen</a></td>
+		<td><a href="peter-freuchen.html" data-bs-toggle="tooltip" title="">Peter Freuchen</a></td>
 		<td>Freuchen</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="peter-kann.html">Peter Kann</a></td>
+		<td><a href="peter-kann.html" data-bs-toggle="tooltip" title="">Peter Kann</a></td>
 		<td>Kann</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="peter-senge.html">Peter Senge</a></td>
+		<td><a href="peter-senge.html" data-bs-toggle="tooltip" title="">Peter Senge</a></td>
 		<td>Senge</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="ralph-waldo-emerson.html">Ralph Waldo Emerson</a></td>
+		<td><a href="ralph-waldo-emerson.html" data-bs-toggle="tooltip" title="">Ralph Waldo Emerson</a></td>
 		<td>Emerson</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="ray-bradbury.html">Ray Bradbury</a></td>
+		<td><a href="ray-bradbury.html" data-bs-toggle="tooltip" title="">Ray Bradbury</a></td>
 		<td>Bradbury</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="ray-oldenburg.html">Ray Oldenburg</a></td>
+		<td><a href="ray-oldenburg.html" data-bs-toggle="tooltip" title="">Ray Oldenburg</a></td>
 		<td>Oldenburg</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="raymond-chandler.html">Raymond Chandler</a></td>
+		<td><a href="raymond-chandler.html" data-bs-toggle="tooltip" title="">Raymond Chandler</a></td>
 		<td>Chandler</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="raymond-williams.html">Raymond Williams</a></td>
+		<td><a href="raymond-williams.html" data-bs-toggle="tooltip" title="">Raymond Williams</a></td>
 		<td>Williams</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="ren-descartes.html">René Descartes</a></td>
+		<td><a href="ren-descartes.html" data-bs-toggle="tooltip" title="">René Descartes</a></td>
 		<td>Descartes</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="richard-dawkins.html">Richard Dawkins</a></td>
+		<td><a href="richard-dawkins.html" data-bs-toggle="tooltip" title="">Richard Dawkins</a></td>
 		<td>Dawkins</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="richard-hofstadter.html">Richard Hofstadter</a></td>
+		<td><a href="richard-hofstadter.html" data-bs-toggle="tooltip" title="">Richard Hofstadter</a></td>
 		<td>Hofstadter</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="richard-powers.html">Richard Powers</a></td>
+		<td><a href="richard-powers.html" data-bs-toggle="tooltip" title="">Richard Powers</a></td>
 		<td>Powers</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="robert-b-reich.html">Robert B. Reich</a></td>
+		<td><a href="robert-b-reich.html" data-bs-toggle="tooltip" title="">Robert B. Reich</a></td>
 		<td>Reich</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="robert-d-austin.html">Robert D. Austin</a></td>
+		<td><a href="robert-d-austin.html" data-bs-toggle="tooltip" title="">Robert D. Austin</a></td>
 		<td>Austin</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="robert-heinlein.html">Robert Heinlein</a></td>
+		<td><a href="robert-heinlein.html" data-bs-toggle="tooltip" title="">Robert Heinlein</a></td>
 		<td>Heinlein</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="robert-putnam.html">Robert Putnam</a></td>
+		<td><a href="robert-putnam.html" data-bs-toggle="tooltip" title="">Robert Putnam</a></td>
 		<td>Putnam</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="robert-riskin.html">Robert Riskin</a></td>
+		<td><a href="robert-riskin.html" data-bs-toggle="tooltip" title="">Robert Riskin</a></td>
 		<td>Riskin</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="ron-johnson.html">Ron Johnson</a></td>
+		<td><a href="ron-johnson.html" data-bs-toggle="tooltip" title="">Ron Johnson</a></td>
 		<td>Johnson</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="ross-macdonald.html">Ross MacDonald</a></td>
+		<td><a href="ross-macdonald.html" data-bs-toggle="tooltip" title="Ross Macdonald is the main pseudonym that was used by the American-Canadian writer of crime fiction Kenneth Millar">Ross MacDonald</a></td>
 		<td>MacDonald</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="sarah-bakewell.html">Sarah Bakewell</a></td>
+		<td><a href="sarah-bakewell.html" data-bs-toggle="tooltip" title="">Sarah Bakewell</a></td>
 		<td>Bakewell</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="stan-lee.html">Stan Lee</a></td>
+		<td><a href="stan-lee.html" data-bs-toggle="tooltip" title="">Stan Lee</a></td>
 		<td>Lee</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="stephen-e-nash.html">Stephen E. Nash</a></td>
+		<td><a href="stephen-e-nash.html" data-bs-toggle="tooltip" title="">Stephen E. Nash</a></td>
 		<td>Nash</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="steve-jobs.html">Steve Jobs</a></td>
+		<td><a href="steve-jobs.html" data-bs-toggle="tooltip" title="">Steve Jobs</a></td>
 		<td>Jobs</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="steven-johnson.html">Steven Johnson</a></td>
+		<td><a href="steven-johnson.html" data-bs-toggle="tooltip" title="">Steven Johnson</a></td>
 		<td>Johnson</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="steven-levitsky-and-daniel-ziblatt.html">Steven Levitsky and Daniel Ziblatt</a></td>
+		<td><a href="steven-levitsky-and-daniel-ziblatt.html" data-bs-toggle="tooltip" title="">Steven Levitsky and Daniel Ziblatt</a></td>
 		<td>Ziblatt</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="steven-pinker.html">Steven Pinker</a></td>
+		<td><a href="steven-pinker.html" data-bs-toggle="tooltip" title="">Steven Pinker</a></td>
 		<td>Pinker</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="sydney-harris.html">Sydney Harris</a></td>
+		<td><a href="sydney-harris.html" data-bs-toggle="tooltip" title="">Sydney Harris</a></td>
 		<td>Harris</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="ted-perry.html">Ted Perry</a></td>
+		<td><a href="ted-perry.html" data-bs-toggle="tooltip" title="">Ted Perry</a></td>
 		<td>Perry</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="thomas-j-watson-jr.html">Thomas J. Watson, Jr</a></td>
+		<td><a href="thomas-j-watson-jr.html" data-bs-toggle="tooltip" title="">Thomas J. Watson, Jr</a></td>
 		<td>J. Watson</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="thomas-jefferson.html">Thomas Jefferson</a></td>
+		<td><a href="thomas-jefferson.html" data-bs-toggle="tooltip" title="">Thomas Jefferson</a></td>
 		<td>Jefferson</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="thomas-piketty.html">Thomas Piketty</a></td>
+		<td><a href="thomas-piketty.html" data-bs-toggle="tooltip" title="">Thomas Piketty</a></td>
 		<td>Piketty</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="tim-oreilly.html">Tim O'Reilly</a></td>
+		<td><a href="tim-oreilly.html" data-bs-toggle="tooltip" title="">Tim O'Reilly</a></td>
 		<td>O'Reilly</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="tom-demarco-and-timothy-lister.html">Tom DeMarco and Timothy Lister</a></td>
+		<td><a href="tom-demarco-and-timothy-lister.html" data-bs-toggle="tooltip" title="">Tom DeMarco and Timothy Lister</a></td>
 		<td>Lister</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="tom-peters-and-robert-h-waterman-jr..html">Tom Peters and Robert H. Waterman Jr.</a></td>
+		<td><a href="tom-peters-and-robert-h-waterman-jr..html" data-bs-toggle="tooltip" title="">Tom Peters and Robert H. Waterman Jr.</a></td>
 		<td>Waterman</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="tom-robbins.html">Tom Robbins</a></td>
+		<td><a href="tom-robbins.html" data-bs-toggle="tooltip" title="">Tom Robbins</a></td>
 		<td>Robbins</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="tom-shales-and-james-andrew-miller.html">Tom Shales and James Andrew Miller</a></td>
+		<td><a href="tom-shales-and-james-andrew-miller.html" data-bs-toggle="tooltip" title="">Tom Shales and James Andrew Miller</a></td>
 		<td>Miller</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="tom-waits.html">Tom Waits</a></td>
+		<td><a href="tom-waits.html" data-bs-toggle="tooltip" title="">Tom Waits</a></td>
 		<td>Waits</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="tomas-transtrmer.html">Tomas Tranströmer</a></td>
+		<td><a href="tomas-transtrmer.html" data-bs-toggle="tooltip" title="">Tomas Tranströmer</a></td>
 		<td>Tranströmer</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="trygve-throntveit.html">Trygve Throntveit</a></td>
+		<td><a href="trygve-throntveit.html" data-bs-toggle="tooltip" title="">Trygve Throntveit</a></td>
 		<td>Throntveit</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="upton-sinclair.html">Upton Sinclair</a></td>
+		<td><a href="upton-sinclair.html" data-bs-toggle="tooltip" title="">Upton Sinclair</a></td>
 		<td>Sinclair</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="ursula-k-le-guin.html">Ursula K. Le Guin</a></td>
+		<td><a href="ursula-k-le-guin.html" data-bs-toggle="tooltip" title="">Ursula K. Le Guin</a></td>
 		<td>Guin</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="victor-frankl.html">Victor Frankl</a></td>
+		<td><a href="victor-frankl.html" data-bs-toggle="tooltip" title="">Victor Frankl</a></td>
 		<td>Frankl</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="victor-hwang.html">Victor Hwang</a></td>
+		<td><a href="victor-hwang.html" data-bs-toggle="tooltip" title="">Victor Hwang</a></td>
 		<td>Hwang</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="vishavjit-singh.html">Vishavjit Singh</a></td>
+		<td><a href="vishavjit-singh.html" data-bs-toggle="tooltip" title="Sikh Captain America">Vishavjit Singh</a></td>
 		<td>Singh</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="wade-davis.html">Wade Davis</a></td>
+		<td><a href="wade-davis.html" data-bs-toggle="tooltip" title="">Wade Davis</a></td>
 		<td>Davis</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="walt-whitman.html">Walt Whitman</a></td>
+		<td><a href="walt-whitman.html" data-bs-toggle="tooltip" title="">Walt Whitman</a></td>
 		<td>Whitman</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="walter-mosley.html">Walter Mosley</a></td>
+		<td><a href="walter-mosley.html" data-bs-toggle="tooltip" title="">Walter Mosley</a></td>
 		<td>Mosley</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="walter-reuther.html">Walter Reuther</a></td>
+		<td><a href="walter-reuther.html" data-bs-toggle="tooltip" title="">Walter Reuther</a></td>
 		<td>Reuther</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="warren-buffett.html">Warren Buffett</a></td>
+		<td><a href="warren-buffett.html" data-bs-toggle="tooltip" title="">Warren Buffett</a></td>
 		<td>Buffett</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="william-blake.html">William Blake</a></td>
+		<td><a href="william-blake.html" data-bs-toggle="tooltip" title="">William Blake</a></td>
 		<td>Blake</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="william-j-brown-hays-w-mccormick-iii-and-scott-w-thomas.html">William J. Brown, Hays W. McCormick III and Scott W. Thomas</a></td>
+		<td><a href="william-j-brown-hays-w-mccormick-iii-and-scott-w-thomas.html" data-bs-toggle="tooltip" title="">William J. Brown, Hays W. McCormick III and Scott W. Thomas</a></td>
 		<td>J. Brown</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="william-jennings-bryan.html">William Jennings Bryan</a></td>
+		<td><a href="william-jennings-bryan.html" data-bs-toggle="tooltip" title="">William Jennings Bryan</a></td>
 		<td>Bryan</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="winston-churchill.html">Winston Churchill</a></td>
+		<td><a href="winston-churchill.html" data-bs-toggle="tooltip" title="">Winston Churchill</a></td>
 		<td>Churchill</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="wynton-marsalis.html">Wynton Marsalis</a></td>
+		<td><a href="wynton-marsalis.html" data-bs-toggle="tooltip" title="">Wynton Marsalis</a></td>
 		<td>Marsalis</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="yanis-varoufakis.html">Yanis Varoufakis</a></td>
+		<td><a href="yanis-varoufakis.html" data-bs-toggle="tooltip" title="">Yanis Varoufakis</a></td>
 		<td>Varoufakis</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="yuval-noah-harari.html">Yuval Noah Harari</a></td>
+		<td><a href="yuval-noah-harari.html" data-bs-toggle="tooltip" title="">Yuval Noah Harari</a></td>
 		<td>Harari</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href="anonymous.html">anonymous</a></td>
+		<td><a href="anonymous.html" data-bs-toggle="tooltip" title="">anonymous</a></td>
 		<td>anonymous</td>
 		<td></td>
 	</tr>
 	</tbody>
 </table>
-</main>
+
+				</div>
+
+				<div>
+				  <p class="float-end">
+    				<a href="#" class="btn btn-outline-secondary" role="button">Back to top</a>
+  				</p>
+  			</div>
+
+			</main>
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+	</div> <!-- /.row -->
+
+	<div class="row">
+
+		<div class="col-12">
+
+			<hr />
+
+			<p class="text-center pr-footer-p" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+				<a class="pr-footer-a" property="dct:title" rel="cc:attributionURL" href="https://practopian.org">
+					The Practical Utopian website
+				</a>
+				by
+				<a  class="pr-footer-a" rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://hbowie.net">
+					Herb Bowie
+				</a>
+				is licensed under
+				<a  class="pr-footer-a" href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
+					CC BY-SA 4.0
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1">
+				</a>
+			</p>
+
+		</div>
+
+	</div> <!-- /.row -->
+
+</div> <!-- /.container -->
+
+
+    <script src="../js/bootstrap.bundle.min.js"></script>
+    <script src="../js/author-sort.js"></script>
+    <script>
+    	var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+			var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+  			return new bootstrap.Tooltip(tooltipTriggerEl)
+			})
+		</script>
 </body>
 </html>
+

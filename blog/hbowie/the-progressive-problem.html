@@ -33,18 +33,47 @@
 
     <div class="collapse navbar-collapse" id="main-navigation">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-                <a class="nav-link" href="../../index.html">Home</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../../blog/hbowie/index.html">Essays</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../../tags/index.html">Topics</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../../authors/index.html">Authors</a>
-            </li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../index.html">Home</a>
+					</li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../blog/hbowie/index.html">Essays</a>
+					</li>
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../tags/index.html">Topics</a>
+					</li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-quotes" data-bs-toggle="dropdown" aria-expanded="false">
+            	Quotes
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-quotes">
+              <li><a class="dropdown-item pr-nav-item" href="../../authors/index.html">
+              	Authors
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../quotes/latest.html">
+              	Latest Quotes
+              </a></li>
+            </ul>
+          </li>
+
+          <li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-about" data-bs-toggle="dropdown" aria-expanded="false">
+            	About
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-about">
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-author.html">
+              	About the Author
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-site.html">
+              	About the Site
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-tools.html">
+              	About the Tools
+              </a></li>
+            </ul>
+          </li>
+
         </ul>
     </div> <!-- /#main-navigation -->
 
@@ -64,16 +93,18 @@
 
 			<main>
 
-				<h1>The Progressive Problem</h1>
+				<h1 class="pr-page-title">The Progressive Problem</h1>
 
-				<p><span class="pr-topics-label">topics:</span> <a class='btn btn-secondary mx-1 pr-topic' href='../../tags/us-politics.html' rel='tag'>US politics</a><a class='btn btn-secondary mx-1 pr-topic' href='../../tags/democracy.html' rel='tag'>democracy</a><a class='btn btn-secondary mx-1 pr-topic' href='../../tags/governance.html' rel='tag'>governance</a><a class='btn btn-secondary mx-1 pr-topic' href='../../tags/written-word.html' rel='tag'>written word</a></p>
+				<p class="pr-date-and-mins">10 Jun 2019 &middot; 9 min read</p>
 
-				<p>9 min read</p>
+				<p><span class="pr-topics-label">topics:</span> <a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/us-politics.html' rel='tag'>US politics</a><a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/democracy.html' rel='tag'>democracy</a><a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/governance.html' rel='tag'>governance</a><a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/written-word.html' rel='tag'>written word</a></p>
 
 				<p>
-				<img src="../../images/the-progressive-problem-culture-loading.jpeg" alt="Elements of our Culture: Tradition, society, etc.">
+					<img class="img-fluid rounded" src="../../images/the-progressive-problem-culture-loading.jpeg" alt="Elements of our Culture: Tradition, society, etc.">
 				</p>
 
+
+				<div class="pr-content">
 				<p>For progressives in the US &#8211; and, indeed, in many parts of the world &#8211; recent events have called into question our faith in the goodness of people, and in our continued march forward towards a better tomorrow. </p>
 <p>It's only been roughly a decade since those of us in the US were <a href="https://youtu.be/vsPbmUhwUtg">celebrating in amazement the election of Barack Obama</a> as our president, an event that seemed to usher in a new era of progressive values. </p>
 <p>Since then, however, we've seen the election of Donald Trump, an event that daily seems to repudiate all the victories we thought we had won, all the bridges we thought we had crossed. And now in many states we are seeing <a href="https://blogs.bmj.com/bmj/2019/05/15/alabama-abortion-ban-part-of-new-efforts-to-restrict-abortion-in-the-united-states/">new abortion laws</a> that represent a fresh resurgence of a repressive Christian right. </p>
@@ -127,6 +158,13 @@
 <p>We're going to need to declare what we stand <em>for</em>, and not just what we stand against. </p>
 <p>And while equality and egalitarianism are a good start, we had better find a few other things we can agree upon if we're serious about leading a modern, complex society towards a greater future.  </p>
 
+				</div>
+
+				<div>
+				  <p class="float-end">
+    				<a href="#" class="btn btn-outline-secondary" role="button">Back to top</a>
+  				</p>
+  			</div>
 
 			</main>
 
@@ -137,7 +175,37 @@
 		</div>
 
 	</div> <!-- /.row -->
+
+	<div class="row">
+
+		<div class="col-12">
+
+			<hr />
+
+			<p class="text-center pr-footer-p" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+				<a class="pr-footer-a" property="dct:title" rel="cc:attributionURL" href="https://practopian.org">
+					The Practical Utopian website
+				</a>
+				by
+				<a  class="pr-footer-a" rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://hbowie.net">
+					Herb Bowie
+				</a>
+				is licensed under
+				<a  class="pr-footer-a" href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
+					CC BY-SA 4.0
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1">
+				</a>
+			</p>
+
+		</div>
+
+	</div> <!-- /.row -->
+
 </div> <!-- /.container -->
+
+
     <script src="../../js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

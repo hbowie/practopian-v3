@@ -29,20 +29,25 @@
 
 			<main>
 
-				<h1>=$title$=</h1>
+				<h1 class="pr-page-title">=$title$=</h1>
 
-				<p><span class="pr-topics-label">topics:</span> =$tags&gtags/;btn btn-secondary mx-1 pr-topic$=</p>
+				<p class="pr-date-and-mins">=$date&dd MMM yyyy$= &middot; =$minutes-to-read$= min read</p>
 
-				<p>=$minutes-to-read$= min read</p>
+				<p><span class="pr-topics-label">topics:</span> =$tags&gtags/;btn btn-secondary mx-1 my-1 pr-topic$=</p>
 
 <?if "=$imagename$=" ?>
 				<p>
-				<img src="=$relative$=images/=$imagename&f$=" alt="=$imagealt$=">
+					<img class="img-fluid rounded" src="=$relative$=images/=$imagename&f$=" alt="=$imagealt$=">
 				</p>
 
 <?copyfile "../content/hbowie/files/=$imagename$=" "../images/=$imagename&f$=" ?>
 <?endif?>
+
+				<div class="pr-content">
 				=$body&o$=
+				</div>
+
+<?include "../includes/back-to-top.html" ?>
 
 			</main>
 
@@ -53,7 +58,12 @@
 		</div>
 
 	</div> <!-- /.row -->
+
+<?include "../includes/license.html" ?>
+
 </div> <!-- /.container -->
+
+
     <script src="=$relative$=js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
