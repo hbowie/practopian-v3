@@ -1,0 +1,74 @@
+<?output "../quotes/random.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>Random Quote</title>
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+
+<?include "../includes/nav.html" ?>
+
+<div class="container">
+
+	<div class="row">
+
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-10 col-lg-8 col-xl-6">
+
+			<main>
+
+				<h1 class="pr-page-title"> &nbsp; </h1>
+
+			</main>
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+	</div> <!-- /.row -->
+
+</div> <!-- /.container -->
+
+    <script src="=$relative$=js/bootstrap.bundle.min.js"></script>
+
+<script>
+var qfilename = new Array();
+var ix = 0;
+<?nextrec?>
+qfilename[ix] = "=$title&f$=.html";
+ix++;
+<?loop?>
+var max = ix;
+
+var now = new Date();
+var seed = now.getTime() % 0xffffffff;
+
+randomQuote()
+
+function rand(n) {
+  seed = (0x015a4e35 * seed) % 0x7fffffff;
+  return (seed >> 16) % n;
+}
+
+function randomQuote() {
+  rq = rand(max);
+  if (rq < 0) {
+    rq = 0;
+  }
+  if (rq >= max) {
+    rq = max - 1;
+  }
+  var page = qfilename[rq];
+	window.location.replace(page);
+}
+    </script>
+</body>
+</html>

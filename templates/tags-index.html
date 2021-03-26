@@ -11,17 +11,43 @@
 
 <?include "../includes/nav.html" ?>
 
-<main>
+<div class="container">
 
-<h1>Topics</h1>
+	<div class="row">
 
-<p>My interests and writings tend to revolve around a number of recurring topics representing concerns of mine about our modern world. These topics are listed below, and selecting one of them will reveal original content and quotations relevant to that topic. </p>
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-10 col-lg-8 col-xl-6">
+
+			<main>
+
+				<h1 class="pr-page-title">Topics</h1>
+
+					<p>My interests and writings tend to revolve around a number of recurring topics. These are listed below, and clicking on one of them will reveal original content, and quotations from others, relevant to that particular concern. </p>
 
 <?nextrec?>
 <?loop?>
 
 <?include "../includes-gen/tags-box.html" ?>
 
-</main>
+			</main>
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+	</div> <!-- /.row -->
+
+<?include "../includes/license.html" ?>
+
+</div> <!-- /.container -->
+
+
+    <script src="=$relative$=js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
+<?loop?>

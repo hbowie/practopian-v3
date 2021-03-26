@@ -1,0 +1,77 @@
+<?output "../site-index.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>Index of Original Writings</title>
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+
+<?include "../includes/nav.html" ?>
+
+<div class="container">
+
+	<div class="row">
+
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-10 col-lg-8 col-xl-6">
+
+			<main>
+
+				<h1 class="pr-page-title">Index of Original Writings</h1>
+
+				<div class="pr-content">
+
+<?include "../includes-gen/index-letters.html" ?>
+
+<?nextrec?>
+<?definegroup 1 =$initial-letter$= ?>
+<?definegroup 2 "=$term$=" ?>
+<?ifendgroup 2 ?>
+<?endif?>
+<?ifendgroup 1 ?>
+</dl>
+<?endif?>
+<?ifnewgroup 1 ?>
+<h3 id="letter-=$initial-letter&l$=">&mdash; =$initial-letter$= &mdash;</h3>
+<dl class="pr-index">
+<?endif?>
+<?ifnewgroup 2 ?>
+	<dt>=$term$=</dt>
+<?endif?>
+		<dd>
+<?if =$page-type$= eq blog ?>
+			<a href="=$relative$=blog/hbowie/=$page&f$=.html">
+<?endif?>
+<?if =$page-type$= eq appreciation ?>
+			<a href="=$relative$=appreciation/=$page&f$=.html">
+<?endif?>
+				=$page$=
+			</a>
+		</dd>
+
+<?loop?>
+				</div>
+
+			</main>
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+	</div> <!-- /.row -->
+
+<?include "../includes/license.html" ?>
+
+</div> <!-- /.container -->
+
+    <script src="=$relative$=js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

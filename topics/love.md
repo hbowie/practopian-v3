@@ -1,8 +1,10 @@
 Title:  love
 
-Tags:   Something Bigger
+Tags:   Something Bigger than Ourselves
 
 Type:   Principle
+
+Seq:    7
 
 Body: 
 

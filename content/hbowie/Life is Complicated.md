@@ -1,6 +1,6 @@
 Title:  Life is Complicated
 
-Tags:   critical thinking, cultural evolution, evolution
+Tags:   balance, critical thinking, cultural evolution, evolution, imperfection
 
 Timestamp: 20210311185505
 
@@ -12,9 +12,11 @@ Importance: 50
 
 Date:   26 Dec 2020
 
-Index:  Davies, Sir Raymond Douglas; Mencken, H. L.; Obama, Barack; evolution; 
+Index:  Davies, Sir Raymond Douglas; Mencken, H. L.; Obama, Barack; evolution; Ng, Celeste; 
 
 Minutes to Read: 7
+
+Image Name: choice of straight or twisted lines
 
 Image Alt: Red tennis shoes pointing towards one straight line and one tangled line
 
@@ -120,33 +122,33 @@ Here's a final quotation taken from such a work, the novel *Little Fires Everywh
 
 > In Pauline and Mal's house, nothing was simple. In her parents' house, things had been good or bad, right or wrong, useful or wasteful. There had been nothing in between. Here, she found, everything had nuance; everything had an unrevealed side or unexplored depths. Everything was worth looking at more closely. 
  
- And so I will end with my wish for the New Year for all of us: may you see the people and situations around you with new eyes,  and with greater nuance, and find unexplored depths in everyday places and familiar faces. 
+ And so I will end with my wish for all of us: may you see the people and situations around you with new eyes,  and with greater nuance, and find unexplored depths in everyday places and familiar faces. 
  
  And may you fully appreciate your complicated lives. 
 
 [737]: https://www.latimes.com/local/california/la-fi-boeing-max-design-20190315-story.html
 
-[art]: https://practopian.org/blog/hbowie/religion-storytelling-and-art.html
+[art]: ../../blog/hbowie/religion-storytelling-and-art.html
 
 [bbdtl]: https://brenebrown.com/dtl-podcast/
 
 [bbry]: https://www.theverge.com/2020/2/3/21120107/tcl-blackberry-ends-phone-global-rights-date-2020
 
-[bigb]: https://practopian.org/blog/hbowie/what-to-do-about-big-business.html
+[bigb]: ../../blog/hbowie/what-to-do-about-big-business.html
 
 [blwm]: https://en.wikipedia.org/wiki/The_Blind_Watchmaker
 
 [chk]: https://www.2civility.org/super-chickens-lesson-competition/
 
-[cult]: https://practopian.org/tags/cultural-evolution.html
+[cult]: ../../tags/cultural-evolution.html
 
 [drones]: https://defensesystems.com/articles/2015/08/31/darpa-gremlins-reusable-attack-drones.aspx
 
-[evo]: https://practopian.org/tags/evolution.html
+[evo]: ../../tags/evolution.html
 
 [fed]: https://guides.loc.gov/federalist-papers/full-text
 
-[hlm]: https://practopian.org/quotes/easy-solutions.html
+[hlm]: ../../quotes/easy-solutions.html
 
 [kinks]: https://music.apple.com/us/album/complicated-life/1532715910?i=1532715921
 

@@ -24,6 +24,10 @@ Image Credit: iStock/pabradyphoto
 
 Image Credit Link: https://www.istockphoto.com/photo/maryland-state-capital-building-gm1097572174-294745395
 
+Teaser: 
+
+I can tell from my occasional conversations with friends and relatives who vote Republican that they have been thoroughly brainwashed about what we liberals stand for in the modern era. So let me lift the veil of secrecy and reveal some of our deepest, darkest secrets.
+
 Body: 
 
 I can tell from my occasional conversations with friends and relatives who vote Republican that they have been thoroughly brainwashed about what we liberals stand for in the modern era. 

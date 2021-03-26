@@ -2,7 +2,7 @@ Title: <title>
 
 Tags: <tags> 
 
-Type: pick-from: Principle, Value 
+Type: pick-from: alias, Principle, Value 
 
 Seq: <seq> 
 

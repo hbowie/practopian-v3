@@ -1,0 +1,82 @@
+<?output "../recent.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>Recent Writings</title>
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+
+<?include "../includes/nav.html" ?>
+
+<div class="container">
+
+	<div class="row">
+
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-10 col-lg-8 col-xl-6">
+
+			<main>
+
+				<h1 class="pr-page-title">Recent Writings</h1>
+
+				<!-- ><div class="pr-content"> -->
+
+				<p>Here are the latest original writings published on the site. </p>
+
+<?set count = 0 ?>
+<?nextrec?>
+<?if =$count$= lt 10 ?>
+
+<div class="card border-2 border-rounded mb-2" style="width: 100%;" >
+    <img class="card-img-top" src="=$relative$=images/=$imagename&f$=" alt="=$imagealt$=">
+    <div class="card-body">
+      <h4 class="card-title">=$title$=</h4>
+      <p class="card-text">=$teaser&o-$=</p>
+      <p class="card-text"><small class="text-muted">
+        =$date&dd MMM yyyy$= &middot;
+<?if =$type$= eq "appreciation" ?>
+        Appreciation
+<?endif?>
+<?if =$type$= eq "blog" ?>
+        Essay
+<?endif?>
+        </small></p>
+<?if =$type$= eq "appreciation" ?>
+        <a href="appreciation/=$title&f$=.html" class="btn btn-primary">Read now&hellip;</a>
+<?endif?>
+<?if =$type$= eq "blog" ?>
+        <a href="blog/hbowie/=$title&f$=.html" class="btn btn-primary">Read now&hellip;</a>
+<?endif?>
+    </div>
+</div>
+<?endif?>
+<?set count += 1 ?>
+<?loop?>
+
+				<!-- ></div> -->
+
+<?include "../includes/back-to-top.html" ?>
+
+			</main>
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+	</div> <!-- /.row -->
+
+<?include "../includes/license.html" ?>
+
+</div> <!-- /.container -->
+
+    <script src="=$relative$=js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

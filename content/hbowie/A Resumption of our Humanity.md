@@ -16,6 +16,8 @@ Index:  Biden, Joe; inauguration; Guthrie, Woody; Gorman, Amanda;
 
 Minutes to Read: 4
 
+Image Name: people gathering in a circle
+
 Image Alt: Many people gathering together in a circle
 
 Image Credit: iStock/hkeita

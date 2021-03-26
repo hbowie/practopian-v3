@@ -1,0 +1,11 @@
+<?output "../includes-gen/index-letters.html"?>
+<p>
+<?nextrec?>
+<?definegroup 1 =$initial-letter$= ?>
+<?ifendgroup 1 ?>
+<?endif?>
+<?ifnewgroup 1 ?>
+<a href="#letter-=$initial-letter&l$=">=$initial-letter$=</a>
+<?endif?>
+<?loop?>
+</p>
