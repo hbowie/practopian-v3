@@ -8,6 +8,8 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
 Importance: 80
 
 Date:   15 Jun 2020

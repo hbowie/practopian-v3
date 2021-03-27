@@ -1,0 +1,19 @@
+<?output "../includes-gen/featured.html"?>
+<?nextrec?>
+<?if =$featured$= eq true ?>
+<p class="pr-featured">Featured Essay:</p>
+<div class="card border-0 mb-2" style="width: 100%;" >
+    <img class="card-img-top" src="images/=$imagename&f$=" alt="=$imagealt$=">
+    <div class="card-body">
+      <h4 class="card-title">=$title$=</h4>
+      <p class="card-text">=$teaser&o-$=</p>
+<?if =$type$= eq "appreciation" ?>
+        <a href="appreciation/=$title&f$=.html" class="btn btn-primary">Read now&hellip;</a>
+<?endif?>
+<?if =$type$= eq "blog" ?>
+        <a href="blog/hbowie/=$title&f$=.html" class="btn btn-primary">Read now&hellip;</a>
+<?endif?>
+    </div>
+</div>
+<?endif?>
+<?loop?>

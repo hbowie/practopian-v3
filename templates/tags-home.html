@@ -1,0 +1,15 @@
+<?output "../includes-gen/tags-home.html"?>
+<p class="pr-featured">Recurring Topics:</p>
+<div class="card border-0 mb-2" style="width: 100%;" >
+    <div class="card-body">
+    	<div class="text-center">
+<?nextrec?>
+<?if =$type$= ne alias ?>
+			<a class="btn btn-secondary mx-1 my-2 pr-topic" href="tags/=$title&f$=.html">
+				=$title$=
+			</a>
+<?endif?>
+<?loop?>
+			</div>
+    </div>
+</div>

@@ -27,9 +27,22 @@ h6 { font-size: 1.0em; } */
 }
 
 .the-practopian {
+	margin-top: 1rem;
 	font-size: 1.8em;
 	font-family: 'concourse_t4bold', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	color: #3070AA;
+}
+
+.pr-slogan {
+	font-family: 'concourse_t4regular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: #3070AA;
+}
+
+.pr-featured
+{
+	font-family: 'concourse_t4italic', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	text-decoration: underline;
+	color: #5E5E5E;
 }
 
 .pr-nav-item {

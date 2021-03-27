@@ -11,13 +11,15 @@
 
 <?include "../includes/nav.html" ?>
 
-<header class="page-header header container mx-auto">
+<header class="page-header header container">
 
-		<p>
+		<!-- ><p>
 			<a href="=$relative$=index.html"><img class="img-practopian" alt="Practopian Logo" src="=$relative$=images/logo_sq128.png" width="64" height="64"></a>
-		</p>
-		<p><span class="the-practopian">The Practical Utopian</span></p>
-		<p class="slogan">Big Ideas Powering Better Outcomes for Humanity</p>
+		</p> -->
+		<p class="the-practopian">The Practical Utopian</p>
+		<p class="pr-slogan">Big Ideas Powering Better Outcomes for Humanity</p>
+
+		<hr />
 
 </header>
 
@@ -25,30 +27,38 @@
 
 	<div class="row">
 
-		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+		<div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
+
+<?include "../includes-gen/featured.html" ?>
 
 		</div>
 
-		<div class="col-12 col-sm-12 col-md-10 col-lg-8 col-xl-6">
+		<div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
 
-			<main>
-
-				<h1 class="pr-page-title">=$title$=</h1>
-
-				<div class="pr-content">
-
-				<p>A little bit of placeholder content for the home page. </p>
+<?include "../includes-gen/tags-home.html" ?>
 
 <?nextrec?>
 <?loop?>
 
-				</div>
-
-			</main>
-
 		</div>
 
-		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+		<div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
+
+			<p class="pr-featured">From the author:</p>
+				<div class="card border-0 mb-2" style="width: 100%;" >
+    			<img class="card-img-top" src="images/the-author-herb-with-hank.jpg" alt="Author Herb Bowie with Golden Retriever Hank">
+    			<div class="card-body">
+      			<h4 class="card-title">Welcome!</h4>
+      			<p class="card-text">
+							I write as <em>The Practical Utopian</em> because my twin desires are to be: <br />
+							&bull; <em>Down-to-earth</em> &mdash; I try to write short pieces explaining big ideas that will be broadly useful; <br />
+							&bull; <em>Idealistic</em> &mdash; I write with the goal of helping all of us achieve better outcomes, both for ourselves and for those around us.
+      			</p>
+        		<a href="about/the-site.html" class="btn btn-primary">
+        			Read more&hellip;
+        		</a>
+    			</div>
+				</div>
 
 		</div>
 
@@ -61,4 +71,3 @@
     <script src="=$relative$=js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
-

@@ -1,4 +1,4 @@
-Title:  Who's Responsible for Free Speech?
+Title:  Free Speech at the Crossroads
 
 Tags:   governance, liberty, systemic, technology, written word
 
@@ -8,29 +8,34 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: true
+
 Importance: 50
 
 Date:   17 Feb 2021
 
 Index:  free speech; US Constitution; Section 230; 
 
-Minutes to Read: 7
+Minutes to Read: 8
 
-Image Name: free speech
+Image Name: crowd of demonstrators
 
-Image Alt: US Flag with the words "Free Speech" overlaid
+Image Alt: Crowd of Demonstrators
 
-Image Credit: iStock/zimmytws
+Image Credit: iStock/Duettographics
 
-Image Credit Link: https://www.istockphoto.com/photo/free-speech-constitution-and-flag-gm905038392-249559919
+Image Credit Link: https://www.istockphoto.com/vector/illustration-of-crowd-of-people-holding-a-demonstration-gm123689599-17416678
 
 Teaser: 
 
-Can we improve things by providing modern definitions for a publisher and an online host? Can it be that simple? Let's examine roles and responsibilities for modern media giants. 
+No matter where you stand on the political spectrum, questions surrounding free speech are hot-button items these days. Should anyone be free to say anything, about anyone, at any time, and to any audience? If not, who's responsible for moderation, and what are the rules? And at what point does moderation become censorship?
+
 
 Body: 
 
-Before we consider this question directly, let's start with a review of relevant legislation and technology, using our situation in the US as a point of focus. 
+No matter where you stand on the political spectrum, questions surrounding free speech are hot-button items these days. Should anyone be free to say anything, about anyone, at any time, and to any audience? If not, who's responsible for moderation, and what are the rules? And at what point does moderation become censorship?
+
+Before we consider these questions directly, let's start with a review of relevant legislation and technology, using our situation in the US as a point of focus. 
 
 ## The US Bill of Rights
 

@@ -13,6 +13,27 @@ template	webroot			/Users/hbowie/Sites/practopian 3
 template	open			/Users/hbowie/Sites/practopian 3/templates/basic-page.html
 template	generate
 
+<!-- Generate Web pages for tags/topics  -->
+
+input	set		xpltags	false
+input	set		dirdepth	1
+input	open	notenik-defined		/Users/hbowie/Sites/practopian 3/topics
+filter	clear
+filter	set		params
+sort	add	ascending	Title
+sort	set		params
+template	webroot			/Users/hbowie/Sites/practopian 3
+template	open			/Users/hbowie/Sites/practopian 3/templates/tags-box.html
+template	generate
+template	open			/Users/hbowie/Sites/practopian 3/templates/tags-home.html
+template	generate
+template	open			/Users/hbowie/Sites/practopian 3/templates/tag-page.html
+template	generate
+template	open			/Users/hbowie/Sites/practopian 3/templates/tags-index.html
+template	generate
+template	open			/Users/hbowie/Sites/practopian 3/templates/tags-missing.html
+template	generate
+
 <!-- Generate Web pages for original content  -->
 
 input	set		xpltags	false
@@ -26,6 +47,8 @@ filter	set		params
 sort	add	ascending	Title
 sort	set		params
 template	webroot			/Users/hbowie/Sites/practopian 3
+template	open			/Users/hbowie/Sites/practopian 3/templates/featured.html
+template	generate
 template	open			/Users/hbowie/Sites/practopian 3/templates/content-page.html
 template	generate
 template	open			/Users/hbowie/Sites/practopian 3/templates/home-page.html
@@ -131,25 +154,6 @@ sort	add	ascending	Title
 sort	set		params
 template	webroot			/Users/hbowie/Sites/practopian 3
 template	open			/Users/hbowie/Sites/practopian 3/templates/quotes-by-tag.html
-template	generate
-
-<!-- Generate Web pages for tags/topics  -->
-
-input	set		xpltags	false
-input	set		dirdepth	1
-input	open	notenik-defined		/Users/hbowie/Sites/practopian 3/topics
-filter	clear
-filter	set		params
-sort	add	ascending	Title
-sort	set		params
-template	webroot			/Users/hbowie/Sites/practopian 3
-template	open			/Users/hbowie/Sites/practopian 3/templates/tags-box.html
-template	generate
-template	open			/Users/hbowie/Sites/practopian 3/templates/tag-page.html
-template	generate
-template	open			/Users/hbowie/Sites/practopian 3/templates/tags-index.html
-template	generate
-template	open			/Users/hbowie/Sites/practopian 3/templates/tags-missing.html
 template	generate
 
 <!-- Generate Core Beliefs  -->
