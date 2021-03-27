@@ -12,6 +12,8 @@ Status: 9 - Published
 
 Type:   appreciation
 
+Featured: true
+
 Importance: 99
 
 Date:   29 Oct 2020

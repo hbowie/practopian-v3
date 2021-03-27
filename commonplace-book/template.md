@@ -1,5 +1,7 @@
 Title: <title> 
 
+Featured: <boolean> 
+
 Author: <author> 
 
 Date: <date> 
@@ -8,7 +10,7 @@ Tags: <tags>
 
 Author Info:  
 
-Author Years: 
+Author Years:  
 
 Author Link: <link> 
 

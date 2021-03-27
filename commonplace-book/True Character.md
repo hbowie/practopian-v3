@@ -2,6 +2,8 @@ Title:  True Character
 
 Tags:   individuals, religion, society
 
+Featured: false
+
 Author: E. O. Wilson
 
 Date:   1998

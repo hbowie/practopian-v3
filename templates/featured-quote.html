@@ -1,0 +1,18 @@
+<?output "../includes-gen/featured-quote.html"?>
+<?nextrec?>
+<?if =$featured$= eq true ?>
+<p class="pr-featured">Featured Quote:</p>
+<div class="card border-0 mb-2" style="width: 100%;" >
+    <div class="card-body">
+      <h4 class="card-title">=$title$=</h4>
+      <blockquote class="card-text">
+      	=$body&o-$=
+      </blockquote>
+      <p class-"card-text">
+      	&mdash; <a href="authors/=$author&f$=.html">=$author&,$=</a>=$date&,$=
+      </p>
+      <a href="quotes/latest.html" class="btn btn-primary">Latest Quotes</a>
+    </div>
+</div>
+<?endif?>
+<?loop?>

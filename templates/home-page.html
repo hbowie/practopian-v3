@@ -25,44 +25,55 @@
 
 <div class="container">
 
+	<!-- FIRST ROW -->
 	<div class="row">
 
-		<div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
+		<!-- Row 1, Column 1 -->
+		<div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
 
 <?include "../includes-gen/featured.html" ?>
 
 		</div>
 
-		<div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
+		<!-- Row 1, Column 2 -->
+		<div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
 
 <?include "../includes-gen/tags-home.html" ?>
 
-<?nextrec?>
-<?loop?>
-
 		</div>
 
-		<div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
+		<!-- Row 1, Column 3 -->
+		<div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
 
-			<p class="pr-featured">From the author:</p>
-				<div class="card border-0 mb-2" style="width: 100%;" >
-    			<img class="card-img-top" src="images/the-author-herb-with-hank.jpg" alt="Author Herb Bowie with Golden Retriever Hank">
-    			<div class="card-body">
-      			<h4 class="card-title">Welcome!</h4>
-      			<p class="card-text">
-							I write as <em>The Practical Utopian</em> because my twin desires are to be: <br />
-							&bull; <em>Down-to-earth</em> &mdash; I try to write short pieces explaining big ideas that will be broadly useful; <br />
-							&bull; <em>Idealistic</em> &mdash; I write with the goal of helping all of us achieve better outcomes, both for ourselves and for those around us.
-      			</p>
-        		<a href="about/the-site.html" class="btn btn-primary">
-        			Read more&hellip;
-        		</a>
-    			</div>
-				</div>
+<?include "../includes/home-from-author.html" ?>
 
 		</div>
 
 	</div> <!-- /.row -->
+
+	<hr />
+
+	<!-- SECOND ROW -->
+	<div class="row">
+
+		<!-- Row 2, Column 1 -->
+		<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+
+<?include "../includes-gen/featured-quote.html" ?>
+
+		</div>
+
+		<!-- Row 2, Column 2 -->
+		<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+
+<?include "../includes-gen/featured-appreciation.html" ?>
+
+		</div>
+
+	</div> <!-- /.row -->
+
+<?nextrec?>
+<?loop?>
 
 <?include "../includes/license.html" ?>
 

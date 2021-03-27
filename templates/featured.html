@@ -1,7 +1,13 @@
-<?output "../includes-gen/featured.html"?>
 <?nextrec?>
 <?if =$featured$= eq true ?>
+<?if =$type$= eq "appreciation" ?>
+<?output "../includes-gen/featured-appreciation.html"?>
+<p class="pr-featured">Featured Appreciation:</p>
+<?endif?>
+<?if =$type$= eq "blog" ?>
+<?output "../includes-gen/featured.html"?>
 <p class="pr-featured">Featured Essay:</p>
+<?endif?>
 <div class="card border-0 mb-2" style="width: 100%;" >
     <img class="card-img-top" src="images/=$imagename&f$=" alt="=$imagealt$=">
     <div class="card-body">
