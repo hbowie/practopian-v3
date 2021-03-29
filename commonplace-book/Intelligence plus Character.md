@@ -2,9 +2,17 @@ Title:  Intelligence plus Character
 
 Tags:   education
 
+Featured: false
+
 Author: Martin Luther King Jr.
 
 Date:   1947
+
+Author Info: American Christian minister and activist
+
+Author Years: 1929-1968
+
+Author Link: https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.
 
 Work Title: The Maroon Tiger
 

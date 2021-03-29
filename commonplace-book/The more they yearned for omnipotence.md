@@ -2,11 +2,15 @@ Title:  The more they yearned for omnipotence
 
 Tags:   balance, power
 
+Featured: false
+
 Author: Ross MacDonald
 
 Date:   1962
 
 Author Info: Ross Macdonald is the main pseudonym that was used by the American-Canadian writer of crime fiction Kenneth Millar
+
+Author Years: 1915-1983
 
 Author Link: https://en.wikipedia.org/wiki/Ross_Macdonald
 

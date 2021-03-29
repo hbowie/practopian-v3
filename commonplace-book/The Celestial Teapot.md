@@ -2,9 +2,17 @@ Title:  The Celestial Teapot
 
 Tags:   critical thinking, religion
 
+Featured: false
+
 Author: Bertrand Russell
 
 Date:   1952
+
+Author Info: British polymath, philosopher, logician, mathematician, historian, writer, social critic, political activist, and Nobel laureate
+
+Author Years: 1872-1970
+
+Author Link: https://en.wikipedia.org/wiki/Bertrand_Russell
 
 Work Title: Is There A God?
 

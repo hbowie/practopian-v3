@@ -1,10 +1,18 @@
 Title:  All of us are trim tabs
 
-Tags:   individuals
+Tags:   individuals, society
+
+Featured: false
 
 Author: Jeff Bridges
 
 Date:   06 Jan 2019
+
+Author Info: American actor, singer, and producer
+
+Author Years: 1949-
+
+Author Link: https://en.wikipedia.org/wiki/Jeff_Bridges
 
 Work Title: Golden Globes Speech
 

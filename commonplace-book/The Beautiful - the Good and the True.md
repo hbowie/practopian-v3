@@ -2,9 +2,17 @@ Title:  The Beautiful, the Good and the True
 
 Tags:   integral
 
+Featured: false
+
 Author: Ken Wilber
 
 Date:   1996
+
+Author Info: American philosopher and author
+
+Author Years: 1949-
+
+Author Link: https://en.wikipedia.org/wiki/Ken_Wilber
 
 Work Title: A Brief History of Everything
 

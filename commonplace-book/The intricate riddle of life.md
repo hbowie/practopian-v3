@@ -2,11 +2,15 @@ Title:  The intricate riddle of life
 
 Tags:   mission
 
+Featured: false
+
 Author: Mary Shelley
 
 Date:   1826
 
 Author Info: English novelist
+
+Author Years: 1797-1851
 
 Author Link: https://en.wikipedia.org/wiki/Mary_Shelley
 

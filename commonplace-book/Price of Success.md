@@ -2,7 +2,15 @@ Title:  Price of Success
 
 Tags:   individuals
 
+Featured: false
+
 Author: Frank Lloyd Wright
+
+Author Info: American architect, designer, writer, and educator
+
+Author Years: 1867-1959
+
+Author Link: https://en.wikipedia.org/wiki/Frank_Lloyd_Wright
 
 Work Title: unknown
 

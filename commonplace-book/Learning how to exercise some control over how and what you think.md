@@ -2,9 +2,17 @@ Title:  Learning how to exercise some control over how and what you think
 
 Tags:   education
 
+Featured: false
+
 Author: David Foster Wallace
 
 Date:   2005
+
+Author Info: American author of novels, short stories and essays
+
+Author Years: 1962-2008
+
+Author Link: https://en.wikipedia.org/wiki/David_Foster_Wallace
 
 Work Title: Commencement Address at Kenyon College
 

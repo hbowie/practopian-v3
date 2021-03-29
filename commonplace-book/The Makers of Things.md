@@ -2,9 +2,17 @@ Title:  The Makers of Things
 
 Tags:   USA, cultural evolution, individuals, progress
 
+Featured: false
+
 Author: Barack Obama
 
 Date:   2009
+
+Author Info: American politician and attorney who served as the 44th president of the United States
+
+Author Years: 1961-
+
+Author Link: https://en.wikipedia.org/wiki/Barack_Obama
 
 Work Title: 2009 Inaugral Address
 

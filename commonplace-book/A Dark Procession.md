@@ -2,9 +2,17 @@ Title:  A Dark Procession
 
 Tags:   critical thinking
 
+Featured: false
+
 Author: Margery Allingham
 
 Date:   1934
+
+Author Info: English mystery novelist
+
+Author Years: 1904-1966
+
+Author Link: https://en.wikipedia.org/wiki/Margery_Allingham
 
 Work Title: Dancers in Mourning
 

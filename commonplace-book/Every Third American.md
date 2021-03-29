@@ -2,9 +2,17 @@ Title:  Every Third American
 
 Tags:   USA, liberty
 
+Featured: false
+
 Author: H. L. Mencken
 
 Date:   1919
+
+Author Info: American journalist, essayist, satirist, cultural critic, and scholar of American English
+
+Author Years: 1880-1956
+
+Author Link: https://en.wikipedia.org/wiki/H._L._Mencken
 
 Work Title: Prejudices: First Series
 

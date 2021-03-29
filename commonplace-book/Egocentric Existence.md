@@ -2,9 +2,17 @@ Title:  Egocentric Existence
 
 Tags:   cultural evolution
 
+Featured: false
+
 Author: Clare W. Graves
 
 Date:   1974
+
+Author Info: American professor of psychology
+
+Author Years: 1914-1986
+
+Author Link: https://en.wikipedia.org/wiki/Clare_W._Graves
 
 Work Title: The Futurist
 

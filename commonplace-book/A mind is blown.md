@@ -2,9 +2,17 @@ Title:  A mind is blown
 
 Tags:   wonder
 
+Featured: false
+
 Author: Michael Chabon
 
 Date:   2004
+
+Author Info: American novelist, screenwriter, columnist and short story writer
+
+Author Years: 1963-
+
+Author Link: https://en.wikipedia.org/wiki/Michael_Chabon
 
 Work Title: Keynote at Eisner Awards
 

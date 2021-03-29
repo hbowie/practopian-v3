@@ -2,9 +2,17 @@ Title:  Evolutionary Drive Towards Complexity
 
 Tags:   evolution
 
+Featured: false
+
 Author: Richard Dawkins
 
 Date:   2006
+
+Author Info: British evolutionary biologist
+
+Author Years: 1941-
+
+Author Link: https://en.wikipedia.org/wiki/Richard_Dawkins
 
 Work Title: The God Delusion
 

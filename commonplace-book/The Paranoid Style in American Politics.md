@@ -2,9 +2,17 @@ Title:  The Paranoid Style in American Politics
 
 Tags:   democracy
 
+Featured: false
+
 Author: Richard Hofstadter
 
 Date:   Nov 1964
+
+Author Info: American historian and public intellectual
+
+Author Years: 1916-1970
+
+Author Link: https://en.wikipedia.org/wiki/Richard_Hofstadter
 
 Work Title: Harper's Magazine
 

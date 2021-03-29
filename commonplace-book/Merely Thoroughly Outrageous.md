@@ -2,6 +2,8 @@ Title:  Merely Thoroughly Outrageous
 
 Tags:   cultural evolution
 
+Featured: false
+
 Author: Margery Allingham
 
 Date:   1952

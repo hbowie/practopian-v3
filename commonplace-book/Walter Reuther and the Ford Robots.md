@@ -2,9 +2,17 @@ Title:  Walter Reuther and the Ford Robots
 
 Tags:   progress
 
+Featured: false
+
 Author: Walter Reuther
 
 Date:   1968
+
+Author Info: American leader of organized labor and civil rights activist
+
+Author Years: 1907-1970
+
+Author Link: https://en.wikipedia.org/wiki/Walter_Reuther
 
 Work Title: WTF: What's the Future and Why It's Up To Us
 

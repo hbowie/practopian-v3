@@ -2,9 +2,17 @@ Title:  Art is a lie that makes us realize truth
 
 Tags:   art
 
+Featured: false
+
 Author: Pablo Picasso
 
 Date:   1923
+
+Author Info: Spanish painter, sculptor, printmaker, ceramicist and theatre designer
+
+Author Years: 1881-1973
+
+Author Link: https://en.wikipedia.org/wiki/Pablo_Picasso
 
 Work Title: The Arts
 

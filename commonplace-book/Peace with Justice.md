@@ -2,9 +2,17 @@ Title:  Peace with Justice
 
 Tags:   equality, liberty, rule of law, society
 
+Featured: false
+
 Author: Dwight D. Eisenhower
 
 Date:   21 Jan 1957
+
+Author Info: American politician and soldier who served as the 34th president of the United States
+
+Author Years: 1890-1969
+
+Author Link: https://en.wikipedia.org/wiki/Dwight_D._Eisenhower
 
 Work Title: Eisenhower Second Inaugural Address
 

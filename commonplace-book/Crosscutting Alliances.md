@@ -2,9 +2,15 @@ Title:  Crosscutting Alliances
 
 Tags:   connection, democracy, diversity
 
+Featured: false
+
 Author: Steven Levitsky and Daniel Ziblatt
 
 Date:   2018
+
+Author Info: American political scientist and Professor of Government at Harvard University
+
+Author Years: 1968-; 
 
 Work Title: How Democracies Die
 

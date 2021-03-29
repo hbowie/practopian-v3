@@ -2,9 +2,17 @@ Title:  Thinking's a Dizzy Business
 
 Tags:   critical thinking
 
+Featured: false
+
 Author: Dashiell Hammett
 
 Date:   1930
+
+Author Info: American author of hard-boiled detective novels and short stories; also a screenwriter and political activist
+
+Author Years: 1894-1961
+
+Author Link: https://en.wikipedia.org/wiki/Dashiell_Hammett
 
 Work Title: The Dain Curse
 

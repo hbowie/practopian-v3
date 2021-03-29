@@ -2,11 +2,13 @@ Title:  The legitimate object of government
 
 Tags:   governance, society
 
+Featured: false
+
 Author: Abraham Lincoln
 
 Date:   1854
 
-Author Info: American statesman and lawyer 
+Author Info: American statesman and lawyer
 
 Author Years: 1809-1865
 

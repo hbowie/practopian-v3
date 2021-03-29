@@ -2,9 +2,17 @@ Title:  A Coke is a Coke
 
 Tags:   USA, equality
 
+Featured: false
+
 Author: Andy Warhol
 
 Date:   1975
+
+Author Info: American artist, film director, and producer
+
+Author Years: 1928-1987
+
+Author Link: https://en.wikipedia.org/wiki/Andy_Warhol
 
 Work Title: The Philosophy of Andy Warhol
 

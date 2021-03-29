@@ -2,6 +2,8 @@ Title:  A law against private jets
 
 Tags:   equality
 
+Featured: false
+
 Author: Abigail Disney
 
 Date:   09 Apr 2019

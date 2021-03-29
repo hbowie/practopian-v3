@@ -2,6 +2,8 @@ Title:  The best way to predict the future is to invent it
 
 Tags:   individuals
 
+Featured: false
+
 Author: Alan Kay
 
 Date:   1971

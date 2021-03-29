@@ -2,9 +2,13 @@ Title:  Cooperative communication
 
 Tags:   society
 
+Featured: false
+
 Author: Brian Hare and Vanessa Woods
 
 Date:   2020
+
+Author Info: Professor of evolutionary anthropology
 
 Work Title: Survival of the Friendliest: Understanding our Origins and Rediscovering our Common Humanity
 

@@ -2,7 +2,15 @@ Title:  Democracy is Worst Form of Government
 
 Tags:   democracy, equality, governance
 
+Featured: false
+
 Author: Winston Churchill
+
+Author Info: British statesman, army officer and writer
+
+Author Years: 1874-1965
+
+Author Link: https://en.wikipedia.org/wiki/Winston_Churchill
 
 Work Title: unknown
 

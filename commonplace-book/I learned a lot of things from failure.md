@@ -2,6 +2,8 @@ Title:  I learned a lot of things from failure
 
 Tags:   imperfection
 
+Featured: false
+
 Author: Brooks Robinson
 
 Date:   2008

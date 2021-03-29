@@ -2,9 +2,17 @@ Title:  Bathing in mystery and confusion
 
 Tags:   wonder
 
+Featured: false
+
 Author: Carl Sagan
 
 Date:   1980
+
+Author Info: American astronomer, planetary scientist, cosmologist, astrophysicist, astrobiologist, author, and science communicator
+
+Author Years: 1934-1996
+
+Author Link: https://en.wikipedia.org/wiki/Carl_Sagan
 
 Work Title: Conversations with Carl Sagan
 

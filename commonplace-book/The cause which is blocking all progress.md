@@ -2,9 +2,17 @@ Title:  The cause which is blocking all progress
 
 Tags:   love, progress
 
+Featured: false
+
 Author: G. K. Chesterton
 
 Date:   1902
+
+Author Info: English writer, philosopher, lay theologian, and literary and art critic
+
+Author Years: 1874-1936
+
+Author Link: https://en.wikipedia.org/wiki/G._K._Chesterton
 
 Work Title: The Defendant
 

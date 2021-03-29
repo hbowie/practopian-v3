@@ -2,9 +2,17 @@ Title:  Everything had nuance
 
 Tags:   balance, integral
 
+Featured: false
+
 Author: Celeste Ng
 
 Date:   2017
+
+Author Info: American writer and novelist
+
+Author Years: 1980-
+
+Author Link: https://en.wikipedia.org/wiki/Celeste_Ng
 
 Work Title: Little Fires Everywhere
 

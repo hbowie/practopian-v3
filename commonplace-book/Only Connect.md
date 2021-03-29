@@ -2,9 +2,17 @@ Title:  Only Connect
 
 Tags:   connection, integral, love
 
+Featured: false
+
 Author: E. M. Forster
 
 Date:   1910
+
+Author Info: English fiction writer, essayist and librettist
+
+Author Years: 1879-1970
+
+Author Link: https://en.wikipedia.org/wiki/E._M._Forster
 
 Work Title: Howard”s End
 

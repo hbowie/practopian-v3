@@ -2,6 +2,8 @@ Title:  A Happy Man
 
 Tags:   progress
 
+Featured: false
+
 Author: Albert Einstein
 
 Date:   18 September 1896

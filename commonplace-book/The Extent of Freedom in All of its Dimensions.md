@@ -2,9 +2,17 @@ Title:  The Extent of Freedom in All of its Dimensions
 
 Tags:   USA, cultural evolution, liberty
 
+Featured: false
+
 Author: Anthony M. Kennedy
 
 Date:   June 26, 2015
+
+Author Info: American lawyer and jurist
+
+Author Years: 1936-
+
+Author Link: https://en.wikipedia.org/wiki/Anthony_Kennedy
 
 Work Title: Supreme Court Decision on Same-Sex Marriage
 

@@ -2,9 +2,17 @@ Title:  Wonderment is the first passion of all
 
 Tags:   wonder
 
+Featured: false
+
 Author: René Descartes
 
 Date:   1649
+
+Author Info: French philosopher, mathematician, and scientist
+
+Author Years: 1596-1650
+
+Author Link: https://en.wikipedia.org/wiki/René_Descartes
 
 Work Title: The Passions of the Soul
 

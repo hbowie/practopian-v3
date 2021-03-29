@@ -2,9 +2,17 @@ Title:  Down These Mean Streets
 
 Tags:   individuals
 
+Featured: false
+
 Author: Raymond Chandler
 
 Date:   1945
+
+Author Info: American-British novelist and screenwriter
+
+Author Years: 1888-1959
+
+Author Link: https://en.wikipedia.org/wiki/Raymond_Chandler
 
 Work Title: The Simple Art of Murder
 

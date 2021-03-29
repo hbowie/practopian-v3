@@ -2,9 +2,17 @@ Title:  Authentic cultures
 
 Tags:   cultural evolution
 
+Featured: false
+
 Author: Yuval Noah Harari
 
 Date:   2015
+
+Author Info: Israeli public intellectual, historian and professor
+
+Author Years: 1976-
+
+Author Link: https://en.wikipedia.org/wiki/Yuval_Noah_Harari
 
 Work Title: Sapiens: A Brief History of Humankind
 

@@ -2,9 +2,17 @@ Title:  Capitalism works best in societies where there are high levels of trust
 
 Tags:   equality, society
 
+Featured: false
+
 Author: Edward Luce
 
 Date:   2017
+
+Author Info: English journalist
+
+Author Years: 1968-
+
+Author Link: https://en.wikipedia.org/wiki/Edward_Luce
 
 Work Title: The Retreat of Western Liberalism
 

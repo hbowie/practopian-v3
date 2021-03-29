@@ -2,9 +2,17 @@ Title:  We shall see the sky sparkling with diamonds
 
 Tags:   wonder
 
+Featured: false
+
 Author: Anton Chekhov
 
 Date:   1897
+
+Author Info: Russian playwright and short-story writer
+
+Author Years: 1860-1904
+
+Author Link: https://en.wikipedia.org/wiki/Anton_Chekhov
 
 Work Title: Uncle Vanya
 

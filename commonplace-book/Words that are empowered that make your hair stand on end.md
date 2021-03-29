@@ -2,9 +2,17 @@ Title:  Words that are empowered that make your hair stand on end
 
 Tags:   art
 
+Featured: false
+
 Author: Allen Ginsberg
 
 Date:   2005
+
+Author Info: American poet and writer
+
+Author Years: 1926-1997
+
+Author Link: https://en.wikipedia.org/wiki/Allen_Ginsberg
 
 Work Title: No Direction Home
 

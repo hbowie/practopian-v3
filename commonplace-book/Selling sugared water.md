@@ -2,9 +2,17 @@ Title:  Selling sugared water
 
 Tags:   mission
 
+Featured: false
+
 Author: Steve Jobs
 
 Date:   1987
+
+Author Info: American business magnate, industrial designer, investor, and media proprietor
+
+Author Years: 1955-2011
+
+Author Link: https://en.wikipedia.org/wiki/Steve_Jobs
 
 Work Title: made to John Sculley to convince him to leave Pepsi and become CEO of Apple
 

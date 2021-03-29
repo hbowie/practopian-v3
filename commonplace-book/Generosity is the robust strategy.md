@@ -2,9 +2,17 @@ Title:  Generosity is the robust strategy
 
 Tags:   equality
 
+Featured: false
+
 Author: Tim O'Reilly
 
 Date:   2017
+
+Author Info: American technologist and publisher
+
+Author Years: 1954-
+
+Author Link: https://en.wikipedia.org/wiki/Tim_O%27Reilly
 
 Work Title: WTF: What's the Future and Why It's Up To Us
 

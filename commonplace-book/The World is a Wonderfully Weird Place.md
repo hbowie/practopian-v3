@@ -2,9 +2,17 @@ Title:  The World is a Wonderfully Weird Place
 
 Tags:   liberty, love, wonder
 
+Featured: false
+
 Author: Tom Robbins
 
 Date:   2007
+
+Author Info: American novelist
+
+Author Years: 1932-
+
+Author Link: https://en.wikipedia.org/wiki/Tom_Robbins
 
 Work Title: Gracie Goes to Schooner School
 

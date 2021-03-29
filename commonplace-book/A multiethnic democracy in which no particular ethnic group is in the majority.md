@@ -2,9 +2,17 @@ Title:  A multiethnic democracy in which no particular ethnic group is in the ma
 
 Tags:   democracy, diversity, equality
 
+Featured: false
+
 Author: Danielle Allen
 
 Date:   13 Aug 2017
+
+Author Info: American classicist and political scientist
+
+Author Years: 1971-
+
+Author Link: https://en.wikipedia.org/wiki/Danielle_Allen
 
 Work Title: Charlottesville is not the continuation of an old fight. It is something new.
 

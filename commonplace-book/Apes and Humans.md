@@ -2,9 +2,17 @@ Title:  Apes and Humans
 
 Tags:   evolution, humanism, science
 
+Featured: false
+
 Author: Carl Sagan and Ann Druyan
 
 Date:   1993
+
+Author Info: American astronomer, planetary scientist, cosmologist, astrophysicist, astrobiologist, author, and science communicator; American writer, producer, and director.
+
+Author Years: 1934-1996; 1949-
+
+Author Link: https://en.wikipedia.org/wiki/Carl_Sagan
 
 Work Title: Shadows of Forgotten Ancestors: A Search for Who We Are
 

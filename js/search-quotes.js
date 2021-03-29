@@ -129,7 +129,7 @@ let searchQuotes = [
 		title: "Small and Obscure Deeds",
 		date: "2002",
     url: "quotes/small-and-obscure-deeds.html",
-		content: "Of all the will toward the ideal in mankind only a small part can manifest itself in public action All the rest of this force must be content with small and obscure deeds The sum of these however is a thousand times stronger than the acts of those who receive wide public recognition The latter compared to the former are like the foam on the waves of a deep ocean Albert Schweitzer  Leading Quietly: An Unorthodox Guide to Doing the Right Thing "
+		content: "Of all the will toward the ideal in mankind only a small part can manifest itself in public action All the rest of this force must be content with small and obscure deeds The sum of these however is a thousand times stronger than the acts of those who receive wide public recognition The latter compared to the former are like the foam on the waves of a deep ocean Albert Schweitzer Alsatian theologian, organist, writer, humanitarian, philosopher, and physician Leading Quietly: An Unorthodox Guide to Doing the Right Thing "
 	},
 	{
 		title: "No person in America should be too poor to live",
@@ -159,7 +159,7 @@ let searchQuotes = [
 		title: "Words that are empowered that make your hair stand on end",
 		date: "2005",
     url: "quotes/words-that-are-empowered-that-make-your-hair-stand-on-end.html",
-		content: "Poetry is words that are empowered that make your hair stand on end that you recognize instantly as being some form of subjective truth that has an objective reality to it because somebody s realized it Allen Ginsberg  No Direction Home "
+		content: "Poetry is words that are empowered that make your hair stand on end that you recognize instantly as being some form of subjective truth that has an objective reality to it because somebody s realized it Allen Ginsberg American poet and writer No Direction Home "
 	},
 	{
 		title: "The modern horrors of bureaucracy",
@@ -171,13 +171,13 @@ let searchQuotes = [
 		title: "The sort of organisms that interpret and modify their agency",
 		date: "1976",
     url: "quotes/the-sort-of-organisms-that-interpret-and-modify-their-agency.html",
-		content: "Humans are just the sort of organisms that interpret and modify their agency through their conception of themselves This is a complicated biological fact about us Amélie Rorty  The Identities of Persons "
+		content: "Humans are just the sort of organisms that interpret and modify their agency through their conception of themselves This is a complicated biological fact about us Amélie Rorty Belgian-born American philosopher The Identities of Persons "
 	},
 	{
 		title: "A Coke is a Coke",
 		date: "1975",
     url: "quotes/a-coke-is-a-coke.html",
-		content: "What s great about this country is that America started the tradition where the richest consumers buy essentially the same things as the poorest You can be watching TV and see Coca Cola and you know that the President drinks Coke Liz Taylor drinks Coke and just think you can drink Coke too A Coke is a Coke and no amount of money can get you a better Coke than the one the bum on the corner is drinking All the Cokes are the same and all the Cokes are good Liz Taylor knows it the President knows it the bum knows it and you know it Andy Warhol  The Philosophy of Andy Warhol "
+		content: "What s great about this country is that America started the tradition where the richest consumers buy essentially the same things as the poorest You can be watching TV and see Coca Cola and you know that the President drinks Coke Liz Taylor drinks Coke and just think you can drink Coke too A Coke is a Coke and no amount of money can get you a better Coke than the one the bum on the corner is drinking All the Cokes are the same and all the Cokes are good Liz Taylor knows it the President knows it the bum knows it and you know it Andy Warhol American artist, film director, and producer The Philosophy of Andy Warhol "
 	},
 	{
 		title: "The Four-Fold Way",
@@ -189,7 +189,7 @@ let searchQuotes = [
 		title: "Fuzzy Concept",
 		date: "",
     url: "quotes/fuzzy-concept.html",
-		content: "There is nothing worse than a brilliant image of a fuzzy concept Ansel Adams  unknown "
+		content: "There is nothing worse than a brilliant image of a fuzzy concept Ansel Adams American landscape photographer and environmentalist unknown "
 	},
 	{
 		title: "Excitement from Art",
@@ -201,13 +201,13 @@ let searchQuotes = [
 		title: "The Extent of Freedom in All of its Dimensions",
 		date: "June 26, 2015",
     url: "quotes/the-extent-of-freedom-in-all-of-its-dimensions.html",
-		content: "The nature of injustice is that we may not always see it in our own times The generations that wrote and ratified the Bill of Rights and the Fourteenth Amendment did not presume to know the extent of freedom in all of its dimensions and so they entrusted to future generations a charter protecting the right of all persons to enjoy liberty as we learn its meaning Anthony M. Kennedy  Supreme Court Decision on Same-Sex Marriage "
+		content: "The nature of injustice is that we may not always see it in our own times The generations that wrote and ratified the Bill of Rights and the Fourteenth Amendment did not presume to know the extent of freedom in all of its dimensions and so they entrusted to future generations a charter protecting the right of all persons to enjoy liberty as we learn its meaning Anthony M. Kennedy American lawyer and jurist Supreme Court Decision on Same-Sex Marriage "
 	},
 	{
 		title: "We shall see the sky sparkling with diamonds",
 		date: "1897",
     url: "quotes/we-shall-see-the-sky-sparkling-with-diamonds.html",
-		content: "We shall find peace We shall hear the angels we shall see the sky sparkling with diamonds Anton Chekhov  Uncle Vanya "
+		content: "We shall find peace We shall hear the angels we shall see the sky sparkling with diamonds Anton Chekhov Russian playwright and short-story writer Uncle Vanya "
 	},
 	{
 		title: "Accidents of birth",
@@ -249,7 +249,7 @@ let searchQuotes = [
 		title: "A beast or a god",
 		date: "350 BC",
     url: "quotes/a-beast-or-a-god.html",
-		content: "But he who is unable to live in society or who has no need because he is sufficient for himself must be either a beast or a god he is no part of a state A social instinct is implanted in all men by nature Aristotle  Politics "
+		content: "But he who is unable to live in society or who has no need because he is sufficient for himself must be either a beast or a god he is no part of a state A social instinct is implanted in all men by nature Aristotle Greek philosopher Politics "
 	},
 	{
 		title: "Entertain a Thought",
@@ -267,7 +267,7 @@ let searchQuotes = [
 		title: "The Makers of Things",
 		date: "2009",
     url: "quotes/the-makers-of-things.html",
-		content: "In reaffirming the greatness of our nation we understand that greatness is never a given It must be earned Our journey has never been one of shortcuts or settling for less It has not been the path for the faint hearted for those who prefer leisure over work or seek only the pleasures of riches and fame Rather it has been the risk takers the doers the makers of things some celebrated but more often men and women obscure in their labor who have carried us up the long rugged path towards prosperity and freedom Barack Obama  2009 Inaugral Address "
+		content: "In reaffirming the greatness of our nation we understand that greatness is never a given It must be earned Our journey has never been one of shortcuts or settling for less It has not been the path for the faint hearted for those who prefer leisure over work or seek only the pleasures of riches and fame Rather it has been the risk takers the doers the makers of things some celebrated but more often men and women obscure in their labor who have carried us up the long rugged path towards prosperity and freedom Barack Obama American politician and attorney who served as the 44th president of the United States 2009 Inaugral Address "
 	},
 	{
 		title: "No Perfect Answer",
@@ -321,7 +321,7 @@ let searchQuotes = [
 		title: "The Celestial Teapot",
 		date: "1952",
     url: "quotes/the-celestial-teapot.html",
-		content: "Many orthodox people speak as though it were the business of skeptics to disprove received dogmas rather than of dogmatics to prove them This is of course a mistake If I were to suggest that between the Earth and Mars there is a china teapot revolving about the sun in an elliptical orbit nobody would be able to disprove my assertion provided I were careful to add that the teapot is too small to be revealed even by our most powerful telescopes But if I were to go on to say that since my assertion cannot be disproved it is intolerable presumption on the part of human reason to doubt it I should rightly be thought to be talking nonsense If however the existence of such a teapot were affirmed in ancient books taught as the sacred truth every Sunday and instilled into the minds of children at school hesitation to believe in its existence would become a mark of eccentricity and entitle the doubter to the attentions of the psychiatrist in an enlightened age or of the Inquisitor in an earlier time Bertrand Russell  Is There A God? "
+		content: "Many orthodox people speak as though it were the business of skeptics to disprove received dogmas rather than of dogmatics to prove them This is of course a mistake If I were to suggest that between the Earth and Mars there is a china teapot revolving about the sun in an elliptical orbit nobody would be able to disprove my assertion provided I were careful to add that the teapot is too small to be revealed even by our most powerful telescopes But if I were to go on to say that since my assertion cannot be disproved it is intolerable presumption on the part of human reason to doubt it I should rightly be thought to be talking nonsense If however the existence of such a teapot were affirmed in ancient books taught as the sacred truth every Sunday and instilled into the minds of children at school hesitation to believe in its existence would become a mark of eccentricity and entitle the doubter to the attentions of the psychiatrist in an enlightened age or of the Inquisitor in an earlier time Bertrand Russell British polymath, philosopher, logician, mathematician, historian, writer, social critic, political activist, and Nobel laureate Is There A God? "
 	},
 	{
 		title: "Men Fear Thought",
@@ -363,7 +363,7 @@ let searchQuotes = [
 		title: "Cooperative communication",
 		date: "2020",
     url: "quotes/cooperative-communication.html",
-		content: "What allowed us to thrive while other humans went extinct was a kind of cognitive superpower a particular type of friendliness called cooperative communication We are experts at working together with other people even strangers We can communicate with someone we ve never met about a shared goal and work together to accomplish it Brian Hare and Vanessa Woods  Survival of the Friendliest: Understanding our Origins and Rediscovering our Common Humanity "
+		content: "What allowed us to thrive while other humans went extinct was a kind of cognitive superpower a particular type of friendliness called cooperative communication We are experts at working together with other people even strangers We can communicate with someone we ve never met about a shared goal and work together to accomplish it Brian Hare and Vanessa Woods Professor of evolutionary anthropology Survival of the Friendliest: Understanding our Origins and Rediscovering our Common Humanity "
 	},
 	{
 		title: "An ultracultural species is born",
@@ -399,7 +399,7 @@ let searchQuotes = [
 		title: "Bathing in mystery and confusion",
 		date: "1980",
     url: "quotes/bathing-in-mystery-and-confusion.html",
-		content: "I don t mean to suggest that we have the final answers we are bathing in mystery and confusion on many subjects and I think that will always be our destiny The universe will always be much richer than our ability to understand it Carl Sagan  Conversations with Carl Sagan "
+		content: "I don t mean to suggest that we have the final answers we are bathing in mystery and confusion on many subjects and I think that will always be our destiny The universe will always be much richer than our ability to understand it Carl Sagan American astronomer, planetary scientist, cosmologist, astrophysicist, astrobiologist, author, and science communicator Conversations with Carl Sagan "
 	},
 	{
 		title: "Books are key to understanding the world",
@@ -411,7 +411,7 @@ let searchQuotes = [
 		title: "Apes and Humans",
 		date: "1993",
     url: "quotes/apes-and-humans.html",
-		content: "Philosophers and scientists confidently offer up traits said to be uniquely human and the apes casually knock them down toppling the pretension that humans constitute some sort of biological aristocracy among the beings of Earth Instead we are more like the nouveau riche incompletely accommodated to our recent exalted state insecure about who we are and trying to put as much distance as possible between us and our humble origins Carl Sagan and Ann Druyan  Shadows of Forgotten Ancestors: A Search for Who We Are "
+		content: "Philosophers and scientists confidently offer up traits said to be uniquely human and the apes casually knock them down toppling the pretension that humans constitute some sort of biological aristocracy among the beings of Earth Instead we are more like the nouveau riche incompletely accommodated to our recent exalted state insecure about who we are and trying to put as much distance as possible between us and our humble origins Carl Sagan and Ann Druyan American astronomer, planetary scientist, cosmologist, astrophysicist, astrobiologist, author, and science communicator; American writer, producer, and director. Shadows of Forgotten Ancestors: A Search for Who We Are "
 	},
 	{
 		title: "Chimps and Humans",
@@ -423,13 +423,13 @@ let searchQuotes = [
 		title: "Everything had nuance",
 		date: "2017",
     url: "quotes/everything-had-nuance.html",
-		content: "In Pauline and Mal s house nothing was simple In her parents house things had been good or bad right or wrong useful or wasteful There had been nothing in between Here she found everything had nuance everything had an unrevealed side or unexplored depths Everything was worth looking at more closely Celeste Ng  Little Fires Everywhere "
+		content: "In Pauline and Mal s house nothing was simple In her parents house things had been good or bad right or wrong useful or wasteful There had been nothing in between Here she found everything had nuance everything had an unrevealed side or unexplored depths Everything was worth looking at more closely Celeste Ng American writer and novelist Little Fires Everywhere "
 	},
 	{
 		title: "Selfish and contentious people will not cohere",
 		date: "1871",
     url: "quotes/selfish-and-contentious-people-will-not-cohere.html",
-		content: "Selfish and contentious people will not cohere and without coherence nothing can be effected Charles Darwin   "
+		content: "Selfish and contentious people will not cohere and without coherence nothing can be effected Charles Darwin English naturalist, geologist and biologist  "
 	},
 	{
 		title: "To simply see human beings",
@@ -453,7 +453,7 @@ let searchQuotes = [
 		title: "Egocentric Existence",
 		date: "1974",
     url: "quotes/egocentric-existence.html",
-		content: "Both the authoritarian and the submissive develop standards which they feel will insure them against threat but these are very raw standards The submissive person chooses to get away with what he can within the life style which is possible for him The authoritarian chooses to do as he pleases He spawns as his raison d être the rights of assertive individualism These rights become in time the absolute rights of kings the unassailable prerogatives of management the inalienable rights of those who have achieved positions of power and even the rights of the lowly hustler to all he can hustle This is a world of the aggressive expression of man s lusts openly and unabashedly by the haves and more covertly and deviously by the have nots Clare W. Graves  The Futurist "
+		content: "Both the authoritarian and the submissive develop standards which they feel will insure them against threat but these are very raw standards The submissive person chooses to get away with what he can within the life style which is possible for him The authoritarian chooses to do as he pleases He spawns as his raison d être the rights of assertive individualism These rights become in time the absolute rights of kings the unassailable prerogatives of management the inalienable rights of those who have achieved positions of power and even the rights of the lowly hustler to all he can hustle This is a world of the aggressive expression of man s lusts openly and unabashedly by the haves and more covertly and deviously by the have nots Clare W. Graves American professor of psychology The Futurist "
 	},
 	{
 		title: "Man's nature is an open, constantly evolving system",
@@ -513,7 +513,7 @@ let searchQuotes = [
 		title: "A multiethnic democracy in which no particular ethnic group is in the majority",
 		date: "13 Aug 2017",
     url: "quotes/a-multiethnic-democracy-in-which-no-particular-ethnic-group-is-in-the-majority.html",
-		content: "The simple fact of the matter is that the world has never built a multiethnic democracy in which no particular ethnic group is in the majority and where political equality social equality and economies that empower all have been achieved We are engaged in a fight over whether to work together to build such a world Danielle Allen  Charlottesville is not the continuation of an old fight. It is something new. "
+		content: "The simple fact of the matter is that the world has never built a multiethnic democracy in which no particular ethnic group is in the majority and where political equality social equality and economies that empower all have been achieved We are engaged in a fight over whether to work together to build such a world Danielle Allen American classicist and political scientist Charlottesville is not the continuation of an old fight. It is something new. "
 	},
 	{
 		title: "Torturing the Data",
@@ -531,13 +531,13 @@ let searchQuotes = [
 		title: "Thinking's a Dizzy Business",
 		date: "1930",
     url: "quotes/thinkings-a-dizzy-business.html",
-		content: "Nobody thinks clearly no matter what they pretend Thinking s a dizzy business a matter of catching as many of those foggy glimpses as you can and fitting them together the best you can That s why people hang on so tight to their beliefs and opinions because compared to the haphazard way in which they re arrived at even the goofiest opinion seems wonderfully clear sane and self evident And if you let it get away from you then you ve got to dive back into that foggy muddle to wrangle yourself out another to take its place Dashiell Hammett  The Dain Curse "
+		content: "Nobody thinks clearly no matter what they pretend Thinking s a dizzy business a matter of catching as many of those foggy glimpses as you can and fitting them together the best you can That s why people hang on so tight to their beliefs and opinions because compared to the haphazard way in which they re arrived at even the goofiest opinion seems wonderfully clear sane and self evident And if you let it get away from you then you ve got to dive back into that foggy muddle to wrangle yourself out another to take its place Dashiell Hammett American author of hard-boiled detective novels and short stories; also a screenwriter and political activist The Dain Curse "
 	},
 	{
 		title: "We vastly underestimate the impact of our immediate environment on our behavior",
 		date: "16 Oct 2020",
     url: "quotes/we-vastly-underestimate-the-impact-of-our-immediate-environment-on-our-behavior.html",
-		content: "Most people tend to think that characteristics of a person drive whether someone is ethical or not For example one s upbringing religious values or even genetics must determine whether a person is a good apple or a bad egg While those factors matter to some degree my research and decades of science in social and organizational psychology tell us that we vastly underestimate the impact of our immediate environment on our behavior Good people can do bad things in certain contexts and the reverse is true as well Dave Mayer  Changing the Frame: Family Photos on Your Desk Could Make You More Ethical on the Job "
+		content: "Most people tend to think that characteristics of a person drive whether someone is ethical or not For example one s upbringing religious values or even genetics must determine whether a person is a good apple or a bad egg While those factors matter to some degree my research and decades of science in social and organizational psychology tell us that we vastly underestimate the impact of our immediate environment on our behavior Good people can do bad things in certain contexts and the reverse is true as well Dave Mayer An award-winning researcher and teacher and speaker, he is an expert on leadership, diversity, and ethics Changing the Frame: Family Photos on Your Desk Could Make You More Ethical on the Job "
 	},
 	{
 		title: "Life is a series of daring adventures from a secure base",
@@ -567,7 +567,7 @@ let searchQuotes = [
 		title: "Learning how to exercise some control over how and what you think",
 		date: "2005",
     url: "quotes/learning-how-to-exercise-some-control-over-how-and-what-you-think.html",
-		content: "As I m sure you guys know by now it is extremely difficult to stay alert and attentive instead of getting hypnotised by the constant monologue inside your own head may be happening right now Twenty years after my own graduation I have come gradually to understand that the liberal arts cliché about teaching you how to think is actually shorthand for a much deeper more serious idea learning how to think really means learning how to exercise some control over how and what you think It means being conscious and aware enough to choose what you pay attention to and to choose how you construct meaning from experience Because if you cannot exercise this kind of choice in adult life you will be totally hosed David Foster Wallace  Commencement Address at Kenyon College "
+		content: "As I m sure you guys know by now it is extremely difficult to stay alert and attentive instead of getting hypnotised by the constant monologue inside your own head may be happening right now Twenty years after my own graduation I have come gradually to understand that the liberal arts cliché about teaching you how to think is actually shorthand for a much deeper more serious idea learning how to think really means learning how to exercise some control over how and what you think It means being conscious and aware enough to choose what you pay attention to and to choose how you construct meaning from experience Because if you cannot exercise this kind of choice in adult life you will be totally hosed David Foster Wallace American author of novels, short stories and essays Commencement Address at Kenyon College "
 	},
 	{
 		title: "The Most Precious Kind of Freedom",
@@ -579,7 +579,7 @@ let searchQuotes = [
 		title: "Between-group selection became the primary evolutionary force",
 		date: "2019",
     url: "quotes/between-group-selection-became-the-primary-evolutionary-force.html",
-		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson  This View of Life: Completing the Darwinian Revolution "
+		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The chicken experiment",
@@ -693,7 +693,7 @@ let searchQuotes = [
 		title: "Peace with Justice",
 		date: "21 Jan 1957",
     url: "quotes/peace-with-justice.html",
-		content: "We look upon this shaken Earth and we declare our firm and fixed purpose the building of a peace with justice in a world where moral law prevails The building of such a peace is a bold and solemn purpose To proclaim it is easy To serve it will be hard And to attain it we must be aware of its full meaning and ready to pay its full price We know clearly what we seek and why We seek peace knowing that peace is the climate of freedom And now as in no other age we seek it because we have been warned by the power of modern weapons that peace may be the only climate possible for human life itself Yet this peace we seek cannot be born of fear alone it must be rooted in the lives of nations There must be justice sensed and shared by all peoples for without justice the world can know only a tense and unstable truce There must be law steadily invoked and respected by all nations for without law the world promises only such meager justice as the pity of the strong upon the weak But the law of which we speak comprehending the values of freedom affirms the equality of all nations great and small Splendid as can be the blessings of such a peace high will be its cost in toil patiently sustained in help honorably given in sacrifice calmly borne Dwight D. Eisenhower  Eisenhower Second Inaugural Address "
+		content: "We look upon this shaken Earth and we declare our firm and fixed purpose the building of a peace with justice in a world where moral law prevails The building of such a peace is a bold and solemn purpose To proclaim it is easy To serve it will be hard And to attain it we must be aware of its full meaning and ready to pay its full price We know clearly what we seek and why We seek peace knowing that peace is the climate of freedom And now as in no other age we seek it because we have been warned by the power of modern weapons that peace may be the only climate possible for human life itself Yet this peace we seek cannot be born of fear alone it must be rooted in the lives of nations There must be justice sensed and shared by all peoples for without justice the world can know only a tense and unstable truce There must be law steadily invoked and respected by all nations for without law the world promises only such meager justice as the pity of the strong upon the weak But the law of which we speak comprehending the values of freedom affirms the equality of all nations great and small Splendid as can be the blessings of such a peace high will be its cost in toil patiently sustained in help honorably given in sacrifice calmly borne Dwight D. Eisenhower American politician and soldier who served as the 34th president of the United States Eisenhower Second Inaugural Address "
 	},
 	{
 		title: "What Democracy Is",
@@ -705,7 +705,7 @@ let searchQuotes = [
 		title: "Only Connect",
 		date: "1910",
     url: "quotes/only-connect.html",
-		content: "Only connect That was the whole of her sermon Only connect the prose and the passion and both will be exalted and human love will be seen at its height Live in fragments no longer E. M. Forster  Howard”s End "
+		content: "Only connect That was the whole of her sermon Only connect the prose and the passion and both will be exalted and human love will be seen at its height Live in fragments no longer E. M. Forster English fiction writer, essayist and librettist Howard”s End "
 	},
 	{
 		title: "The Rainbow Bridge",
@@ -771,7 +771,7 @@ let searchQuotes = [
 		title: "The Divine Gift of Purely Nonsensical Speech and Action",
 		date: "1944",
     url: "quotes/the-divine-gift-of-purely-nonsensical-speech-and-action.html",
-		content: "Fen sighed We are all becoming standardized and normal Nigel The divine gift of purely nonsensical speech and action is in atrophy Would you believe it a pupil of mine had the impertinence the other day to tick me off for reading him passages regarding the Fimble Fowl and the Quangle Wangle as an illustration of pure poetic inventiveness I put him in his place all right In the semi darkness his eye became momentarily lambent with remembered satisfaction But there s no eccentricity nowadays none at all Edmund Crispin  The Case of the Gilded Fly "
+		content: "Fen sighed We are all becoming standardized and normal Nigel The divine gift of purely nonsensical speech and action is in atrophy Would you believe it a pupil of mine had the impertinence the other day to tick me off for reading him passages regarding the Fimble Fowl and the Quangle Wangle as an illustration of pure poetic inventiveness I put him in his place all right In the semi darkness his eye became momentarily lambent with remembered satisfaction But there s no eccentricity nowadays none at all Edmund Crispin British mystery author The Case of the Gilded Fly "
 	},
 	{
 		title: "An Irreplaceable Compact",
@@ -789,7 +789,7 @@ let searchQuotes = [
 		title: "Capitalism works best in societies where there are high levels of trust",
 		date: "2017",
     url: "quotes/capitalism-works-best-in-societies-where-there-are-high-levels-of-trust.html",
-		content: "Adam Smith the great theorist of free trade economics is revered for his The Wealth of Nations His companion work The Theory of Moral Sentiments is mostly forgotten Yet it is the more important of the two In it Smith sets out why capitalism works best in societies where there are high levels of trust between its participants When social trust falls the cost of doing business rises Even in the late eighteenth century at the dawn of modern growth Smith grasped the psychological importance of possessing faith in a better future Edward Luce  The Retreat of Western Liberalism "
+		content: "Adam Smith the great theorist of free trade economics is revered for his The Wealth of Nations His companion work The Theory of Moral Sentiments is mostly forgotten Yet it is the more important of the two In it Smith sets out why capitalism works best in societies where there are high levels of trust between its participants When social trust falls the cost of doing business rises Even in the late eighteenth century at the dawn of modern growth Smith grasped the psychological importance of possessing faith in a better future Edward Luce English journalist The Retreat of Western Liberalism "
 	},
 	{
 		title: "Conscious Improvement for the Masses",
@@ -885,13 +885,13 @@ let searchQuotes = [
 		title: "Price of Success",
 		date: "",
     url: "quotes/price-of-success.html",
-		content: "I know the price of success dedication hard work and an unremitting devotion to the things you want to see happen Frank Lloyd Wright  unknown "
+		content: "I know the price of success dedication hard work and an unremitting devotion to the things you want to see happen Frank Lloyd Wright American architect, designer, writer, and educator unknown "
 	},
 	{
 		title: "Stakeholder Capitalism",
 		date: "",
     url: "quotes/stakeholder-capitalism.html",
-		content: "The job of management is to maintain an equitable and working balance among the claims of the various directly affected interest groups stockholders employees customers and the public at large Frank W. Abrams   "
+		content: "The job of management is to maintain an equitable and working balance among the claims of the various directly affected interest groups stockholders employees customers and the public at large Frank W. Abrams American industrialist  "
 	},
 	{
 		title: "God and Morality",
@@ -903,13 +903,13 @@ let searchQuotes = [
 		title: "A Why to Live",
 		date: "1888",
     url: "quotes/a-why-to-live.html",
-		content: "He who has a why to live can bear almost any how Friedrich Nietzsche  Twilight of the Idols "
+		content: "He who has a why to live can bear almost any how Friedrich Nietzsche German philosopher Twilight of the Idols "
 	},
 	{
 		title: "The cause which is blocking all progress",
 		date: "1902",
     url: "quotes/the-cause-which-is-blocking-all-progress.html",
-		content: "The cause which is blocking all progress today is the subtle scepticism which whispers in a million ears that things are not good enough to be worth improving If the world is good we are revolutionaries if the world is evil we must be conservatives These essays futile as they are considered as serious literature are yet ethically sincere since they seek to remind men that things must be loved first and improved afterwards G. K. Chesterton  The Defendant "
+		content: "The cause which is blocking all progress today is the subtle scepticism which whispers in a million ears that things are not good enough to be worth improving If the world is good we are revolutionaries if the world is evil we must be conservatives These essays futile as they are considered as serious literature are yet ethically sincere since they seek to remind men that things must be loved first and improved afterwards G. K. Chesterton English writer, philosopher, lay theologian, and literary and art critic The Defendant "
 	},
 	{
 		title: "The center of every man's existence is a dream",
@@ -987,7 +987,7 @@ let searchQuotes = [
 		title: "Politics and the Debasement of Language",
 		date: "",
     url: "quotes/politics-and-the-debasement-of-language.html",
-		content: "A scrupulous writer in every sentence that he writes will ask himself at least four questions thus What am I trying to say What words will express it What image or idiom will make it clearer Is this image fresh enough to have an effect And he will probably ask himself two more Could I put it more shortly Have I said anything that is avoidably ugly But you are not obliged to go to all this trouble You can shirk it by simply throwing your mind open and letting the ready made phrases come crowding in They will construct your sentences for you even think your thoughts for you to a certain extent and at need they will perform the important service of partially concealing your meaning even from yourself It is at this point that the special connection between politics and the debasement of language becomes clear George Orwell  Politics and the English Language "
+		content: "A scrupulous writer in every sentence that he writes will ask himself at least four questions thus What am I trying to say What words will express it What image or idiom will make it clearer Is this image fresh enough to have an effect And he will probably ask himself two more Could I put it more shortly Have I said anything that is avoidably ugly But you are not obliged to go to all this trouble You can shirk it by simply throwing your mind open and letting the ready made phrases come crowding in They will construct your sentences for you even think your thoughts for you to a certain extent and at need they will perform the important service of partially concealing your meaning even from yourself It is at this point that the special connection between politics and the debasement of language becomes clear George Orwell English novelist, essayist, journalist and critic Politics and the English Language "
 	},
 	{
 		title: "Progress Depends on Retentiveness",
@@ -1017,7 +1017,7 @@ let searchQuotes = [
 		title: "Every Third American",
 		date: "1919",
     url: "quotes/every-third-american.html",
-		content: "We are in fact a nation of evangelists every third American devotes himself to improving and lifting up his fellow citizens usually by force the messianic delusion is our national disease H. L. Mencken  Prejudices: First Series "
+		content: "We are in fact a nation of evangelists every third American devotes himself to improving and lifting up his fellow citizens usually by force the messianic delusion is our national disease H. L. Mencken American journalist, essayist, satirist, cultural critic, and scholar of American English Prejudices: First Series "
 	},
 	{
 		title: "We Must Respect the Other Fellow's Religion",
@@ -1029,7 +1029,7 @@ let searchQuotes = [
 		title: "Socialism is their name for anything that helps the people",
 		date: "10 Oct 1952",
     url: "quotes/socialism-is-their-name-for-anything-that-helps-the-people.html",
-		content: "Socialism is a scareword they have hurled at every advance the people have made in the last 20 years Socialism is what they called public power Socialism is what they called Social Security Socialism is what they called farm price supports Socialism is what they called bank deposit insurance Socialism is what they called the growth of free and independent labor organiztions Socialism is their name for almost anything that helps all the people Harry S. Truman  Campaign Speech "
+		content: "Socialism is a scareword they have hurled at every advance the people have made in the last 20 years Socialism is what they called public power Socialism is what they called Social Security Socialism is what they called farm price supports Socialism is what they called bank deposit insurance Socialism is what they called the growth of free and independent labor organiztions Socialism is their name for almost anything that helps all the people Harry S. Truman 33rd president of the United States Campaign Speech "
 	},
 	{
 		title: "The original naiveté",
@@ -1053,7 +1053,7 @@ let searchQuotes = [
 		title: "This dear fucked-up planet",
 		date: "1918",
     url: "quotes/this-dear-fucked-up-planet.html",
-		content: "What are we here for if not to enjoy life eternal solve what problems we can give light peace and joy to our fellow man and leave this dear fucked up planet a little healthier than when we were born Henry Miller  Memo to Self "
+		content: "What are we here for if not to enjoy life eternal solve what problems we can give light peace and joy to our fellow man and leave this dear fucked up planet a little healthier than when we were born Henry Miller American writer and artist Memo to Self "
 	},
 	{
 		title: "We All Derive From the Same Source",
@@ -1089,7 +1089,7 @@ let searchQuotes = [
 		title: "The universe is queerer than we can suppose",
 		date: "1927",
     url: "quotes/the-universe-is-queerer-than-we-can-suppose.html",
-		content: "Now my own suspicion is that the universe is not only queerer than we suppose but queerer than we can suppose J. B. S. Haldane  Possible Worlds and Other Essays "
+		content: "Now my own suspicion is that the universe is not only queerer than we suppose but queerer than we can suppose J. B. S. Haldane British-Indian scientist Possible Worlds and Other Essays "
 	},
 	{
 		title: "The Golden Eternity",
@@ -1101,7 +1101,7 @@ let searchQuotes = [
 		title: "Practice kindness all day to everybody",
 		date: "1957",
     url: "quotes/practice-kindness-all-day-to-everybody.html",
-		content: "The world you see is just a movie in your mind Rocks don t see it Bless and sit down Forgive and forget Practice kindness all day to everybody and you will realize you re already in heaven now That s the story That s the message Nobody understands it nobody listens they re all running around like chickens with heads cut off I will try to teach it but it will be in vain s why I ll end up in a shack praying and being cool and singing by my woodstove making pancakes Jack Kerouac  The Portable Jack Kerouac "
+		content: "The world you see is just a movie in your mind Rocks don t see it Bless and sit down Forgive and forget Practice kindness all day to everybody and you will realize you re already in heaven now That s the story That s the message Nobody understands it nobody listens they re all running around like chickens with heads cut off I will try to teach it but it will be in vain s why I ll end up in a shack praying and being cool and singing by my woodstove making pancakes Jack Kerouac American novelist and pioneer of the Beat Generation The Portable Jack Kerouac "
 	},
 	{
 		title: "Shareholder Value",
@@ -1131,7 +1131,7 @@ let searchQuotes = [
 		title: "Larger, freer, and more loving",
 		date: "1962",
     url: "quotes/larger-freer-and-more-loving.html",
-		content: "If the concept of God has any validity or any use it can only be to make us larger freer and more loving If God cannot do this then it is time we got rid of Him James Baldwin  Letter from a Region of My Mind "
+		content: "If the concept of God has any validity or any use it can only be to make us larger freer and more loving If God cannot do this then it is time we got rid of Him James Baldwin American novelist, playwright, essayist, poet and activist Letter from a Region of My Mind "
 	},
 	{
 		title: "The moment we cease to hold each other",
@@ -1149,7 +1149,7 @@ let searchQuotes = [
 		title: "Frivolous and fanciful distrinctions",
 		date: "1787",
     url: "quotes/frivolous-and-fanciful-distrinctions.html",
-		content: "So strong is this propensity of mankind to fall into mutual animosities that where no substantial occasion presents itself the most frivolous and fanciful distrinctions have been sufficient to kindle their unfriendly passions and excite their most violent conflicts James Madison  The Federalist no. 10 "
+		content: "So strong is this propensity of mankind to fall into mutual animosities that where no substantial occasion presents itself the most frivolous and fanciful distrinctions have been sufficient to kindle their unfriendly passions and excite their most violent conflicts James Madison American statesman, diplomat, expansionist, philosopher, and Founding Father who served as the fourth president of the United States The Federalist no. 10 "
 	},
 	{
 		title: "Seeing the Bigger Picture from Multiple Angles",
@@ -1161,7 +1161,7 @@ let searchQuotes = [
 		title: "All of us are trim tabs",
 		date: "06 Jan 2019",
     url: "quotes/all-of-us-are-trim-tabs.html",
-		content: "One guy he had nothing to do with the movies but I ve taken a lot of direction from him That s Bucky Fuller Bucky he s most famous for the geodesic dome but he made a great observation about these oceangoing tankers And he noticed that the engineers were particularly challenged by how to turn this thing you know They got this big rudder it took too much energy to turn the rudder to turn the ship So they came up with a brilliant idea Let s put a little rudder on the big rudder The little rudder will turn the big rudder the big rudder will turn the ship The little rudder is called a trim tab Bucky made the analogy that a trim tab is an example of how the individual is connected to society and how we affect society And I like to think of myself as a trim tab All of us are trim tabs We might seem like we re not up to the task but we are man We re alive We can make a difference We can turn this ship in the way we wanna go man Towards love creating a healthy planet for all of us Jeff Bridges  Golden Globes Speech "
+		content: "One guy he had nothing to do with the movies but I ve taken a lot of direction from him That s Bucky Fuller Bucky he s most famous for the geodesic dome but he made a great observation about these oceangoing tankers And he noticed that the engineers were particularly challenged by how to turn this thing you know They got this big rudder it took too much energy to turn the rudder to turn the ship So they came up with a brilliant idea Let s put a little rudder on the big rudder The little rudder will turn the big rudder the big rudder will turn the ship The little rudder is called a trim tab Bucky made the analogy that a trim tab is an example of how the individual is connected to society and how we affect society And I like to think of myself as a trim tab All of us are trim tabs We might seem like we re not up to the task but we are man We re alive We can make a difference We can turn this ship in the way we wanna go man Towards love creating a healthy planet for all of us Jeff Bridges American actor, singer, and producer Golden Globes Speech "
 	},
 	{
 		title: "Thou shalt love thy neighbour as thyself",
@@ -1233,7 +1233,7 @@ let searchQuotes = [
 		title: "I must study politics and war",
 		date: "May 12, 1780",
     url: "quotes/i-must-study-politics-and-war.html",
-		content: "I must study politics and war that our sons may have liberty to study mathematics and philosophy Our sons ought to study mathematics and philosophy geography natural history and naval architecture navigation commerce and agriculture in order to give their children a right to study painting poetry music architecture statuary tapestry and porcelain John Adams  Letter to Abigail Adams "
+		content: "I must study politics and war that our sons may have liberty to study mathematics and philosophy Our sons ought to study mathematics and philosophy geography natural history and naval architecture navigation commerce and agriculture in order to give their children a right to study painting poetry music architecture statuary tapestry and porcelain John Adams American statesman, attorney, diplomat, writer, and Founding Father who served as the second president of the United States Letter to Abigail Adams "
 	},
 	{
 		title: "We Need a Place to Stand",
@@ -1263,7 +1263,7 @@ let searchQuotes = [
 		title: "Let us accept our own responsibility for the future",
 		date: "18 Feb 1958",
     url: "quotes/let-us-accept-our-own-responsibility-for-the-future.html",
-		content: "Let us not despair but act Let us not seek the Republican answer or the Democratic answer but the right answer Let us not seek to fix the blame for the past let us accept our own responsibility for the future John F. Kennedy  Loyola College Alumni Banquet "
+		content: "Let us not despair but act Let us not seek the Republican answer or the Democratic answer but the right answer Let us not seek to fix the blame for the past let us accept our own responsibility for the future John F. Kennedy American politician who served as the 35th president of the United States Loyola College Alumni Banquet "
 	},
 	{
 		title: "National parks and reserves",
@@ -1407,7 +1407,7 @@ let searchQuotes = [
 		title: "Diversity Helps Your Business -- But Not The Way You Think",
 		date: "02 Jun 2009",
     url: "quotes/diversity-helps-your-business-but-not-the-way-you-think.html",
-		content: "I recently published research that found that members of a social majority are more likely to voice unique perspectives and critically review task relevant information when there is more social diversity present than when there is not Moreover this is true even when the people who are different don t express any unique perspectives themselves Our research suggests that the mere presence of social diversity makes people with independent points of view more willing to voice those points of view and others more willing to listen In one of our studies we compared homogeneous and diverse groups trying to solve a murder mystery The diverse groups reported that they didn t work together very effectively and they were less confident about their decisions than the homogeneous groups yet they consistently outperformed those homogeneous groups Katherine Phillips  Forbes "
+		content: "I recently published research that found that members of a social majority are more likely to voice unique perspectives and critically review task relevant information when there is more social diversity present than when there is not Moreover this is true even when the people who are different don t express any unique perspectives themselves Our research suggests that the mere presence of social diversity makes people with independent points of view more willing to voice those points of view and others more willing to listen In one of our studies we compared homogeneous and diverse groups trying to solve a murder mystery The diverse groups reported that they didn t work together very effectively and they were less confident about their decisions than the homogeneous groups yet they consistently outperformed those homogeneous groups Katherine Phillips American business theorist Forbes "
 	},
 	{
 		title: "All the World's Cultures Now Available to Us",
@@ -1425,7 +1425,7 @@ let searchQuotes = [
 		title: "The Beautiful, the Good and the True",
 		date: "1996",
     url: "quotes/the-beautiful-the-good-and-the-true.html",
-		content: "If you are talking to me about your new car you are the first person I am the second person and the car is the third person These pronouns actually represent three perspectives that human beings can take when they talk about the world or attempt to know the world The fascinating part is that these three perspectives might actually give rise to art morals and science Or the Beautiful the Good and the True the Beauty that is in the eye or the I of the beholder the Good or moral actions that can exist between you and me as a we and the objective Truth about third person objects or its that you and I might discover hence art I morals we and science it Ken Wilber  A Brief History of Everything "
+		content: "If you are talking to me about your new car you are the first person I am the second person and the car is the third person These pronouns actually represent three perspectives that human beings can take when they talk about the world or attempt to know the world The fascinating part is that these three perspectives might actually give rise to art morals and science Or the Beautiful the Good and the True the Beauty that is in the eye or the I of the beholder the Good or moral actions that can exist between you and me as a we and the objective Truth about third person objects or its that you and I might discover hence art I morals we and science it Ken Wilber American philosopher and author A Brief History of Everything "
 	},
 	{
 		title: "Everybody Has Some Important Pieces of the Truth",
@@ -1509,13 +1509,13 @@ let searchQuotes = [
 		title: "When you can measure what you are speaking about",
 		date: "3 May 1883",
     url: "quotes/when-you-can-measure-what-you-are-speaking-about.html",
-		content: "I often say that when you can measure what you are speaking about and express it in numbers you know something about it but when you cannot express it in numbers your knowledge is of a meagre and unsatisfactory kind it may be the beginning of knowledge but you have scarcely in your thoughts advanced to the stage of science whatever the matter may be Lord Kelvin  Popular Lectures "
+		content: "I often say that when you can measure what you are speaking about and express it in numbers you know something about it but when you cannot express it in numbers your knowledge is of a meagre and unsatisfactory kind it may be the beginning of knowledge but you have scarcely in your thoughts advanced to the stage of science whatever the matter may be Lord Kelvin British mathematical physicist and engineer Popular Lectures "
 	},
 	{
 		title: "Changing the World",
 		date: "",
     url: "quotes/changing-the-world.html",
-		content: "Never doubt that a small group of thoughtful committed citizens can change the world Indeed it is the only thing that ever has Margaret Mead  unknown "
+		content: "Never doubt that a small group of thoughtful committed citizens can change the world Indeed it is the only thing that ever has Margaret Mead American cultural anthropologist unknown "
 	},
 	{
 		title: "Quality of Children vs. Quantity",
@@ -1527,7 +1527,7 @@ let searchQuotes = [
 		title: "A Dark Procession",
 		date: "1934",
     url: "quotes/a-dark-procession.html",
-		content: "Mercer did not think at all in the accepted sense of the word Ideas occurred to him and engendered other ideas But the process which linked any two of them was a dark procession taking place in some subconscious part of the brain Margery Allingham  Dancers in Mourning "
+		content: "Mercer did not think at all in the accepted sense of the word Ideas occurred to him and engendered other ideas But the process which linked any two of them was a dark procession taking place in some subconscious part of the brain Margery Allingham English mystery novelist Dancers in Mourning "
 	},
 	{
 		title: "Merely Thoroughly Outrageous",
@@ -1587,7 +1587,7 @@ let searchQuotes = [
 		title: "Intelligence plus Character",
 		date: "1947",
     url: "quotes/intelligence-plus-character.html",
-		content: "We must remember that intelligence is not enough Intelligence plus character that is the goal of true education Martin Luther King Jr.  The Maroon Tiger "
+		content: "We must remember that intelligence is not enough Intelligence plus character that is the goal of true education Martin Luther King Jr. American Christian minister and activist The Maroon Tiger "
 	},
 	{
 		title: "Intelligent guides of family planning",
@@ -1647,7 +1647,7 @@ let searchQuotes = [
 		title: "First they came...",
 		date: "",
     url: "quotes/first-they-came....html",
-		content: "First they came for the communists and I didn t speak out because I wasn t a communist Then they came for the trade unionists and I didn t speak out because I wasn t a trade unionist Then they came for the Jews and I didn t speak out because I wasn t a Jew Then they came for me and there was no one left to speak out for me Martin Niemöller  unknown "
+		content: "First they came for the communists and I didn t speak out because I wasn t a communist Then they came for the trade unionists and I didn t speak out because I wasn t a trade unionist Then they came for the Jews and I didn t speak out because I wasn t a Jew Then they came for me and there was no one left to speak out for me Martin Niemöller German theologian and Lutheran pastor unknown "
 	},
 	{
 		title: "Cinema was about revelation",
@@ -1683,13 +1683,13 @@ let searchQuotes = [
 		title: "A mind is blown",
 		date: "2004",
     url: "quotes/a-mind-is-blown.html",
-		content: "A mind is blown when something you always feared but knew to be impossible turns out to be true when the world turns out far vaster far more marvelous or malevolent than you ever dreamed when you get proof that everything is connected to everything else that everything you know is wrong that you are both the center of the universe and a tiny speck sailing off its nethermost edge Michael Chabon  Keynote at Eisner Awards "
+		content: "A mind is blown when something you always feared but knew to be impossible turns out to be true when the world turns out far vaster far more marvelous or malevolent than you ever dreamed when you get proof that everything is connected to everything else that everything you know is wrong that you are both the center of the universe and a tiny speck sailing off its nethermost edge Michael Chabon American novelist, screenwriter, columnist and short story writer Keynote at Eisner Awards "
 	},
 	{
 		title: "Merely a Muddle",
 		date: "1936",
     url: "quotes/merely-a-muddle.html",
-		content: " And your remarks on the text Mr Gott declared are merely a muddle Yes Gott said Mike meekly You see Mike you haven t any <em>brain< em> really No of course not said Mike You must just keep to the cackle and write nicely You write very nicely Yes said Mike dubiously Keep off thinking things out and you ll do well In fact you ll go far Michael Innes  The Seven Suspects "
+		content: " And your remarks on the text Mr Gott declared are merely a muddle Yes Gott said Mike meekly You see Mike you haven t any <em>brain< em> really No of course not said Mike You must just keep to the cackle and write nicely You write very nicely Yes said Mike dubiously Keep off thinking things out and you ll do well In fact you ll go far Michael Innes Pseudonym for John Innes Mackintosh Stewart, a Scottish novelist and academic The Seven Suspects "
 	},
 	{
 		title: "Couldn’t everyone’s life become a work of art?",
@@ -1731,7 +1731,7 @@ let searchQuotes = [
 		title: "If triangles had a god",
 		date: "",
     url: "quotes/if-triangles-had-a-god.html",
-		content: "If triangles had a god they would give him three sides Montesquieu   "
+		content: "If triangles had a god they would give him three sides Montesquieu French judge, man of letters, and political philosopher  "
 	},
 	{
 		title: "It's sports and it's all love",
@@ -1767,7 +1767,7 @@ let searchQuotes = [
 		title: "Art is a lie that makes us realize truth",
 		date: "1923",
     url: "quotes/art-is-a-lie-that-makes-us-realize-truth.html",
-		content: "We all know that Art is not truth Art is a lie that makes us realize truth at least the truth that is given us to understand The artist must know the manner whereby to convince others of the truthfulness of his lies If he only shows in his work that he has searched and re searched for the way to put over lies he would never accomplish anything Pablo Picasso  The Arts "
+		content: "We all know that Art is not truth Art is a lie that makes us realize truth at least the truth that is given us to understand The artist must know the manner whereby to convince others of the truthfulness of his lies If he only shows in his work that he has searched and re searched for the way to put over lies he would never accomplish anything Pablo Picasso Spanish painter, sculptor, printmaker, ceramicist and theatre designer The Arts "
 	},
 	{
 		title: "The Ultimate Democracy",
@@ -1815,7 +1815,7 @@ let searchQuotes = [
 		title: "People ask me to predict the future",
 		date: "1979",
     url: "quotes/people-ask-me-to-predict-the-future.html",
-		content: "People ask me to predict the future when all I want to do is prevent it Better yet build it Predicting the future is much too easy anyway You look at the people around you the street you stand on the visible air you breathe and predict more of the same To hell with more I want better Ray Bradbury  Beyond 1984: The People Machines "
+		content: "People ask me to predict the future when all I want to do is prevent it Better yet build it Predicting the future is much too easy anyway You look at the people around you the street you stand on the visible air you breathe and predict more of the same To hell with more I want better Ray Bradbury American author and screenwriter Beyond 1984: The People Machines "
 	},
 	{
 		title: "Start with romance and build to a reality",
@@ -1833,7 +1833,7 @@ let searchQuotes = [
 		title: "Down These Mean Streets",
 		date: "1945",
     url: "quotes/down-these-mean-streets.html",
-		content: "Down these mean streets a man must go who is not himself mean who is neither tarnished nor afraid If there were enough like him I think the world would be a very safe place to live in and yet not too dull to be worth living in Raymond Chandler  The Simple Art of Murder "
+		content: "Down these mean streets a man must go who is not himself mean who is neither tarnished nor afraid If there were enough like him I think the world would be a very safe place to live in and yet not too dull to be worth living in Raymond Chandler American-British novelist and screenwriter The Simple Art of Murder "
 	},
 	{
 		title: "I'll take the big sordid dirty crooked city",
@@ -1857,19 +1857,19 @@ let searchQuotes = [
 		title: "Wonderment is the first passion of all",
 		date: "1649",
     url: "quotes/wonderment-is-the-first-passion-of-all.html",
-		content: "When our first encounter with some object takes us by surprise and we judge it to be new or very different from what we have previously experienced or from what we expected it to be this causes us to wonder at it and be astonished And because this can happen before we have any knowledge of whether the thing is beneficial to us or not it seems to me that wonderment is the first passion of all And it has no contrary because if the object that presents itself has nothing in itself to surprise us we are not moved by it in any way and we consider it without any passion René Descartes  The Passions of the Soul "
+		content: "When our first encounter with some object takes us by surprise and we judge it to be new or very different from what we have previously experienced or from what we expected it to be this causes us to wonder at it and be astonished And because this can happen before we have any knowledge of whether the thing is beneficial to us or not it seems to me that wonderment is the first passion of all And it has no contrary because if the object that presents itself has nothing in itself to surprise us we are not moved by it in any way and we consider it without any passion René Descartes French philosopher, mathematician, and scientist The Passions of the Soul "
 	},
 	{
 		title: "Evolutionary Drive Towards Complexity",
 		date: "2006",
     url: "quotes/evolutionary-drive-towards-complexity.html",
-		content: "The evolutionary drive towards complexity comes in those lineages where it comes at all not from any inherent propensity for increased complexity and not from biased mutation It comes from natural selection the process which as far as we know is the only process ultimately capable of generating complexity out of simplicity Richard Dawkins  The God Delusion "
+		content: "The evolutionary drive towards complexity comes in those lineages where it comes at all not from any inherent propensity for increased complexity and not from biased mutation It comes from natural selection the process which as far as we know is the only process ultimately capable of generating complexity out of simplicity Richard Dawkins British evolutionary biologist The God Delusion "
 	},
 	{
 		title: "The Paranoid Style in American Politics",
 		date: "Nov 1964",
     url: "quotes/the-paranoid-style-in-american-politics.html",
-		content: "American politics has often been an arena for angry minds In recent years we have seen angry minds at work mainly among extreme right wingers who have now demonstrated in the Goldwater movement how much political leverage can be got out of the animosities and passions of a small minority But behind this I believe there is a style of mind that is far from new and that is not necessarily right wing I call it the paranoid style simply because no other word adequately evokes the sense of heated exaggeration suspiciousness and conspiratorial fantasy that I have in mind In using the expression paranoid style I am not speaking in a clinical sense but borrowing a clinical term for other purposes I have neither the competence nor the desire to classify any figures of the past or present as certifiable lunatics In fact the idea of the paranoid style as a force in politics would have little contemporary relevance or historical value if it were applied only to men with profoundly disturbed minds It is the use of paranoid modes of expression by more or less normal people that makes the phenomenon significant Richard Hofstadter  Harper's Magazine "
+		content: "American politics has often been an arena for angry minds In recent years we have seen angry minds at work mainly among extreme right wingers who have now demonstrated in the Goldwater movement how much political leverage can be got out of the animosities and passions of a small minority But behind this I believe there is a style of mind that is far from new and that is not necessarily right wing I call it the paranoid style simply because no other word adequately evokes the sense of heated exaggeration suspiciousness and conspiratorial fantasy that I have in mind In using the expression paranoid style I am not speaking in a clinical sense but borrowing a clinical term for other purposes I have neither the competence nor the desire to classify any figures of the past or present as certifiable lunatics In fact the idea of the paranoid style as a force in politics would have little contemporary relevance or historical value if it were applied only to men with profoundly disturbed minds It is the use of paranoid modes of expression by more or less normal people that makes the phenomenon significant Richard Hofstadter American historian and public intellectual Harper's Magazine "
 	},
 	{
 		title: "Competition is not separable from endless flavors of cooperation",
@@ -2013,7 +2013,7 @@ let searchQuotes = [
 		title: "Selling sugared water",
 		date: "1987",
     url: "quotes/selling-sugared-water.html",
-		content: "Do you want to spend the rest of your life selling sugared water or do you want a chance to change the world Steve Jobs  made to John Sculley to convince him to leave Pepsi and become CEO of Apple "
+		content: "Do you want to spend the rest of your life selling sugared water or do you want a chance to change the world Steve Jobs American business magnate, industrial designer, investor, and media proprietor made to John Sculley to convince him to leave Pepsi and become CEO of Apple "
 	},
 	{
 		title: "Technology married with the humanities",
@@ -2049,7 +2049,7 @@ let searchQuotes = [
 		title: "Crosscutting Alliances",
 		date: "2018",
     url: "quotes/crosscutting-alliances.html",
-		content: "Where a society s political divisions are crosscutting we line up on different sides of issues with different people at different times We may disagree with our neighbors on abortion but agree with them on health care we may dislike another neighbor s views on immigration but agree with them on the need to raise the minimum wage Such alliances help us build and sustain norms of mutual toleration When we agree with our political rivals at least some of the time we are less likely to view them as mortal enemies Steven Levitsky and Daniel Ziblatt  How Democracies Die "
+		content: "Where a society s political divisions are crosscutting we line up on different sides of issues with different people at different times We may disagree with our neighbors on abortion but agree with them on health care we may dislike another neighbor s views on immigration but agree with them on the need to raise the minimum wage Such alliances help us build and sustain norms of mutual toleration When we agree with our political rivals at least some of the time we are less likely to view them as mortal enemies Steven Levitsky and Daniel Ziblatt American political scientist and Professor of Government at Harvard University How Democracies Die "
 	},
 	{
 		title: "Unwritten Democratic Norms",
@@ -2085,7 +2085,7 @@ let searchQuotes = [
 		title: "Ignorant and Free",
 		date: "Jan 6, 1816",
     url: "quotes/ignorant-and-free.html",
-		content: "If a nation expects to be ignorant and free in a state of civilization it expects what never was and never will be The functionaries of every government have propensities to command at will the liberty and property of their constituents There is no safe deposit for these but with the people themselves nor can they be safe with them without information Where the press is free and every man able to read all is safe Thomas Jefferson  To Colonel Charles Yancey "
+		content: "If a nation expects to be ignorant and free in a state of civilization it expects what never was and never will be The functionaries of every government have propensities to command at will the liberty and property of their constituents There is no safe deposit for these but with the people themselves nor can they be safe with them without information Where the press is free and every man able to read all is safe Thomas Jefferson American statesman, diplomat, lawyer, architect, philosopher, and Founding Father who served as the third president of the United States from 1801 to 1809 To Colonel Charles Yancey "
 	},
 	{
 		title: "Institutions must advance and keep pace with the times",
@@ -2109,7 +2109,7 @@ let searchQuotes = [
 		title: "Generosity is the robust strategy",
 		date: "2017",
     url: "quotes/generosity-is-the-robust-strategy.html",
-		content: "It is deeply unfortunate how difficult it is for humans to practice foresight In his wise and insightful book The Wealth of Humans senior editor for the Economist Ryan Avent traces the lessons that we could and should take from the centuries of economic and political struggle that led from the innovations of the industrial revolution to the successful economies of the second half of the twentieth century Prosperity came when the fruits of productivity were widely shared enmity political turmoil and even outright warfare were the harvest of rampant inequality It is obvious that generosity is the robust strategy Tim O'Reilly  WTF: What's the Future and Why It's Up To Us "
+		content: "It is deeply unfortunate how difficult it is for humans to practice foresight In his wise and insightful book The Wealth of Humans senior editor for the Economist Ryan Avent traces the lessons that we could and should take from the centuries of economic and political struggle that led from the innovations of the industrial revolution to the successful economies of the second half of the twentieth century Prosperity came when the fruits of productivity were widely shared enmity political turmoil and even outright warfare were the harvest of rampant inequality It is obvious that generosity is the robust strategy Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Governance is essential",
@@ -2133,7 +2133,7 @@ let searchQuotes = [
 		title: "Belief in Impossible Things",
 		date: "2003",
     url: "quotes/belief-in-impossible-things.html",
-		content: "There is probably no job on earth for which an ability to believe six impossible things before breakfast is more of a requirement than software project management We are routinely expected to work ourselves into a state of believing in a deadline a budget or a performance factor that time subsequently may prove to be impossible Tom DeMarco and Timothy Lister  Waltzing with Bears: Managing Risk on Software Projects "
+		content: "There is probably no job on earth for which an ability to believe six impossible things before breakfast is more of a requirement than software project management We are routinely expected to work ourselves into a state of believing in a deadline a budget or a performance factor that time subsequently may prove to be impossible Tom DeMarco and Timothy Lister American software engineer, author, and consultant Waltzing with Bears: Managing Risk on Software Projects "
 	},
 	{
 		title: "Freedom of Expression in Business",
@@ -2151,7 +2151,7 @@ let searchQuotes = [
 		title: "The World is a Wonderfully Weird Place",
 		date: "2007",
     url: "quotes/the-world-is-a-wonderfully-weird-place.html",
-		content: "The world is a wonderfully weird place consensual reality is significantly flawed no institution can be trusted certainty is a mirage security a delusion and the tyranny of the dull mind forever threatens but our lives are not as limited as we think they are all things are possible laughter is holier than piety freedom is sweeter than fame and in the end it s love and love alone that really matters Tom Robbins  Gracie Goes to Schooner School "
+		content: "The world is a wonderfully weird place consensual reality is significantly flawed no institution can be trusted certainty is a mirage security a delusion and the tyranny of the dull mind forever threatens but our lives are not as limited as we think they are all things are possible laughter is holier than piety freedom is sweeter than fame and in the end it s love and love alone that really matters Tom Robbins American novelist Gracie Goes to Schooner School "
 	},
 	{
 		title: "ESPN president meets Steve Jobs",
@@ -2181,7 +2181,7 @@ let searchQuotes = [
 		title: "When his salary depends on his not understanding it",
 		date: "1935",
     url: "quotes/when-his-salary-depends-on-his-not-understanding-it.html",
-		content: "It is difficult to get a man to understand something when his salary depends on his not understanding it Upton Sinclair  I, Candidate for Governor: And How I Got Licked "
+		content: "It is difficult to get a man to understand something when his salary depends on his not understanding it Upton Sinclair American writer I, Candidate for Governor: And How I Got Licked "
 	},
 	{
 		title: "Imagination is not a means of making money",
@@ -2193,7 +2193,7 @@ let searchQuotes = [
 		title: "Each man is questioned by life",
 		date: "1946",
     url: "quotes/each-man-is-questioned-by-life.html",
-		content: "Ultimately man should not ask what the meaning of his life is but rather must recognize that it is he who is asked In a word each man is questioned by life and he can only answer to life by answering for his own life to life he can only respond by being responsible Victor Frankl  Man's Search for Meaning "
+		content: "Ultimately man should not ask what the meaning of his life is but rather must recognize that it is he who is asked In a word each man is questioned by life and he can only answer to life by answering for his own life to life he can only respond by being responsible Victor Frankl Austrian Holocaust survivor, neurologist, psychiatrist and author Man's Search for Meaning "
 	},
 	{
 		title: "Love is the ultimate and the highest goal",
@@ -2218,6 +2218,12 @@ let searchQuotes = [
 		date: "12 Sep 2018",
     url: "quotes/confusion-leads-to-understanding.html",
 		content: "I m trying to confuse peoples initial perceptions Confusion leads to exploration exploration to learning and learning to understanding Vishavjit Singh Sikh Captain America A Shield as a Weapon Against Intolerance "
+	},
+	{
+		title: "The only sensible procedure for a critic",
+		date: "1973",
+    url: "quotes/the-only-sensible-procedure-for-a-critic.html",
+		content: "The only sensible procedure for a critic is to keep silent about works which he believes to be bad while at the same time vigorously campaigning for those which he believes to be good especially if they are being neglected or underestimated by the public W. H. Auden An Anglo-American poet and critic The Dyer's Hand and Other Essays "
 	},
 	{
 		title: "The American cult of the individual",
@@ -2265,7 +2271,7 @@ let searchQuotes = [
 		title: "Walter Reuther and the Ford Robots",
 		date: "1968",
     url: "quotes/walter-reuther-and-the-ford-robots.html",
-		content: "Walter Reuther the pioneer UAW organizer told the story of a conversation with a Ford executive who was showing Reuther his new factory robots How are you going to collect union dues from all these machines he asked Reuther said he replied You know that is not what s bothering me I m troubled by the problem of how to sell automobiles to them Walter Reuther  WTF: What's the Future and Why It's Up To Us "
+		content: "Walter Reuther the pioneer UAW organizer told the story of a conversation with a Ford executive who was showing Reuther his new factory robots How are you going to collect union dues from all these machines he asked Reuther said he replied You know that is not what s bothering me I m troubled by the problem of how to sell automobiles to them Walter Reuther American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "It's the rich class that's winning",
@@ -2319,7 +2325,7 @@ let searchQuotes = [
 		title: "Democracy is Worst Form of Government",
 		date: "",
     url: "quotes/democracy-is-worst-form-of-government.html",
-		content: "Democracy is the worst form of government except for all those others that have been tried Winston Churchill  unknown "
+		content: "Democracy is the worst form of government except for all those others that have been tried Winston Churchill British statesman, army officer and writer unknown "
 	},
 	{
 		title: "Liberalism is not Socialism",
@@ -2337,7 +2343,7 @@ let searchQuotes = [
 		title: "Balance is Required to Maintain Democracy",
 		date: "2008",
     url: "quotes/balance-is-required-to-maintain-democracy.html",
-		content: "Our current lack of respect for the swing can be likened to the current state of our democracy Balance is required to maintain something as delicate as democracy a subtle understanding of how your power can be magnified through joining with and sharing the power of another person When that is no longer understood it becomes a battle to see who is the strongest who is the loudest who can get the most attention Wynton Marsalis  Moving to Higher Ground: How Jazz Can Change Your Life "
+		content: "Our current lack of respect for the swing can be likened to the current state of our democracy Balance is required to maintain something as delicate as democracy a subtle understanding of how your power can be magnified through joining with and sharing the power of another person When that is no longer understood it becomes a battle to see who is the strongest who is the loudest who can get the most attention Wynton Marsalis American trumpeter, composer and teacher Moving to Higher Ground: How Jazz Can Change Your Life "
 	},
 	{
 		title: "The Challenge of Swing",
@@ -2385,7 +2391,7 @@ let searchQuotes = [
 		title: "Capitalism as a Market Society",
 		date: "08 May 2018",
     url: "quotes/capitalism-as-a-market-society.html",
-		content: "Readers may be surprised by the absence of any mention of capital or capitalism in the book I chose to leave out such words not because there is anything wrong with them but because loaded as they are with heavy baggage they get in the way of illuminating the essence of things So instead of speaking about capitalism I use the term market society Instead of capital you will find more normal words like machinery and produced means of production Why use jargon if we can avoid it Yanis Varoufakis  Talking to My Daughter About the Economy: or, How Capitalism Works -- and How It Fails "
+		content: "Readers may be surprised by the absence of any mention of capital or capitalism in the book I chose to leave out such words not because there is anything wrong with them but because loaded as they are with heavy baggage they get in the way of illuminating the essence of things So instead of speaking about capitalism I use the term market society Instead of capital you will find more normal words like machinery and produced means of production Why use jargon if we can avoid it Yanis Varoufakis Greek economist, academic, philosopher and politician Talking to My Daughter About the Economy: or, How Capitalism Works -- and How It Fails "
 	},
 	{
 		title: "The economy is too important to leave to the economists",
@@ -2409,7 +2415,7 @@ let searchQuotes = [
 		title: "Authentic cultures",
 		date: "2015",
     url: "quotes/authentic-cultures.html",
-		content: "We still talk a lot about authentic cultures but if by authentic we mean something that developed independently and that consists of ancient local traditions free of external influences then there are no authentic cultures left on earth Over the last few centuries all cultures were changed almost beyond recognition by a flood of global influences Yuval Noah Harari  Sapiens: A Brief History of Humankind "
+		content: "We still talk a lot about authentic cultures but if by authentic we mean something that developed independently and that consists of ancient local traditions free of external influences then there are no authentic cultures left on earth Over the last few centuries all cultures were changed almost beyond recognition by a flood of global influences Yuval Noah Harari Israeli public intellectual, historian and professor Sapiens: A Brief History of Humankind "
 	},
 	{
 		title: "The Awesome Power of Culture",

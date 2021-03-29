@@ -2,9 +2,17 @@ Title:  I must study politics and war
 
 Tags:   cultural evolution, education, parenthood
 
+Featured: false
+
 Author: John Adams
 
 Date:   May 12, 1780
+
+Author Info: American statesman, attorney, diplomat, writer, and Founding Father who served as the second president of the United States
+
+Author Years: 1735-1826
+
+Author Link: https://en.wikipedia.org/wiki/John_Adams
 
 Work Title: Letter to Abigail Adams
 

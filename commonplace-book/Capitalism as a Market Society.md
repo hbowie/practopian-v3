@@ -2,9 +2,17 @@ Title:  Capitalism as a Market Society
 
 Tags:   critical thinking, equality, society, systemic
 
+Featured: false
+
 Author: Yanis Varoufakis
 
 Date:   08 May 2018
+
+Author Info: Greek economist, academic, philosopher and politician
+
+Author Years: 1961-
+
+Author Link: https://en.wikipedia.org/wiki/Yanis_Varoufakis
 
 Work Title: Talking to My Daughter About the Economy: or, How Capitalism Works -- and How It Fails
 

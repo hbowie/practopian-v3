@@ -2,9 +2,17 @@ Title:  This dear fucked-up planet
 
 Tags:   connection, love, progress
 
+Featured: false
+
 Author: Henry Miller
 
 Date:   1918
+
+Author Info: American writer and artist
+
+Author Years: 1891-1980
+
+Author Link: https://en.wikipedia.org/wiki/Henry_Miller
 
 Work Title: Memo to Self
 

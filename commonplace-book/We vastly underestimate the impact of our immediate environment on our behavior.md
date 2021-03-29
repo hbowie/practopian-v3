@@ -2,9 +2,17 @@ Title:  We vastly underestimate the impact of our immediate environment on our b
 
 Tags:   connection, society
 
+Featured: false
+
 Author: Dave Mayer
 
 Date:   16 Oct 2020
+
+Author Info: An award-winning researcher and teacher and speaker, he is an expert on leadership, diversity, and ethics
+
+Author Years: 1982(?)-
+
+Author Link: http://webuser.bus.umich.edu/dmmayer/
 
 Work Title: Changing the Frame: Family Photos on Your Desk Could Make You More Ethical on the Job
 

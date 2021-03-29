@@ -2,9 +2,17 @@ Title:  Balance is Required to Maintain Democracy
 
 Tags:   balance, governance
 
+Featured: false
+
 Author: Wynton Marsalis
 
 Date:   2008
+
+Author Info: American trumpeter, composer and teacher
+
+Author Years: 1961-
+
+Author Link: https://en.wikipedia.org/wiki/Wynton_Marsalis
 
 Work Title: Moving to Higher Ground: How Jazz Can Change Your Life
 

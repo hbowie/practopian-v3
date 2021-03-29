@@ -2,9 +2,17 @@ Title:  When you can measure what you are speaking about
 
 Tags:   science
 
+Featured: false
+
 Author: Lord Kelvin
 
 Date:   3 May 1883
+
+Author Info: British mathematical physicist and engineer
+
+Author Years: 1824-1907
+
+Author Link: https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin
 
 Work Title: Popular Lectures
 

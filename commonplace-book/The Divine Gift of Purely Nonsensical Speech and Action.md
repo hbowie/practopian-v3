@@ -2,9 +2,17 @@ Title:  The Divine Gift of Purely Nonsensical Speech and Action
 
 Tags:   art, diversity
 
+Featured: false
+
 Author: Edmund Crispin
 
 Date:   1944
+
+Author Info: British mystery author
+
+Author Years: 1921-1978
+
+Author Link: https://en.wikipedia.org/wiki/Edmund_Crispin
 
 Work Title: The Case of the Gilded Fly
 

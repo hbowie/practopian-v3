@@ -2,7 +2,15 @@ Title:  Politics and the Debasement of Language
 
 Tags:   critical thinking, written word
 
+Featured: false
+
 Author: George Orwell
+
+Author Info: English novelist, essayist, journalist and critic
+
+Author Years: 1903-1950
+
+Author Link: https://en.wikipedia.org/wiki/George_Orwell
 
 Work Title: Politics and the English Language
 

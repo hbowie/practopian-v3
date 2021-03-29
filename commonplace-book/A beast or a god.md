@@ -2,9 +2,17 @@ Title:  A beast or a god
 
 Tags:   society
 
+Featured: false
+
 Author: Aristotle
 
 Date:   350 BC
+
+Author Info: Greek philosopher
+
+Author Years: 0384-0322 BC
+
+Author Link: https://en.wikipedia.org/wiki/Aristotle
 
 Work Title: Politics
 

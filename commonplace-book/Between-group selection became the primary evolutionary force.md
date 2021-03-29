@@ -2,9 +2,17 @@ Title:  Between-group selection became the primary evolutionary force
 
 Tags:   cultural evolution
 
+Featured: false
+
 Author: David Sloan Wilson
 
 Date:   2019
+
+Author Info: American evolutionary biologist
+
+Author Years: 1949-
+
+Author Link: https://en.wikipedia.org/wiki/David_Sloan_Wilson
 
 Work Title: This View of Life: Completing the Darwinian Revolution
 

@@ -2,9 +2,17 @@ Title:  Belief in Impossible Things
 
 Tags:   Project Management, critical thinking
 
+Featured: false
+
 Author: Tom DeMarco and Timothy Lister
 
 Date:   2003
+
+Author Info: American software engineer, author, and consultant
+
+Author Years: 1940-
+
+Author Link: https://en.wikipedia.org/wiki/Tom_DeMarco
 
 Work Title: Waltzing with Bears: Managing Risk on Software Projects
 

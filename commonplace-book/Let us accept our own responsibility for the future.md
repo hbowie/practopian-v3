@@ -2,9 +2,17 @@ Title:  Let us accept our own responsibility for the future
 
 Tags:   mission
 
+Featured: false
+
 Author: John F. Kennedy
 
 Date:   18 Feb 1958
+
+Author Info: American politician who served as the 35th president of the United States
+
+Author Years: 1917-1963
+
+Author Link: https://en.wikipedia.org/wiki/John_F._Kennedy
 
 Work Title: Loyola College Alumni Banquet
 

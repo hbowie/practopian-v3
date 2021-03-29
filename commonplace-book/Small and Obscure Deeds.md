@@ -2,9 +2,17 @@ Title:  Small and Obscure Deeds
 
 Tags:   individuals, progress
 
+Featured: false
+
 Author: Albert Schweitzer
 
 Date:   2002
+
+Author Info: Alsatian theologian, organist, writer, humanitarian, philosopher, and physician
+
+Author Years: 1875-1965
+
+Author Link: https://en.wikipedia.org/wiki/Albert_Schweitzer
 
 Work Title: Leading Quietly: An Unorthodox Guide to Doing the Right Thing
 

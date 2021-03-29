@@ -2,9 +2,17 @@ Title:  Diversity Helps Your Business -- But Not The Way You Think
 
 Tags:   diversity
 
+Featured: false
+
 Author: Katherine Phillips
 
 Date:   02 Jun 2009
+
+Author Info: American business theorist
+
+Author Years: 1972-2020
+
+Author Link: https://en.wikipedia.org/wiki/Katherine_W._Phillips
 
 Work Title: Forbes
 

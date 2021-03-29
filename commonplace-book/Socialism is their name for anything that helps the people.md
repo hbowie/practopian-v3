@@ -2,9 +2,17 @@ Title:  Socialism is their name for anything that helps the people
 
 Tags:   governance
 
+Featured: false
+
 Author: Harry S. Truman
 
 Date:   10 Oct 1952
+
+Author Info:  33rd president of the United States
+
+Author Years: 1884-1972
+
+Author Link: https://en.wikipedia.org/wiki/Harry_S._Truman
 
 Work Title: Campaign Speech
 

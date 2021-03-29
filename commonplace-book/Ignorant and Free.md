@@ -2,9 +2,17 @@ Title:  Ignorant and Free
 
 Tags:   education, governance, liberty, written word
 
+Featured: false
+
 Author: Thomas Jefferson
 
 Date:   Jan 6, 1816
+
+Author Info: American statesman, diplomat, lawyer, architect, philosopher, and Founding Father who served as the third president of the United States from 1801 to 1809
+
+Author Years: 1743-1826
+
+Author Link: https://en.wikipedia.org/wiki/Thomas_Jefferson
 
 Work Title: To Colonel Charles Yancey
 
