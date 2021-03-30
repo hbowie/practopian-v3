@@ -1,7 +1,11 @@
 <?output "../includes-gen/featured-quote.html"?>
 <?nextrec?>
 <?if =$featured$= eq true ?>
-<p class="pr-featured">Featured Quote:</p>
+<p class="pr-featured">
+	<a class="pr-invisilink" href="quotes/latest.html">
+		Featured Quote:
+	</a>
+</p>
 <div class="card border-0 mb-2" style="width: 100%;" >
     <div class="card-body">
       <h4 class="card-title">=$title$=</h4>

@@ -121,6 +121,26 @@ a.pr-footer-a:active {
 	color: inherit;
 }
 
+a.pr-invisilink:link {
+	text-decoration: inherit;
+	color: inherit;
+}
+
+a.pr-invisilink:visited {
+	text-decoration: inherit;
+	color: inherit;
+}
+
+a.pr-invisilink:hover {
+	text-decoration: inherit;
+	color: inherit;
+}
+
+a.pr-invisilink:active {
+	text-decoration: inherit;
+	color: inherit;
+}
+
 blockquote {
     margin: 0.25em 0;
     padding: 0.35em 40px;
