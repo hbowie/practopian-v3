@@ -8,6 +8,10 @@ Status: 9 - Published
 
 Type:   appreciation
 
+Featured: false
+
+Greatest Hits: true
+
 Date:   13 Oct 2018
 
 Index:  Buffett, Jimmy; Fruitcakes; imperfection; individuals; diversity; religion; space travel; 
@@ -21,6 +25,7 @@ Image Alt: Fruitcakes album cover
 Teaser: 
 
 I've always considered this to be Jimmy Buffet's masterwork. The musical backing is infectious, swaying and danceable, and the background vocals add depth. The words are cleverly crafted, and perfectly suited to Buffett's conversational, wisecracking delivery.
+
 
 Body: 
 

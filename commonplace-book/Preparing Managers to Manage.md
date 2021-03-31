@@ -2,6 +2,10 @@ Title:  Preparing Managers to Manage
 
 Tags:   Business, education
 
+Featured: false
+
+Recommended: true
+
 Author: Matthew Stewart
 
 Date:   2009

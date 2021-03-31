@@ -2,6 +2,10 @@ Title:  Imagination is not a means of making money
 
 Tags:   humanism
 
+Featured: false
+
+Recommended: false
+
 Author: Ursula K. Le Guin
 
 Date:   2016

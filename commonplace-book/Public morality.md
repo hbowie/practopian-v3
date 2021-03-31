@@ -2,6 +2,10 @@ Title:  Public morality
 
 Tags:   connection, democracy, diversity, equality, love, society
 
+Featured: false
+
+Recommended: false
+
 Author: Robert B. Reich
 
 Date:   2018

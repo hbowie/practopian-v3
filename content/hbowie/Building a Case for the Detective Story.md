@@ -8,6 +8,10 @@ Status: 9 - Published
 
 Type:   appreciation
 
+Featured: false
+
+Greatest Hits: true
+
 Importance: 75
 
 Date:   2019-05-07

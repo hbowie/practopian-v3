@@ -2,6 +2,10 @@ Title:  Competition is not separable from endless flavors of cooperation
 
 Tags:   evolution, systemic, wonder
 
+Featured: false
+
+Recommended: true
+
 Author: Richard Powers
 
 Date:   2018

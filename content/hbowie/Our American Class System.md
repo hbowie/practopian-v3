@@ -8,6 +8,10 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: true
+
 Importance: 50
 
 Date:   27 Jan 2019

@@ -14,6 +14,8 @@ Type:   appreciation
 
 Featured: true
 
+Greatest Hits: false
+
 Importance: 99
 
 Date:   29 Oct 2020

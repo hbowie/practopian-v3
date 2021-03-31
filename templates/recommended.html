@@ -1,0 +1,40 @@
+<?output "../includes-gen/recommended.html"?>
+<p class="pr-featured">
+		Recommended Reading:
+</p>
+<div class="card border-0 mb-2" style="width: 100%;" >
+	<div class="card-header">
+		<strong>From The Practical Utopian bookshelf: </strong>
+	</div>
+	<ul class="list-group list-group-flush">
+<?nextrec?>
+<?definegroup 1 “=$author$="?>
+<?definegroup 2 “=$work-title$="?>
+<?ifendgroup 2 ?>
+<?if =$holdrec$= eq true ?>
+		<li class="list-group-item">
+<?if "=$holdlink$=" ?>
+			<cite><a class="pr-invisilink" href="=$holdlink$=">=$hold-title$=</a></cite>,
+<?else?>
+			<cite>=$hold-title$=</cite>,
+<?endif?>
+			by <a class="pr-invisilink" href="authors/=$hold-author&f$=.html">=$hold-author$=</a>
+		</li>
+<?endif?>
+<?ifendgroup 1 ?>
+<?ifnewgroup 1 ?>
+<?ifnewgroup 2 ?>
+<?set holdauthor = "=$author$=" ?>
+<?set holdtitle = "=$work-title$=" ?>
+<?set holdlink = "=$work-link$=" ?>
+<?set holdrec = "=$recommended$=" ?>
+<?endif?>
+<?if =$recommended$= eq true ?>
+<?set holdrec = "=$recommended$=" ?>
+<?endif?>
+<?if "=$work-link$=" ?>
+<?set holdlink = "=$work-link$=" ?>
+<?endif?>
+<?loop?>
+	</ul>
+</div>

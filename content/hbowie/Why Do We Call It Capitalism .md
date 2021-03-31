@@ -10,6 +10,8 @@ Type:   blog
 
 Featured: false
 
+Greatest Hits: true
+
 Importance: 10
 
 Date:   16 Apr 2020

@@ -8,6 +8,10 @@ Status: 9 - Published
 
 Type:   appreciation
 
+Featured: false
+
+Greatest Hits: false
+
 Importance: 50
 
 Date:   20 July 2019
@@ -18,7 +22,7 @@ Minutes to Read: 4
 
 Image Name: half moon in night sky
 
-Image Alt:  a half moon in a black night sky
+Image Alt: a half moon in a black night sky
 
 Image Credit: iStock/makasana
 

@@ -2,6 +2,8 @@ Title: <title>
 
 Featured: <boolean> 
 
+Recommended: <boolean>
+
 Author: <author> 
 
 Date: <date> 

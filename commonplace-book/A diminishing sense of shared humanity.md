@@ -2,6 +2,10 @@ Title:  A diminishing sense of shared humanity
 
 Tags:   connection, love
 
+Featured: false
+
+Recommended: false
+
 Author: Brené Brown
 
 Date:   2017

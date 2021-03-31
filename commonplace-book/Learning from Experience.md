@@ -2,6 +2,10 @@ Title:  Learning from Experience
 
 Tags:   Business, critical thinking, education, systemic
 
+Featured: false
+
+Recommended: true
+
 Author: Peter Senge
 
 Date:   1990

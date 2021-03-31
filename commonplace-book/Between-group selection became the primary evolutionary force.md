@@ -4,6 +4,8 @@ Tags:   cultural evolution
 
 Featured: false
 
+Recommended: true
+
 Author: David Sloan Wilson
 
 Date:   2019

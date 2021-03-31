@@ -14,6 +14,8 @@ Type: pick-from: appreciation, blog
 
 Featured: <bool> 
 
+Greatest Hits: <bool>
+
 Importance: <seq> 
 
 Date: <date> 

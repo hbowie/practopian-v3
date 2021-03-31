@@ -2,6 +2,10 @@ Title:  Counter-Culture's own values and aesthetics decayed
 
 Tags:   cultural evolution
 
+Featured: false
+
+Recommended: true
+
 Author: Joe Boyd
 
 Date:   2006

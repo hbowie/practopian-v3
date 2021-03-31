@@ -2,6 +2,10 @@ Title:  The divine literatus
 
 Tags:   art
 
+Featured: false
+
+Recommended: false
+
 Author: Walt Whitman
 
 Date:   1871

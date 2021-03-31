@@ -2,6 +2,10 @@ Title:  The Rainbow Bridge
 
 Tags:   connection, humanism, integral
 
+Featured: false
+
+Recommended: true
+
 Author: E. M. Forster
 
 Date:   1910

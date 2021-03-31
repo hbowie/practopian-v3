@@ -2,6 +2,10 @@ Title:  To differentiate truth from falsehood
 
 Tags:   critical thinking, education
 
+Featured: false
+
+Recommended: true
+
 Author: Robert B. Reich
 
 Date:   2018

@@ -4,6 +4,8 @@ Tags:   evolution, humanism, science
 
 Featured: false
 
+Recommended: true
+
 Author: Carl Sagan and Ann Druyan
 
 Date:   1993

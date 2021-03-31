@@ -2,6 +2,10 @@ Title:  The Ultimate Democracy
 
 Tags:   democracy, equality
 
+Featured: false
+
+Recommended: false
+
 Author: Paul McCartney
 
 Date:   2012

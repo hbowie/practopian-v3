@@ -1,0 +1,27 @@
+<?output "../includes-gen/greatest-hits.html"?>
+<p class="pr-featured">
+		Greatest Hits:
+</p>
+
+<div class="card border-0 mb-2" style="width: 100%;" >
+	<div class="card-header">
+		<strong>A sampler from my most popular pieces</strong>
+	</div>
+	<ul class="list-group list-group-flush">
+<?nextrec?>
+<?if =$greatest-hits$= eq true ?>
+<?if =$type$= eq "appreciation" ?>
+<?set linkpath = "appreciation/" ?>
+<?endif?>
+<?if =$type$= eq "blog" ?>
+<?set linkpath = "blog/hbowie/" ?>
+<?endif?>
+		<li class="list-group-item">
+			<a class="pr-invisilink" href="=$linkpath$==$title&f$=.html">
+				=$title$=
+			</a>
+		</li>
+<?endif?>
+<?loop?>
+	</ul>
+</div>

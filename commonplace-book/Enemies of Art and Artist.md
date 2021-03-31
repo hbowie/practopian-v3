@@ -2,6 +2,10 @@ Title:  Enemies of Art and Artist
 
 Tags:   art
 
+Featured: false
+
+Recommended: false
+
 Author: Henry Miller
 
 Date:   1957

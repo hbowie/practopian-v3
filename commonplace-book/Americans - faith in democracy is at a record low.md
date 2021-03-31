@@ -2,6 +2,10 @@ Title:  Americans' faith in democracy is at a record low
 
 Tags:   democracy
 
+Featured: false
+
+Recommended: true
+
 Author: Leah Greenberg and Ezra Levin
 
 Date:   2019

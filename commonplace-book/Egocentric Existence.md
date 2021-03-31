@@ -4,6 +4,8 @@ Tags:   cultural evolution
 
 Featured: false
 
+Recommended: false
+
 Author: Clare W. Graves
 
 Date:   1974

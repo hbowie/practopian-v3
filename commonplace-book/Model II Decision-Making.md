@@ -2,6 +2,10 @@ Title:  Model II Decision-Making
 
 Tags:   critical thinking, diversity, liberty, society
 
+Featured: false
+
+Recommended: false
+
 Author: Chris Argyris and Donald Schön
 
 Date:   1974

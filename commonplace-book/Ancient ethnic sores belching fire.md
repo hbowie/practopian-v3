@@ -2,6 +2,10 @@ Title:  Ancient ethnic sores belching fire
 
 Tags:   cultural evolution, diversity, systemic
 
+Featured: false
+
+Recommended: false
+
 Author: Don Beck and Chris Cowan
 
 Date:   2006

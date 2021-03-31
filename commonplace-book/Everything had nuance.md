@@ -4,6 +4,8 @@ Tags:   balance, integral
 
 Featured: false
 
+Recommended: true
+
 Author: Celeste Ng
 
 Date:   2017

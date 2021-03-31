@@ -2,6 +2,10 @@ Title:  Man's nature is an open, constantly evolving system
 
 Tags:   cultural evolution
 
+Featured: false
+
+Recommended: false
+
 Author: Clare W. Graves
 
 Date:   1974

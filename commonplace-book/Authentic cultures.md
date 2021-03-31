@@ -4,6 +4,8 @@ Tags:   cultural evolution
 
 Featured: false
 
+Recommended: true
+
 Author: Yuval Noah Harari
 
 Date:   2015

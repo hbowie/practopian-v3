@@ -2,6 +2,10 @@ Title:  The Awesome Power of Culture
 
 Tags:   cultural evolution
 
+Featured: false
+
+Recommended: false
+
 Author: Yuval Noah Harari
 
 Date:   2015

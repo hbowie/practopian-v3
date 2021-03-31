@@ -2,6 +2,10 @@ Title:  While he was focusing on the inner self, his outer world has gone to pot
 
 Tags:   mission
 
+Featured: false
+
+Recommended: false
+
 Author: Clare W. Graves
 
 Date:   1974

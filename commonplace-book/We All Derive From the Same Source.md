@@ -2,6 +2,10 @@ Title:  We All Derive From the Same Source
 
 Tags:   art, equality, humanism, individuals
 
+Featured: false
+
+Recommended: false
+
 Author: Henry Miller
 
 Date:   1964

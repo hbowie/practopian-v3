@@ -4,6 +4,8 @@ Tags:   equality, society
 
 Featured: false
 
+Recommended: true
+
 Author: Edward Luce
 
 Date:   2017

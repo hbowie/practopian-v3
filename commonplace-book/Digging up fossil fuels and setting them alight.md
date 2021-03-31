@@ -2,6 +2,10 @@ Title:  Digging up fossil fuels and setting them alight
 
 Tags:   sustainability
 
+Featured: false
+
+Recommended: false
+
 Author: Bill McKibben
 
 Date:   2019

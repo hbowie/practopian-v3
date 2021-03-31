@@ -2,6 +2,10 @@ Title:  Successful Planning
 
 Tags:   critical thinking
 
+Featured: false
+
+Recommended: false
+
 Author: Dashiell Hammett
 
 Date:   1957

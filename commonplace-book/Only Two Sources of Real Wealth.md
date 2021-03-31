@@ -2,6 +2,10 @@ Title:  Only Two Sources of Real Wealth
 
 Tags:   individuals, value creation
 
+Featured: false
+
+Recommended: false
+
 Author: Dorothy L. Sayers
 
 Work Title: Why Work?

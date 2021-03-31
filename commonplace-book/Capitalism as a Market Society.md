@@ -4,6 +4,8 @@ Tags:   critical thinking, equality, society, systemic
 
 Featured: false
 
+Recommended: true
+
 Author: Yanis Varoufakis
 
 Date:   08 May 2018

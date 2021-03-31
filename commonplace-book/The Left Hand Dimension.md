@@ -2,6 +2,10 @@ Title:  The Left Hand Dimension
 
 Tags:   integral
 
+Featured: false
+
+Recommended: true
+
 Author: Ken Wilber
 
 Date:   1996

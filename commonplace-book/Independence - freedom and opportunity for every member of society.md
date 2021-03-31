@@ -2,6 +2,10 @@ Title:  Independence, freedom and opportunity for every member of society
 
 Tags:   liberty
 
+Featured: false
+
+Recommended: true
+
 Author: Anu Partanen
 
 Date:   2016

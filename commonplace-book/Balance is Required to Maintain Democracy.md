@@ -4,6 +4,8 @@ Tags:   balance, governance
 
 Featured: false
 
+Recommended: true
+
 Author: Wynton Marsalis
 
 Date:   2008

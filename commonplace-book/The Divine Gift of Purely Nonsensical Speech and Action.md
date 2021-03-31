@@ -4,6 +4,8 @@ Tags:   art, diversity
 
 Featured: false
 
+Recommended: false
+
 Author: Edmund Crispin
 
 Date:   1944

@@ -2,6 +2,10 @@ Title:  We should always be fighting evil
 
 Tags:   mission
 
+Featured: false
+
+Recommended: false
+
 Author: Stan Lee
 
 Date:   2003

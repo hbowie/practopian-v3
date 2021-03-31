@@ -8,6 +8,10 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: true
+
 Importance: 2
 
 Date:   26 Oct 2012

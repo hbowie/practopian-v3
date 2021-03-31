@@ -2,6 +2,10 @@ Title:  All must be held valuable, or none
 
 Tags:   equality, humanism
 
+Featured: false
+
+Recommended: false
+
 Author: Edmund Crispin
 
 Date:   1947

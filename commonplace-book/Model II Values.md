@@ -2,6 +2,10 @@ Title:  Model II Values
 
 Tags:   critical thinking, liberty, society
 
+Featured: false
+
+Recommended: false
+
 Author: Chris Argyris and Donald Schön
 
 Date:   1974

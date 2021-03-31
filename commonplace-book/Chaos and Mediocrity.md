@@ -2,6 +2,10 @@ Title:  Chaos and Mediocrity
 
 Tags:   cultural evolution, society
 
+Featured: false
+
+Recommended: false
+
 Author: Joe Boyd
 
 Date:   2006

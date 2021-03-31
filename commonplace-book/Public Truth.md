@@ -2,6 +2,10 @@ Title:  Public Truth
 
 Tags:   critical thinking
 
+Featured: false
+
+Recommended: false
+
 Author: Robert B. Reich
 
 Date:   2018

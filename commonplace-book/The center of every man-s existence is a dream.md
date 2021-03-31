@@ -2,6 +2,10 @@ Title:  The center of every man's existence is a dream
 
 Tags:   humanism
 
+Featured: false
+
+Recommended: false
+
 Author: G. K. Chesterton
 
 Date:   1903

@@ -2,6 +2,10 @@ Title:  An Irreplaceable Compact
 
 Tags:   Murder, TecFiction, humanism
 
+Featured: false
+
+Recommended: true
+
 Author: Edmund Crispin
 
 Date:   1946

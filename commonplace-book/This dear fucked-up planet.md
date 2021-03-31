@@ -4,6 +4,8 @@ Tags:   connection, love, progress
 
 Featured: false
 
+Recommended: false
+
 Author: Henry Miller
 
 Date:   1918

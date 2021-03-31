@@ -44,6 +44,8 @@ template	open			/Users/hbowie/Sites/practopian 3/templates/appreciations-by-titl
 template	generate
 template	open			/Users/hbowie/Sites/practopian 3/templates/search-original.js
 template	generate
+template	open			/Users/hbowie/Sites/practopian 3/templates/greatest-hits.html
+template	generate
 
 <!-- Generate latest original content  -->
 
@@ -94,6 +96,7 @@ filter	set		params
 sort	clear
 sort	set		params
 sort	add	ascending	Author
+sort	add	ascending	Work-Title
 sort	add	ascending	Title
 sort	set		params
 template	webroot			/Users/hbowie/Sites/practopian 3
@@ -108,6 +111,8 @@ template	generate
 template	open			/Users/hbowie/Sites/practopian 3/templates/quote-random.html
 template	generate
 template	open			/Users/hbowie/Sites/practopian 3/templates/search-quotes.js
+template	generate
+template	open			/Users/hbowie/Sites/practopian 3/templates/recommended.html
 template	generate
 
 <!-- Generate page for latest quotations  -->
