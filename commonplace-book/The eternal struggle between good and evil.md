@@ -2,6 +2,10 @@ Title:  The eternal struggle between good and evil
 
 Tags:   society
 
+Featured: false
+
+Recommended: false
+
 Author: David Sloan Wilson
 
 Date:   2019

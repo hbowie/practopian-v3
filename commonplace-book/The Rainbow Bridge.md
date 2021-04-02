@@ -4,7 +4,7 @@ Tags:   connection, humanism, integral
 
 Featured: false
 
-Recommended: true
+Recommended: false
 
 Author: E. M. Forster
 

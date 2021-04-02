@@ -2,6 +2,10 @@ Title:  Religions are great bushy trees
 
 Tags:   cultural evolution, religion
 
+Featured: false
+
+Recommended: false
+
 Author: David Sloan Wilson
 
 Date:   2019

@@ -14,6 +14,8 @@ Work Title: The Nordic Theory of Everything: In Search of a Better Life
 
 Work Type: Book
 
+Work Link: https://www.anupartanen.com/the-nordic-theory-of-everything/
+
 Work Id: 0062316540
 
 Publisher: Harper

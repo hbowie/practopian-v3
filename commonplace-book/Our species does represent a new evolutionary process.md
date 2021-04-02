@@ -2,6 +2,10 @@ Title:  Our species does represent a new evolutionary process
 
 Tags:   cultural evolution
 
+Featured: false
+
+Recommended: false
+
 Author: David Sloan Wilson
 
 Date:   2019

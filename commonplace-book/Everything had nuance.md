@@ -20,7 +20,7 @@ Work Title: Little Fires Everywhere
 
 Work Type: Book
 
-Work Link: https://amzn.to/30rPzMd
+Work Link: https://www.celesteng.com/little-fires-everywhere
 
 Work Id: 9780735224292
 

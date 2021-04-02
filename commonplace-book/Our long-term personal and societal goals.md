@@ -2,6 +2,10 @@ Title:  Our long-term personal and societal goals
 
 Tags:   cultural evolution, mission
 
+Featured: false
+
+Recommended: false
+
 Author: David Sloan Wilson
 
 Date:   2019

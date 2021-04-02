@@ -14,6 +14,8 @@ Work Title: The Management Myth: Why the Experts Keep Getting it Wrong
 
 Work Type: Book
 
+Work Link: https://mwstewart.com/books/the-management-myth/
+
 Work Id: 0393065537
 
 Work Pages: 291

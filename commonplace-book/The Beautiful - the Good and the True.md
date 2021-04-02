@@ -4,6 +4,8 @@ Tags:   integral
 
 Featured: false
 
+Recommended: false
+
 Author: Ken Wilber
 
 Date:   1996

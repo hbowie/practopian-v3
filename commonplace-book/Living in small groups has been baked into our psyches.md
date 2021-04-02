@@ -2,6 +2,10 @@ Title:  Living in small groups has been baked into our psyches
 
 Tags:   connection, evolution, society
 
+Featured: false
+
+Recommended: false
+
 Author: David Sloan Wilson
 
 Date:   2019

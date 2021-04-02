@@ -2,6 +2,10 @@ Title:  A vast repository of information learned and passed down from previous g
 
 Tags:   cultural evolution
 
+Featured: false
+
+Recommended: false
+
 Author: David Sloan Wilson
 
 Date:   2019

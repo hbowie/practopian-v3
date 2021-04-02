@@ -2,6 +2,10 @@ Title:  Accidents of birth
 
 Tags:   equality
 
+Featured: false
+
+Recommended: false
+
 Author: Anu Partanen
 
 Date:   2016

@@ -18,6 +18,8 @@ Work Title: How Democracies Die
 
 Work Type: Book
 
+Work Link: https://en.wikipedia.org/wiki/How_Democracies_Die
+
 Work Id: 1524762946
 
 Work Pages: 220

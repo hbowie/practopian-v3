@@ -2,6 +2,10 @@ Title:  Small groups are a fundamental unit of human social organization
 
 Tags:   evolution, society
 
+Featured: false
+
+Recommended: false
+
 Author: David Sloan Wilson
 
 Date:   2019

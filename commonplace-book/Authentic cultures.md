@@ -20,6 +20,8 @@ Work Title: Sapiens: A Brief History of Humankind
 
 Work Type: Book
 
+Work Link: https://www.ynharari.com/book/sapiens-2/
+
 Work Id: 0062316095
 
 Work Rights: Copyright

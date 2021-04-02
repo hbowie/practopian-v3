@@ -14,7 +14,7 @@ Work Title: The Overstory
 
 Work Type: Book
 
-Work Link: https://amzn.to/2Nnp3xp
+Work Link: http://www.richardpowers.net/the-overstory/
 
 Work Id: 039335668X
 

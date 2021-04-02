@@ -20,6 +20,8 @@ Work Title: Moving to Higher Ground: How Jazz Can Change Your Life
 
 Work Type: Book
 
+Work Link: https://wyntonmarsalis.org/books/title/moving-to-higher-ground-how-jazz-can-change-your-life
+
 Work Id: 1400060788
 
 Work Pages: 38-39

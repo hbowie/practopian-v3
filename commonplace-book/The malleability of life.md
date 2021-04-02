@@ -2,6 +2,10 @@ Title:  The malleability of life
 
 Tags:   evolution, mission
 
+Featured: false
+
+Recommended: false
+
 Author: David Sloan Wilson
 
 Date:   2019

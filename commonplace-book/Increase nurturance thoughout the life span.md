@@ -2,6 +2,10 @@ Title:  Increase nurturance thoughout the life span
 
 Tags:   connection
 
+Featured: false
+
+Recommended: false
+
 Author: David Sloan Wilson
 
 Date:   2019

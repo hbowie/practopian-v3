@@ -4,7 +4,7 @@ Tags:   Murder, TecFiction, humanism
 
 Featured: false
 
-Recommended: true
+Recommended: false
 
 Author: Edmund Crispin
 

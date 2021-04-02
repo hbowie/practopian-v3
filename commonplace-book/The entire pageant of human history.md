@@ -2,6 +2,10 @@ Title:  The entire pageant of human history
 
 Tags:   cultural evolution
 
+Featured: false
+
+Recommended: false
+
 Author: David Sloan Wilson
 
 Date:   2019

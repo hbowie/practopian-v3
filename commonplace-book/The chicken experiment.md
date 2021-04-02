@@ -2,6 +2,10 @@ Title:  The chicken experiment
 
 Tags:   evolution, society
 
+Featured: false
+
+Recommended: false
+
 Author: David Sloan Wilson
 
 Date:   2019

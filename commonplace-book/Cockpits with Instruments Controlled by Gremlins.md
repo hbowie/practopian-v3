@@ -4,7 +4,7 @@ Tags:   Management, Measurement, art, humanism, liberty
 
 Featured: false
 
-Recommended: true
+Recommended: false
 
 Author: Robert D. Austin
 

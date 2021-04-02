@@ -2,6 +2,10 @@ Title:  Nurturance is a master variable
 
 Tags:   connection, society
 
+Featured: false
+
+Recommended: false
+
 Author: David Sloan Wilson
 
 Date:   2019

@@ -20,6 +20,8 @@ Work Title: Shadows of Forgotten Ancestors: A Search for Who We Are
 
 Work Type: Book
 
+Work Link: https://en.wikipedia.org/wiki/Shadows_of_Forgotten_Ancestors_(book)
+
 Work Id: 0345384725
 
 Work Rights: Copyright
