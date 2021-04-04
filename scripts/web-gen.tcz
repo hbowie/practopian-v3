@@ -66,6 +66,8 @@ template	open			/Users/hbowie/Sites/practopian 3/templates/original-recent.html
 template	generate
 template	open			/Users/hbowie/Sites/practopian 3/templates/appreciations-latest.html
 template	generate
+template	open			/Users/hbowie/Sites/practopian 3/templates/rss.xml
+template	generate
 
 <!-- Original content by tag  -->
 
