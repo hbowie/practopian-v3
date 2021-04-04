@@ -15,6 +15,7 @@ Status: Currently very much in work
 + commonplace-book - a Notenik collection providing source for authors and quotes
 + content - a Notenik collection providing source for the site's original content
 + css - cascading style sheets for the site
++ decks - presentation decks on various topics
 + fonts - proprietary fonts used by the site
 + graphics - source files for various graphics found on the site
 + images - image files used on the site
@@ -22,6 +23,7 @@ Status: Currently very much in work
 + includes-gen - chunks of HTML generated first, and then included
 + js - javascript used by the site
 + open-iconic - collection of icons
++ perspective - a Notenik collection providing source for emails sent
 + quotes - web pages featuring quotes from other authors
 + scripts - Notenik scripts used to generate the web pages
 + tags - web pages for tags used to categorize original content and quotes
