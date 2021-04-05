@@ -167,3 +167,184 @@ blockquote:before {
 	margin-left: 1.5em;  
 }
 
+/* Tables */
+table.table-dense {
+  font-family: 'concourse_t3regular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 0.85em;
+}
+
+table.table-dense th {
+	font-family: 'concourse_t4regular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+table.shaded { background-color: #3070AA; margin-top: 1em; }
+
+th.shaded
+{
+	background-color: #D0DFF5;
+	text-align: left;
+	vertical-align: bottom;
+	padding: 4px;
+}
+
+th.shadedCentered
+{
+	background-color: #D0DFF5;
+	text-align: center;
+	vertical-align: bottom;
+	padding: 4px;
+}
+
+td.shaded
+{
+	background-color: #FFFFFF;
+	text-align: left;
+	vertical-align: top;
+	padding: 4px;
+}
+
+td.shadedCentered
+{
+	background-color: #FFFFFF;
+	text-align: center;
+	vertical-align: top;
+	padding: 4px;
+}
+
+/* Table Defaults */
+
+table {
+  border-collapse: collapse;
+  margin-bottom: 1em;
+  font-family: 'concourse-text', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.428571429;
+}
+
+caption
+{
+	border: 0;
+	font-size: 1.2em;
+	font-weight: bold;
+	margin-top: 0.4em;
+	margin-bottom: 0.2em;
+	text-align: center;
+}
+
+th {
+	border: 1px #AABFCE solid;
+	text-align: left;
+	padding: 5px;
+}
+
+td {
+	border: 1px #AABFCE solid;
+	text-align: left;
+	vertical-align: top;
+	padding: 5px;
+}
+
+/* Table settings to flow with surrounding text */
+
+table.flow-with-text {
+  border-collapse: collapse;
+  font-family: 'equity-text', Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  line-height: 1.428571429;
+  color: #000000;
+  background-color: #ffffff;
+}
+
+
+/* Colors */
+
+.infrared
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #EA60B5;
+}
+.magenta
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #D5007D;
+}
+.red
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #CA0018;
+}
+.amber
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #D45507;
+}
+.orange
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #FF8E01;
+}
+.green
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #019B2D;
+}
+.teal
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #00C89A;
+}
+.turqoise
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #006BD8;
+}
+.indigo
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #013388;
+}
+.beige
+{
+	color: #630;
+	font-weight: 500;
+	background-color: #F5F5DC;
+}
+.purple
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #8B00FF;
+}
+.blue
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: blue;
+}
+.yellow
+{
+	color: #000;
+	font-weight: 500;
+	background-color: yellow;
+}
+.turquoise
+{
+	color: #000;
+	font-weight: 500;
+	background-color: #40E0D0;
+}
+.coral
+{
+	color: #000;
+	font-weight: 500;
+	background-color: #FF7F50;
+}
