@@ -211,3 +211,45 @@ sort	set		params
 template	webroot			/Users/hbowie/Sites/practopian 3
 template	open			/Users/hbowie/Sites/practopian 3/templates/home-page.html
 template	generate
+
+<!-- Generate Sitemap.xml -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	set		dirdepth	3
+input	open	dir		/Users/hbowie/Sites/practopian 3/
+filter	add	not equal to	Type	Directory
+filter	add	not equal to	English Name	favicon
+filter	add	not equal to	English Name	README
+filter	add	not equal to	English Name	LICENSE
+filter	add	not equal to	English Name	search
+filter	add	not equal to	English Name	site-index
+filter	add	not equal to	English Name	template
+filter	add	not equal to	folder1	basic
+filter	add	not equal to	path	commonplace-book
+filter	add	not equal to	folder1	content
+filter	add	not equal to	path	css
+filter	add	not equal to	path	decks
+filter	add	not equal to	folder1	fontawesome
+filter	add	not equal to	folder1	fonts
+filter	add	not equal to	folder1	.git
+filter	add	not equal to	folder1	graphics
+filter	add	not equal to	path	images
+filter	add	not equal to	path	includes
+filter	add	not equal to	path	includes-gen
+filter	add	not equal to	path	js
+filter	add	not equal to	folder1	open-iconic
+filter	add	not equal to	path	perspective
+filter	add	not equal to	path	scripts
+filter	add	not equal to	path	templates
+filter	add	not equal to	path	text-bites
+filter	add	not equal to	path	topics
+filter	add	not equal to	file-ext	css
+filter	add	not equal to	file-ext	csv
+filter	add	not equal to	file-ext	ico
+filter	add	not equal to	file-ext	js
+filter	add	not equal to	file-ext	png
+filter	add	not equal to	file-ext	xml
+filter	set		params
+template	open	text		/Users/hbowie/Sites/practopian 3/templates/sitemap.xml
+template	generate

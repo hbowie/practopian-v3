@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+Disallow: /basic/
+Disallow: /cgi-bin/
+Disallow: /commonplace-book/
+Disallow: /content/
+Disallow: /css/
+Disallow: /decks/
+Disallow: /fontawesome/
+Disallow: /fonts/
+Disallow: /graphics/
+Disallow: /icons/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /includes-gen/
+Disallow: /js/
+Disallow: /open-iconic/
+Disallow: /perspective/
+Disallow: /scripts/
+Disallow: /templates/
+Disallow: /text-bites/
+Disallow: /topics/
+
+Sitemap: http://practopian.org/sitemap.xml
