@@ -4,6 +4,8 @@ Tags:   balance, power
 
 Featured: false
 
+Recommended: false
+
 Author: Ross MacDonald
 
 Date:   1962

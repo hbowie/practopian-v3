@@ -2,6 +2,10 @@ Title:  The modern horrors of bureaucracy
 
 Tags:   humanism, systemic
 
+Featured: false
+
+Recommended: false
+
 Author: Amanda Cross
 
 Date:   1964

@@ -2,6 +2,10 @@ Title:  Conscious Improvement for the Masses
 
 Tags:   education, equality
 
+Featured: false
+
+Recommended: false
+
 Author: Edward Luce
 
 Date:   2017

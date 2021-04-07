@@ -870,6 +870,12 @@ let searchQuotes = [
 		content: "In the realm of feeling the productive orientation is expressed in love which is the experience of union with another person with all men and with nature under the condition of retaining one s sense of integrity and independence In the experience of love the paradox happens that two people become one and remain two at the same time Love in this sense is never restricted to one person If I can love only one person and nobody else if my love for one person makes me more alienated and distant from my fellow man I may be attached to this person in any number of ways yet I do not love Erich Fromm humanistic philosopher and psychologist The Sane Society "
 	},
 	{
+		title: "Gradually and then suddenly",
+		date: "1926",
+    url: "quotes/gradually-and-then-suddenly.html",
+		content: " How did you go bankrupt Bill asked Two ways Mike said Gradually and then suddenly Ernest Hemingway American novelist, short story writer, and journalist The Sun Also Rises "
+	},
+	{
 		title: "A First-Rate Intelligence",
 		date: "1936",
     url: "quotes/a-first-rate-intelligence.html",

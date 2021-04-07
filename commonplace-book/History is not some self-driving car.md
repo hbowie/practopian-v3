@@ -2,6 +2,10 @@ Title:  History is not some self-driving car
 
 Tags:   equality, individuals
 
+Featured: false
+
+Recommended: false
+
 Author: Edward Luce
 
 Date:   2017

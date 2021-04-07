@@ -4,6 +4,8 @@ Tags:   education
 
 Featured: false
 
+Recommended: false
+
 Author: David Foster Wallace
 
 Date:   2005

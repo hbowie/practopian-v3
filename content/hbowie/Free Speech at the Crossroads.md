@@ -8,7 +8,9 @@ Status: 9 - Published
 
 Type:   blog
 
-Featured: true
+Featured: false
+
+Greatest Hits: false
 
 Importance: 50
 

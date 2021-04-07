@@ -2,6 +2,10 @@ Title:  Little I recognized as music
 
 Tags:   art
 
+Featured: false
+
+Recommended: false
+
 Author: Joe Boyd
 
 Date:   2006
