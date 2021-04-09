@@ -1,5 +1,7 @@
 Title:  the Author
 
+Page Title: About the Author
+
 Folder: about
 
 Image Name: Herb with Hank

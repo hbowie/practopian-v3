@@ -2,6 +2,10 @@ Title:  Men Fear Thought
 
 Tags:   critical thinking, liberty
 
+Featured: false
+
+Recommended: false
+
 Author: Bertrand Russell
 
 Work Title: unknown

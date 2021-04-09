@@ -1,5 +1,7 @@
 Title:  the Tools
 
+Page Title: About the Tools
+
 Folder: about
 
 Body: 
@@ -18,4 +20,3 @@ I've used the following tools and services to bring you the latest version of th
 + [Notenik](https://www.notenik.net)
 + [Tower](https://www.git-tower.com/)
 + [Transmit](https://www.panic.com/transmit/)
-

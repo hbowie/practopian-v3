@@ -2,6 +2,10 @@ Title:  Man must believe in an open future
 
 Tags:   liberty, mission
 
+Featured: false
+
+Recommended: false
+
 Author: Colin Wilson
 
 Date:   1972

@@ -2,6 +2,10 @@ Title:  Our privileges can be no greater than our obligations
 
 Tags:   individuals, liberty
 
+Featured: false
+
+Recommended: false
+
 Author: John F. Kennedy
 
 Date:   May 18, 1963

@@ -6,11 +6,7 @@
 <head>
 	<meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0" />
-<?if "=$title$=" eq "Follow" ?>
-	<title>=$title$=</title>
-<?else?>
-	<title>About =$title$=</title>
-<?endif?>
+	<title>=$page-title$=</title>
 <?include "../includes/head-links.html" ?>
 </head>
 <body>
@@ -30,11 +26,7 @@
 			<main>
 
 				<h1 class="pr-page-title">
-<?if "=$title$=" eq "Follow" ?>
-					=$title$=
-<?else?>
-					About =$title$=
-<?endif?>
+					=$page-title$=
 				</h1>
 
 <?if "=$imagename$=" ?>

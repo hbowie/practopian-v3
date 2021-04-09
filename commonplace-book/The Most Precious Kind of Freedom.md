@@ -2,6 +2,10 @@ Title:  The Most Precious Kind of Freedom
 
 Tags:   liberty
 
+Featured: false
+
+Recommended: false
+
 Author: David Foster Wallace
 
 Date:   2005

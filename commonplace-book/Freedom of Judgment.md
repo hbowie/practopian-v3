@@ -2,6 +2,10 @@ Title:  Freedom of Judgment
 
 Tags:   liberty, society
 
+Featured: false
+
+Recommended: false
+
 Author: Baruch Spinoza
 
 Date:   1670

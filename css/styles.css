@@ -348,3 +348,10 @@ table.flow-with-text {
 	font-weight: 500;
 	background-color: #FF7F50;
 }
+
+.microblog_time {
+	margin-top: 0.75em;
+	margin-bottom: 1.5em;
+	text-align: right;
+	font-style: italic;
+}

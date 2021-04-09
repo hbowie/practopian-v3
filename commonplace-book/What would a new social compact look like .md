@@ -2,6 +2,10 @@ Title:  What would a new social compact look like?
 
 Tags:   democracy, equality, society
 
+Featured: false
+
+Recommended: false
+
 Author: Edward Luce
 
 Date:   2017

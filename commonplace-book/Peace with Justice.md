@@ -4,6 +4,8 @@ Tags:   equality, liberty, rule of law, society
 
 Featured: false
 
+Recommended: false
+
 Author: Dwight D. Eisenhower
 
 Date:   21 Jan 1957

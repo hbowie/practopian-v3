@@ -4,6 +4,8 @@ Tags:   USA, liberty
 
 Featured: false
 
+Recommended: false
+
 Author: H. L. Mencken
 
 Date:   1919

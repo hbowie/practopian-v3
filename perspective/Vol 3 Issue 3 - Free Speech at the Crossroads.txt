@@ -1,0 +1,270 @@
+Title:  Vol 3 Issue 3 - Free Speech at the Crossroads
+
+Date:   09 Apr 2021
+
+Seq:    3.03
+
+Body: 
+
+<p><img src="https://practopian.org/images/free-speech-at-the-crossroads-crowd-of-demonstrators.jpg" alt="Crowd of Demonstrators" title="Crowd of Demonstrators" width="600" style="width: 100%; max-width: 600px;" /></p>
+
+I've been a bit busy lately, and have regrettably fallen behind on the emails. I've been busy redesigning the [practopian website](https://practopian.org) (yes, again!) and am much happier with the latest version -- I think this one may stick around for a while!
+
+Feel free to share this generously with like-minded friends. If someone forwarded this issue to you, then you can [sign up at no charge to receive your very own copy in the future](http://eepurl.com/c0Smf5).  
+
+
+## Quotation
+
+"But this Nation was not founded solely on the principle of citizens' rights. Equally important, though too often not discussed, is the citizen's responsibility. For our privileges can be no greater than our obligations. The protection of our rights can endure no longer than the performance of our responsibilities. Each can be neglected only at the peril of the other." 
+
+-- John F. Kennedy, 18 May 1963, from the "[90th Anniversary Convocation of Vanderbilt University](https://www.jfklibrary.org/Research/Research-Aids/JFK-Speeches/Vanderbilt-University_19630518.aspx)"
+
+
+## News and Analysis
+
+"'When you’re in the business of maximizing engagement, you’re not interested in truth. You’re not interested in harm, divisiveness, conspiracy. In fact, those are your friends,' says Hany Farid, a professor at the University of California, Berkeley who collaborates with Facebook to understand image- and video-based misinformation on the platform."
+
+-- from "[How Facebook got addicted to spreading misinformation][nsource]" by Karen Hao at the *MIT Technology Review*
+
+[nsource]: https://www.technologyreview.com/2021/03/11/1020600/facebook-responsible-ai-misinformation/
+
+
+## Essay: Free Speech at the Crossroads
+
+No matter where you stand on the political spectrum, questions surrounding free speech are hot-button items these days. Should anyone be free to say anything, about anyone, at any time, and to any audience? If not, who's responsible for moderation, and what are the rules? And at what point does moderation become censorship?
+
+Before we consider these questions directly, let's start with a review of relevant legislation and technology, using our situation in the US as a point of focus. 
+
+### The US Bill of Rights
+
+The [First Amendment to the US Constitution][amend1], ratified in 1791, states:
+
+> Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the government for a redress of grievances.
+
+This language is gracefully brief and concise, but I think there are a number of significant elements worth pointing out. 
+
+1. By implication, the authors had in mind three principal players:
+
+	+ churches;
+	+ ordinary citizens;
+	+ The press, traditionally consisting of publishers and journalists.
+
+2. There is nothing in this amendment offering to shield anyone from the consequences of their speech, or to absolve them from any responsibility for the content of their speech, or to allow them to speak with anonymity. 
+
+3. This amendment only constrains Congress, and perhaps by extension other governmental authorities, from prohibiting free speech. In particular, the amendment does nothing to guarantee any speaker a forum or platform from which to communicate their speech. 
+
+4. The adverb "peaceably" is applied to the people's right to assemble. The *New Oxford American Dictionary* defines this word to mean "inclined to avoid argument or violent conflict."
+
+### The Internet
+
+Now let's fast forward a couple of centuries to the arrival of the Internet and the World Wide Web. These new technologies provided novel mechanisms for authoring and distributing speech, and recent months and years have only seen growing controversy over the issue of roles and responsibilities in this space. 
+
+In particular, I think, there are a couple of areas of particular contention that I'd like to focus on today. 
+
++ The role of publisher;
++ Those who provide forums and meeting spaces for online assembly. 
+
+### Section 230
+
+And now we come to a piece of US legislation known as [Section 230 of the Communications Decency Act][sect230], passed into law in 1996. Again, the language is remarkably concise:
+
+> No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.
+
+When first published, this legislation helped to democratize free speech on the Internet, by allowing ordinary citizens to speak freely without each of us having to host our own website --  instead, "interactive computer services" could host the speech for many users without having to take responsibility for the speech articulated by those users. This greatly expanded access to Internet speech, and has now for many years been viewed as generally a good thing. 
+
+But it's worth noting that at this point in the history of the Internet, an "interactive computer service" was generally imagined to be a provider of *technical* services -- something like America Online (aka AOL), and that this was long before the emergence of social media such as Facebook and Twitter. 
+
+### Today
+
+Fast forward to today, and we see huge corporations hosting vast networks of communication, and providing online venues for global assembly.
+
+Is it time to update our legislation? 
+
+I will argue that it is past time for such a change. 
+
+### The Role of Publisher
+
+Let us consider, first, the role of publisher. How can we distinguish a publisher from a simple provider of an interactive computer service?
+
+I believe that we can and should firmly draw the line in this way:
+
+> A publisher exercises some control over what content a viewer sees, when they see it, how likely they are to see it, and/or how easily they can see it. (And this control would include the display of advertisements that were not solicited by the reader.) 
+
+So let's test this definition a bit. 
+
+1. *Question*: Can it be fairly applied to traditional publishers, including newspapers and magazines, whether published on paper or digitally? 
+
+	*Answer*: Yes, I think we can all see the traditional role of a publisher being included within this definition. 
+	
+2. *Question*: Does it turn all internet service providers into publishers? In other words, is it too broad? 
+
+	*Answer*: No. Companies that provide simple Internet connectivity, without bias, would not fall within this definition. Similarly, a service such as [Micro.blog][mb], that shows no advertising, and that allows users to freely select whom they wish to follow, and that then presents speech from those who are followed, organized into a chronological timeline, without bias, would not be included in this definition. 
+	
+3. *Question*: What sorts of providers would become publishers under this definition, and would that assignment of responsibility be unreasonable? 
+
+	*Answer*: Companies like Facebook and Twitter would become publishers, both because they present users with unsolicited advertising, and because they exercise considerable control over the content that is promoted into users' news feeds. Is this unreasonable? Consider that almost all of the controversy that has erupted over social media has involved the selection and promotion and amplification of items of interest, in order to maximize profits for the provider. The fact that much of this is done by proprietary algorithms created by the provider, rather than traditional flesh-and-blood editors, should in no way absolve these sorts of publishers of responsibility for the content that they promote. 
+	
+4. *Question*: Would such a definition unreasonably infringe on the right to free speech, as provided by our first amendment? 
+
+	*Answer*: Here, perhaps, it is time to refer to [Richard Stallman's classic distinction made when advocating for free software][stallman]: he says that it is free as in free speech, not as in free beer. In other words, our Bill of Rights does not guarantee that speech can be communicated and amplified without cost, or without consequence. 
+	
+### The Role of Host
+
+The other role worthy of reconsideration is that of host for online assemblies. 
+
+I think we can all agree that the "right of the people peacably to assemble" has to be extended in today's world to virtual assemblies: online groups and forums. 
+
+The role of host for such assemblies is nowhere called out, implicitly or explicitly, by our First Amendment. 
+
+But then we come back to that word "peaceably." 
+
+And so it would seem reasonable to require a host for such an assembly, whether held in person or online, to make some effort to ensure that such assembly does nothing to encourage "violent conflict," and to assign some degree of responsibility for any violence conducted or coordinated or explicitly promoted by such an assembly. 
+
+Now if such an assembly occurs spontaneously in the street, or online between people already known to each other, then that assembly may have no host, and so may reasonably be considered entirely outside of this discussion. 
+
+But if such an assembly occurs as part of an online group that has been intentionally created by an individual or an organization, and involves any degree of active or automated moderation, then I contend that we should interpret such a gathering as having a host, and I think it reasonable to assign such a host some responsibility to ensure a peaceable discussion. 
+
+### So Who's Responsible?
+
+Many of the problems we are encountering today, on almost a daily basis, are occurring because of a lack of assigned responsibility. Memes appear mysteriously in our social media feeds and we have no way of knowing where they came from, and what nation's laws might govern them. And we have no way of knowing who, if anyone, is legally responsible for the content we are seeing. 
+
+Section 230 of the Communications Decency Act provided broad absolution for providers of interactive computer services. And to the extent that such a ruling helps to enable broader access to modern communications platforms, it is a good and noble thing. 
+
+However the founders of our country had no intention of making speech free as in "free beer," and they had no intention of allowing speech to be articulated and amplified by actors who could avoid all responsibility for the content they were promoting. 
+
+It is now time for our legislation to catch up with our modern situation, and to clarify definitions and responsibilities for two important classes of actors who should meaningfully be distinguished from simple providers of technical services:
+
++ Publishers
++ Hosts for online assembly
+
+Clarifying these roles and responsibilities in the manner I am suggesting today:
+
++ Could be accomplished through simple and concise and nonpartisan legislation;
++ Would do nothing to challenge either the letter or the spirit of our First Amendment; 
++ Would go a long way towards broadening reasonable responsibility for online speech in a manner that would help to curtail much of the most egregious online behavior that is commonly tolerated today. 
+
+I urge our federal legislators to take up such legislation as quickly and as urgently as is practical, and urge my fellow citizens to petition their legislators for this redress of grievances. 
+
+[amend1]: https://en.wikipedia.org/wiki/United_States_Bill_of_Rights#First_Amendment
+
+[mb]: https://micro.blog
+
+[sect230]: https://en.wikipedia.org/wiki/Section_230
+
+[stallman]: https://en.wikipedia.org/wiki/Free_software
+
+-- Herb Bowie, published at [Practopian.org](https://practopian.org/blog/hbowie/free-speech-at-the-crossroads.html) 
+
+If you liked this piece, feel free to give it a few claps on [Medium.com](https://hbowie.medium.com/whos-responsible-for-free-speech-aa64874e9379).
+ 
+
+## Next Steps...
+
+Thanks for reading!
+
+Feedback is always welcome at [hbowie@practopian.org](mailto:hbowie@practopian.org).
+
+This post, and so much more, can always be found at [Practopian.org](https://practopian.org).
+
+
+## Recent Writings You Might Have Missed
+
+- "[A Resumption of our Humanity](https://practopian.org/blog/hbowie/a-resumption-of-our-humanity.html)"
+
+	Thoughts on the significance of the Biden-Harris inaugural ceremony. 	
+
+- "[The Big Truth](https://practopian.org/blog/hbowie/the-big-truth.html)"
+
+	If we want to end The Big Lie, what undisclosed pieces of truth do we need to bring out into the open in order to achieve a more spacious shared understanding of our common reality? In other words, what is The Big Truth that we have yet to acknowledge?
+	
+- "[The Clown Coup](https://practopian.org/blog/hbowie/the-clown-coup.html)"
+
+	So much of our public attention is devoted to posturing, puffoonery and empty opinionizing that many of our citizens seem to have lost the ability to distinguish this sort of behavior from actions that have real-world consequences.
+	
+- "[Life is Complicated](https://practopian.org/blog/hbowie/life-is-complicated.html)"
+
+	At some point you might suspect that these people are making things sound more complicated than they really are. I mean, you know how these *elites* are: if they didn't make everything so darned complicated, then all these high-priced experts would be out of a job, wouldn't they! But there's a very good reason why life is so complicated, and has to be this way, and it's called... evolution.
+
+- "[Diving Back Into Our American Muddle](https://practopian.org/blog/hbowie/diving-back-into-our-american-muddle.html)"
+
+	As we approach not only the end of the Trump presidency, but the unraveling of the Trump mythos, we have to ask ourselves: what will replace it? Trump came to ascendancy because he was able to tap into the resentments and disaffiliation of almost half of our population. These people will not suddenly feel reaffiliated into something larger than themselves just because Trump has left the building.
+
+- "[Hallelujah](https://practopian.org/appreciation/hallelujah.html)"
+
+	The history of Leonard Cohen's song "Hallelujah" is a fascinating one. Cohen's songs had never really been embraced by the masses, and his first recording of "Hallelujah" in the early eighties was part of an album so lacking in obvious commercial appeal that the president of CBS Records responded to it by saying: "What is this? This isn't pop music. We're not releasing it. This is a disaster."
+
+- "[Social Distancing and our Essential Nature](https://practopian.org/blog/hbowie/social-distancing-and-our-essential-nature.html)"
+
+	As ever more people work from home, and more students attempt remote learning, I'm concerned about a growing chorus of folks who are celebrating this enforced distancing as a welcome wave of the future, and suggesting that what started as a temporary fix should be embraced as a permanent fixture of 21st century society.
+
+- "[Reframing our Debates about Capitalism](https://practopian.org/blog/hbowie/reframing-our-debates-about-capitalism.html)"
+
+	There is a flaw in the reasoning behind our infernal, never-ending, society-splitting debate concerning socialism vs. capitalism, and I want to point it out.
+
+- "[The Era of Environmental Accommodations is Over](https://practopian.org/blog/hbowie/the-era-of-environmental-accommodation-is-over.html)"
+
+	When historians look at the long span of our human history, they try to make sense of it by breaking it up into phases. One might describe our most recent phase as one in which we dealt with environmental issues through a series of accommodations. But it is becoming increasingly clear these minor adjustments are no longer sufficient.  
+	
+- "[The Shocking Truth About Us Liberals](https://practopian.org/blog/hbowie/the-shocking-truth-about-us-liberals.html)"
+
+	Consumers of right-wing media seem to have some very odd ideas about us liberals. Let me set the record straight. 
+	
+- "[Undoing Trumpism](https://practopian.org/blog/hbowie/undoing-trumpism.html)"
+
+	Getting Trump out of office is an important first step. But it won't be enough to put an end to Trumpism. 
+
+- "[Cooperation, Competition and Coercion](https://practopian.org/blog/hbowie/cooperation-competition-and-coercion.html)"
+
+	When we look at the major societal choices facing us today, and the major political battles in front of us, I'm starting to think the primary question is not really whether we want a society that is more cooperative, vs. one that is more competitive, but rather the following: *Are we ready for a society that is less coercive?*
+
+- "[Can the US Become a Truly Egalitarian Society?](https://practopian.org/blog/hbowie/can-the-us-become-a-truly-egalitarian-society.html)"
+
+	As with many of us, I've been thinking deeply lately about the murders of George Floyd, Ahmaud Arbery, Breanna Taylor, and so many other people of color, and wondering how and why these atrocities continue to occur in my country, and what we can do to turn things around.
+
+
+[web]:        https://www.practopian.org/index.html
+[core]:       https://www.practopian.org/core/index.html
+[mission]:    https://www.practopian.org/core/mission.html
+[principles]: https://www.practopian.org/core/principles.html
+[values]:     https://www.practopian.org/core/values.html
+
+[ww]:         https://www.practopian.org/tags/written-word.html
+
+[love]:       https://www.practopian.org/tags/love.html
+[connection]: https://www.practopian.org/tags/connection.html
+[wonder]:     https://www.practopian.org/tags/wonder.html
+
+[humanist]:   https://www.practopian.org/tags/humanism.html
+[science]:    https://www.practopian.org/tags/science.html
+[evolution]:  https://www.practopian.org/tags/evolution.html
+[education]:  https://www.practopian.org/tags/education.html
+[ct]:    https://www.practopian.org/tags/critical-thinking.html
+[st]:         https://www.practopian.org/tags/systemic.html
+ 
+[individuals]: https://www.practopian.org/tags/individuals.html
+[liberty]:    https://www.practopian.org/tags/liberty.html
+[equality]:   https://www.practopian.org/tags/equality.html
+[diversity]:  https://www.practopian.org/tags/diversity.html
+
+[society]:    https://www.practopian.org/tags/society.html
+[governance]: https://www.practopian.org/tags/governance.html
+[democracy]:  https://www.practopian.org/tags/democracy.html
+[law]:        https://www.practopian.org/tags/rule-of-law.html
+[property]:   https://www.practopian.org/tags/property.html
+[parenthood]: https://www.practopian.org/tags/parenthood.html
+[value]:    https://www.practopian.org/tags/value-creation.html
+
+[storytelling]: https://www.practopian.org/tags/stories.html
+
+[culture]:    https://www.practopian.org/tags/cultural-evolution.html
+
+[balance]:    https://www.practopian.org/tags/balance.html
+[imperfections]: https://www.practopian.org/tags/imperfection.html
+[integral]:   https://www.practopian.org/tags/integral.html
+
+[prorg]:      https://www.practopian.org/index.html
+
+[quotations]: https://www.practopian.org/quotes/index.html
+[aw]: https://www.practopian.org/explore/latest-original-content.html
+
+[contact]: https://www.practopian.org/intro/contact.html

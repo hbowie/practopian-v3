@@ -2,6 +2,10 @@ Title:  The only dependable things are humility and looking
 
 Tags:   cultural evolution, science
 
+Featured: false
+
+Recommended: false
+
 Author: Richard Powers
 
 Date:   2018

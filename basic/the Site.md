@@ -1,5 +1,7 @@
 Title:  the Site
 
+Page Title: About the Site
+
 Folder: about
 
 Body: 
@@ -66,4 +68,3 @@ If you'd like to drop me a line about any subject likely to be of mutual interes
 [titles]: essays/by-title.html
 
 [topics]: tags/index.html
-

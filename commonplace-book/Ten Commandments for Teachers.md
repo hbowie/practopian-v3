@@ -2,6 +2,10 @@ Title:  Ten Commandments for Teachers
 
 Tags:   critical thinking, diversity, education, liberty
 
+Featured: false
+
+Recommended: false
+
 Author: Bertrand Russell
 
 Work Title: unknown

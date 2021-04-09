@@ -2,6 +2,10 @@ Title:  To end up here in a pile of bones
 
 Tags:   humanism
 
+Featured: false
+
+Recommended: false
+
 Author: Frank Capra
 
 Date:   1984
