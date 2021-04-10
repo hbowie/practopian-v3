@@ -76,7 +76,7 @@ Whatever means we use, it seems critical that we find a way to reconnect the var
 And we need to understand anew that we are part of a common society, that this society needs to make some reasonable provisions for us all, and that our fates within this endeavor are inextricably woven together.
 
 
-[core]: ../../core/index.html
+[core]: ../../tags/core.html
 
 [doi]: http://www.ushistory.org/declaration/document/
 

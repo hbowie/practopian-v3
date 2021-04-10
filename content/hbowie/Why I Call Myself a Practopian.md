@@ -76,7 +76,7 @@ I hope you find all of this enlightening and useful. And I even dare to hope tha
 
 
 [web]:        ../../index.html
-[core]:       ../../core/index.html
+[core]:       ../../tags/core.html
 [mission]:    ../../tags/mission.html
 [principles]: ../../core/principles.html
 [values]:     ../../core/values.html

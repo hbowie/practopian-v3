@@ -140,7 +140,7 @@ So where does all this leave us? Here are some key points worth remembering as w
 
 [atlantic]:  https://www.theatlantic.com/health/archive/2018/02/gun-violence-public-health/553430/
 [balance]:   https://www.Practopian.org/tags/balance.html
-[core]:      https://www.Practopian.org/core/index.html 
+[core]:      https://www.Practopian.org/tags/core.html 
 [culture]:   https://www.Practopian.org/tags/cultural-evolution.html
 [diversity]: https://www.Practopian.org/tags/diversity.html
 [finality]: https://www.theatlantic.com/politics/archive/2018/02/what-i-saw-treating-the-victims-from-parkland-should-change-the-debate-on-guns/553937/
