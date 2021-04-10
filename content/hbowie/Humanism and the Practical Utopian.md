@@ -8,6 +8,10 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
 Importance: 10
 
 Date:   28 Jun 2018
@@ -177,5 +181,3 @@ Since Humanists position themselves as offering an alternative to traditional re
 [wvs]: http://www.worldvaluessurvey.org/WVSContents.jsp
 
 [written word]: http://www.Practopian.org/tags/written-word.html
-
-
