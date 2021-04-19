@@ -8,6 +8,10 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
 Date:   7 Jan 2019
 
 Index:  Abrams, Frank W.; Harari, Yuval Noah; Lincoln, Abraham; Luce, Edward; O'Reilly, Tim; Reuther, Walter; Varoufakis, Yanis; capitalism; democracy; equality; feudalism; globalization; labor; surplus; work; 

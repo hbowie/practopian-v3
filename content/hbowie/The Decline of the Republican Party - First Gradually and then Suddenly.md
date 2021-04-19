@@ -8,9 +8,9 @@ Status: 9 - Published
 
 Type:   blog
 
-Featured: true
+Featured: false
 
-Greatest Hits: false
+Greatest Hits: true
 
 Importance: 60
 
@@ -31,6 +31,7 @@ Image Credit Link: https://www.istockphoto.com/photo/stats-sudden-collapse-gm472
 Teaser: 
 
 In line with the famous quote from Ernest Hemingway, the Republican Party seems to see their fortunes on the decline -- gradually for now -- but perhaps suddenly before much longer. 
+
 
 Body: 
 

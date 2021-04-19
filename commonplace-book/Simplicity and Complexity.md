@@ -2,6 +2,10 @@ Title:  Simplicity and Complexity
 
 Tags:   science
 
+Featured: false
+
+Recommended: false
+
 Author: Albert Einstein
 
 Work Title: unknown

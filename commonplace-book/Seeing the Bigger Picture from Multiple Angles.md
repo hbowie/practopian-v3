@@ -2,6 +2,10 @@ Title:  Seeing the Bigger Picture from Multiple Angles
 
 Tags:   Business, critical thinking, diversity, integral
 
+Featured: false
+
+Recommended: false
+
 Author: Jeff Bezos and Jason Fried
 
 Date:   Sep 21, 2015

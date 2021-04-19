@@ -2,6 +2,10 @@ Title:  Discoveries and Inventions
 
 Tags:   science
 
+Featured: false
+
+Recommended: false
+
 Author: Abraham Lincoln
 
 Date:   1858

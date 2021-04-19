@@ -2,7 +2,9 @@ Title:  The productive orientation is expressed in love
 
 Tags:   love
 
-Featured: true
+Featured: false
+
+Recommended: false
 
 Author: Erich Fromm
 

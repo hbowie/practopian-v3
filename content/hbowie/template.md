@@ -10,11 +10,11 @@ Timestamp:
 
 Status: 0 - Idea; 4 - In Work; 5 - Held; 6 - Completed; 8 - Canceled; 9 - Published;  
 
-Type: pick-from: appreciation, blog
+Type: pick-from: appreciation, blog 
 
-Featured: <bool> 
+Featured: <boolean> 
 
-Greatest Hits: <bool>
+Greatest Hits: <boolean> 
 
 Importance: <seq> 
 

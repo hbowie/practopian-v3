@@ -60,6 +60,12 @@ let searchQuotes = [
 		content: "Without work all life goes rotten But when work is soulless life stifles and dies Albert Camus  unknown "
 	},
 	{
+		title: "The Eternal Struggle for Human Rights",
+		date: "20 Feb 1954",
+    url: "quotes/the-eternal-struggle-for-human-rights.html",
+		content: "The existence and validity of human rights are not written in the stars The ideals concerning the conduct of men toward each other and the desirable structure of the community have been conceived and taught by enlightened individuals in the course of history Those ideals and convictions which resulted from historical experience from the craving for beauty and harmony have been readily accepted in theory by man and at all times have been trampled upon by the same people under the pressure of their animal instincts A large part of history is therefore replete with the struggle for those human rights an eternal struggle in which a final victory can never be won But to tire in that struggle would mean the ruin of society Albert Einstein  Address to the Chicago Decalogue Society "
+	},
+	{
 		title: "A Man of Value",
 		date: "2 May 1955",
     url: "quotes/a-man-of-value.html",

@@ -8,6 +8,10 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
 Date:   27 Feb 2018
 
 Index:  integral; guns; Florida; Stoneman Douglas High School; 

@@ -8,6 +8,10 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
 Date:   2 Jul 2018
 
 Index:  Amazon; Capra, Frank; Churchill, Winston; Cooper, Gary; Ford; Lincoln, Abraham; Meet John Doe; Reuther, Walter; Seattle; balance; business; cities; community; competition; consumers; democracy; economics; globalization; governance; labor; robots; 

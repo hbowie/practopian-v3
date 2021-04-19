@@ -2,7 +2,9 @@ Title:  Small and Obscure Deeds
 
 Tags:   individuals, progress
 
-Featured: false
+Featured: true
+
+Recommended: false
 
 Author: Albert Schweitzer
 
