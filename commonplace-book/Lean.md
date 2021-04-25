@@ -1,6 +1,10 @@
 Title:  Lean
 
-Tags:   Lean, value creation
+Tags:   value creation
+
+Featured: false
+
+Recommended: false
 
 Author: Jim Womack
 

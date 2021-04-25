@@ -1,6 +1,10 @@
 Title:  ESPN president meets Steve Jobs
 
-Tags:   Apple, critical thinking, equality
+Tags:   critical thinking, equality
+
+Featured: false
+
+Recommended: false
 
 Author: Tom Shales and James Andrew Miller
 

@@ -1,6 +1,10 @@
 Title:  A Work Ethic Gone Mad
 
-Tags:   Business, balance, humanism
+Tags:   balance, humanism, mission, value creation
+
+Featured: false
+
+Recommended: false
 
 Author: Matthew Stewart
 

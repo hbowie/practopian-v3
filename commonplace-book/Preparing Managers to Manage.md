@@ -1,6 +1,6 @@
 Title:  Preparing Managers to Manage
 
-Tags:   Business, education
+Tags:   education, governance
 
 Featured: false
 

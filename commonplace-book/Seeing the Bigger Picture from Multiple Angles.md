@@ -1,6 +1,6 @@
 Title:  Seeing the Bigger Picture from Multiple Angles
 
-Tags:   Business, critical thinking, diversity, integral
+Tags:   critical thinking, diversity, integral
 
 Featured: false
 

@@ -1,6 +1,10 @@
 Title:  Good Management is Like The Beatles
 
-Tags:   Apple, Management, connection, equality
+Tags:   connection, equality, governance
+
+Featured: false
+
+Recommended: false
 
 Author: Steve Jobs
 

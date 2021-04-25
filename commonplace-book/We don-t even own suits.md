@@ -1,6 +1,10 @@
 Title:  We don't even own suits
 
-Tags:   Apple, critical thinking, diversity, liberty, systemic
+Tags:   critical thinking, diversity, liberty, systemic
+
+Featured: false
+
+Recommended: false
 
 Author: Apple
 

@@ -789,7 +789,7 @@ let searchQuotes = [
 		title: "The Inner Life of the Artist",
 		date: "1953",
     url: "quotes/the-inner-life-of-the-artist.html",
-		content: "Great art is the outward expression of an inner life in the artist and this inner life will result in his personal vision of the world Edward Hopper  Statements by Four Artists "
+		content: "Great art is the outward expression of an inner life in the artist and this inner life will result in his personal vision of the world Edward Hopper American realist painter and printmaker Statements by Four Artists "
 	},
 	{
 		title: "Capitalism works best in societies where there are high levels of trust",
@@ -1164,6 +1164,12 @@ let searchQuotes = [
 		content: "So strong is this propensity of mankind to fall into mutual animosities that where no substantial occasion presents itself the most frivolous and fanciful distrinctions have been sufficient to kindle their unfriendly passions and excite their most violent conflicts James Madison American statesman, diplomat, expansionist, philosopher, and Founding Father who served as the fourth president of the United States The Federalist no. 10 "
 	},
 	{
+		title: "You have to create more than you consume",
+		date: "15 Apr 2021",
+    url: "quotes/you-have-to-create-more-than-you-consume.html",
+		content: "If you want to be successful in business in life actually you have to create more than you consume Your goal should be to create value for everyone you interact with Any business that doesn t create value for those it touches even if it appears successful on the surface isn t long for this world It s on the way out Jeff Bezos American internet entrepreneur, industrialist, media proprietor, and investor 2020 Letter to Shareholders "
+	},
+	{
 		title: "Seeing the Bigger Picture from Multiple Angles",
 		date: "Sep 21, 2015",
     url: "quotes/seeing-the-bigger-picture-from-multiple-angles.html",
@@ -1414,6 +1420,12 @@ let searchQuotes = [
 		date: "07/09/2008",
     url: "quotes/the-biological-evolution-of-homo-sapiens-was-usurped-by-socio-cultural-evolution.html",
 		content: "Many biologists and social scientists have noted that with the development of human culture the biological evolution of Homo sapiens was usurped by socio cultural evolution The construction of artificial environments and social structures created new criteria for selection and biological fitness was replaced by cultural fitness which is often different for different cultures and is generally not measured by the number of offspring Moreover the mechanism of socio cultural evolution is different from the model of biological evolution that was proposed by Charles Darwin 1809 1882 and refined by many others In essence socio cultural evolution is Lamarckian in nature it is an example of acquired inheritance as described by the French naturalist Jean Baptiste Lamarck 1744 1829 because humans are able to pass on cultural achievements to the next generation Jürgen Klüver   "
+	},
+	{
+		title: "Economics is essentially a question of design",
+		date: "",
+    url: "quotes/economics-is-essentially-a-question-of-design.html",
+		content: "Economics it turns out is not a matter of discovering laws it is essentially a question of design Kate Raworth  Doughnut Economics: 7 Ways to Think Like a 21st Century Economist "
 	},
 	{
 		title: "Managing our planetary household",

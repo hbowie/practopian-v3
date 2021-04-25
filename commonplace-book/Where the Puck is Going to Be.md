@@ -1,6 +1,10 @@
 Title:  Where the Puck is Going to Be
 
-Tags:   Business, critical thinking, progress
+Tags:   critical thinking, progress, technology
+
+Featured: false
+
+Recommended: false
 
 Author: Steve Jobs
 

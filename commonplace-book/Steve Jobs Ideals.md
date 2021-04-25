@@ -1,6 +1,10 @@
 Title:  Steve Jobs Ideals
 
-Tags:   Apple, Business, practical, progress
+Tags:   practical, progress
+
+Featured: false
+
+Recommended: false
 
 Author: Ron Johnson
 

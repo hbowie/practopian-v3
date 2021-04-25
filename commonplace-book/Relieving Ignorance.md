@@ -1,6 +1,10 @@
 Title:  Relieving Ignorance
 
-Tags:   Business, education
+Tags:   education
+
+Featured: false
+
+Recommended: false
 
 Author: Matthew Stewart
 

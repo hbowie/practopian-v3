@@ -2,6 +2,10 @@ Title:  The Mysterious
 
 Tags:   art, religion, science, wonder
 
+Featured: false
+
+Recommended: false
+
 Author: Albert Einstein
 
 Date:   1949

@@ -1,6 +1,10 @@
 Title:  We have wonderful arguments
 
-Tags:   Business, critical thinking, equality
+Tags:   critical thinking, design, equality
+
+Featured: false
+
+Recommended: false
 
 Author: Steve Jobs
 

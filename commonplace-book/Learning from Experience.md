@@ -1,6 +1,6 @@
 Title:  Learning from Experience
 
-Tags:   Business, critical thinking, education, systemic
+Tags:   critical thinking, education, systemic
 
 Featured: false
 

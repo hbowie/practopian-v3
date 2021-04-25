@@ -1,6 +1,10 @@
 Title:  Freedom of Expression in Business
 
-Tags:   Business, connection, liberty
+Tags:   connection, liberty
+
+Featured: false
+
+Recommended: false
 
 Author: Tom Peters and Robert H. Waterman Jr.
 
