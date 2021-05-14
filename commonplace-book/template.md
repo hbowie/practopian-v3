@@ -2,7 +2,7 @@ Title: <title>
 
 Featured: <boolean> 
 
-Recommended: <boolean>
+Recommended: <boolean> 
 
 Author: <author> 
 
