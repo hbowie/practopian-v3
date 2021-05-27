@@ -2,6 +2,10 @@ Title:  Nirvana Antipattern
 
 Tags:   critical thinking
 
+Featured: false
+
+Recommended: false
+
 Author: William J. Brown, Hays W. McCormick III and Scott W. Thomas
 
 Date:   1999

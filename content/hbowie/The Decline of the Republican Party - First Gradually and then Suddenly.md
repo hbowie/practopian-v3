@@ -28,6 +28,10 @@ Image Credit: iStock / alphaspirit
 
 Image Credit Link: https://www.istockphoto.com/photo/stats-sudden-collapse-gm472236014-63252833
 
+Medium Link: https://hbowie.medium.com/the-decline-of-the-republican-party-first-gradually-and-then-suddenly-5aa0c8784898
+
+Substack Link: https://practopian.substack.com/p/republican-party-decline
+
 Teaser: 
 
 In line with the famous quote from Ernest Hemingway, the Republican Party seems to see their fortunes on the decline -- gradually for now -- but perhaps suddenly before much longer. 

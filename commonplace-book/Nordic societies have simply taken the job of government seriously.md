@@ -2,6 +2,10 @@ Title:  Nordic societies have simply taken the job of government seriously
 
 Tags:   governance
 
+Featured: false
+
+Recommended: false
+
 Author: Anu Partanen
 
 Date:   2016

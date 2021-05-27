@@ -46,6 +46,8 @@ template	open			/Users/hbowie/Sites/practopian 3/templates/search-original.js
 template	generate
 template	open			/Users/hbowie/Sites/practopian 3/templates/greatest-hits.html
 template	generate
+template	open			/Users/hbowie/Sites/practopian 3/templates/cross-post.html
+template	generate
 
 <!-- Generate latest original content  -->
 
@@ -67,6 +69,8 @@ template	generate
 template	open			/Users/hbowie/Sites/practopian 3/templates/appreciations-latest.html
 template	generate
 template	open			/Users/hbowie/Sites/practopian 3/templates/rss.xml
+template	generate
+template	open			/Users/hbowie/Sites/practopian 3/templates/cross-post-index.html
 template	generate
 
 <!-- Original content by tag  -->
@@ -253,3 +257,7 @@ filter	add	not equal to	file-ext	xml
 filter	set		params
 template	open	text		/Users/hbowie/Sites/practopian 3/templates/sitemap.xml
 template	generate
+
+<!-- Now Let's See What We've Got -->
+
+browse	open	url		http://localhost/~hbowie/practopian%203/

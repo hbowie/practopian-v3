@@ -34,6 +34,10 @@ Image Credit:
 
 Image Credit Link: <link> 
 
+Medium Link: <link>
+
+Substack Link: <link>
+
 Teaser: <longtext> 
 
 Body:  

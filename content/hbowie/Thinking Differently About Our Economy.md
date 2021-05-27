@@ -8,7 +8,7 @@ Status: 9 - Published
 
 Type:   blog
 
-Featured: true
+Featured: false
 
 Greatest Hits: false
 
@@ -23,6 +23,10 @@ Image Name: diagram
 Image Alt: Diagram including consumers, capital, community and labor
 
 Image Credit: Herb Bowie
+
+Medium Link: https://hbowie.medium.com/thinking-differently-about-our-economy-1767884eb86e
+
+Substack Link: https://practopian.substack.com/p/thinking-differently-about-our-economy
 
 Teaser: 
 

@@ -2,6 +2,10 @@ Title:  Living with the strains of complexity
 
 Tags:   governance
 
+Featured: false
+
+Recommended: false
+
 Author: Daniel Patrick Moynihan
 
 Date:   1972

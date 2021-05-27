@@ -4,6 +4,8 @@ Tags:   society
 
 Featured: false
 
+Recommended: false
+
 Author: Aristotle
 
 Date:   350 BC

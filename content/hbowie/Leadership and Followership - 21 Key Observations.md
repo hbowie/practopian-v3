@@ -8,7 +8,7 @@ Status: 9 - Published
 
 Type:   blog
 
-Featured: true
+Featured: false
 
 Greatest Hits: false
 
@@ -27,6 +27,10 @@ Image Alt: Red King and line of black pawns
 Image Credit: iStock / Dilok Klaisataporn
 
 Image Credit Link: https://www.istockphoto.com/photo/red-king-chess-with-others-black-pawn-chess-for-leader-and-different-thinking-gm1200123261-343642543
+
+Medium Link: https://hbowie.medium.com/leadership-and-followership-21-key-observations-ce23f0728650
+
+Substack Link: https://practopian.substack.com/p/leadership-and-followership
 
 Teaser: 
 

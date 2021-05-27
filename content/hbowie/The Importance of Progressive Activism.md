@@ -8,7 +8,7 @@ Status: 9 - Published
 
 Type:   blog
 
-Featured: true
+Featured: false
 
 Greatest Hits: false
 
@@ -25,6 +25,10 @@ Image Alt: faces of many hues, all looking to the right
 Image Credit: iStock / wildpixel
 
 Image Credit Link: https://www.istockphoto.com/photo/black-history-gm1208283946-349186540
+
+Medium Link: https://hbowie.medium.com/the-importance-of-progressive-activism-d38122b20435
+
+Substack Link: https://practopian.substack.com/p/the-importance-of-progressive-activism
 
 Teaser: 
 

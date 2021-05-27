@@ -1,0 +1,982 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>Cross Posts</title>
+    <!-- Favicons -->
+    <link rel="icon" href="../favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="../favicon.png" type="image/png" />
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="../css/bootstrap.min.css" type="text/css" />
+    <!-- Fonts -->
+    <link rel="stylesheet" href="../fonts/concourse_t3.css" type="text/css" />
+    <link rel="stylesheet" href="../fonts/stylesheet.css" type="text/css" />
+    <!-- Custom styles for Practopians -->
+    <link rel="stylesheet" href="../css/styles.css" />
+    <!-- Icons -->
+    <link rel="stylesheet" href="../open-iconic/font/css/open-iconic-bootstrap.min.css" >
+
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+	<div class="container-md">
+
+    <a class="navbar-brand" href="../index.html">
+    	<img width="32" height="32" alt="logo" src="../images/logo_sq128.png">
+    </a>
+
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#main-navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="main-navigation">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../index.html">
+								Home
+							</a>
+					</li>
+
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../recent.html">
+								Recent
+							</a>
+					</li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-topics" data-bs-toggle="dropdown" aria-expanded="false">
+            	Topics
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-topics">
+              <li><a class="dropdown-item pr-nav-item" href="../tags/index.html">
+              	Topic Index
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../tags/core.html">
+              	Core Beliefs
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../tags/missing.html">
+              	"Missing" Topics
+              </a></li>
+            </ul>
+          </li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-essays" data-bs-toggle="dropdown" aria-expanded="false">
+            	Essays
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-essays">
+              <li><a class="dropdown-item pr-nav-item" href="../blog/hbowie/index.html">
+              	Essays by Title
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../blog/hbowie/latest.html">
+              	Latest Essays
+              </a></li>
+            </ul>
+          </li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-appreciations" data-bs-toggle="dropdown" aria-expanded="false">
+            	Appreciations
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-appreciations">
+              <li><a class="dropdown-item pr-nav-item" href="../appreciation/index.html">
+              	Appreciations by Title
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../appreciation/latest.html">
+              	Latest Appreciations
+              </a></li>
+            </ul>
+          </li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-quotes" data-bs-toggle="dropdown" aria-expanded="false">
+            	Quotes
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-quotes">
+              <li><a class="dropdown-item pr-nav-item" href="../authors/index.html">
+              	Authors
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../quotes/latest.html">
+              	Latest Quotes
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../quotes/random.html">
+              	Random Quote
+              </a></li>
+            </ul>
+          </li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-find" data-bs-toggle="dropdown" aria-expanded="false">
+            	Find
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-find">
+              <li><a class="dropdown-item pr-nav-item" href="../search.html">
+              	Search
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../site-index.html">
+              	Site Index
+              </a></li>
+            </ul>
+          </li>
+
+          <li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-about" data-bs-toggle="dropdown" aria-expanded="false">
+            	About
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-about">
+              <li><a class="dropdown-item pr-nav-item" href="../about/the-author.html">
+              	About the Author
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../about/the-site.html">
+              	About the Site
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../about/the-tools.html">
+              	About the Tools
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../about/micro-blogging.html">
+              	My Micro Blog
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../about/follow.html">
+              	Follow
+              </a></li>
+            </ul>
+          </li>
+
+        </ul>
+    </div> <!-- /#main-navigation -->
+
+  </div> <!-- /.container -->
+
+</nav>
+
+<div class="container">
+
+	<div class="row">
+
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-10 col-lg-8 col-xl-6">
+
+			<main>
+
+				<h1 class="pr-page-title">Cross Posts</h1>
+
+				<div class="pr-content">
+
+					<p>Practopian posts appear right here on Practopian.org, and are also cross-posted to <a href="https://hbowie.medium.com">Medium</a> and to <a href="https://practopian.substack.com">Substack</a>. Please feel free to read and follow on your preferred site. </p>
+
+					<p>Follow a link below to find multiple reading options for each of my latest posts. </p>
+
+					<ul>
+						<li>
+							<a href="some-hard-won-wisdom-concerning-cults.html">
+								Some Hard-Won Wisdom Concerning Cults
+							</a>
+							&middot;
+							<em>
+								27 May 2021
+							</em>
+						</li>
+						<li>
+							<a href="where-exactly-are-the-republicans-headed.html">
+								Where, Exactly, Are the Republicans Headed?
+							</a>
+							&middot;
+							<em>
+								16 May 2021
+							</em>
+						</li>
+						<li>
+							<a href="leadership-and-followership-21-key-observations.html">
+								Leadership and Followership: 21 Key Observations
+							</a>
+							&middot;
+							<em>
+								06 May 2021
+							</em>
+						</li>
+						<li>
+							<a href="thinking-differently-about-our-economy.html">
+								Thinking Differently About Our Economy
+							</a>
+							&middot;
+							<em>
+								24 Apr 2021
+							</em>
+						</li>
+						<li>
+							<a href="the-importance-of-progressive-activism.html">
+								The Importance of Progressive Activism
+							</a>
+							&middot;
+							<em>
+								19 Apr 2021
+							</em>
+						</li>
+						<li>
+							<a href="the-decline-of-the-republican-party-first-gradually-and-then-suddenly.html">
+								The Decline of the Republican Party - First Gradually and then Suddenly
+							</a>
+							&middot;
+							<em>
+								07 Apr 2021
+							</em>
+						</li>
+						<li>
+							<a href="free-speech-at-the-crossroads.html">
+								Free Speech at the Crossroads
+							</a>
+							&middot;
+							<em>
+								17 Feb 2021
+							</em>
+						</li>
+						<li>
+							<a href="a-resumption-of-our-humanity.html">
+								A Resumption of our Humanity
+							</a>
+							&middot;
+							<em>
+								21 Jan 2021
+							</em>
+						</li>
+						<li>
+							<a href="the-big-truth.html">
+								The Big Truth
+							</a>
+							&middot;
+							<em>
+								17 Jan 2021
+							</em>
+						</li>
+						<li>
+							<a href="the-clown-coup.html">
+								The Clown Coup
+							</a>
+							&middot;
+							<em>
+								08 Jan 2021
+							</em>
+						</li>
+						<li>
+							<a href="life-is-complicated.html">
+								Life is Complicated
+							</a>
+							&middot;
+							<em>
+								26 Dec 2020
+							</em>
+						</li>
+						<li>
+							<a href="diving-back-into-our-american-muddle.html">
+								Diving Back Into Our American Muddle
+							</a>
+							&middot;
+							<em>
+								21 Nov 2020
+							</em>
+						</li>
+						<li>
+							<a href="hallelujah.html">
+								Hallelujah
+							</a>
+							&middot;
+							<em>
+								29 Oct 2020
+							</em>
+						</li>
+						<li>
+							<a href="reframing-our-debates-about-capitalism.html">
+								Reframing our Debates about Capitalism
+							</a>
+							&middot;
+							<em>
+								12 Oct 2020
+							</em>
+						</li>
+						<li>
+							<a href="the-era-of-environmental-accommodation-is-over.html">
+								The Era of Environmental Accommodation is Over
+							</a>
+							&middot;
+							<em>
+								14 Sep 2020
+							</em>
+						</li>
+						<li>
+							<a href="the-shocking-truth-about-us-liberals.html">
+								The Shocking Truth About Us Liberals
+							</a>
+							&middot;
+							<em>
+								06 Sep 2020
+							</em>
+						</li>
+						<li>
+							<a href="undoing-trumpism.html">
+								Undoing Trumpism
+							</a>
+							&middot;
+							<em>
+								04 Aug 2020
+							</em>
+						</li>
+						<li>
+							<a href="cooperation-competition-and-coercion.html">
+								Cooperation, Competition and Coercion
+							</a>
+							&middot;
+							<em>
+								17 Jul 2020
+							</em>
+						</li>
+						<li>
+							<a href="the-progressive-path-forward-a-12-state-strategy.html">
+								The Progressive Path Forward - A 12-State Strategy
+							</a>
+							&middot;
+							<em>
+								29 Jun 2020
+							</em>
+						</li>
+						<li>
+							<a href="can-the-us-become-a-truly-egalitarian-society.html">
+								Can the US Become a Truly Egalitarian Society?
+							</a>
+							&middot;
+							<em>
+								15 Jun 2020
+							</em>
+						</li>
+						<li>
+							<a href="democracy.html">
+								Democracy
+							</a>
+							&middot;
+							<em>
+								03 Jun 2020
+							</em>
+						</li>
+						<li>
+							<a href="8-big-lessons-we-can-learn-from-the-pandemic.html">
+								8 Big Lessons We Can Learn from the Pandemic
+							</a>
+							&middot;
+							<em>
+								10 May 2020
+							</em>
+						</li>
+						<li>
+							<a href="why-do-we-call-it-capitalism.html">
+								Why Do We Call It Capitalism?
+							</a>
+							&middot;
+							<em>
+								16 Apr 2020
+							</em>
+						</li>
+						<li>
+							<a href="core-design-principles-for-teams.html">
+								Core Design Principles for Teams
+							</a>
+							&middot;
+							<em>
+								09 Apr 2020
+							</em>
+						</li>
+						<li>
+							<a href="the-weight.html">
+								The Weight
+							</a>
+							&middot;
+							<em>
+								06 Apr 2020
+							</em>
+						</li>
+						<li>
+							<a href="patterns-of-human-cooperation.html">
+								Patterns of Human Cooperation
+							</a>
+							&middot;
+							<em>
+								27 Mar 2020
+							</em>
+						</li>
+						<li>
+							<a href="understanding-human-history.html">
+								Understanding Human History
+							</a>
+							&middot;
+							<em>
+								24 Mar 2020
+							</em>
+						</li>
+						<li>
+							<a href="why-i-use-markdown-and-why-you-should-too.html">
+								Why I Use Markdown (And Why You Should Too)
+							</a>
+							&middot;
+							<em>
+								25 Feb 2020
+							</em>
+						</li>
+						<li>
+							<a href="what-trump-gets-right.html">
+								What Trump Gets Right
+							</a>
+							&middot;
+							<em>
+								11 Feb 2020
+							</em>
+						</li>
+						<li>
+							<a href="dethroning-the-false-god-of-user-experience-design.html">
+								Dethroning the False God of User Experience Design
+							</a>
+							&middot;
+							<em>
+								27 Dec 2019
+							</em>
+						</li>
+						<li>
+							<a href="my-prayer-for-a-more-integral-new-year.html">
+								My Prayer for a More Integral New Year
+							</a>
+							&middot;
+							<em>
+								17 Dec 2019
+							</em>
+						</li>
+						<li>
+							<a href="the-personal-vs-the-institutional.html">
+								The Personal vs. The Institutional
+							</a>
+							&middot;
+							<em>
+								01 Nov 2019
+							</em>
+						</li>
+						<li>
+							<a href="the-system-is-working-very-well-thank-you.html">
+								The System is Working Very Well, Thank You
+							</a>
+							&middot;
+							<em>
+								25 Sep 2019
+							</em>
+						</li>
+						<li>
+							<a href="rejiggering-our-religion.html">
+								Rejiggering Our Religion
+							</a>
+							&middot;
+							<em>
+								13 Aug 2019
+							</em>
+						</li>
+						<li>
+							<a href="apollo-11-2019-film.html">
+								Apollo 11 - 2019 film
+							</a>
+							&middot;
+							<em>
+								20 Jul 2019
+							</em>
+						</li>
+						<li>
+							<a href="the-dangers-of-political-nostalgia.html">
+								The Dangers of Political Nostalgia
+							</a>
+							&middot;
+							<em>
+								25 Jun 2019
+							</em>
+						</li>
+						<li>
+							<a href="the-progressive-problem.html">
+								The Progressive Problem
+							</a>
+							&middot;
+							<em>
+								10 Jun 2019
+							</em>
+						</li>
+						<li>
+							<a href="how-to-fix-big-tech.html">
+								How to Fix Big Tech
+							</a>
+							&middot;
+							<em>
+								22 May 2019
+							</em>
+						</li>
+						<li>
+							<a href="building-a-case-for-the-detective-story.html">
+								Building a Case for the Detective Story
+							</a>
+							&middot;
+							<em>
+								07 May 2019
+							</em>
+						</li>
+						<li>
+							<a href="the-challenge-for-democrats-playing-the-long-game.html">
+								The Challenge for Democrats: Playing the Long Game
+							</a>
+							&middot;
+							<em>
+								25 Apr 2019
+							</em>
+						</li>
+						<li>
+							<a href="the-devastating-tragedy-of-our-vanishing-middle-class.html">
+								The Devastating Tragedy of our Vanishing Middle Class
+							</a>
+							&middot;
+							<em>
+								15 Apr 2019
+							</em>
+						</li>
+						<li>
+							<a href="paul-thorn-and-his-800-pound-jesus.html">
+								Paul Thorn and his 800 Pound Jesus
+							</a>
+							&middot;
+							<em>
+								26 Mar 2019
+							</em>
+						</li>
+						<li>
+							<a href="our-three-human-approaches-to-dealing-with-problems.html">
+								Our Three Human Approaches to Dealing with Problems
+							</a>
+							&middot;
+							<em>
+								05 Mar 2019
+							</em>
+						</li>
+						<li>
+							<a href="citizen-kane-vs-citizen-bailey.html">
+								Citizen Kane vs. Citizen Bailey
+							</a>
+							&middot;
+							<em>
+								04 Mar 2019
+							</em>
+						</li>
+						<li>
+							<a href="science.html">
+								Science
+							</a>
+							&middot;
+							<em>
+								04 Mar 2019
+							</em>
+						</li>
+						<li>
+							<a href="is-there-any-middle-left.html">
+								Is There Any Middle Left?
+							</a>
+							&middot;
+							<em>
+								18 Feb 2019
+							</em>
+						</li>
+						<li>
+							<a href="rebuilding-trust-in-our-large-institutions.html">
+								Rebuilding Trust in Our Large Institutions
+							</a>
+							&middot;
+							<em>
+								11 Feb 2019
+							</em>
+						</li>
+						<li>
+							<a href="our-american-class-system.html">
+								Our American Class System
+							</a>
+							&middot;
+							<em>
+								27 Jan 2019
+							</em>
+						</li>
+						<li>
+							<a href="more-love.html">
+								More Love
+							</a>
+							&middot;
+							<em>
+								26 Jan 2019
+							</em>
+						</li>
+						<li>
+							<a href="the-truth-about-capitalism.html">
+								The Truth About Capitalism
+							</a>
+							&middot;
+							<em>
+								07 Jan 2019
+							</em>
+						</li>
+						<li>
+							<a href="have-we-passed-the-point-of-maximum-useful-tech.html">
+								Have We Passed The Point of Maximum Useful Tech?
+							</a>
+							&middot;
+							<em>
+								17 Dec 2018
+							</em>
+						</li>
+						<li>
+							<a href="the-value-of-individuals.html">
+								The Value of Individuals
+							</a>
+							&middot;
+							<em>
+								10 Dec 2018
+							</em>
+						</li>
+						<li>
+							<a href="calling-for-a-us-sustainability-initiative.html">
+								Calling for a US Sustainability Initiative
+							</a>
+							&middot;
+							<em>
+								03 Dec 2018
+							</em>
+						</li>
+						<li>
+							<a href="the-importance-of-mission.html">
+								The Importance of Mission
+							</a>
+							&middot;
+							<em>
+								26 Nov 2018
+							</em>
+						</li>
+						<li>
+							<a href="a-broadcast-consciousness.html">
+								A Broadcast Consciousness
+							</a>
+							&middot;
+							<em>
+								19 Nov 2018
+							</em>
+						</li>
+						<li>
+							<a href="the-written-word-in-the-21st-century.html">
+								The Written Word in the 21st Century
+							</a>
+							&middot;
+							<em>
+								12 Nov 2018
+							</em>
+						</li>
+						<li>
+							<a href="my-advice-to-young-people-of-all-ages.html">
+								My Advice to Young People of All Ages
+							</a>
+							&middot;
+							<em>
+								31 Oct 2018
+							</em>
+						</li>
+						<li>
+							<a href="an-integral-approach.html">
+								An Integral Approach
+							</a>
+							&middot;
+							<em>
+								26 Oct 2018
+							</em>
+						</li>
+						<li>
+							<a href="fruitcakes.html">
+								Fruitcakes
+							</a>
+							&middot;
+							<em>
+								13 Oct 2018
+							</em>
+						</li>
+						<li>
+							<a href="imperfection.html">
+								Imperfection
+							</a>
+							&middot;
+							<em>
+								11 Oct 2018
+							</em>
+						</li>
+						<li>
+							<a href="our-societal-disconnect.html">
+								Our Societal Disconnect
+							</a>
+							&middot;
+							<em>
+								26 Sep 2018
+							</em>
+						</li>
+						<li>
+							<a href="the-village-green-preservation-society.html">
+								The Village Green Preservation Society
+							</a>
+							&middot;
+							<em>
+								21 Sep 2018
+							</em>
+						</li>
+						<li>
+							<a href="why-i-call-myself-a-practopian.html">
+								Why I Call Myself a Practopian
+							</a>
+							&middot;
+							<em>
+								15 Sep 2018
+							</em>
+						</li>
+						<li>
+							<a href="will-the-circle-be-unbroken.html">
+								Will the Circle be Unbroken
+							</a>
+							&middot;
+							<em>
+								15 Aug 2018
+							</em>
+						</li>
+						<li>
+							<a href="cultural-evolution.html">
+								Cultural Evolution
+							</a>
+							&middot;
+							<em>
+								13 Aug 2018
+							</em>
+						</li>
+						<li>
+							<a href="what-to-do-about-big-business.html">
+								What To Do About Big Business?
+							</a>
+							&middot;
+							<em>
+								02 Jul 2018
+							</em>
+						</li>
+						<li>
+							<a href="humanism-and-the-practical-utopian.html">
+								Humanism and the Practical Utopian
+							</a>
+							&middot;
+							<em>
+								28 Jun 2018
+							</em>
+						</li>
+						<li>
+							<a href="evolution-and-its-implications.html">
+								Evolution and Its Implications
+							</a>
+							&middot;
+							<em>
+								22 May 2018
+							</em>
+						</li>
+						<li>
+							<a href="talking-openly-about-hierarchy.html">
+								Talking Openly about Hierarchy
+							</a>
+							&middot;
+							<em>
+								13 Apr 2018
+							</em>
+						</li>
+						<li>
+							<a href="a-traditional-remedy-for-the-facebook-problem-competition.html">
+								A Traditional Remedy for the Facebook Problem: Competition
+							</a>
+							&middot;
+							<em>
+								05 Apr 2018
+							</em>
+						</li>
+						<li>
+							<a href="a-practopian-approach-to-gun-issues-in-the-us.html">
+								A Practopian Approach to Gun Issues in the US
+							</a>
+							&middot;
+							<em>
+								27 Feb 2018
+							</em>
+						</li>
+						<li>
+							<a href="art-and-the-eye-of-the-beholder.html">
+								Art and the Eye of the  Beholder
+							</a>
+							&middot;
+							<em>
+								15 Nov 2017
+							</em>
+						</li>
+						<li>
+							<a href="help-help-the-robots-are-coming.html">
+								Help! Help! The Robots are Coming!
+							</a>
+							&middot;
+							<em>
+								23 Aug 2017
+							</em>
+						</li>
+						<li>
+							<a href="in-defense-of-balance.html">
+								In Defense of Balance
+							</a>
+							&middot;
+							<em>
+								12 Jun 2017
+							</em>
+						</li>
+						<li>
+							<a href="how-to-listen-to-music.html">
+								How to Listen to Music
+							</a>
+							&middot;
+							<em>
+								12 Jan 2017
+							</em>
+						</li>
+						<li>
+							<a href="developmental-levels-as-evolving-social-structures.html">
+								Developmental Levels as Evolving Social Structures
+							</a>
+							&middot;
+							<em>
+								10 Jan 2016
+							</em>
+						</li>
+						<li>
+							<a href="religion-storytelling-and-art.html">
+								Religion, Storytelling and Art
+							</a>
+							&middot;
+							<em>
+								27 Nov 2014
+							</em>
+						</li>
+						<li>
+							<a href="human-nature.html">
+								Human Nature
+							</a>
+							&middot;
+							<em>
+								15 Dec 2013
+							</em>
+						</li>
+						<li>
+							<a href="the-four-quadrants-of-human-knowledge.html">
+								The Four Quadrants of Human Knowledge
+							</a>
+							&middot;
+							<em>
+								26 Oct 2012
+							</em>
+						</li>
+						<li>
+							<a href="religious-freedom.html">
+								Religious Freedom
+							</a>
+							&middot;
+							<em>
+								04 Aug 2012
+							</em>
+						</li>
+						<li>
+							<a href="the-nature-of-god.html">
+								The Nature of God
+							</a>
+							&middot;
+							<em>
+								10 Mar 2012
+							</em>
+						</li>
+						<li>
+							<a href="reasons-for-belief.html">
+								Reasons for Belief
+							</a>
+							&middot;
+							<em>
+								21 Feb 2012
+							</em>
+						</li>
+						<li>
+							<a href="the-systemic-era.html">
+								The Systemic Era
+							</a>
+							&middot;
+							<em>
+								15 Aug 2011
+							</em>
+						</li>
+						<li>
+							<a href="developmental-levels.html">
+								Developmental Levels
+							</a>
+							&middot;
+							<em>
+								22 Oct 2009
+							</em>
+						</li>
+					</ul>
+				</div>
+
+				<div>
+				  <p class="float-end">
+    				<a href="#" class="btn btn-outline-secondary" role="button">Back to top</a>
+  				</p>
+  			</div>
+
+			</main>
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+	</div> <!-- /.row -->
+
+	<div class="row">
+
+		<div class="col-12">
+
+			<hr />
+
+			<p class="text-center pr-footer-p" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+				<a class="pr-footer-a" property="dct:title" rel="cc:attributionURL" href="https://practopian.org">
+					The Practical Utopian website
+				</a>
+				by
+				<a  class="pr-footer-a" rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://hbowie.net">
+					Herb Bowie
+				</a>
+				is licensed under
+				<a  class="pr-footer-a" href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
+					CC BY-SA 4.0
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1">
+				</a>
+			</p>
+
+		</div>
+
+	</div> <!-- /.row -->
+
+</div> <!-- /.container -->
+
+    <script src="../js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

@@ -495,7 +495,7 @@ let searchQuotes = [
 		title: "Everyone is entitled to his own opinion, but not his own facts",
 		date: "1975",
     url: "quotes/everyone-is-entitled-to-his-own-opinion-but-not-his-own-facts.html",
-		content: "Everyone is entitled to his own opinion but not his own facts Daniel Patrick Moynihan   "
+		content: "Everyone is entitled to his own opinion but not his own facts Daniel Patrick Moynihan American politician, sociologist, and diplomat  "
 	},
 	{
 		title: "The institution of the family",
@@ -1488,6 +1488,12 @@ let searchQuotes = [
 		content: "To grasp what is involved with levels or stages let s use a very simple model possessing only 3 of them If we look at moral development for example we find that an infant at birth has not yet been socialized into the culture s ethics and conventions this is called the <strong>preconventional stage< strong> It is also called <strong>egocentric< strong> in that the infant s awareness is largely self absorbed But as the young child begins to learns its culture s rules and norms it grows into the <strong>conventional stage< strong> of morals This stage is also called <strong>ethnocentric< strong> in that it centers on the child s particular group tribe clan or nation and it therefore tends to exclude those not of its group But at the next major stage of moral development the <strong>postconventional stage< strong> the individual s identity expands once again this time to include a care and concern for all peoples regardless of race color sex or creed which is why this stage is also called <strong>worldcentric< strong> Thus moral development tends to move from me egocentric to us ethnocentric to all of us worldcentric a good example of the unfolding waves of consciousness Ken Wilber  the integral vision "
 	},
 	{
+		title: "We are what we pretend to be",
+		date: "1961",
+    url: "quotes/we-are-what-we-pretend-to-be.html",
+		content: "We are what we pretend to be so we must be careful about what we pretend to be Kurt Vonnegut American writer Mother Night "
+	},
+	{
 		title: "Myth-Makers",
 		date: "1974",
     url: "quotes/myth-makers.html",
@@ -1528,6 +1534,12 @@ let searchQuotes = [
 		date: "19 Jan 2012",
     url: "quotes/deeper-convictions-of-the-heart.html",
 		content: "Does he learn anything from writing them his songs Does he work out ideas that way I think you work out something I wouldn t call them ideas I think ideas are what you want to get rid of I don t really like songs with ideas They tend to become slogans They tend to be on the right side of things ecology or vegetarianism or antiwar All these are wonderful ideas but I like to work on a song until those slogans as wonderful as they are and as wholesome as the ideas they promote are dissolve into deeper convictions of the heart I never set out to write a didactic song It s just my experience All I ve got to put in a song is my own experience Leonard Cohen  Leonard Cohen: 'All I've got to put in a song is my own experience' "
+	},
+	{
+		title: "Societies are not merely statistical aggregations",
+		date: "1983",
+    url: "quotes/societies-are-not-merely-statistical-aggregations.html",
+		content: "Societies are not merely statistical aggregations of individuals engaged in voluntary exchange but something much more subtle and complicated A group or community cannot be understood if the unit of analysis is the individual taken by himself A society is clearly something greater than the sum of its parts Lester Thurow American political economist Dangerous Currents "
 	},
 	{
 		title: "Six Impossible Things Before Breakfast",
@@ -2548,6 +2560,12 @@ let searchQuotes = [
 		date: "2015",
     url: "quotes/human-imagination-more-than-biological-reality.html",
 		content: "There is little sense then in arguing that the natural function of women is to give birth or that homosexuality is unnatural Most of the laws norms rights and obligations that define manhood and womanhood reflect human imagination more than biological reality Yuval Noah Harari  Sapiens: A Brief History of Humankind "
+	},
+	{
+		title: "Luxuries tend to become necessities",
+		date: "2015",
+    url: "quotes/luxuries-tend-to-become-necessities.html",
+		content: "One of history s fews iron laws is that luxuries tend to become necessities and to spawn new obligations Once people get used to a certain luxury they take it for granted Then they begin to count on it Finally they reach a point where they can t live without it Yuval Noah Harari  Sapiens: A Brief History of Humankind "
 	},
 	{
 		title: "A Meaningful Life",

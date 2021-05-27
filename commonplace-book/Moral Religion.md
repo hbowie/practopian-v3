@@ -2,6 +2,10 @@ Title:  Moral Religion
 
 Tags:   cultural evolution, religion, rule of law
 
+Featured: false
+
+Recommended: false
+
 Author: Albert Einstein
 
 Date:   1930

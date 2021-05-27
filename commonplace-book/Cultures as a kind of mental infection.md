@@ -2,6 +2,10 @@ Title:  Cultures as a kind of mental infection
 
 Tags:   cultural evolution
 
+Featured: false
+
+Recommended: false
+
 Author: Yuval Noah Harari
 
 Date:   2015

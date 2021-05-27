@@ -2,6 +2,10 @@ Title:  Myth-Makers
 
 Tags:   art, written word
 
+Featured: false
+
+Recommended: false
+
 Author: Kurt Vonnegut
 
 Date:   1974

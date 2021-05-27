@@ -2,6 +2,10 @@ Title:  No person in America should be too poor to live
 
 Tags:   equality
 
+Featured: false
+
+Recommended: false
+
 Author: Alexandria Ocasio-Cortez
 
 Date:   28 Jun 2018

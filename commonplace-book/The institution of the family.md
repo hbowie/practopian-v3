@@ -2,6 +2,10 @@ Title:  The institution of the family
 
 Tags:   parenthood
 
+Featured: false
+
+Recommended: false
+
 Author: Daniel Patrick Moynihan
 
 Date:   1986

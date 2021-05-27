@@ -2,6 +2,10 @@ Title:  An ultracultural species is born
 
 Tags:   cultural evolution
 
+Featured: false
+
+Recommended: false
+
 Author: Brian Hare and Vanessa Woods
 
 Date:   2020

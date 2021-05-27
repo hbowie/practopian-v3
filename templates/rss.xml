@@ -30,7 +30,6 @@
 		<pubDate>=$date&EEE, dd MMM yyyy HH:mm zzz$=</pubDate>
 		<description>
 			=$teaser&ox$=
-			&lt;p&gt;Author: =$author&x$= &lt;/p&gt;
 		</description>
 	</item>
 <?endif?>
