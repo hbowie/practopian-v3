@@ -2,7 +2,7 @@ Title:  Small and Obscure Deeds
 
 Tags:   individuals, progress
 
-Featured: true
+Featured: false
 
 Recommended: false
 
