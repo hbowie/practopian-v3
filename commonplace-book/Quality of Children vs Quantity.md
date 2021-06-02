@@ -2,6 +2,10 @@ Title:  Quality of Children vs. Quantity
 
 Tags:   education, parenthood, sustainability
 
+Featured: false
+
+Recommended: false
+
 Author: Margaret Mead
 
 Work Title: unknown

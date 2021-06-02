@@ -288,6 +288,12 @@ let searchQuotes = [
 		content: "Our challenges may be new The instruments with which we meet them may be new But those values upon which our success depends hard work and honesty courage and fair play tolerance and curiosity loyalty and patriotism these things are old These things are true They have been the quiet force of progress throughout our history What is demanded then is a return to these truths Barack Obama  Inaugral Address "
 	},
 	{
+		title: "The best thing we can do is treat each other better",
+		date: "1 June 2021",
+    url: "quotes/the-best-thing-we-can-do-is-treat-each-other-better.html",
+		content: "But the point is I guess that my politics has always been premised on the notion that the differences we have on this planet are real They re profound And they cause enormous tragedy as well as joy But we re just a bunch of humans with doubts and confusion We do the best we can And the best thing we can do is treat each other better because we re all we ve got Barack Obama American politician and attorney who served as the 44th president of the United States from 2009 to 2017 The Ezra Klein Show "
+	},
+	{
 		title: "Time is no match for Toni Morrison",
 		date: "06 Aug 2019",
     url: "quotes/time-is-no-match-for-toni-morrison.html",
@@ -1423,7 +1429,7 @@ let searchQuotes = [
 	},
 	{
 		title: "Economics is essentially a question of design",
-		date: "",
+		date: "2017",
     url: "quotes/economics-is-essentially-a-question-of-design.html",
 		content: "Economics it turns out is not a matter of discovering laws it is essentially a question of design Kate Raworth  Doughnut Economics: 7 Ways to Think Like a 21st Century Economist "
 	},

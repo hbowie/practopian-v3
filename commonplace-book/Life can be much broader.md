@@ -2,6 +2,10 @@ Title:  Life can be much broader
 
 Tags:   individuals, progress
 
+Featured: false
+
+Recommended: false
+
 Author: Steve Jobs
 
 Date:   1994
