@@ -28,6 +28,8 @@ Image Credit Link: https://www.istockphoto.com/vector/concept-of-american-opinio
 
 Medium Link: https://hbowie.medium.com/have-our-political-parties-turned-into-cults-72cfa8fea500
 
+Substack Link: https://practopian.substack.com/p/have-our-political-parties-now-turned-into-cults
+
 Teaser: 
 
 I recently wrote a piece offering "Some Hard-Won Wisdom Concerning Cults." And I've written a couple of pieces recently questioning the direction of the current Republican Party. And so, today, I want to ask the question: should either, or both, of our political parties be considered cults? 
@@ -153,7 +155,7 @@ So if you think the Democrats are mad spenders, but you like the Republicans bec
 
 No, my single-minded purpose today is to take a hard look at this thing that the Republican Party has become, in the age of Trump. 
 
-And while I'm sure that you and I might disagree on some of my scoring above, it seems hard to disagree with the overall conclusion: The Republican Party under Trump has now become a full-fledged cult. 
+And while I'm sure that you and I might disagree on some of my scoring above, it seems hard to disagree with the overall conclusion: the Republican Party under Trump has now become a full-fledged cult. 
 
 And while the Democrats do some pretty stupid things at times, and no doubt betray a few of these same traits, the bottom line is that they are just not in the same league as the Republicans, when it comes to leading and forming a cult. 
 
