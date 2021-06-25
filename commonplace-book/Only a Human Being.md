@@ -2,6 +2,10 @@ Title:  Only a Human Being
 
 Tags:   cultural evolution, humanism
 
+Featured: false
+
+Recommended: false
+
 Author: Albert Einstein
 
 Date:   18 September 1896

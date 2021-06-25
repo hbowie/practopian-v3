@@ -2,6 +2,10 @@ Title:  Conservatives and Progressives
 
 Tags:   governance, progress
 
+Featured: false
+
+Recommended: false
+
 Author: G. K. Chesterton
 
 Date:   1924

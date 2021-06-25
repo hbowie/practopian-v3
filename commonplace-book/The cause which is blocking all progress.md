@@ -4,6 +4,8 @@ Tags:   love, progress
 
 Featured: false
 
+Recommended: false
+
 Author: G. K. Chesterton
 
 Date:   1902

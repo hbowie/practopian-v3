@@ -1422,6 +1422,12 @@ let searchQuotes = [
 		content: "We are all aware if we have ever tried it how empty and ghostly is a life lived for a long while in absolute solitude Free me from my fellows let me alone to work out the salvation of my own glorious self and surely so I may fancy I shall now for the first time show who I am No not so on the contrary I merely show in such a case who I am not I am no longer friend brother companion co worker servant citizen father son I exist for nobody and ere long perhaps to my surprise generally to my horror I discover that I <em>am< em> nobody Josiah Royce  Lecture on Hegel "
 	},
 	{
+		title: "The producing of good citizens",
+		date: "1526",
+    url: "quotes/the-producing-of-good-citizens.html",
+		content: "For they have no conception of the duty of government who wish to limit it to the settling of disputes over money or the punishment of criminals On the contrary it is much more important for the magistrates to devote their energy to the producing of good citizens than to the punishment and restraint of evildoers How much less need would there be to punish if these matters were rightly looked after beforehand Juan Louis Vives Spanish (Valencian) scholar and Renaissance humanist who spent most of his adult life in the Southern Netherlands Concerning the Relief of the Poor "
+	},
+	{
 		title: "the biological evolution of Homo sapiens was usurped by socio-cultural evolution",
 		date: "07/09/2008",
     url: "quotes/the-biological-evolution-of-homo-sapiens-was-usurped-by-socio-cultural-evolution.html",
@@ -1552,6 +1558,12 @@ let searchQuotes = [
 		date: "1871",
     url: "quotes/six-impossible-things-before-breakfast.html",
 		content: " I can t believe that said Alice Can t you the Queen said in a pitying tone Try again draw a long breath and shut your eyes Alice laughed There s no use trying she said one can t believe impossible things I daresay you haven t had much practice said the Queen When I was your age I always did it for half an hour a day Why sometimes I ve believed as many as six impossible things before breakfast Lewis Carroll  Through the Looking Glass "
+	},
+	{
+		title: "Why People Sing",
+		date: "1968",
+    url: "quotes/why-people-sing.html",
+		content: "Someone once asked me why people sing I answered they sing for many of the same reasons birds sing They sing for a mate to claim their territory or simply to give voice to the delight of being alive in the midst of a beautiful day Perhaps more than birds do humans hold a grudge They sing to complain of how grievously they have been wronged and how to avoid it in the future They sing to help themselves execute a job of work They sing so the subsequent generations won t forget what the current generation endured or dreamed or delighted in Linda Ronstadt  in a friend's East Village apartment, NYC "
 	},
 	{
 		title: "When you can measure what you are speaking about",

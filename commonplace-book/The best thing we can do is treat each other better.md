@@ -2,7 +2,7 @@ Title:  The best thing we can do is treat each other better
 
 Tags:   governance
 
-Featured: true
+Featured: false
 
 Recommended: false
 

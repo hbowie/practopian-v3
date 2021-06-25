@@ -4,6 +4,8 @@ Tags:   governance, society
 
 Featured: false
 
+Recommended: false
+
 Author: Abraham Lincoln
 
 Date:   1854
