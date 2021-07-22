@@ -2,6 +2,10 @@ Title:  To prolong our presence on the face of the Earth
 
 Tags:   critical thinking, humanism, mission
 
+Featured: false
+
+Recommended: false
+
 Author: Jonas Salk
 
 Date:   1990

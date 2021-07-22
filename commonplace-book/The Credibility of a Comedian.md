@@ -2,6 +2,10 @@ Title:  The Credibility of a Comedian
 
 Tags:   USA, democracy
 
+Featured: false
+
+Recommended: false
+
 Author: Jon Stewart
 
 Date:   June 19, 2011

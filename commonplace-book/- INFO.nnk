@@ -2,13 +2,13 @@ Title: Commonplace book
 
 Link: /Users/hbowie/Sites/practopian 3/commonplace-book
 
-Sort Parm: 8
+Sort Parm: 4
 
 Sort Descending: false
 
 Other Fields Allowed: false
 
-Last Index Selected: 440
+Last Index Selected: 168
 
 Mirror Auto Index: false
 
@@ -17,6 +17,8 @@ Display Body Label: true
 Display H1 Titles: false
 
 Streamlined Reading: false
+
+MathJax: false
 
 Shortcut: quotes
 

@@ -2,6 +2,10 @@ Title:  Time is no match for Toni Morrison
 
 Tags:   art
 
+Featured: false
+
+Recommended: false
+
 Author: Barack Obama
 
 Date:   06 Aug 2019

@@ -4,6 +4,8 @@ Tags:   Project Management, critical thinking
 
 Featured: false
 
+Recommended: false
+
 Author: Tom DeMarco and Timothy Lister
 
 Date:   2003

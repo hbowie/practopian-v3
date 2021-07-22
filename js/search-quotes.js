@@ -477,7 +477,7 @@ let searchQuotes = [
 		title: "While he was focusing on the inner self, his outer world has gone to pot",
 		date: "1974",
     url: "quotes/while-he-was-focusing-on-the-inner-self-his-outer-world-has-gone-to-pot.html",
-		content: "At the personalistic level F S man becomes centrally concerned with peace with his inner self and in the relation of his self to the inner self of others He becomes concerned with belonging with being accepted with knowing the inner side of self and other selves so harmony can come to be so people as individuals can be at peace with themselves and thus with the world And when he achieves this he finds he must become concerned with more than self or other selves because while he was focusing on the inner self to the exclusion of the external world his outer world has gone to pot So how he turns outward to life and to the whole the total universe As he does so he begins to see the problems of restoring the balance of life which has been torn asunder by his individualistically oriented self seeking climb up the first ladder of existence Clare W. Graves  The Futurist "
+		content: "At the personalistic level F S man becomes centrally concerned with peace with his inner self and in the relation of his self to the inner self of others He becomes concerned with belonging with being accepted with knowing the inner side of self and other selves so harmony can come to be so people as individuals can be at peace with themselves and thus with the world And when he achieves this he finds he must become concerned with more than self or other selves because while he was focusing on the inner self to the exclusion of the external world his outer world has gone to pot So now he turns outward to life and to the whole the total universe As he does so he begins to see the problems of restoring the balance of life which has been torn asunder by his individualistically oriented self seeking climb up the first ladder of existence Clare W. Graves  The Futurist "
 	},
 	{
 		title: "Man must believe in an open future",
@@ -1011,7 +1011,7 @@ let searchQuotes = [
 		title: "Progress Depends on Retentiveness",
 		date: "1906",
     url: "quotes/progress-depends-on-retentiveness.html",
-		content: "Progress far from consisting in change depends on retentiveness When change is absolute there remains no being to improve and no direction is set for possible improvement and when experience is not retained as among savages infancy is perpetual Those who cannot remember the past are condemned to repeat it George Santayana  The Life of Reason: Reason in Common Sense "
+		content: "Progress far from consisting in change depends on retentiveness When change is absolute there remains no being to improve and no direction is set for possible improvement and when experience is not retained as among savages infancy is perpetual Those who cannot remember the past are condemned to repeat it George Santayana A philosopher, essayist, poet, and novelist The Life of Reason: Reason in Common Sense "
 	},
 	{
 		title: "Hard Discipline of Reasonableness and Honesty",

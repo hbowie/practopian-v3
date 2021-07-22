@@ -2,9 +2,19 @@ Title:  Progress Depends on Retentiveness
 
 Tags:   progress
 
+Featured: false
+
+Recommended: false
+
 Author: George Santayana
 
 Date:   1906
+
+Author Info: A philosopher, essayist, poet, and novelist
+
+Author Years: 1863-1952
+
+Author Link: https://en.wikipedia.org/wiki/George_Santayana
 
 Work Title: The Life of Reason: Reason in Common Sense
 

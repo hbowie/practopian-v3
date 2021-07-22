@@ -2,6 +2,10 @@ Title:  The Tautness of this Resonant Connection
 
 Tags:   art
 
+Featured: false
+
+Recommended: false
+
 Author: Herb Bowie
 
 Date:   2010

@@ -2,6 +2,10 @@ Title:  Discovering that I am Nobody
 
 Tags:   connection
 
+Featured: false
+
+Recommended: false
+
 Author: Josiah Royce
 
 Work Title: Lecture on Hegel

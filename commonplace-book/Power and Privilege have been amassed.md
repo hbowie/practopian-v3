@@ -2,6 +2,10 @@ Title:  Power and Privilege have been amassed
 
 Tags:   society
 
+Featured: false
+
+Recommended: false
+
 Author: Peter Boettke
 
 Date:   18 Jun 2020

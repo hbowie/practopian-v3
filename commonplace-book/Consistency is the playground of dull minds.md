@@ -2,6 +2,10 @@ Title:  Consistency is the playground of dull minds
 
 Tags:   balance
 
+Featured: false
+
+Recommended: false
+
 Author: Yuval Noah Harari
 
 Date:   2015

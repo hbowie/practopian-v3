@@ -2,6 +2,10 @@ Title:  What Democracy Is
 
 Tags:   democracy
 
+Featured: false
+
+Recommended: false
+
 Author: E. B. White
 
 Date:   3 July 1943

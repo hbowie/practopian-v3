@@ -2,6 +2,10 @@ Title:  Governments losing their ability to anticipate events
 
 Tags:   balance, governance
 
+Featured: false
+
+Recommended: false
+
 Author: Edward Luce
 
 Date:   2017

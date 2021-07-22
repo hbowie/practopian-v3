@@ -2,6 +2,10 @@ Title:  Deeper convictions of the heart
 
 Tags:   art
 
+Featured: false
+
+Recommended: false
+
 Author: Leonard Cohen
 
 Date:   19 Jan 2012

@@ -2,6 +2,10 @@ Title:  The historical trajectory of violence
 
 Tags:   cultural evolution
 
+Featured: false
+
+Recommended: false
+
 Author: Steven Pinker
 
 Date:   2011

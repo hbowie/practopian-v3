@@ -8,7 +8,7 @@ Status: 9 - Published
 
 Type:   blog
 
-Featured: true
+Featured: false
 
 Greatest Hits: false
 
@@ -25,6 +25,10 @@ Image Alt: Democratic Donkey Vs Republican Elephant
 Image Credit: iStock / kbeis
 
 Image Credit Link: https://www.istockphoto.com/vector/democratic-donkey-vs-republican-elephant-gm488507962-74171229
+
+Medium Link: https://hbowie.medium.com/are-political-parties-doing-us-more-harm-than-good-e59aa655d6f5
+
+Substack Link: https://practopian.substack.com/p/political-parties-more-harm-than-good
 
 Teaser: 
 

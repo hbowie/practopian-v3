@@ -2,6 +2,10 @@ Title:  Civilization was a thin and precarious crust
 
 Tags:   society
 
+Featured: false
+
+Recommended: false
+
 Author: John Maynard Keynes
 
 Date:   1938

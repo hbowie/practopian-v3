@@ -2,6 +2,10 @@ Title:  We are in Eden still
 
 Tags:   humanism, wonder
 
+Featured: false
+
+Recommended: false
+
 Author: G. K. Chesterton
 
 Work Title: unknown

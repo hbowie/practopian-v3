@@ -2,6 +2,10 @@ Title:  I'll take the big sordid dirty crooked city
 
 Tags:   cultural evolution, imperfection, society
 
+Featured: false
+
+Recommended: false
+
 Author: Raymond Chandler
 
 Date:   1953

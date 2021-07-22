@@ -2,6 +2,10 @@ Title:  A Long Conversation
 
 Tags:   art, connection
 
+Featured: false
+
+Recommended: false
+
 Author: Bruce Springsteen
 
 Date:   2009-Jan-05

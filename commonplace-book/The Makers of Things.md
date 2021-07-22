@@ -4,6 +4,8 @@ Tags:   USA, cultural evolution, individuals, progress
 
 Featured: false
 
+Recommended: false
+
 Author: Barack Obama
 
 Date:   2009

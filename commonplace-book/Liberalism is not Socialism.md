@@ -2,6 +2,10 @@ Title:  Liberalism is not Socialism
 
 Tags:   equality, governance, value creation
 
+Featured: true
+
+Recommended: false
+
 Author: Winston Churchill
 
 Work Title: unknown

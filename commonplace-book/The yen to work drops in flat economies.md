@@ -2,6 +2,10 @@ Title:  The yen to work drops in flat economies
 
 Tags:   society, value creation
 
+Featured: false
+
+Recommended: false
+
 Author: Edward Luce
 
 Date:   2017

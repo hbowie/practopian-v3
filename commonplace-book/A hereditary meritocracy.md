@@ -2,6 +2,10 @@ Title:  A hereditary meritocracy
 
 Tags:   equality
 
+Featured: false
+
+Recommended: false
+
 Author: Edward Luce
 
 Date:   2017

@@ -2,6 +2,10 @@ Title:  The US remains astonishingly backward when it comes to education
 
 Tags:   education, equality
 
+Featured: false
+
+Recommended: false
+
 Author: Anu Partanen
 
 Date:   2016

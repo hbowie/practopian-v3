@@ -2,6 +2,10 @@ Title:  The Four-Fold Way
 
 Tags:   critical thinking, love
 
+Featured: false
+
+Recommended: false
+
 Author: Angeles Arrien
 
 Date:   1993

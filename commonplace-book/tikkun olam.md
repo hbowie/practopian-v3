@@ -2,6 +2,10 @@ Title:  tikkun olam
 
 Tags:   love, mission
 
+Featured: false
+
+Recommended: false
+
 Author: John Gottman
 
 Date:   12 Dec 2018

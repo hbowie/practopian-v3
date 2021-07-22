@@ -2,6 +2,10 @@ Title:  Levels of Development
 
 Tags:   cultural evolution
 
+Featured: false
+
+Recommended: false
+
 Author: Ken Wilber
 
 Date:   2007

@@ -2,6 +2,10 @@ Title:  Ism-mania
 
 Tags:   USA, diversity
 
+Featured: false
+
+Recommended: false
+
 Author: Robert Riskin
 
 Date:   1938

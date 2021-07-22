@@ -2,6 +2,10 @@ Title:  Struggling against irrelevance
 
 Tags:   democracy
 
+Featured: false
+
+Recommended: false
+
 Author: Yuval Noah Harari
 
 Date:   2018

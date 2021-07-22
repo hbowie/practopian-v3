@@ -2,6 +2,10 @@ Title:  The better angels of our nature
 
 Tags:   connection
 
+Featured: false
+
+Recommended: false
+
 Author: Abraham Lincoln
 
 Date:   1861

@@ -2,6 +2,10 @@ Title:  In the thrall of a vast, world-spanning machine
 
 Tags:   systemic
 
+Featured: false
+
+Recommended: false
+
 Author: Tim O'Reilly
 
 Date:   2017

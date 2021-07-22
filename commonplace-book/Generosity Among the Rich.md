@@ -2,6 +2,10 @@ Title:  Generosity Among the Rich
 
 Tags:   connection
 
+Featured: false
+
+Recommended: false
+
 Author: G. K. Chesterton
 
 Date:   1912

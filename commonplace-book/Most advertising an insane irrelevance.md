@@ -2,6 +2,10 @@ Title:  Most advertising an insane irrelevance
 
 Tags:   critical thinking
 
+Featured: false
+
+Recommended: false
+
 Author: Raymond Williams
 
 Date:   1961

@@ -2,6 +2,10 @@ Title:  Writing off half of society as deplorable
 
 Tags:   democracy
 
+Featured: false
+
+Recommended: false
+
 Author: Edward Luce
 
 Date:   2017

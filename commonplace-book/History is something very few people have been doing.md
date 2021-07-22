@@ -2,6 +2,10 @@ Title:  History is something very few people have been doing
 
 Tags:   cultural evolution
 
+Featured: false
+
+Recommended: false
+
 Author: Yuval Noah Harari
 
 Date:   2015

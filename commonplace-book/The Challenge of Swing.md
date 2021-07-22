@@ -2,6 +2,10 @@ Title:  The Challenge of Swing
 
 Tags:   connection, liberty
 
+Featured: false
+
+Recommended: false
+
 Author: Wynton Marsalis
 
 Date:   2008

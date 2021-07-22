@@ -2,6 +2,10 @@ Title:  A world that is tolerable
 
 Tags:   mission
 
+Featured: false
+
+Recommended: false
+
 Author: Walter Mosley
 
 Date:   2016

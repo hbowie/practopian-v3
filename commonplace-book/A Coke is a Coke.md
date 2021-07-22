@@ -4,6 +4,8 @@ Tags:   USA, equality
 
 Featured: false
 
+Recommended: false
+
 Author: Andy Warhol
 
 Date:   1975

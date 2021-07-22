@@ -2,6 +2,10 @@ Title:  Which side will lose by winning
 
 Tags:   evolution, practopian, systemic
 
+Featured: false
+
+Recommended: false
+
 Author: Richard Powers
 
 Date:   2018

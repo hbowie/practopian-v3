@@ -2,6 +2,10 @@ Title:  The Arc of History
 
 Tags:   cultural evolution, equality
 
+Featured: false
+
+Recommended: false
+
 Author: Martin Luther King Jr.
 
 Work Title: unknown

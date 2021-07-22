@@ -2,6 +2,10 @@ Title:  It's the rich class that's winning
 
 Tags:   society, value creation
 
+Featured: false
+
+Recommended: false
+
 Author: Warren Buffett
 
 Date:   Nov 26, 2006

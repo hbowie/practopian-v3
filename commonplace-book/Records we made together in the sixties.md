@@ -2,6 +2,10 @@ Title:  Records we made together in the sixties
 
 Tags:   art, connection
 
+Featured: false
+
+Recommended: false
+
 Author: Joe Boyd
 
 Date:   2006

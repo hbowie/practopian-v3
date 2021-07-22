@@ -2,6 +2,10 @@ Title:  A Planet-Sized Problem
 
 Tags:   sustainability
 
+Featured: false
+
+Recommended: false
+
 Author: E. O. Wilson
 
 Date:   1998

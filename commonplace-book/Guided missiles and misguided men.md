@@ -2,6 +2,10 @@ Title:  Guided missiles and misguided men
 
 Tags:   equality
 
+Featured: false
+
+Recommended: false
+
 Author: Martin Luther King Jr.
 
 Date:   Aug 31, 1967

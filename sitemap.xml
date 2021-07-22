@@ -134,7 +134,7 @@
   </url>
   <url>
     <loc>https://practopian.org//index.html</loc>
-    <lastmod>2021-06-25</lastmod>
+    <lastmod>2021-07-21</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/quotes/the-paranoid-style-in-american-politics.html</loc>
@@ -266,7 +266,7 @@
   </url>
   <url>
     <loc>https://practopian.org/quotes/while-he-was-focusing-on-the-inner-self-his-outer-world-has-gone-to-pot.html</loc>
-    <lastmod>2021-04-08</lastmod>
+    <lastmod>2021-07-17</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/quotes/tikkun-olam.html</loc>
@@ -1950,7 +1950,7 @@
   </url>
   <url>
     <loc>https://practopian.org/authors/clare-w-graves.html</loc>
-    <lastmod>2021-04-08</lastmod>
+    <lastmod>2021-07-17</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/authors/isaac-asimov.html</loc>
@@ -2058,7 +2058,7 @@
   </url>
   <url>
     <loc>https://practopian.org/authors/index.html</loc>
-    <lastmod>2021-06-25</lastmod>
+    <lastmod>2021-07-21</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/authors/chris-argyris-and-donald-schn.html</loc>
@@ -2366,7 +2366,7 @@
   </url>
   <url>
     <loc>https://practopian.org/authors/george-santayana.html</loc>
-    <lastmod>2021-04-08</lastmod>
+    <lastmod>2021-07-21</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/authors/jeff-bezos-and-jason-fried.html</loc>
@@ -2818,7 +2818,7 @@
   </url>
   <url>
     <loc>https://practopian.org//recent.html</loc>
-    <lastmod>2021-06-25</lastmod>
+    <lastmod>2021-07-21</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/about/the-author.html</loc>
@@ -2886,7 +2886,7 @@
   </url>
   <url>
     <loc>https://practopian.org/cross-posts/index.html</loc>
-    <lastmod>2021-06-25</lastmod>
+    <lastmod>2021-07-21</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/cross-posts/rejiggering-our-religion.html</loc>
@@ -2898,7 +2898,7 @@
   </url>
   <url>
     <loc>https://practopian.org/cross-posts/are-political-parties-doing-us-more-harm-than-good.html</loc>
-    <lastmod>2021-06-25</lastmod>
+    <lastmod>2021-07-06</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/cross-posts/the-challenge-for-democrats-playing-the-long-game.html</loc>
@@ -2975,6 +2975,10 @@
   <url>
     <loc>https://practopian.org/cross-posts/evolution-and-its-implications.html</loc>
     <lastmod>2021-05-17</lastmod>
+  </url>
+  <url>
+    <loc>https://practopian.org/cross-posts/kindness-by-design.html</loc>
+    <lastmod>2021-07-17</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/cross-posts/developmental-levels.html</loc>
@@ -3189,6 +3193,10 @@
     <lastmod>2021-05-17</lastmod>
   </url>
   <url>
+    <loc>https://practopian.org/cross-posts/why-its-a-bad-time-to-be-a-conservative.html</loc>
+    <lastmod>2021-07-22</lastmod>
+  </url>
+  <url>
     <loc>https://practopian.org/cross-posts/religious-freedom.html</loc>
     <lastmod>2021-05-17</lastmod>
   </url>
@@ -3234,7 +3242,7 @@
   </url>
   <url>
     <loc>https://practopian.org/blog/hbowie/index.html</loc>
-    <lastmod>2021-06-25</lastmod>
+    <lastmod>2021-07-21</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/blog/hbowie/rejiggering-our-religion.html</loc>
@@ -3246,7 +3254,7 @@
   </url>
   <url>
     <loc>https://practopian.org/blog/hbowie/are-political-parties-doing-us-more-harm-than-good.html</loc>
-    <lastmod>2021-06-25</lastmod>
+    <lastmod>2021-07-06</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/blog/hbowie/the-challenge-for-democrats-playing-the-long-game.html</loc>
@@ -3311,6 +3319,10 @@
   <url>
     <loc>https://practopian.org/blog/hbowie/evolution-and-its-implications.html</loc>
     <lastmod>2021-04-08</lastmod>
+  </url>
+  <url>
+    <loc>https://practopian.org/blog/hbowie/kindness-by-design.html</loc>
+    <lastmod>2021-07-14</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/blog/hbowie/developmental-levels.html</loc>
@@ -3506,7 +3518,7 @@
   </url>
   <url>
     <loc>https://practopian.org/blog/hbowie/latest.html</loc>
-    <lastmod>2021-06-25</lastmod>
+    <lastmod>2021-07-21</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/blog/hbowie/human-nature.html</loc>
@@ -3517,12 +3529,16 @@
     <lastmod>2021-04-08</lastmod>
   </url>
   <url>
+    <loc>https://practopian.org/blog/hbowie/why-its-a-bad-time-to-be-a-conservative.html</loc>
+    <lastmod>2021-07-21</lastmod>
+  </url>
+  <url>
     <loc>https://practopian.org/blog/hbowie/religious-freedom.html</loc>
     <lastmod>2021-04-08</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/tags/us-politics.html</loc>
-    <lastmod>2021-06-01</lastmod>
+    <lastmod>2021-07-21</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/tags/evolution.html</loc>
@@ -3538,7 +3554,7 @@
   </url>
   <url>
     <loc>https://practopian.org/tags/design.html</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-07-14</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/tags/play.html</loc>
@@ -3578,7 +3594,7 @@
   </url>
   <url>
     <loc>https://practopian.org/tags/governance.html</loc>
-    <lastmod>2021-06-03</lastmod>
+    <lastmod>2021-07-21</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/tags/wonder.html</loc>
@@ -3598,7 +3614,7 @@
   </url>
   <url>
     <loc>https://practopian.org/tags/sustainability.html</loc>
-    <lastmod>2021-04-25</lastmod>
+    <lastmod>2021-07-21</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/tags/progress.html</loc>
@@ -3678,7 +3694,7 @@
   </url>
   <url>
     <loc>https://practopian.org/tags/critical-thinking.html</loc>
-    <lastmod>2021-06-01</lastmod>
+    <lastmod>2021-07-06</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/tags/teams.html</loc>
@@ -3714,7 +3730,7 @@
   </url>
   <url>
     <loc>https://practopian.org/tags/balance.html</loc>
-    <lastmod>2021-04-08</lastmod>
+    <lastmod>2021-07-14</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/tags/compromise.html</loc>
@@ -3742,7 +3758,7 @@
   </url>
   <url>
     <loc>https://practopian.org/tags/value-creation.html</loc>
-    <lastmod>2021-05-26</lastmod>
+    <lastmod>2021-07-14</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/tags/love.html</loc>

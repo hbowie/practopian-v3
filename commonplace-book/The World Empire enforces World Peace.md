@@ -2,6 +2,10 @@ Title:  The World Empire enforces World Peace
 
 Tags:   governance, systemic
 
+Featured: false
+
+Recommended: false
+
 Author: Yuval Noah Harari
 
 Date:   2015

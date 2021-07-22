@@ -2,6 +2,10 @@ Title:  Introduction of a new order of things
 
 Tags:   progress
 
+Featured: false
+
+Recommended: false
+
 Author: Niccolò Machiavelli
 
 Date:   1515

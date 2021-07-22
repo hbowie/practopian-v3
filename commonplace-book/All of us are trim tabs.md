@@ -4,6 +4,8 @@ Tags:   individuals, society
 
 Featured: false
 
+Recommended: false
+
 Author: Jeff Bridges
 
 Date:   06 Jan 2019

@@ -2,6 +2,10 @@ Title:  Push Outward
 
 Tags:   cultural evolution
 
+Featured: false
+
+Recommended: false
+
 Author: Michel Foucault
 
 Work Title: unknown

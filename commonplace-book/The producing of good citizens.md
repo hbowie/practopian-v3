@@ -2,7 +2,7 @@ Title:  The producing of good citizens
 
 Tags:   governance
 
-Featured: true
+Featured: false
 
 Recommended: false
 

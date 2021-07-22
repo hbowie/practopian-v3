@@ -2,6 +2,10 @@ Title:  Homophobia
 
 Tags:   cultural evolution, diversity
 
+Featured: false
+
+Recommended: false
+
 Author: Ken Wilber
 
 Date:   2000

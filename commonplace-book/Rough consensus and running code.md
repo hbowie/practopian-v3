@@ -2,6 +2,10 @@ Title:  Rough consensus and running code
 
 Tags:   Software Development.Agility, practical
 
+Featured: false
+
+Recommended: false
+
 Author: David D. Clark
 
 Date:   1992

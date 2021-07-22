@@ -8,6 +8,10 @@ Status: 9 - Published
 
 Type:   appreciation
 
+Featured: true
+
+Greatest Hits: false
+
 Importance: 80
 
 Date:   21 Sep 2018
@@ -21,6 +25,7 @@ Image Name: Kinks album cover
 Teaser: 
 
 This is a rather amazing song by The Kinks, first released in 1968. I loved this song from the moment I first heard it, but my appreciation for it has only grown over the years. 
+
 
 Body: 
 

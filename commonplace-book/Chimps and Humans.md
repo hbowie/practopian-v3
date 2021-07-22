@@ -2,6 +2,10 @@ Title:  Chimps and Humans
 
 Tags:   humanism, science
 
+Featured: false
+
+Recommended: false
+
 Author: Carl Sagan and Ann Druyan
 
 Date:   1993

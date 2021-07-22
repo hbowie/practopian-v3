@@ -2,6 +2,10 @@ Title:  Technology married with the humanities
 
 Tags:   integral
 
+Featured: false
+
+Recommended: false
+
 Author: Steve Jobs
 
 Date:   March-April 1991

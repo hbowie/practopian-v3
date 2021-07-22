@@ -2,6 +2,10 @@ Title:  This Highest Kind of Religious Feeling
 
 Tags:   cultural evolution, religion, wonder
 
+Featured: false
+
+Recommended: false
+
 Author: Albert Einstein
 
 Date:   1930

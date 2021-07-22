@@ -2,6 +2,10 @@ Title:  Responsible Nationalism
 
 Tags:   governance
 
+Featured: false
+
+Recommended: false
+
 Author: Edward Luce
 
 Date:   2017

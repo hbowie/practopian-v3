@@ -2,6 +2,10 @@ Title:  Liberal democracy's strongest glue is economic growth
 
 Tags:   equality
 
+Featured: false
+
+Recommended: false
+
 Author: Edward Luce
 
 Date:   2017
