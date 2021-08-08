@@ -24,6 +24,8 @@ Image Credit: iStock/traveler1116
 
 Image Credit Link: https://www.istockphoto.com/photo/cancelled-stamp-of-religious-freedom-gm184834937-18154565
 
+Short ID: rf
+
 Teaser: 
 
 When it comes to religion, I have to confess to being a bit of a mongrel.

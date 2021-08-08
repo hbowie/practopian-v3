@@ -22,6 +22,8 @@ Minutes to Read: 10
 
 Image Name: musical instruments
 
+Short ID: hlm
+
 Teaser: 
 
 I can determine with some precision when music began to matter to me. Until I was about 12 1/2, music was something that played in the background at times, but to which I paid no real attention. I heard it mostly on AM radio. It meant nothing to me. Then, quite suddenly, with no warning, in the middle of January, 1964, I heard The Beatles for the first time, singing "I Want to Hold Your Hand." It's hard to overstate what a shock this was.

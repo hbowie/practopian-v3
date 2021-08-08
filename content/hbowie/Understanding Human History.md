@@ -24,6 +24,8 @@ Image Credit: iStock/Natalie_
 
 Image Credit Link: https://www.istockphoto.com/vector/open-book-with-history-doodles-and-lettering-gm1092170968-293018669
 
+Short ID: uhh
+
 Teaser: 
 
 When I was in school, history was one of my least favorite subjects: It just seemed like a bunch of arbitrary names and dates and events that I had to memorize. In hindsight, I realize now, the problem I had with the subject was that it had been "storified."

@@ -22,6 +22,8 @@ Image Name: greedy capitalist
 
 Image Alt: Many-armed capitalist with his fingers in everything
 
+Short ID: tac
+
 Teaser: 
 
 No matter which way you lean politically, you probably have strong feelings about capitalism. It seems to me that there are a lot of odd ideas on this topic running around out there in today's world. Let me offer some thoughts about what seems true to me.  

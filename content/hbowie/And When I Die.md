@@ -24,6 +24,8 @@ Image Name: More Than A New Discovery
 
 Image Alt: Album Cover
 
+Short ID: wid
+
 Teaser: 
 
 As children, our thoughts about death are stuff of dreams and fairy tales. As adults we learn to suppress these thoughts because we are busy getting on with things. But as teenagers, in this transition between nursery rhymes and real life, we tend to approach this topic with a frankness and curiosity that can be somewhat startling. Laura Nyro wrote her song "And When I Die" at the age of 17, and her refreshing treatment of the subject shows none of the reverence or piety that we learn to adopt as adults.

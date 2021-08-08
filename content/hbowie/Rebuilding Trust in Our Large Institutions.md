@@ -24,6 +24,8 @@ Image Name: Star Wars poster
 
 Image Alt: Original Star Wars poster
 
+Short ID: rtili
+
 Teaser: 
 
 I find it fascinating to compare the original *Star Trek* television series with the first *Star Wars* movie. And I think this comparison can reveal a lot about the current state of our culture. 

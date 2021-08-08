@@ -24,9 +24,12 @@ Image Credit: Elliot Landy
 
 Image Credit Link: https://www.elliottlandy.com
 
+Short ID: w
+
 Teaser: 
 
 I recently came across the Playing for Change Song Around the World video of Robbie Robertson's composition “The Weight,” and it made me want to think – and write! – more deeply about how this song works, and what it means, and the timeless nature of its appeal.
+
 
 Body: 
 

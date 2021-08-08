@@ -28,6 +28,8 @@ Image Credit: iStock/francescoch
 
 Image Credit Link: https://www.istockphoto.com/photo/identify-oneself-in-a-thriller-book-gm978249702-265906430
 
+Short ID: bcds
+
 Teaser: 
 
 Over the many years since the receipt of my Bachelor's degree in English from the University of Michigan, I have probably spent more rewarding hours reading detective stories than any other form of fiction. Such reliance on a particular genre is often viewed as a marked deficiency in taste and erudition, so I'd like to take a few minutes to defend my predilection. 

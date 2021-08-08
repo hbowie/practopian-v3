@@ -32,6 +32,8 @@ Medium Link: https://hbowie.medium.com/where-exactly-are-the-republicans-headed-
 
 Substack Link: https://practopian.substack.com/p/where-are-republicans-headed
 
+Short ID: werh
+
 Teaser: 
 
 So now the Republicans seem doomed to act like some strange variety of lemmings, unable to turn back from the cliff after their leader has jumped, but unable to turn away. And so they spend every day of their lives dancing along the edge, trying to convince the rest of us how good life will be at the bottom.

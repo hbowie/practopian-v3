@@ -24,6 +24,8 @@ Image Credit: iStock/Prostock-Studio
 
 Image Credit Link: https://www.istockphoto.com/photo/easy-and-hard-path-difficult-and-simple-strategy-gm1190572650-337556367
 
+Short ID: lc
+
 Teaser: 
 
 We all would like a quick fix of simple certainty, and no matter where we turn today, we can find an army of pushers waiting to feed our habit, even giving the stuff away for free, just to keep us hooked.

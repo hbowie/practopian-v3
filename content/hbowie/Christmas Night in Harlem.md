@@ -22,6 +22,8 @@ Image Name: Louis Armstrong and Friends
 
 Image Alt: Louis Armstrong and Friends
 
+Short ID: cnih
+
 Body: 
 
 As long as we're enjoying a "[Holiday in Harlem][hih]" with Ella, we may as well stick around a little longer for a "[Christmas Night in Harlem][cnih]" with Louis Armstrong. 

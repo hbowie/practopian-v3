@@ -2,6 +2,10 @@ Title:  A foolish consistency
 
 Tags:   balance
 
+Featured: false
+
+Recommended: false
+
 Author: Ralph Waldo Emerson
 
 Date:   1841

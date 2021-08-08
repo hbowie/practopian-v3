@@ -24,6 +24,8 @@ Image Credit: iStock/Suppachok Nuthep
 
 Image Credit Link: https://www.istockphoto.com/vector/top-light-arrows-on-dark-blue-background-copy-space-composition-business-growth-gm1160325970-317574222?clarity=false
 
+Short ID: ppf1ss
+
 Teaser: 
 
 By now leading progressives are starting to realize that they face some severe structural impediments if they are serious about getting real progress in the United States. Let's figure out a way around them. 

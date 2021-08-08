@@ -2,6 +2,10 @@ Title:  The time-worn yoke of their opinions
 
 Tags:   cultural evolution, progress
 
+Featured: false
+
+Recommended: false
+
 Author: Ralph Waldo Emerson
 
 Date:   1860

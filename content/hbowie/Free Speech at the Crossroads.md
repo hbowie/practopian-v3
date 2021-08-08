@@ -28,6 +28,8 @@ Image Credit: iStock/Duettographics
 
 Image Credit Link: https://www.istockphoto.com/vector/illustration-of-crowd-of-people-holding-a-demonstration-gm123689599-17416678
 
+Short ID: fsc
+
 Teaser: 
 
 No matter where you stand on the political spectrum, questions surrounding free speech are hot-button items these days. Should anyone be free to say anything, about anyone, at any time, and to any audience? If not, who's responsible for moderation, and what are the rules? And at what point does moderation become censorship?

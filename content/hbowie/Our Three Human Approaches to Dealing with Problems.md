@@ -26,6 +26,8 @@ Image Credit: iStock/metamorworks
 
 Image Credit Link: https://www.istockphoto.com/photo/pieces-of-jigsaw-puzzle-and-global-network-concept-gm916449208-252178762
 
+Short ID: thadwp
+
 Teaser: 
 
 We all run into challenges from time to time, whether at work, at home, or in our communities. In general, I would suggest, we have three different approaches available to us when we try to respond to such situations.  

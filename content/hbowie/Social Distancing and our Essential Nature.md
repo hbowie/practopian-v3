@@ -24,6 +24,8 @@ Image Credit: iStock/iagodina
 
 Image Credit Link: https://www.istockphoto.com/photo/golder-retriever-standing-by-a-rural-fence-gm1181270413-331252223
 
+Short ID: sden
+
 Teaser: 
 
 As ever more people work from home, and more students attempt remote learning, I'm concerned about a growing chorus of folks who are celebrating this enforced distancing as a welcome wave of the future, and suggesting that what started as a temporary fix should be embraced as a permanent fixture of 21st century society.

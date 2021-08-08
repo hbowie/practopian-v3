@@ -24,6 +24,8 @@ Image Credit: iStock/RichVintage
 
 Image Credit Link: https://www.istockphoto.com/photo/little-mad-scientist-gm117147722-15428660
 
+Short ID: s
+
 Teaser: 
 
 A belief in science is one of the core Practopian principles. We embrace science as one way of understanding the universe in which we live, and we accept toolmaking (aka engineering) as one means of improving the human condition.

@@ -22,9 +22,12 @@ Image Alt: Nitty Gritty album cover
 
 Image Caption: Album Cover from the Nitty Gritty Dirt Band's Will the Circle be Unbroken
 
+Short ID: wcbu
+
 Teaser: 
 
 It's certainly fair to categorize this song as a religious one, and more particularly as a Christian song, and yet, even though I consider myself to be a non-believer, my lack of faith doesn't diminish my appreciation for this song in the slightest: if anything, I think it increases it. For unlike many songs that we could put in this category, this song does not seek to proselytize, or ask us to accept any particular religious teaching. 
+
 
 Body: 
 

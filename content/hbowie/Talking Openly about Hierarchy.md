@@ -22,6 +22,8 @@ Image Alt: Stewart Moskowitz - The Corporation (pyramid of penguins)
 
 Image Credit: Stewart Moskowitz
 
+Short ID: toah
+
 Teaser: 
 
 I sometimes think that at least half of the confusion we currently experience in our civil discourse stems from our inability to speak openly and honestly about the nature of hierarchy.

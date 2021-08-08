@@ -30,6 +30,8 @@ Medium Link: https://hbowie.medium.com/are-political-parties-doing-us-more-harm-
 
 Substack Link: https://practopian.substack.com/p/political-parties-more-harm-than-good
 
+Short ID: ppdumhtg
+
 Teaser: 
 
 I've been making the case lately that the Republican Party is in decline, and needs to reinvent itself. But perhaps something even more radical is needed. For when we look at the current state of our two-party system in the US, nothing about it makes any sense. 

@@ -26,6 +26,8 @@ Image Credit: iStock/LoveTheWind
 
 Image Credit Link: https://www.istockphoto.com/photo/group-of-people-on-peak-mountain-climbing-helping-team-work-travel-trekking-success-gm1135670850-302201417
 
+Short ID: phc
+
 Teaser: 
 
 As humans our superpower is the ability to work cooperatively with others of our species. But these seemingly simple ideas of cooperation and coordination turn out to be devilishly complex in practice, especially in large undertakings. In an organization of any appreciable size, all of the following patterns of cooperation can be found. 

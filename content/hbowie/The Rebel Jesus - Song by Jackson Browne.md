@@ -18,6 +18,8 @@ Minutes to Read: 4
 
 Image Name: The Next Voice You Hear
 
+Short ID: rjsbjb
+
 Body: 
 
 Listen on [Apple Music][am].

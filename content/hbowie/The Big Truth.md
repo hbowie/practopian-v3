@@ -22,6 +22,8 @@ Image Credit: iStock/Olivier Le Moal
 
 Image Credit Link: https://www.istockphoto.com/photo/truth-gm505750350-83837067
 
+Short ID: bt
+
 Teaser: 
 
 If we want to end The Big Lie, what undisclosed pieces of truth do we need to bring out into the open in order to achieve a more spacious shared understanding of our common reality?

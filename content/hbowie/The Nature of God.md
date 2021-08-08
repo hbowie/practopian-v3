@@ -24,6 +24,8 @@ Image Credit: iStock/shaunl
 
 Image Credit Link: https://www.istockphoto.com/photo/stained-glass-trio-gm529437493-54396332
 
+Short ID: ng
+
 Teaser: 
 
 Human records indicate that some sort of belief in a God or collection of gods is a feature of almost all human culture. No matter what the continent or age, a belief in powerful, supernatural beings that somehow influence human existence is a near-constant. 

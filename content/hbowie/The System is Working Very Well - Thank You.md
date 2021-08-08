@@ -24,6 +24,8 @@ Image Credit: iStock/nimis69
 
 Image Credit Link: https://www.istockphoto.com/photo/stationary-engineer-at-work-gm1093678798-293508451
 
+Short ID: swvwty
+
 Teaser: 
 
 We need to realize that the current system is, in fact, not broken. Instead, in truth, it is doing exactly what it was designed to do.

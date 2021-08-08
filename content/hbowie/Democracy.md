@@ -24,6 +24,8 @@ Image Credit: iStock/PictureLake
 
 Image Credit Link: https://www.istockphoto.com/photo/lincoln-gettysburg-address-postage-stamp-gm173639722-8591334
 
+Short ID: d
+
 Teaser: 
 
 I believe in democracy, with all citizens having an equal say in defining their society's laws, and an equal opportunity to influence their governments.

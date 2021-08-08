@@ -22,6 +22,7 @@ Image Alt: Claude Rains and Jimmy Stewart in the climactic scene of Frank Capra�
 
 Image Caption: Claude Rains and Jimmy Stewart in the climactic scene of Frank Capra’s film “Mr. Smith Goes To Washington”
 
+Short ID: dpn
 
 Teaser: 
 

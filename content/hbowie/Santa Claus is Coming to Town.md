@@ -18,6 +18,8 @@ Image Name: Springsteen jacket
 
 Image Alt: Cover of Springsteen record
 
+Short ID: scct
+
 Teaser: 
 
 "Santa Claus is Comin' to Town" was written in 1934, and was first sung on Eddie Cantor's radio show in that same year. It became an instant hit, and it's been a perennial holiday favorite ever since. 

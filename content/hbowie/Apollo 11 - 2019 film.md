@@ -28,6 +28,8 @@ Image Credit: iStock/makasana
 
 Image Credit Link: https://www.istockphoto.com/photo/half-moon-in-a-black-night-sky-gm1020413000-274142407
 
+Short ID: a12f
+
 Teaser: 
 
 No matter what your age or orientation, it's hard to gainsay the significance of humankind's first trip through space to set foot on a celestial body other than our birth planet. Of course fictional space flight has become so common that sitting down for two hours to watch a documentary about a real trip that took place half a century ago might seem like a somewhat pedestrian enterprise. Ah, but there's where you'd be wrong.

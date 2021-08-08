@@ -24,6 +24,8 @@ Image Credit: iStock/bubaone
 
 Image Credit Link: https://www.istockphoto.com/vector/world-map-globe-environmental-conservation-and-nature-interface-icon-pattern-gm531102311-55253690
 
+Short ID: eeao
+
 Teaser: 
 
 When historians look at the long span of our human history, they try to make sense of our arc of cultural evolution by breaking it up into phases. There are multiple perspectives we can use for this sort of exercise, but the most important is the relationship of our human population to the rest of our world. 

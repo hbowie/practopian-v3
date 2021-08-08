@@ -28,6 +28,8 @@ Image Credit: iStock/Olivier Le Moal
 
 Image Credit Link: https://www.istockphoto.com/photo/company-statement-mission-gm479774438-68219741
 
+Short ID: im
+
 Teaser: 
 
 The dictionary on my Mac defines mission as "a strongly felt aim, ambition, or calling."

@@ -28,6 +28,8 @@ Image Credit: iStock/traveler1116
 
 Image Credit Link: https://www.istockphoto.com/photo/louis-armstrong-stamp-gm458683309-22187110
 
+Short ID: cubtes
+
 Teaser: 
 
 As with many of us, I've been thinking deeply lately about the murders of George Floyd, Ahmaud Arbery, Breanna Taylor, and so many other people of color, and wondering how and why these atrocities continue to occur in my country, and what we can do to turn things around. And I've concluded that there are basically two types of human societies, with very different ways of thinking about themselves. 

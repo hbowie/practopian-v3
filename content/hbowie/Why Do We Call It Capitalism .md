@@ -22,6 +22,8 @@ Minutes to Read: 8
 
 Image Alt: Multi-armed capitalism with his fingers in all the pies
 
+Short ID: wdcic
+
 Teaser: 
 
 As Americans we generally believe in capitalism as a superior economic system, and are typically convinced that our country is run on capitalistic principles. But I've been wondering lately: If these things are really true, then why do so few Americans actually possess any capital?  

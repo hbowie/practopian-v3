@@ -24,6 +24,8 @@ Image Credit: iStock
 
 Image Credit Link: https://www.istockphoto.com/photo/two-girls-lying-in-estate-car-gm109434215-29666540
 
+Short ID: dtvmc
+
 Teaser: 
 
 If you react in any of these typical ways, then I will argue today that you're missing the bigger picture, and overlooking the most devastating consequences of our country's loss of our middle class.

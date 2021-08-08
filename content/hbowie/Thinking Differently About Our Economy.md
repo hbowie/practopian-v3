@@ -28,6 +28,8 @@ Medium Link: https://hbowie.medium.com/thinking-differently-about-our-economy-17
 
 Substack Link: https://practopian.substack.com/p/thinking-differently-about-our-economy
 
+Short ID: tdae
+
 Teaser: 
 
 We all know that the economy is important. We talk about it every day. But do we ever think about... how we think about it? How we visualize it? How we've been conditioned to think about it, perhaps unknowingly? 

@@ -28,6 +28,8 @@ Image Credit: iStock/oatawa
 
 Image Credit Link: https://www.istockphoto.com/photo/hand-arranging-wood-block-stacking-as-step-stair-on-paper-pink-background-business-gm1169974807-323612218
 
+Short ID: dl
+
 Teaser: 
 
 A number of authors and systems of thought espouse one or another series of developmental levels, in fields of study as diverse as psychology, sociology, economics and organizational development. Ken Wilber was the first author I encountered who proposed an integration of these various developmental progressions into a single unifying scheme. However, much of Ken's take  on these levels was heavily influenced by the Spiral Dynamics work done by Clare W. Graves, Don Beck and Chris Cowan.

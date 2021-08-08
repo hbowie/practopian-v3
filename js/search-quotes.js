@@ -1872,6 +1872,12 @@ let searchQuotes = [
 		content: "He who should inspire and lead his race must be defended from travelling with the souls of other men from living breathing reading and writing in the daily time worn yoke of their opinions Ralph Waldo Emerson  The Conduct of Life "
 	},
 	{
+		title: "Finish every day and be done with it",
+		date: "8 Apr 1854",
+    url: "quotes/finish-every-day-and-be-done-with-it.html",
+		content: "Finish every day and be done with it You have done what you could some blunders and absurdities no doubt crept in forget them as fast as you can Tomorrow is a new day You shall begin it well and serenely and with too high a spirit to be cumbered with your old nonsense Ralph Waldo Emerson American essayist, lecturer, philosopher, abolitionist and poet who led the transcendentalist movement of the mid-19th century To Daughter Ellen "
+	},
+	{
 		title: "People ask me to predict the future",
 		date: "1979",
     url: "quotes/people-ask-me-to-predict-the-future.html",

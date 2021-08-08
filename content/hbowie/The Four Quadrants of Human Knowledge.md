@@ -24,6 +24,8 @@ Image Name: Upper and Lower, Left and Right
 
 Image Alt: I / Subjective; It / Objective; We / Intersubjective; Its / Interobjective
 
+Short ID: fqhk
+
 Teaser: 
 
 I first came across Ken Wilber's work late in the last century when a friend handed me a copy of <cite>A Brief History of Everything</cite> as a birthday present.

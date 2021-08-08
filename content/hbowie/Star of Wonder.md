@@ -18,6 +18,8 @@ Image Name: We Three Kings
 
 Image Alt: We Three Kings album by The Roches
 
+Short ID: sw
+
 Teaser: 
 
 This is a lovely little song, written by Terre Roche and recorded *a cappella* by The Roches for their Christmas album, *We Three Kings*.

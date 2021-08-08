@@ -24,6 +24,8 @@ Image Credit: iStock/Chinnapong
 
 Image Credit Link: https://www.istockphoto.com/photo/world-heart-day-and-environmental-protection-concept-with-love-earth-in-community-gm1017943458-273689881
 
+Short ID: ml
+
 Teaser: 
 
 For me, love is an elemental human feeling that helps to bind us to one another, and to the world around us. It is a feeling of care and appreciation for, and attachment to, people and things of value that have an independent existence outside of ourselves. And while love may not be "*all* we need," it does seem to be an essential starting point for everything else.

@@ -22,6 +22,8 @@ Image Credit: iStock/PhotoAttractive
 
 Image Credit Link: https://www.istockphoto.com/photo/working-on-a-metal-lathe-gm1174292446-326534225
 
+Short ID: dfgued
+
 Teaser: 
 
 The problem is that we've had something valuable stolen from us along the way. And the whole modern notion of UX design is one of the thieves that has robbed us. 

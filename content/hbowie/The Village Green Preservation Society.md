@@ -22,6 +22,8 @@ Minutes to Read: 4
 
 Image Name: Kinks album cover
 
+Short ID: vgps
+
 Teaser: 
 
 This is a rather amazing song by The Kinks, first released in 1968. I loved this song from the moment I first heard it, but my appreciation for it has only grown over the years. 

@@ -18,6 +18,8 @@ Minutes to Read: 3
 
 Image Name: A Christmas Gift for You
 
+Short ID: cbpch
+
 Teaser: 
 
 Phil Spector released his magnum opus in the 1963 holiday season. Titled *A Christmas Gift for You from Philles Records,* it's hard to overstate the extent of Spector's ambition and accomplishment on this album. Understand that this was just before the Beatles conquered American airwaves, and came at a point when Spector was being condemned by old-guard members of the entertainment industry as a "sharpie poisoning American culture." It was also a time when the industry was dominated by singles, and long-playing albums were often filled with hastily-recorded second-rate material.

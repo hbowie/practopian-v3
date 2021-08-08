@@ -28,6 +28,8 @@ Image Credit: iStock/Ja_inter
 
 Image Credit Link: https://www.istockphoto.com/vector/businessman-stop-conflict-gm895085248-247372096
 
+Short ID: taml
+
 Teaser: 
 
 As the US political scene transitions from the Democratic successes in the midterms to the beginnings of the 2020 presidential contest, one of the most pressing questions to emerge is whether there is any meaningful middle ground remaining along the political spectrum stretching from left to right. 

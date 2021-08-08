@@ -24,6 +24,8 @@ Image Credit: iStock/masterzphotois
 
 Image Credit Link: https://www.istockphoto.com/photo/stand-out-from-the-crowd-and-different-creative-idea-concepts-longest-light-ladder-gm958939552-261850592
 
+Short ID: cdplg
+
 Teaser: 
 
 Right now Democrats are focused primarily on two things happening in 2020: 1. Beating Trump; 2. Regaining control of the Senate. These would both be great accomplishments for the party, and for the winning candidates. But for the country, not so much. 

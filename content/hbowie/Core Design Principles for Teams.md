@@ -28,6 +28,8 @@ Image Credit: iStock/miakievy
 
 Image Credit Link: https://www.istockphoto.com/vector/business-team-concept-gm1023639262-274733759
 
+Short ID: cdpt
+
 Teaser: 
 
 David Sloan Wilson and his pals at Prosocial World have done the heavy lifting for us, providing the eight Core Design Principles to maximize the effectiveness of human groups of all sizes. 

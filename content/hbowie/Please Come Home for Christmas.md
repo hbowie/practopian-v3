@@ -18,6 +18,8 @@ Minutes to Read: 3
 
 Image Name: Blue Yule
 
+Short ID: pchc
+
 Teaser: 
 
 If Christmas is supposed to return us to home and family, then of course songs will be written about those who are still left yearning for a reunion with loved ones during the holiday season. Charles Brown helped to give us the joyful "Merry Christmas Baby," but he also first delivered, and co-wrote, the plaintive appeal found in "Please Come Home for Christmas."

@@ -24,6 +24,8 @@ Image Credit: iStock/Adyna
 
 Image Credit Link: https://www.istockphoto.com/vector/green-city-life-gm478508358-67833839
 
+Short ID: cusi
+
 Teaser: 
 
 Looking back over the history of the United States, it's easy to see in hindsight a series of events and actions that have either united or divided us. 

@@ -28,6 +28,8 @@ Image Credit: iStock/pixelfit
 
 Image Credit Link: https://www.istockphoto.com/photo/social-networking-concept-gm503459032-82535109
 
+Short ID: hppmut
+
 Teaser: 
 
 What happened between 1990 and 2018? Who stuck the playing card between the spokes of the bicycle for my mind, turning a mental enabler into an annoying distraction?

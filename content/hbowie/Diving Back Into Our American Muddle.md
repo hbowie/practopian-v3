@@ -24,6 +24,8 @@ Image Credit: iStock/vernonwiley
 
 Image Credit Link: https://www.istockphoto.com/photo/diving-into-dark-water-unknown-future-gm603195908-103598761
 
+Short ID: dbiam
+
 Teaser: 
 
 I'm tempted to call the story heartbreaking, but it's more like brain-breaking: how can people who are so sick that they have to be hospitalized still refuse to believe in the existence of the very disease that is killing them?

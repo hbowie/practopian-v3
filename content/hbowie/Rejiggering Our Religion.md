@@ -26,6 +26,8 @@ Image Credit: iStock/i000pixels
 
 Image Credit Link: https://www.istockphoto.com/vector/symbols-of-the-three-world-religions-judaism-christianity-and-islam-gm931698620-255380828
 
+Short ID: rr
+
 Teaser: 
 
 When it comes to religion, the main question for most people is whether to keep the one we were raised with or to lose it altogether. But now I'm starting to wonder whether, instead of losing my religion, it might not be better just to rejigger it a bit? 

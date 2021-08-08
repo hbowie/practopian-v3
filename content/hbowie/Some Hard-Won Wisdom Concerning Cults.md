@@ -30,6 +30,8 @@ Medium Link: https://hbowie.medium.com/some-hard-won-wisdom-concerning-cults-592
 
 Substack Link: https://practopian.substack.com/p/cults
 
+Short ID: shwwcc
+
 Teaser: 
 
 As someone who once belonged to an organization later determined to be a cult, I can tell you that the warning signs are not always obvious. 

@@ -18,6 +18,8 @@ Minutes to Read: 5
 
 Image Name: Father Christmas
 
+Short ID: fcsbk
+
 Teaser: 
 
 Much like Jackson Browne's "The Rebel Jesus," this Christmas song from The Kinks is also focused on the needs of the poor. And although the children in this tale seem to come more from the Oliver Twist/Artful Dodger tradition than from "The Christmas Carol," Dickens would still recognize their predicament and their motivations.

@@ -26,6 +26,8 @@ Image Credit: iStock/Marc Dufresne
 
 Image Credit Link: https://www.istockphoto.com/photo/old-abandoned-house-with-a-trump-electoral-sign-on-it-somewhere-in-new-hampshire-gm1027415130-275467133
 
+Short ID: ut
+
 Teaser: 
 
 With a little luck, and a lot of hard work, we might be fortunate enough to see Donald Trump leave office in a few months. If so, that will be the end of the Trump presidency. Unfortunately, though, it won't mean the end of Trumpism. 

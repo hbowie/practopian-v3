@@ -22,6 +22,8 @@ Minutes to Read: 7
 
 Image Name: Kane vs Bailey
 
+Short ID: ckvcb
+
 Teaser: 
 
 I've often considered *Citizen Kane* and *It's A Wonderful Life* to be complementary works, much like cinematic twins separated at birth. 

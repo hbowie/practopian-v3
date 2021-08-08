@@ -18,6 +18,8 @@ Image Name: To Kingdom Come
 
 Image Alt: To Kingdom Come album cover
 
+Short ID: cmbt
+
 Teaser: 
 
 I've always loved this Christmas song from The Band. There's nothing terribly fancy or ambitious about it. Robbie Robertson just recounts the story of Christmas, of the birth of Jesus, in a series of familiar scenes, using simple and straightforward language. 

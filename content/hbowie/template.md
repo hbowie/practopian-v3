@@ -38,6 +38,8 @@ Medium Link: <link>
 
 Substack Link: <link>
 
+Short ID: 
+
 Teaser: <longtext> 
 
 Body:  

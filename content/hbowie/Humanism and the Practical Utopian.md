@@ -28,6 +28,8 @@ Image Credit: iStock/BrianAJackson
 
 Image Credit Link: https://www.istockphoto.com/photo/past-present-and-future-time-progress-concept-on-blackboard-or-chalkboard-gm687041946-126246703
 
+Short ID: hpu
+
 Body: 
 
 The [first Practopian core principle][humanism] states that "We are humanistic: we are focused on human concerns and human potential."

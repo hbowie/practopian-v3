@@ -28,6 +28,8 @@ Image Credit: iStock/borchee
 
 Image Credit Link: https://www.istockphoto.com/photo/mindfulness-gm1165048384-320426912
 
+Short ID: 8blclfp
+
 Teaser: 
 
 Suffering through a pandemic is a terrible way to have to learn a lesson or two about the nature of humanity. But it's what we have, so we may as well make use of it.

@@ -24,6 +24,8 @@ Image Credit: iStock/filo
 
 Image Credit Link: https://www.istockphoto.com/vector/social-media-marketing-like-comment-share-signs-gm1042841208-279178235
 
+Short ID: hfbt
+
 Teaser: 
 
 We all sort of know the problems, right? Monopolies. Lock-in. Stream addiction. Reality bubbles. Billionaires seeking market dominance. All other values taking a back seat to growth. I don't think I need to elaborate. If you're reading this, then you're probably well aware of all these concerns. But what do we do about them? Here are a couple of ideas. Radical but practical. And very doable. 

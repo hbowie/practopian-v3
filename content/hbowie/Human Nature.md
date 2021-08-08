@@ -24,6 +24,8 @@ Image Credit: iStock/Gerasimov174
 
 Image Credit Link: https://www.istockphoto.com/photo/whats-your-story-the-text-is-typed-on-paper-with-an-old-typewriter-gm1153689198-313429462
 
+Short ID: hn
+
 Teaser: 
 
 What does it mean to be human? This must certainly be a foundational question for all of us, when  contemplating almost any aspect of our existence. 

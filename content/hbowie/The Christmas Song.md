@@ -18,6 +18,8 @@ Image Name: Christmas Songs
 
 Image Alt: Album cover for Christmas Songs by Diana Krall
 
+Short ID: cs
+
 Teaser: 
 
 It would be hard to leave this one off of any list of holiday tunes. First of all, as it's named, this is "*The* Christmas Song." Second of all, everyone has recorded a version of it -- I have thirty different renditions of it in my own personal collection. Third, there's the classic story of the song's composition.... 

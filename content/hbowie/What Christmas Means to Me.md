@@ -28,6 +28,8 @@ Image Credit: iStock/coldsnowstorm
 
 Image Credit Link: https://www.istockphoto.com/photo/tourists-by-the-christmas-tree-in-trafalgar-square-london-uk-gm503215838-82399209
 
+Short ID: wcmm
+
 Teaser: 
 
 Here we are at the end of another year, well into what many of us call the Holiday Season. As I've remarked elsewhere, when it comes to religion, I'm a bit of a mongrel, so my approach to the holidays, while imbued with many of the traditional elements associated with a good Methodist upbringing, does not hew closely to any particular set of Christian dictates. But that's perhaps as it should be, for Christmas, it seems to me, has always been too big a thing to be narrowly claimed by any particular religious organization. 

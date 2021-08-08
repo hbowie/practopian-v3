@@ -24,6 +24,8 @@ Image Credit: iStock/Scar1984
 
 Image Credit Link: https://www.istockphoto.com/vector/decision-making-and-behavior-mental-trap-false-logic-circle-logical-solution-gm1186370127-334710678
 
+Short ID: rb
+
 Teaser: 
 
 We often seem to assume that people say things, and come to believe them, because they are true.

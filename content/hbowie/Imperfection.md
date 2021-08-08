@@ -20,6 +20,8 @@ Image Name: Voltaire
 
 Image Alt: Don't let the perfect by the enemy of the GOOD - Voltaire
 
+Short ID: i
+
 Teaser: 
 
 Belief in imperfection as a fundamental principle may seem like an odd concept but, in fact, it is an essential part of our thinking. Let's look at some of the reasoning behind this principle. 

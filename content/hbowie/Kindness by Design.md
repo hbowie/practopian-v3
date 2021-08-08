@@ -32,6 +32,8 @@ Medium Link: https://hbowie.medium.com/kindness-by-design-93843130d311
 
 Substack Link: https://practopian.substack.com/p/kindness-by-design
 
+Short ID: kbd
+
 Teaser: 
 
 Perhaps we might come around to thinking that economic kindness, instead of being something indulged in capriciously by bleeding-heart liberals who are occasionally feeling generous, should in fact be a regular practice that is designed into our societies.  

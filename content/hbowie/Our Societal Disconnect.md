@@ -28,6 +28,8 @@ Image Credit: iStock/Sean Pavone
 
 Image Credit Link: https://www.istockphoto.com/photo/downtown-annapolis-marlyand-gm474689808-64814065
 
+Short ID: sd
+
 Teaser: 
 
 I was thinking recently about my own upbringing in Annapolis, Maryland, back in the sixties, and it occurred to me that there were several aspects of my experience there and then that I took for granted, but that are no longer very common today.

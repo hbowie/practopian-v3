@@ -28,6 +28,8 @@ Image Credit: iStock/tumsasedgars
 
 Image Credit Link: https://www.istockphoto.com/photo/culture-concept-chart-with-keywords-and-icons-gm939772244-256934701
 
+Short ID: pp
+
 Teaser: 
 
 For progressives in the US -- and, indeed, in many parts of the world -- recent events have called into question our faith in the goodness of people, and in our continued march forward towards a better tomorrow. 

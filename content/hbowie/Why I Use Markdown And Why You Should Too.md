@@ -20,9 +20,12 @@ Image Name: Markdown mark
 
 Image Alt: Capital M followed by down arrow
 
+Short ID: wiumwyst
+
 Teaser: 
 
 What is Markdown, and why should you care? Let's just start by saying that Markdown is a deceptively simple tool for writers. 
+
 
 Body: 
 

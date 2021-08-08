@@ -24,6 +24,8 @@ Image Credit: iStock/FrankRamspott
 
 Image Credit Link: https://www.istockphoto.com/vector/open-book-storytelling-fantasy-doodle-drawing-gm1146460516-308918767
 
+Short ID: rsa
+
 Teaser: 
 
 Religion can be thought of as a collection of shared cultural artifacts that provide a sense of meaning about human existence. Religion attempts to answer the really "big" questions. 

@@ -22,6 +22,8 @@ Image Name: Holidays Rule
 
 Image Alt: Holidays Rule album cover
 
+Short ID: als
+
 Teaser: 
 
 Although this isn't strictly a Christmas song, its use in the closing scene of *It's A Wonderful Life* qualifies it as one in my book. And, in any case, it expresses a wonderful sentiment entirely appropriate to the holidays. 

@@ -18,6 +18,8 @@ Image Name: Hipsters Holidays
 
 Image Alt: Album cover for Hipsters' Holidays
 
+Short ID: bwsc
+
 Teaser: 
 
 R&B singer Mabel Scott recorded this little number in 1948, and it's been making its way onto stylish Christmas compilations ever since. The song was written by Leon René, who also penned "When the Swallows Come Back to Capistrano" and "Rockin' Robin".  

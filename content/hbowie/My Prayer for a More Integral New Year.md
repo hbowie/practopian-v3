@@ -24,6 +24,8 @@ Image Credit: iStock/brainmaster
 
 Image Credit Link: https://www.istockphoto.com/photo/earth-night-space-gm1070110506-286289120
 
+Short ID: mpminy
+
 Teaser: 
 
 As our old year winds to a close, and we pause briefly to compose ourselves before finding out what the next has in store, I want to take a moment to offer up a prayer -- not to God, but to all of us -- for a more integral sense of who we are in the new year.

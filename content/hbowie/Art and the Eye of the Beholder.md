@@ -20,6 +20,8 @@ Image Name: Long Goodbye Poster
 
 Image Alt: Artist Jack Davis' Poster for Director Robert Altman's adaptation of Author Raymond Chandler's The Long Goodbye
 
+Short ID: aeb
+
 Teaser: 
 
 I've noticed that Big Thinkers -- people like Ken Wilber and Yuval Noah Harari -- tend to get confused about art and why it matters. Unable to find a neat place for it in their developmental models of civilization, they end up citing that old chestnut of "Beauty is in the eye of the beholder" and leaving it at that, as an entirely subjective experience. Everyone's idea of beauty can be different, they say, and they're all equally valid. Of course, I've never run across an actual artist who sees things this way.

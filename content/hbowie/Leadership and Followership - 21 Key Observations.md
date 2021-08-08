@@ -32,6 +32,8 @@ Medium Link: https://hbowie.medium.com/leadership-and-followership-21-key-observ
 
 Substack Link: https://practopian.substack.com/p/leadership-and-followership
 
+Short ID: lf2ko
+
 Teaser: 
 
 I was reading recently about a couple of different situations involving traits of both leadership and followership. Some reflection on these two situations has compelled me to dispense the following bits of wisdom on the subjects of leading and following. Some of these may seem obvious, and some controversial, but they are all equally true and valuable, based on my own experience doing a fair bit of both in a number of different organizations.

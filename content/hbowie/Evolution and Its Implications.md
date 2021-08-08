@@ -24,6 +24,8 @@ Image Credit: iStock/00Mate00
 
 Image Credit Link: https://www.istockphoto.com/vector/evolution-of-man-gm694897626-128544041
 
+Short ID: ei
+
 Teaser: 
 
 A belief in evolution is one of the core Practopian principles. But to say that we believe in evolution means quite a bit more to us than simply a denial of creationism. We also mean to imply that we believe in natural selection as a process for improving things, including human culture. 

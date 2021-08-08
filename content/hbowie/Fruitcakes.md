@@ -22,6 +22,8 @@ Image Name: Fruitcakes album cover
 
 Image Alt: Fruitcakes album cover
 
+Short ID: f
+
 Teaser: 
 
 I've always considered this to be Jimmy Buffet's masterwork. The musical backing is infectious, swaying and danceable, and the background vocals add depth. The words are cleverly crafted, and perfectly suited to Buffett's conversational, wisecracking delivery.

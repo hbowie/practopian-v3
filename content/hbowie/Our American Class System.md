@@ -28,6 +28,8 @@ Image Credit: iStock/BlakeDavidTaylor
 
 Image Credit Link: https://www.istockphoto.com/photo/coke-bottle-and-glass-gm458297599-22620250
 
+Short ID: acs
+
 Teaser: 
 
 This was a period of our history during which class distinctions seemed to be fading. Sure, some people had more money than others. My mother drove a Ford Falcon, my father drove a Mustang, and my Uncle drove a Thunderbird. But they all drove Fords, everyone drove cars built in Detroit, and the similarities between the cars they were driving were more significant than the differences.

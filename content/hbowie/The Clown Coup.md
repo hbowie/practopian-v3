@@ -8,6 +8,10 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
 Importance: 99
 
 Date:   08 Jan 2021
@@ -18,9 +22,12 @@ Image Name: Evil Clown with Balloons
 
 Image Alt: Evil clown with balloons
 
+Short ID: cc
+
 Teaser: 
 
 The invasion of our Capitol building on January 6th, 2021, and the accompanying disruption of the work of our duly elected members of Congress, was certainly an unprecedented and frightening addition to our American history books.  And yet, despite all of the terrifying and shocking things we witnessed during this day, the one thing we *didn't* see was any serious attempt to seize power, or to overthrow our government. 
+
 
 Body: 
 

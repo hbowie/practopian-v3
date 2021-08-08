@@ -28,6 +28,8 @@ Image Credit: iStock/hkeita
 
 Image Credit Link: https://www.istockphoto.com/photo/people-gather-at-the-center-of-the-circle-enthusiastic-people-organization-gm1189016451-336509465
 
+Short ID: rh
+
 Teaser: 
 
 As I watched the Biden-Harris inaugural ceremonies this week, I found myself overcome by unanticipated thoughts and feelings.

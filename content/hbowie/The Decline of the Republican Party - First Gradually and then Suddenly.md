@@ -32,6 +32,8 @@ Medium Link: https://hbowie.medium.com/the-decline-of-the-republican-party-first
 
 Substack Link: https://practopian.substack.com/p/republican-party-decline
 
+Short ID: drpfgts
+
 Teaser: 
 
 In line with the famous quote from Ernest Hemingway, the Republican Party seems to see their fortunes on the decline -- gradually for now -- but perhaps suddenly before much longer. 

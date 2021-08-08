@@ -24,6 +24,8 @@ Image Credit: iStock/cnythzl
 
 Image Credit Link: https://www.istockphoto.com/vector/notification-concept-icon-gm847134666-138897507
 
+Short ID: maypaa
+
 Teaser: 
 
 Today I'd like to offer some advice for what people can and should do to improve their own personal lots in modern life. I have only a few recommendations, and they're rather brief and straightforward, although I won't claim they're easy.  

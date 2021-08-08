@@ -24,6 +24,8 @@ Image Credit: iStock/Christopher Ames
 
 Image Credit Link: https://www.istockphoto.com/photo/european-newspapers-react-to-donald-trump-election-gm621995956-108803615
 
+Short ID: wtgr
+
 Teaser: 
 
 As we contemplate the road forward for progressives, I thought it might be useful to point out some things that Donald Trump gets right. This is not because I want to convince you to vote Republican, but because I think it's important for the Democrats to understand the challenges they face in persuading many Americans to vote for them. 

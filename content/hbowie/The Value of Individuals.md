@@ -24,6 +24,8 @@ Image Credit: iStock/Artranq
 
 Image Credit Link: https://www.istockphoto.com/photo/girl-dancing-on-training-rhythmic-gymnastics-gm540504772-96507335
 
+Short ID: vi
+
 Teaser: 
 
 A belief in the value of individuals is one of the core Practopian principles.

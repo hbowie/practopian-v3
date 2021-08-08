@@ -28,6 +28,8 @@ Image Credit: iStock/alexsl
 
 Image Credit Link: https://www.istockphoto.com/photo/competition-ahead-warning-sign-concept-gm849673108-139474235
 
+Short ID: trfpc
+
 Teaser: 
 
 Facebook has been in the news lately due to renewed privacy concerns, and many observers have called for various solutions, including pledges from CEO Mark Zuckerberg to do better, as well as increased government regulation. But there seems to be an obvious and somewhat traditional remedy that is not getting much consideration: good old fashioned competition. 

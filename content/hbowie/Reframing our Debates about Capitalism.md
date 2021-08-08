@@ -22,6 +22,8 @@ Image Alt: Gary Cooper looking askance at his newly acquired butler in a scene f
 
 Image Caption: Gary Cooper looking askance at his newly acquired butler in a scene from the Frank Capra film Mr. Deeds Goes to Town
 
+Short ID: rdac
+
 Teaser: 
 
 There is a flaw in the reasoning behind our infernal, never-ending, society-splitting debate concerning socialism vs. capitalism, and I want to point it out.

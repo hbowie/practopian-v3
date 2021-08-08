@@ -18,6 +18,8 @@ Image Name: snowfall
 
 Image Alt: Tony Bennett - snowfall
 
+Short ID: mft
+
 Teaser: 
 
 Some might protest that "My Favorite Things" is not, strictly speaking, a Christmas song. After all, there is no mention of Christmas, and that "holiday" word appears nowhere in the lyrics. However, those points notwithstanding, it has been included on many a Christmas album, and it's easy to see why: with references to packages, sleigh bells, snowflakes and winters -- as well as the overall theme of "my favorite things" -- it's easy to sneak it into any holiday playlist. 

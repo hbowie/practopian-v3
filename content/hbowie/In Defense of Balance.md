@@ -24,6 +24,8 @@ Image Credit: iStock/malerapaso
 
 Image Credit Link: https://www.istockphoto.com/photo/balancing-stones-gm185254543-19973407
 
+Short ID: idb
+
 Teaser: 
 
 When I created The Practical Utopian, I based it on a fundamental set of beliefs, divided up into principles and values. And the very first value, the one given preeminent position, is balance. 

@@ -22,6 +22,8 @@ Image Name: big fish eating smaller ones
 
 Image Alt: Big Fish Eating Smaller Fish
 
+Short ID: wdabb
+
 Teaser: 
 
 Has business gotten too big? Rather than trying to answer this question directly, let's start by reviewing the fundamental architecture of all modern societies.

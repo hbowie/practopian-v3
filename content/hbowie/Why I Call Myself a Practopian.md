@@ -24,9 +24,12 @@ Image Credit: iStock/f11photo
 
 Image Credit Link: https://www.istockphoto.com/photo/view-of-downtown-seattle-skyline-gm680820210-124800839
 
+Short ID: wicmp
+
 Teaser: 
 
 I suffered a crisis of faith a few years ago: a crisis of faith in my atheism. 
+
 
 Body: 
 

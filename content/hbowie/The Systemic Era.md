@@ -20,6 +20,8 @@ Image Name: Chaplin in Modern Times
 
 Image Alt: Charlie Chaplin in Modern Times
 
+Short ID: se
+
 Teaser: 
 
 We tend to divide up human history into relatively neat periods, and give them names like "The Agrarian Era," "The Age of Industrialization" and "The Information Age."

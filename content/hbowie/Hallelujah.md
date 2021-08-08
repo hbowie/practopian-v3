@@ -32,6 +32,8 @@ Image Credit: iStock/Chalffy
 
 Image Credit Link: https://www.istockphoto.com/photo/montreal-skyline-with-leonard-cohen-mural-gm1046369398-279964869
 
+Short ID: h
+
 Teaser: 
 
 The history of Leonard Cohen's song "Hallelujah" is a fascinating one. Cohen's songs had never really been embraced by the masses, and his first recording of "Hallelujah" in the early eighties was part of an album so lacking in obvious commercial appeal that the president of CBS Records responded to it by saying: "What is this? This isn't pop music. We're not releasing it. This is a disaster."

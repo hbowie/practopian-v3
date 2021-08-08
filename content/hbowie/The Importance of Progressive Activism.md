@@ -30,6 +30,8 @@ Medium Link: https://hbowie.medium.com/the-importance-of-progressive-activism-d3
 
 Substack Link: https://practopian.substack.com/p/the-importance-of-progressive-activism
 
+Short ID: ipa
+
 Teaser: 
 
 It was just a little over four years ago that I remember sitting in front of our TV with our neighbors, watching the election returns, preparing to celebrate. 

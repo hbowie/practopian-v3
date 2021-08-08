@@ -18,6 +18,8 @@ Image Name: Light of the Stable
 
 Image Alt: Light of the Stable by Emmylou Harris
 
+Short ID: ctsc
+
 Teaser: 
 
 This is a bluegrass song written by Bell Labs engineer and bluegrass fiddler Benjamin "Tex" Logan, and first recorded by Bill Monroe in 1951.

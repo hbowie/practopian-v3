@@ -28,6 +28,8 @@ Image Credit: iStock/filo
 
 Image Credit Link: https://www.istockphoto.com/vector/please-stand-by-test-screen-gm918675332-252698482
 
+Short ID: bc
+
 Teaser: 
 
 Let me take you on a little journey of thought exploring some hitherto unconsidered aspects of our common cultural evolution. 

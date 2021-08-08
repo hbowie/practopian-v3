@@ -24,6 +24,8 @@ Image Credit: The University of Chicago Press
 
 Image Credit Link: https://press.uchicago.edu/ucp/books/book/chicago/C/bo8787504.html
 
+Short ID: ce
+
 Teaser: 
 
 A belief in cultural evolution is one of the core Practopian principles. But what do we mean by human culture? And by its evolution? Let's dive a little deeper to uncover some of the significant ideas lurking behind this simple statement.

@@ -30,6 +30,8 @@ Medium Link: https://hbowie.medium.com/why-its-a-bad-time-to-be-a-conservative-e
 
 Substack Link: https://practopian.substack.com/p/why-its-a-bad-time-to-be-a-conservative
 
+Short ID: wisbtbc
+
 Teaser: 
 
 Conservatism is a respectable human impulse. But now is not a particularly good time for it.  

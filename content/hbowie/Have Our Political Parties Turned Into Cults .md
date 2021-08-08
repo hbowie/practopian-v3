@@ -30,6 +30,8 @@ Medium Link: https://hbowie.medium.com/have-our-political-parties-turned-into-cu
 
 Substack Link: https://practopian.substack.com/p/have-our-political-parties-now-turned-into-cults
 
+Short ID: hpptic
+
 Teaser: 
 
 I recently wrote a piece offering "Some Hard-Won Wisdom Concerning Cults." And I've written a couple of pieces recently questioning the direction of the current Republican Party. And so, today, I want to ask the question: should either, or both, of our political parties be considered cults? 

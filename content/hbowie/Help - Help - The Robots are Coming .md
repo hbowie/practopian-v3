@@ -24,6 +24,8 @@ Image Credit: iStock/Petmal
 
 Image Credit Link: https://www.istockphoto.com/photo/robot-job-interview-gm538488658-95772507
 
+Short ID: hhrc
+
 Teaser: 
 
 Many pundits today are predicting a future of robots equipped with artificial intelligence so powerful that they will essentially render great swaths of humanity obsolete. Let me just make a few points concerning such imaginings. 
