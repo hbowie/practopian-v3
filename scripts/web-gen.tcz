@@ -103,6 +103,8 @@ template	open			/Users/hbowie/Sites/practopian 3/templates/search-quotes.js
 template	generate
 template	open			/Users/hbowie/Sites/practopian 3/templates/recommended.html
 template	generate
+template	open			/Users/hbowie/Sites/practopian 3/templates/commonplace-lookup-template.md
+template	generate
 
 <!-- Generate page for latest quotations  -->
 

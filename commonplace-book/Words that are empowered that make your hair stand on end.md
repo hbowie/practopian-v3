@@ -4,6 +4,8 @@ Tags:   art
 
 Featured: false
 
+Recommended: false
+
 Author: Allen Ginsberg
 
 Date:   2005

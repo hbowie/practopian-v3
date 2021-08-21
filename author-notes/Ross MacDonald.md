@@ -1,0 +1,13 @@
+Author: Ross MacDonald
+
+Tags:
+
+Author Info:  Ross Macdonald is the main pseudonym that was used by the American-Canadian writer of crime fiction Kenneth Millar
+
+Author Years: 1915-1983
+
+Author Link:  https://en.wikipedia.org/wiki/Ross_Macdonald
+
+Author Notes:
+
+

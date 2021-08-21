@@ -2,7 +2,9 @@ Title:  A multiethnic democracy in which no particular ethnic group is in the ma
 
 Tags:   democracy, diversity, equality
 
-Featured: false
+Featured: true
+
+Recommended: false
 
 Author: Danielle Allen
 

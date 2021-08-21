@@ -2,6 +2,10 @@ Title:  The exercise of the intellect
 
 Tags:   science
 
+Featured: false
+
+Recommended: false
+
 Author: Alexis de Tocqueville
 
 Date:   1835

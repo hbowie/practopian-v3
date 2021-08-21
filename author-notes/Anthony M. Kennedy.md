@@ -1,0 +1,13 @@
+Author: Anthony M. Kennedy
+
+Tags:
+
+Author Info:  American lawyer and jurist
+
+Author Years: 1936-
+
+Author Link:  https://en.wikipedia.org/wiki/Anthony_Kennedy
+
+Author Notes:
+
+

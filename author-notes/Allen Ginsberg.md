@@ -1,0 +1,13 @@
+Author: Allen Ginsberg
+
+Tags:
+
+Author Info:  American poet and writer
+
+Author Years: 1926-1997
+
+Author Link:  https://en.wikipedia.org/wiki/Allen_Ginsberg
+
+Author Notes:
+
+

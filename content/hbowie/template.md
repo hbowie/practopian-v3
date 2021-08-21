@@ -34,11 +34,11 @@ Image Credit:
 
 Image Credit Link: <link> 
 
-Medium Link: <link>
+Medium Link: <link> 
 
-Substack Link: <link>
+Substack Link: <link> 
 
-Short ID: 
+Short ID: <shortid> 
 
 Teaser: <longtext> 
 

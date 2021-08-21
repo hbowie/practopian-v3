@@ -4,6 +4,8 @@ Tags:   critical thinking, religion
 
 Featured: false
 
+Recommended: false
+
 Author: Bertrand Russell
 
 Date:   1952

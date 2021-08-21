@@ -1,0 +1,13 @@
+Author: Abraham Lincoln
+
+Tags:
+
+Author Info:  American statesman and lawyer
+
+Author Years: 1809-1865
+
+Author Link:  https://en.wikipedia.org/wiki/Abraham_Lincoln
+
+Author Notes:
+
+

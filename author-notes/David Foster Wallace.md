@@ -1,0 +1,13 @@
+Author: David Foster Wallace
+
+Tags:
+
+Author Info:  American author of novels, short stories and essays
+
+Author Years: 1962-2008
+
+Author Link:  https://en.wikipedia.org/wiki/David_Foster_Wallace
+
+Author Notes:
+
+

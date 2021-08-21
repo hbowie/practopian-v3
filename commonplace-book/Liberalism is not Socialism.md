@@ -2,7 +2,7 @@ Title:  Liberalism is not Socialism
 
 Tags:   equality, governance, value creation
 
-Featured: true
+Featured: false
 
 Recommended: false
 

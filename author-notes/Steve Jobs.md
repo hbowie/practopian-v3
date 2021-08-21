@@ -1,0 +1,13 @@
+Author: Steve Jobs
+
+Tags:
+
+Author Info:  American business magnate, industrial designer, investor, and media proprietor
+
+Author Years: 1955-2011
+
+Author Link:  https://en.wikipedia.org/wiki/Steve_Jobs
+
+Author Notes:
+
+

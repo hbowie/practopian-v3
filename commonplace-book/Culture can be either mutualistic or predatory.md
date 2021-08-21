@@ -2,6 +2,10 @@ Title:  Culture can be either mutualistic or predatory
 
 Tags:   cultural evolution, society
 
+Featured: false
+
+Recommended: false
+
 Author: Victor Hwang
 
 Date:   06 Aug 2020

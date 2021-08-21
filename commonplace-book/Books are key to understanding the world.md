@@ -2,6 +2,10 @@ Title:  Books are key to understanding the world
 
 Tags:   written word
 
+Featured: false
+
+Recommended: false
+
 Author: Carl Sagan
 
 Date:   1995

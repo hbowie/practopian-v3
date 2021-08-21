@@ -1,0 +1,39 @@
+Title: Every Third American
+
+Featured: false
+
+Recommended: false
+
+Author: H. L. Mencken
+
+Date: 1919
+
+Tags: USA, liberty
+
+Work Title: Prejudices: First Series
+
+Work Type: Book
+
+Work Minor Title:  
+
+Work Link: 
+
+Work Id:  
+
+Work Pages:  
+
+Work Rights:  
+
+Work Rights Holder:  
+
+Publisher:  
+
+Publisher City:  
+
+Date Added: 2006-11-30 14:29:31 -0800
+
+Body:
+
+We are, in fact, a nation of evangelists; every third American devotes himself to improving and lifting up his fellow citizens, usually by force; the messianic delusion is our national disease.
+
+
