@@ -1,8 +1,8 @@
 Title: The Only Sign of Mental Activity
 
-Featured: 
+Featured: false
 
-Recommended: 
+Recommended: false
 
 Author: Margery Allingham
 

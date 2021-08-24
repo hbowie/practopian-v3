@@ -2,6 +2,10 @@ Title:  The Only Sign of Mental Activity
 
 Tags:   written word
 
+Featured: false
+
+Recommended: false
+
 Author: Margery Allingham
 
 Date:   1934

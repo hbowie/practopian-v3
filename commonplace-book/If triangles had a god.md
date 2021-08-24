@@ -1,22 +1,39 @@
-Title:  If triangles had a god
-
-Tags:   religion
+Title: If triangles had a god
 
 Featured: false
 
+Recommended: 
+
 Author: Montesquieu
 
-Author Info: French judge, man of letters, and political philosopher
+Date: 
 
-Author Years: 1689-1755
+Tags: religion
 
-Author Link: https://en.wikipedia.org/wiki/Montesquieu
+Work Title: 
 
 Work Type: Book
 
+Work Minor Title:  
+
+Work Link: 
+
+Work Id:  
+
+Work Pages:  
+
+Work Rights:  
+
+Work Rights Holder:  
+
+Publisher:  
+
+Publisher City:  
+
 Date Added: 2018-08-12 15:08:03 -0700
 
-Body: 
+Body:
 
 If triangles had a god, they would give him three sides.
+
 

@@ -1,4 +1,4 @@
-Title:  Societies are not merely statistical aggregations 
+Title: Societies are not merely statistical aggregations
 
 Featured: false
 
@@ -6,20 +6,34 @@ Recommended: false
 
 Author: Lester Thurow
 
-Date:   1983
+Date: 1983
 
-Author Info: American political economist
-
-Author Years: 1938-2016
-
-Author Link: https://en.wikipedia.org/wiki/Lester_Thurow
+Tags: 
 
 Work Title: Dangerous Currents
 
 Work Type: Book
 
-Work Pages: 222-223
+Work Minor Title:  
 
-Body: 
+Work Link: 
+
+Work Id:  
+
+Work Pages:  222-223
+
+Work Rights:  
+
+Work Rights Holder:  
+
+Publisher:  
+
+Publisher City:  
+
+Date Added: 2021-05-12 11:02:09 -0700
+
+Body:
 
 Societies are not merely statistical aggregations of individuals engaged in voluntary exchange but something much more subtle and complicated. A group or community cannot be understood if the unit of analysis is the individual taken by himself. A society is clearly something greater than the sum of its parts.
+
+

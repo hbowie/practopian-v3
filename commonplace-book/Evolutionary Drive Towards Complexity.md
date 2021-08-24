@@ -1,6 +1,4 @@
-Title:  Evolutionary Drive Towards Complexity
-
-Tags:   evolution
+Title: Evolutionary Drive Towards Complexity
 
 Featured: false
 
@@ -8,27 +6,34 @@ Recommended: false
 
 Author: Richard Dawkins
 
-Date:   2006
+Date: 2006
 
-Author Info: British evolutionary biologist
-
-Author Years: 1941-
-
-Author Link: https://en.wikipedia.org/wiki/Richard_Dawkins
+Tags: evolution
 
 Work Title: The God Delusion
 
 Work Type: Book
 
-Work Id: 0618680004
+Work Minor Title:  
 
-Work Rights: Copyright
+Work Link: 
 
-Work Rights Holder: Richard Dawkins
+Work Id:  0618680004
+
+Work Pages:  
+
+Work Rights:  Copyright
+
+Work Rights Holder:  Richard Dawkins
+
+Publisher:  
+
+Publisher City:  
 
 Date Added: 2007-09-08 10:13:31 -0700
 
-Body: 
+Body:
 
 The evolutionary drive towards complexity comes, in those lineages where it comes at all, not from any inherent propensity for increased complexity, and not from biased mutation. It comes from natural selection: the process which, as far as we know, is the only process ultimately capable of generating complexity out of simplicity.
+
 

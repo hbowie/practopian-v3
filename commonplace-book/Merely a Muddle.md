@@ -1,6 +1,4 @@
-Title:  Merely a Muddle
-
-Tags:   critical thinking
+Title: Merely a Muddle
 
 Featured: false
 
@@ -8,27 +6,33 @@ Recommended: false
 
 Author: Michael Innes
 
-Date:   1936
+Date: 1936
 
-Author Info: Pseudonym for John Innes Mackintosh Stewart, a Scottish novelist and academic
-
-Author Years: 1906-1994
-
-Author Link: https://en.wikipedia.org/wiki/J._I._M._Stewart
+Tags: critical thinking
 
 Work Title: The Seven Suspects
 
 Work Type: Book
 
-Work Id: 0140068864
+Work Minor Title:  
 
-Work Rights: Copyright
+Work Link: 
 
-Work Rights Holder: John Innes Mackintosh Stewart
+Work Id:  0140068864
+
+Work Pages:  
+
+Work Rights:  Copyright
+
+Work Rights Holder:  John Innes Mackintosh Stewart
+
+Publisher:  
+
+Publisher City:  
 
 Date Added: 2007-09-29 07:47:36 -0700
 
-Body: 
+Body:
 
 "And your remarks on the text," Mr. Gott declared, "are merely a muddle." 
 
@@ -43,3 +47,4 @@ Body:
 "Yes," said Mike, dubiously. 
 
 "Keep off thinking things out, and you'll do well. In fact, you'll go far."
+

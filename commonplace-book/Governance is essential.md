@@ -2,6 +2,10 @@ Title:  Governance is essential
 
 Tags:   governance
 
+Featured: false
+
+Recommended: false
+
 Author: Tim O'Reilly
 
 Date:   2017

@@ -1,6 +1,4 @@
-Title:  The Four-Fold Way
-
-Tags:   critical thinking, love
+Title: The Four-Fold Way
 
 Featured: false
 
@@ -8,21 +6,33 @@ Recommended: false
 
 Author: Angeles Arrien
 
-Date:   1993
+Date: 1993
+
+Tags: critical thinking, love
 
 Work Title: The Four-Fold Way
 
 Work Type: Book
 
-Work Id: 0062500597
+Work Minor Title:  
 
-Work Rights: Copyright
+Work Link: 
 
-Work Rights Holder: Angeles Arrien
+Work Id:  0062500597
+
+Work Pages:  
+
+Work Rights:  Copyright
+
+Work Rights Holder:  Angeles Arrien
+
+Publisher:  
+
+Publisher City:  
 
 Date Added: 2007-11-06 07:00:58 -0800
 
-Body: 
+Body:
 
 The following four principles, each based on an archetype, comprise what I call the Four-Fold Way: 
 
@@ -33,3 +43,4 @@ The following four principles, each based on an archetype, comprise what I call 
 3. <em>Tell the truth without blame or judgment.</em> Nonjudgmental truthfulness maintains our authenticity, and develops our inner vision and intuition. This is the way of the Visionary. 
 
 4. <em>Be open to outcome, not attached to outcome.</em> Openness and nonattachment help us to recover the human resources of wisdom and objectivity. This is the way of the Teacher.
+

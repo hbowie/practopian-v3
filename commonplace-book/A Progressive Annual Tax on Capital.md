@@ -2,6 +2,10 @@ Title:  A Progressive Annual Tax on Capital
 
 Tags:   equality, value creation
 
+Featured: false
+
+Recommended: false
+
 Author: Thomas Piketty
 
 Date:   2014

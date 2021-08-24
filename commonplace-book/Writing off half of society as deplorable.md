@@ -1,6 +1,4 @@
-Title:  Writing off half of society as deplorable
-
-Tags:   democracy
+Title: Writing off half of society as deplorable
 
 Featured: false
 
@@ -8,27 +6,34 @@ Recommended: false
 
 Author: Edward Luce
 
-Date:   2017
+Date: 2017
+
+Tags: democracy
 
 Work Title: The Retreat of Western Liberalism
 
 Work Type: Book
 
+Work Minor Title:  
+
 Work Link: https://amzn.to/2NsT7V5
 
-Work Id: 0802127398
+Work Id:  0802127398
 
-Work Rights: Copyright
+Work Pages:  
 
-Work Rights Holder: Edward Luce
+Work Rights:  Copyright
 
-Publisher: Atlantic Monthly Press
+Work Rights Holder:  Edward Luce
 
-Publisher City: New York
+Publisher:  Atlantic Monthly Press
+
+Publisher City:  New York
 
 Date Added: 2018-07-20 10:28:19 -0700
 
-Body: 
+Body:
 
 If we write off half of society as deplorable we forfeit claims on their attention. We also endanger liberal democracy. 
+
 

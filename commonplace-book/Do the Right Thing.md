@@ -1,16 +1,39 @@
-Title:  Do the Right Thing
+Title: Do the Right Thing
 
-Tags:   individuals
+Featured: 
+
+Recommended: 
 
 Author: Mark Twain
+
+Date: 
+
+Tags: individuals
 
 Work Title: unknown
 
 Work Type: unknown
 
+Work Minor Title:  
+
+Work Link: 
+
+Work Id:  
+
+Work Pages:  
+
+Work Rights:  
+
+Work Rights Holder:  
+
+Publisher:  
+
+Publisher City:  
+
 Date Added: 2006-11-30 14:29:31 -0800
 
-Body: 
+Body:
 
 Do the right thing. It will gratify some people and astonish the rest.
+
 

@@ -1,26 +1,38 @@
-Title:  Practice kindness all day to everybody
-
-Tags:   connection, love
+Title: Practice kindness all day to everybody
 
 Featured: false
 
+Recommended: 
+
 Author: Jack Kerouac
 
-Date:   1957
+Date: 1957
 
-Author Info: American novelist and pioneer of the Beat Generation
-
-Author Years: 1922-1969
-
-Author Link: https://en.wikipedia.org/wiki/Jack_Kerouac
+Tags: connection, love
 
 Work Title: The Portable Jack Kerouac
 
 Work Type: Book
 
+Work Minor Title:  
+
+Work Link: 
+
+Work Id:  
+
+Work Pages:  
+
+Work Rights:  
+
+Work Rights Holder:  
+
+Publisher:  
+
+Publisher City:  
+
 Date Added: 2020-12-06 09:46:29 -0800
 
-Body: 
+Body:
 
 The world you see is just a movie in your mind.  
 Rocks don't see it.  
@@ -41,3 +53,4 @@ praying and being
 cool and singing   
 by my woodstove   
 making pancakes.
+

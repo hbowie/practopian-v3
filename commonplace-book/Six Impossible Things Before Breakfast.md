@@ -1,20 +1,38 @@
-Title:  Six Impossible Things Before Breakfast
+Title: Six Impossible Things Before Breakfast
 
-Tags:   critical thinking
+Featured: 
+
+Recommended: 
 
 Author: Lewis Carroll
 
-Date:   1871
+Date: 1871
+
+Tags: critical thinking
 
 Work Title: Through the Looking Glass
 
 Work Type: Book
 
-Work Id: 1840220740
+Work Minor Title:  
+
+Work Link: 
+
+Work Id:  1840220740
+
+Work Pages:  
+
+Work Rights:  
+
+Work Rights Holder:  
+
+Publisher:  
+
+Publisher City:  
 
 Date Added: 2010-11-21 07:23:15 -0800
 
-Body: 
+Body:
 
 "I can't believe that!" said Alice. 
 
@@ -23,3 +41,4 @@ Body:
 Alice laughed. "There's no use trying," she said "one can't believe impossible things." 
 
 "I daresay you haven't had much practice," said the Queen. "When I was your age, I always did it for half-an-hour a day. Why, sometimes I've believed as many as six impossible things before breakfast."
+

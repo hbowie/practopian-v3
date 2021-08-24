@@ -1,28 +1,39 @@
-Title:  Ignorant and Free
-
-Tags:   education, governance, liberty, written word
+Title: Ignorant and Free
 
 Featured: false
 
+Recommended: 
+
 Author: Thomas Jefferson
 
-Date:   Jan 6, 1816
+Date: Jan 6, 1816
 
-Author Info: American statesman, diplomat, lawyer, architect, philosopher, and Founding Father who served as the third president of the United States from 1801 to 1809
-
-Author Years: 1743-1826
-
-Author Link: https://en.wikipedia.org/wiki/Thomas_Jefferson
+Tags: education, governance, liberty, written word
 
 Work Title: To Colonel Charles Yancey
 
 Work Type: Letter
 
+Work Minor Title:  
+
 Work Link: http://oll.libertyfund.org/titles/807/88152
+
+Work Id:  
+
+Work Pages:  
+
+Work Rights:  
+
+Work Rights Holder:  
+
+Publisher:  
+
+Publisher City:  
 
 Date Added: 2015-12-01 05:36:20 -0800
 
-Body: 
+Body:
 
 If a nation expects to be ignorant and free, in a state of civilization, it expects what never was and never will be. The functionaries of every government have propensities to command at will the liberty and property of their constituents. There is no safe deposit for these but with the people themselves; nor can they be safe with them without information. Where the press is free, and every man able to read, all is safe.
+
 

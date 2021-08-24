@@ -2,6 +2,10 @@ Title:  Cinema was about revelation
 
 Tags:   art
 
+Featured: false
+
+Recommended: false
+
 Author: Martin Scorsese
 
 Date:   04 Nov 2019

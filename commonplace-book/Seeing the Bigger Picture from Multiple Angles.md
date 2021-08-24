@@ -1,6 +1,4 @@
-Title:  Seeing the Bigger Picture from Multiple Angles
-
-Tags:   critical thinking, diversity, integral
+Title: Seeing the Bigger Picture from Multiple Angles
 
 Featured: false
 
@@ -8,19 +6,33 @@ Recommended: false
 
 Author: Jeff Bezos and Jason Fried
 
-Date:   Sep 21, 2015
+Date: Sep 21, 2015
+
+Tags: critical thinking, diversity, integral
 
 Work Title: Signal vs. Noise
 
 Work Type: Interview
 
-Work Minor Title: Some advice from Jeff Bezos
+Work Minor Title:  Some advice from Jeff Bezos
 
 Work Link: https://m.signalvnoise.com/some-advice-from-jeff-bezos-28b3c2938968#.5mg9cq83q
 
+Work Id:  
+
+Work Pages:  
+
+Work Rights:  
+
+Work Rights Holder:  
+
+Publisher:  
+
+Publisher City:  
+
 Date Added: 2012-10-22 05:30:34 -0700
 
-Body: 
+Body:
 
 He [Jeff Bezos] said people who were right a lot of the time <em>were people who often changed their minds</em>. He doesn't think consistency of thought is a particularly positive trait. It's perfectly healthy -- encouraged, even -- to have an idea tomorrow that contradicted your idea today. 
 
@@ -29,3 +41,4 @@ He's observed that the smartest people are constantly revising their understandi
 This doesn't mean you shouldn't have a well formed point of view, but it means you should consider your point of view as temporary. 
 
 What trait signified someone who was <em>wrong</em> a lot of the time? Someone obsessed with details that only support one point of view. If someone can't climb out of the details, and see the bigger picture from multiple angles, they're often wrong most of the time.
+

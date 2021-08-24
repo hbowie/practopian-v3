@@ -1,6 +1,4 @@
-Title:  We have wonderful arguments
-
-Tags:   critical thinking, design, equality
+Title: We have wonderful arguments
 
 Featured: false
 
@@ -8,19 +6,33 @@ Recommended: false
 
 Author: Steve Jobs
 
-Date:   06/07/2010
+Date: 06/07/2010
+
+Tags: critical thinking, design, equality
 
 Work Title: D8 Conference
 
 Work Type: unknown
 
-Work Minor Title: Conversation with Walt Mossberg
+Work Minor Title:  Conversation with Walt Mossberg
 
 Work Link: http://thesmallwave.com/ideas-not-hierarchy-on-steve-jobs-supposedly
 
+Work Id:  
+
+Work Pages:  
+
+Work Rights:  
+
+Work Rights Holder:  
+
+Publisher:  
+
+Publisher City:  
+
 Date Added: 2011-08-30 19:39:19 -0700
 
-Body: 
+Body:
 
 Jobs: What I do all day is meet with teams of people and work on ideas and solve problems to make new products, to make new marketing programs, whatever it is. 
 
@@ -39,3 +51,4 @@ Jobs: Oh no I wish I did. No, you see you can't. If you want to hire great peopl
 Mossberg: But you must be more than a facilitator who runs meetings. You obviously contribute your own ideas. 
 
 Jobs: I contribute ideas, sure. Why would I be there if I didn't?
+

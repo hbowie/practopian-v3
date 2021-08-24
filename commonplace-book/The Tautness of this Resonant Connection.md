@@ -1,6 +1,4 @@
-Title:  The Tautness of this Resonant Connection
-
-Tags:   art
+Title: The Tautness of this Resonant Connection
 
 Featured: false
 
@@ -8,25 +6,34 @@ Recommended: false
 
 Author: Herb Bowie
 
-Date:   2010
+Date: 2010
+
+Tags: art
 
 Work Title: Reason to Rock: Rock Music as Art Form
 
 Work Type: Book
 
+Work Minor Title:  
+
 Work Link: http://www.reasontorock.com
 
-Work Rights: Copyright 2001-2010
+Work Id:  
 
-Work Rights Holder: Herb Bowie
+Work Pages:  
 
-Publisher: PowerSurge Publishing
+Work Rights:  Copyright 2001-2010
 
-Publisher City: Seattle
+Work Rights Holder:  Herb Bowie
+
+Publisher:  PowerSurge Publishing
+
+Publisher City:  Seattle
 
 Date Added: 2010-11-20 12:35:29 -0800
 
-Body: 
+Body:
 
 No matter what the form, all art seems to produce a similar sensation -- of timelessness, of implicit order, of connectedness. It is as if the work of art had sounded some deep note, and caused sympathetic vibration in a hidden string, a string whose one end is secured in the human heart, and from there ascends towards some unknowable summit, the existence of the termination point affirmed only by the tautness of this resonant connection.
+
 

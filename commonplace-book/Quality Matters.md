@@ -1,30 +1,39 @@
-Title:  Quality Matters
+Title: Quality Matters
 
-Tags:   education
+Featured: 
+
+Recommended: 
 
 Author: Dambisa Moyo
 
-Date:   2011
+Date: 2011
+
+Tags: education
 
 Work Title: How the West was Lost
 
 Work Type: unknown
 
-Work Id: 0374173257
+Work Minor Title:  
 
-Work Pages: 92
+Work Link: 
 
-Work Rights: Copyright
+Work Id:  0374173257
 
-Work Rights Holder: Dambisa Moyo
+Work Pages:  92
 
-Publisher: Farrar, Straus and Giroux
+Work Rights:  Copyright
 
-Publisher City: New York
+Work Rights Holder:  Dambisa Moyo
+
+Publisher:  Farrar, Straus and Giroux
+
+Publisher City:  New York
 
 Date Added: 2011-06-24 20:17:22 -0700
 
-Body: 
+Body:
 
 Quality matters, and much of the evidence suggests that while developing countries are encouraging and fostering meritocracy, their Western rivals are increasingly approaching academe with an egalitarian flare -- more access (of course, with the benefit of widening educational opportunity) even if at the expense of quality. 
+
 

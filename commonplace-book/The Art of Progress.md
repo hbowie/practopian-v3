@@ -1,16 +1,39 @@
-Title:  The Art of Progress
+Title: The Art of Progress
 
-Tags:   progress
+Featured: 
+
+Recommended: 
 
 Author: Alfred North Whitehead
+
+Date: 
+
+Tags: progress
 
 Work Title: unknown
 
 Work Type: unknown
 
+Work Minor Title:  
+
+Work Link: 
+
+Work Id:  
+
+Work Pages:  
+
+Work Rights:  
+
+Work Rights Holder:  
+
+Publisher:  
+
+Publisher City:  
+
 Date Added: 2006-11-30 14:29:31 -0800
 
-Body: 
+Body:
 
 The art of progress is to preserve order amid change, and to preserve change amid order.
+
 

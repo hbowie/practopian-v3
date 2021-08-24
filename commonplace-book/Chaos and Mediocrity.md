@@ -1,6 +1,4 @@
-Title:  Chaos and Mediocrity
-
-Tags:   cultural evolution, society
+Title: Chaos and Mediocrity
 
 Featured: false
 
@@ -8,27 +6,34 @@ Recommended: false
 
 Author: Joe Boyd
 
-Date:   2006
+Date: 2006
+
+Tags: cultural evolution, society
 
 Work Title: White Bicycles: Making Music in the 1960s
 
 Work Type: Book
 
-Work Id: 1852429100
+Work Minor Title:  
 
-Work Pages: 266-267
+Work Link: 
 
-Work Rights: Copyright
+Work Id:  1852429100
 
-Work Rights Holder: Joe Boyd
+Work Pages:  266-267
 
-Publisher: Serpent's Tail
+Work Rights:  Copyright
 
-Publisher City: London
+Work Rights Holder:  Joe Boyd
+
+Publisher:  Serpent's Tail
+
+Publisher City:  London
 
 Date Added: 2008-11-02 06:54:53 -0800
 
-Body: 
+Body:
 
 Is this one legacy of the sixties? That after flinging open the doors to a world previously known only at the margins of society, the pioneers would move on, leaving the masses to add drugs to the myriad forces pulling our society towards chaos and mediocrity?
+
 

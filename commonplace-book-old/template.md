@@ -4,11 +4,17 @@ Featured: <boolean>
 
 Recommended: <boolean> 
 
-Author: <lookup: authors> 
+Author: <author> 
 
 Date: <date> 
 
 Tags: <tags> 
+
+Author Info:  
+
+Author Years:  
+
+Author Link: <link> 
 
 Work Title: <worktitle> 
 

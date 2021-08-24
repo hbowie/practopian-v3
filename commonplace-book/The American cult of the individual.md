@@ -2,6 +2,10 @@ Title:  The American cult of the individual
 
 Tags:   society
 
+Featured: false
+
+Recommended: false
+
 Author: Wade Davis
 
 Date:   06 Aug 2020

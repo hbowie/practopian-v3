@@ -1,13 +1,7 @@
 Author: Martin Scorsese
 
-Tags:
+Author Info: American film director, producer, screenwriter, and actor
 
-Author Info:  
+Author Years: 1942-
 
-Author Years: 
-
-Author Link:  
-
-Author Notes:
-
-
+Author Link: https://en.wikipedia.org/wiki/Martin_Scorsese

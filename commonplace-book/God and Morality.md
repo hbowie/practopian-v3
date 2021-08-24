@@ -1,22 +1,39 @@
-Title:  God and Morality
+Title: God and Morality
 
-Tags:   art, religion
+Featured: 
+
+Recommended: 
 
 Author: Frans de Waal
 
-Date:   2013
+Date: 2013
+
+Tags: art, religion
 
 Work Title: The Bonobo and the Atheist
 
 Work Type: Book
 
-Work Id: 0393073777
+Work Minor Title:  
 
-Publisher: W. W. Norton &amp; Company
+Work Link: 
+
+Work Id:  0393073777
+
+Work Pages:  
+
+Work Rights:  
+
+Work Rights Holder:  
+
+Publisher:  W. W. Norton &amp; Company
+
+Publisher City:  
 
 Date Added: 2013-03-24 10:29:35 -0700
 
-Body: 
+Body:
 
 It wasn't God who introduced us to morality; rather, it was the other way around. God was put into place to help us live the way we felt we ought to.
+
 

@@ -1,31 +1,40 @@
-Title:  History as Postmodern Collage
+Title: History as Postmodern Collage
 
-Tags:   art
+Featured: 
+
+Recommended: 
 
 Author: Joe Boyd
 
-Date:   2006
+Date: 2006
+
+Tags: art
 
 Work Title: White Bicycles: Making Music in the 1960s
 
 Work Type: Book
 
-Work Id: 1852429100
+Work Minor Title:  
 
-Work Pages: 268-269
+Work Link: 
 
-Work Rights: Copyright
+Work Id:  1852429100
 
-Work Rights Holder: Joe Boyd
+Work Pages:  268-269
 
-Publisher: Serpent's Tail
+Work Rights:  Copyright
 
-Publisher City: London
+Work Rights Holder:  Joe Boyd
+
+Publisher:  Serpent's Tail
+
+Publisher City:  London
 
 Date Added: 2008-11-02 07:13:25 -0800
 
-Body: 
+Body:
 
 Sitting in Princeteon listening to old records, we became obsessed with the past. We tried to pierce the veil of time and grasp what it sounded, felt, looked and smelled like. In Harvard Square and London I met many with similar preoccupations; they didn't seem unusual at all. When old blues singers began to reappear, it delivered a rush of excitement and adrenalin. Meeting and traveling with Gary Davis and Lonnie Johnson -- even Coleman Hawkins -- armoured me against a host of disappointments. 
 
 History today seems more like a postmodern collage; we are surrounded by two-dimensional representations of our heritage. Access via Amazon.com or iPod to all those boxed sets of old blues singers -- or Nick Drake, for that matter -- doesn't equate with the sense of discovery and connection we experienced.
+

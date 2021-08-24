@@ -1,6 +1,4 @@
-Title:  Only Connect
-
-Tags:   connection, integral, love
+Title: Only Connect
 
 Featured: false
 
@@ -8,23 +6,34 @@ Recommended: false
 
 Author: E. M. Forster
 
-Date:   1910
+Date: 1910
 
-Author Info: English fiction writer, essayist and librettist
-
-Author Years: 1879-1970
-
-Author Link: https://en.wikipedia.org/wiki/E._M._Forster
+Tags: connection, integral, love
 
 Work Title: Howard”s End
 
 Work Type: Book
 
-Work Id: 0486424545
+Work Minor Title:  
+
+Work Link: 
+
+Work Id:  0486424545
+
+Work Pages:  
+
+Work Rights:  
+
+Work Rights Holder:  
+
+Publisher:  
+
+Publisher City:  
 
 Date Added: 2007-04-10 14:59:19 -0700
 
-Body: 
+Body:
 
 Only connect! That was the whole of her sermon. Only connect the prose and the passion and both will be exalted, and human love will be seen at its height. Live in fragments no longer.
+
 

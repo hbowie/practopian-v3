@@ -1,6 +1,4 @@
-Title:  A Happy Man
-
-Tags:   progress
+Title: A Happy Man
 
 Featured: false
 
@@ -8,23 +6,34 @@ Recommended: false
 
 Author: Albert Einstein
 
-Date:   18 September 1896
+Date: 18 September 1896
 
-Author Info: German-born theoretical physicist
-
-Author Years: 1879-1955
-
-Author Link: https://en.wikipedia.org/wiki/Albert_Einstein
+Tags: progress
 
 Work Title: The Collected Papers of Albert Einstein
 
 Work Type: unknown
 
-Work Minor Title: My Future Plans
+Work Minor Title:  My Future Plans
+
+Work Link: 
+
+Work Id:  
+
+Work Pages:  
+
+Work Rights:  
+
+Work Rights Holder:  
+
+Publisher:  
+
+Publisher City:  
 
 Date Added: 2010-08-15 07:52:59 -0700
 
-Body: 
+Body:
 
 A happy man is too satisfied with the present to dwell too much on the future.
+
 

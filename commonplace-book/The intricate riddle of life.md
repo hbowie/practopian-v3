@@ -1,26 +1,39 @@
-Title:  The intricate riddle of life
-
-Tags:   mission
+Title: The intricate riddle of life
 
 Featured: false
 
+Recommended: 
+
 Author: Mary Shelley
 
-Date:   1826
+Date: 1826
 
-Author Info: English novelist
-
-Author Years: 1797-1851
-
-Author Link: https://en.wikipedia.org/wiki/Mary_Shelley
+Tags: mission
 
 Work Title: The Last Man
 
 Work Type: Book
 
+Work Minor Title:  
+
+Work Link: 
+
+Work Id:  
+
+Work Pages:  
+
+Work Rights:  
+
+Work Rights Holder:  
+
+Publisher:  
+
+Publisher City:  
+
 Date Added: 2021-02-01 07:36:11 -0800
 
-Body: 
+Body:
 
 There is but one solution to the intricate riddle of life; to improve ourselves, and contribute to the happiness of others.
+
 

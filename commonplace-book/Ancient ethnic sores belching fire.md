@@ -1,6 +1,4 @@
-Title:  Ancient ethnic sores belching fire
-
-Tags:   cultural evolution, diversity, systemic
+Title: Ancient ethnic sores belching fire
 
 Featured: false
 
@@ -8,21 +6,34 @@ Recommended: false
 
 Author: Don Beck and Chris Cowan
 
-Date:   2006
+Date: 2006
+
+Tags: cultural evolution, diversity, systemic
 
 Work Title: Spiral Dynamics: Mastering Values, Leadership, and Change
 
 Work Type: Book
 
-Work Id: 1405133562
+Work Minor Title:  
 
-Work Rights: Copyright
+Work Link: 
 
-Work Rights Holder: Don Edward Beck and Christopher C. Cowan
+Work Id:  1405133562
+
+Work Pages:  
+
+Work Rights:  Copyright
+
+Work Rights Holder:  Don Edward Beck and Christopher C. Cowan
+
+Publisher:  
+
+Publisher City:  
 
 Date Added: 2006-12-02 12:08:20 -0800
 
-Body: 
+Body:
 
 The complications of this diversity can be overwhelming. Ancient ethnic sores are belching fire while transnational companies linked by satellites conduct their business oblivious to the feudal past below.
+
 

@@ -1,8 +1,8 @@
 Title: Cinema was about revelation
 
-Featured: 
+Featured: false
 
-Recommended: 
+Recommended: false
 
 Author: Martin Scorsese
 

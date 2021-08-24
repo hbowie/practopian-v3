@@ -1,18 +1,39 @@
-Title:  To live wisely and agreeably and well
+Title: To live wisely and agreeably and well
 
-Tags:   equality
+Featured: 
+
+Recommended: 
 
 Author: John Maynard Keynes
 
-Date:   1930
+Date: 1930
+
+Tags: equality
 
 Work Title: Economic Possibilities for our Grandchildren
 
 Work Type: Essay
 
+Work Minor Title:  
+
+Work Link: 
+
+Work Id:  
+
+Work Pages:  
+
+Work Rights:  
+
+Work Rights Holder:  
+
+Publisher:  
+
+Publisher City:  
+
 Date Added: 2018-07-09 11:55:25 -0700
 
-Body: 
+Body:
 
 Thus for the first time since his creation man will be faced with his real, his permanent problem -- how to use his freedom from pressing economic cares, how to occupy the leisure, which science and compound interest will have won for him, to live wisely and agreeably and well.
+
 

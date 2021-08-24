@@ -1,6 +1,4 @@
-Title:  The Inner Life of the Artist
-
-Tags:   art, individuals
+Title: The Inner Life of the Artist
 
 Featured: false
 
@@ -8,25 +6,34 @@ Recommended: false
 
 Author: Edward Hopper
 
-Date:   1953
+Date: 1953
 
-Author Info: American realist painter and printmaker
-
-Author Years: 1882-1967
-
-Author Link: https://en.wikipedia.org/wiki/Edward_Hopper
+Tags: art, individuals
 
 Work Title: Statements by Four Artists
 
 Work Type: Article
 
-Work Minor Title: Reality 1
+Work Minor Title:  Reality 1
 
-Work Pages: 8
+Work Link: 
+
+Work Id:  
+
+Work Pages:  8
+
+Work Rights:  
+
+Work Rights Holder:  
+
+Publisher:  
+
+Publisher City:  
 
 Date Added: 2014-11-03 04:55:22 -0800
 
-Body: 
+Body:
 
 Great art is the outward expression of an inner life in the artist, and this inner life will result in his personal vision of the world.
+
 

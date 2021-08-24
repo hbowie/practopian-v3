@@ -1,16 +1,39 @@
-Title:  Faster Horses
+Title: Faster Horses
 
-Tags:   progress
+Featured: 
+
+Recommended: 
 
 Author: Henry Ford
+
+Date: 
+
+Tags: progress
 
 Work Title: unknown
 
 Work Type: unknown
 
+Work Minor Title:  
+
+Work Link: 
+
+Work Id:  
+
+Work Pages:  
+
+Work Rights:  
+
+Work Rights Holder:  
+
+Publisher:  
+
+Publisher City:  
+
 Date Added: 2009-05-29 06:21:19 -0700
 
-Body: 
+Body:
 
 If I had asked people what they wanted, they would have said faster horses.
+
 

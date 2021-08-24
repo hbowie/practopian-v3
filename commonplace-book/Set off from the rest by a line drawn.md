@@ -1,20 +1,39 @@
-Title:  Set off from the rest by a line drawn
+Title: Set off from the rest by a line drawn
 
-Tags:   equality
+Featured: 
+
+Recommended: 
 
 Author: Walt Whitman
 
-Date:   1871
+Date: 1871
+
+Tags: equality
 
 Work Title: Democratic Vistas
 
 Work Type: Essay
 
+Work Minor Title:  
+
 Work Link: http://xroads.virginia.edu/~hyper/whitman/vistas/vistas.html
+
+Work Id:  
+
+Work Pages:  
+
+Work Rights:  
+
+Work Rights Holder:  
+
+Publisher:  
+
+Publisher City:  
 
 Date Added: 2018-11-15 16:24:42 -0800
 
-Body: 
+Body:
 
 Of all dangers to a nation, as things exist in our day, there can be no greater one than having certain portions of the people set off from the rest by a line drawn -- they not privileged as others, but degraded, humiliated, made of no account.
+
 

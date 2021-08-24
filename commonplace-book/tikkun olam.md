@@ -1,6 +1,4 @@
-Title:  tikkun olam
-
-Tags:   love, mission
+Title: tikkun olam
 
 Featured: false
 
@@ -8,21 +6,33 @@ Recommended: false
 
 Author: John Gottman
 
-Date:   12 Dec 2018
+Date: 12 Dec 2018
+
+Tags: love, mission
 
 Work Title: Tikkun Olam and the Mission of the Gottman Institute
 
 Work Type: Essay
 
+Work Minor Title:  
+
 Work Link: https://www.gottman.com/blog/tikkun-olam-and-the-mission-of-the-gottman-institute/
 
-Work Rights: Copyright
+Work Id:  
 
-Work Rights Holder: The Gottman Institute
+Work Pages:  
+
+Work Rights:  Copyright
+
+Work Rights Holder:  The Gottman Institute
+
+Publisher:  
+
+Publisher City:  
 
 Date Added: 2019-01-29 10:35:17 -0800
 
-Body: 
+Body:
 
 In Jewish teachings, 'tikkun olam' refers to any activity that improves the world, bringing it closer to the harmonious state for which it was created. All people, regardless of religious affiliation, are encouraged to contribute to the common good.
 
@@ -33,3 +43,4 @@ It’s a shared sense of responsibility. If we believe we have information that 
 I didn't always feel this way. As a scientist at the University of Washington, I was making a good living watching couples deteriorate in my research lab. It was my wife, Dr. Julie Schwartz Gottman, a brilliant clinical psychologist, who encouraged me to use my research to help people. It was from a great love that the Gottman Method was born.
 
 According to Rabbi Jeremy Schwartz, 'At its most basic level, tikkun olam involves arranging our personal lives as well as our politics, culture, and economy on the basis of love.'
+

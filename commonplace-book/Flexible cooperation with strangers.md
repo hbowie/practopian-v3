@@ -1,30 +1,39 @@
-Title:  Flexible cooperation with strangers
+Title: Flexible cooperation with strangers
 
-Tags:   society
+Featured: 
+
+Recommended: 
 
 Author: Yuval Noah Harari
 
-Date:   2017
+Date: 2017
+
+Tags: society
 
 Work Title: Homo Deus: A Brief History of Tomorrow
 
 Work Type: Book
 
-Work Id: 0062464310
+Work Minor Title:  
 
-Work Pages: 133
+Work Link: 
 
-Work Rights: Copyright
+Work Id:  0062464310
 
-Work Rights Holder: Yuval Noah Harari
+Work Pages:  133
 
-Publisher: Harper
+Work Rights:  Copyright
 
-Publisher City: New York
+Work Rights Holder:  Yuval Noah Harari
+
+Publisher:  Harper
+
+Publisher City:  New York
 
 Date Added: 2017-10-15 07:14:00 -0700
 
-Body: 
+Body:
 
 To the best of our knowledge, only Sapiens can cooperate in very flexible ways with countless numbers of strangers. This concrete capability -- rather than an eternal soul or some unique kind of consciousness -- explains our mastery of planet Earth. 
+
 
