@@ -12,23 +12,7 @@ Tags: progress
 
 Work Title: Inaugral Address
 
-Work Type: Speech
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2009-01-20 20:47:20 -0800
 

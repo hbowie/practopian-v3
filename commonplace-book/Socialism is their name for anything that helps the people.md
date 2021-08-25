@@ -12,23 +12,7 @@ Tags: governance
 
 Work Title: Campaign Speech
 
-Work Type: Speech
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2020-10-29 07:56:48 -0700
 

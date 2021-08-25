@@ -12,23 +12,7 @@ Tags: mission
 
 Work Title: Folding the Red Into the Black: Developing a Viable Untopia for Human Survival in the 21st Century
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  1944869069
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  
-
-Publisher:  OR Books
-
-Publisher City:  
 
 Date Added: 2017-02-26 12:38:51 -0800
 

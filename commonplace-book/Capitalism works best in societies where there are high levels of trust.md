@@ -12,23 +12,7 @@ Tags: equality, society
 
 Work Title: The Retreat of Western Liberalism
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: https://amzn.to/2LXPBVD
-
-Work Id:  0802127398
-
 Work Pages:  38
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Edward Luce
-
-Publisher:  Atlantic Monthly Press
-
-Publisher City:  New York, NY
 
 Date Added: 2018-08-03 10:58:37 -0700
 

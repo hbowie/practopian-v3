@@ -12,23 +12,7 @@ Tags: art, connection
 
 Work Title: Rolling Stone 2007
 
-Work Type: unknown
-
-Work Minor Title:  Bringing It All Back Home
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Rolling Stone LLC
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2007-12-02 13:10:14 -0800
 

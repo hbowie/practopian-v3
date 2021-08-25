@@ -12,23 +12,7 @@ Tags: tools
 
 Work Title: Memory &amp; Imagination: New Pathways to the Library of Congress
 
-Work Type: Video
-
-Work Minor Title:  
-
-Work Link: http://www.mlfilms.com/productions/m_and_i
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2017-03-18 09:20:32 -0700
 

@@ -12,23 +12,7 @@ Tags: diversity
 
 Work Title: Forbes
 
-Work Type: Article
-
-Work Minor Title:  Diversity Helps Your Business--But Not The Way You Think
-
-Work Link: https://www.forbes.com/2009/06/02/diversity-collaboration-teams-leadership-managing-creativity.html#332e2717f73b
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-05-30 12:17:42 -0700
 

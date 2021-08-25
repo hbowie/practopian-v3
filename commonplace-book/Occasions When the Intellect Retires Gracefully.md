@@ -12,23 +12,7 @@ Tags: critical thinking
 
 Work Title: Dancers In Mourning
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  1933397985
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Doubleday and Company, Inc.
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2008-05-21 19:41:18 -0700
 

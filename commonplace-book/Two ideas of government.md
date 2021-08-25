@@ -12,23 +12,7 @@ Tags: equality, governance
 
 Work Title: Democratic National Convention
 
-Work Type: Speech
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2010-01-22 15:22:21 -0800
 

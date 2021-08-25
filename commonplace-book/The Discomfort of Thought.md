@@ -12,23 +12,7 @@ Tags: critical thinking, cultural evolution
 
 Work Title: Commencement Address at Yale University
 
-Work Type: Speech
-
-Work Minor Title:  
-
-Work Link: http://www.jfklibrary.org/Historical+Resources/Archives/Reference+Desk/Speeches/JFK/003POF03Yale06111962.htm
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2006-11-30 14:29:31 -0800
 

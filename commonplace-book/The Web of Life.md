@@ -12,23 +12,7 @@ Tags: connection
 
 Work Title: unknown
 
-Work Type: unknown
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2014-07-20 07:26:46 -0700
 

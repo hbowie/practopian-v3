@@ -12,23 +12,7 @@ Tags: art
 
 Work Title: No Direction Home
 
-Work Type: Film
-
-Work Minor Title:  
-
-Work Link: https://allenginsberg.org/2014/01/allen-ginsberg-praises-bob-dylan/
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2020-11-24 20:28:50 -0800
 

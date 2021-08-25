@@ -12,23 +12,7 @@ Tags: imperfection, mission, wonder
 
 Work Title: To Daughter Ellen
 
-Work Type: Letter
-
-Work Minor Title:  
-
-Work Link: https://quoteinvestigator.com/2018/12/19/finish-day/
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2021-07-27 08:09:43 -0700
 

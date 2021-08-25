@@ -12,23 +12,7 @@ Tags: individuals
 
 Work Title: Meeting of the Palo Alto Research Center
 
-Work Type: Remarks
-
-Work Minor Title:  
-
-Work Link: https://quoteinvestigator.com/2012/09/27/invent-the-future/
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-04-24 08:44:31 -0700
 

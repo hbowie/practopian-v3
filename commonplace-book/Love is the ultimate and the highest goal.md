@@ -12,23 +12,7 @@ Tags: love
 
 Work Title: Man's Search for Meaning
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-11-13 15:36:51 -0800
 

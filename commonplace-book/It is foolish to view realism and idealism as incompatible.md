@@ -12,23 +12,7 @@ Tags: balance
 
 Work Title: New York Times
 
-Work Type: Article
-
-Work Minor Title:  Why We Must Support Human Rights
-
-Work Link: https://www.nytimes.com/2017/05/08/opinion/john-mccain-rex-tillerson-human-rights.html
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  The New York Times Company
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2017-05-08 07:22:12 -0700
 

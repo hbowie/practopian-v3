@@ -12,23 +12,7 @@ Tags: society
 
 Work Title: Survival of the Friendliest: Understanding our Origins and Rediscovering our Common Humanity
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2020-10-01 09:51:09 -0700
 

@@ -12,23 +12,7 @@ Tags:
 
 Work Title: Dangerous Currents
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  222-223
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2021-05-12 11:02:09 -0700
 

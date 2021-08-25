@@ -12,23 +12,7 @@ Tags: critical thinking, love
 
 Work Title: The Four-Fold Way
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0062500597
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Angeles Arrien
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2007-11-06 07:00:58 -0800
 

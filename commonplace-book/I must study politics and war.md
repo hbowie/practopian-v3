@@ -12,23 +12,7 @@ Tags: cultural evolution, education, parenthood
 
 Work Title: Letter to Abigail Adams
 
-Work Type: Letter
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2015-03-18 18:19:43 -0700
 

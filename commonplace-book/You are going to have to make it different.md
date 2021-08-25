@@ -12,23 +12,7 @@ Tags: progress
 
 Work Title: The Origins of Knowledge and Imagination
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0300024096
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2017-04-21 08:49:00 -0700
 

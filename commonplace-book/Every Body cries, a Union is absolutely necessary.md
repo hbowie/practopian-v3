@@ -12,23 +12,7 @@ Tags: governance
 
 Work Title: The Writings of Benjamin Franklin
 
-Work Type: unknown
-
-Work Minor Title:  to Peter Collinson
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2010-08-18 07:07:39 -0700
 

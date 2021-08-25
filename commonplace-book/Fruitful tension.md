@@ -12,23 +12,7 @@ Tags: balance
 
 Work Title: 
 
-Work Type: unknown
-
-Work Minor Title:  
-
-Work Link: https://evolution-institute.org/pragmatism-as-the-third-way-of-entrepreneurship-a-conversation-with-trygve-throntveit/
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2020-06-11 17:27:54 -0700
 

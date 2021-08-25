@@ -12,23 +12,7 @@ Tags: value creation
 
 Work Title: 2020 Letter to Shareholders
 
-Work Type: Letter
-
-Work Minor Title:  
-
-Work Link: https://www.aboutamazon.com/news/company-news/2020-letter-to-shareholders
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Amazon.com
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2021-04-19 16:44:01 -0700
 

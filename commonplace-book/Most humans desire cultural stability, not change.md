@@ -12,23 +12,7 @@ Tags: progress
 
 Work Title: Sapiens.org
 
-Work Type: Article
-
-Work Minor Title:  How Do We Know Which Historical Accounts Are True?
-
-Work Link: https://www.sapiens.org/column/curiosities/dead-sea-scrolls-historical-accounts/
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  Wenner-Gren Foundation for Anthropological Research
-
-Publisher City:  
 
 Date Added: 2019-01-26 09:05:26 -0800
 

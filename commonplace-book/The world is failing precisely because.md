@@ -12,23 +12,7 @@ Tags: art
 
 Work Title: The Overstory
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2019-09-06 14:55:07 -0700
 

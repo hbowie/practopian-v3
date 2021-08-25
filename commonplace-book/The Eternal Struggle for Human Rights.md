@@ -12,23 +12,7 @@ Tags: cultural evolution, equality
 
 Work Title: Address to the Chicago Decalogue Society
 
-Work Type: Speech
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2021-04-18 10:29:16 -0700
 

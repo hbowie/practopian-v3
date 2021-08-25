@@ -12,23 +12,7 @@ Tags: individuals, progress
 
 Work Title: Maxims for Revolutionists
 
-Work Type: Play
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2010-05-26 20:36:29 -0700
 

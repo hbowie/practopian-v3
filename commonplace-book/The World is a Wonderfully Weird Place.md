@@ -12,23 +12,7 @@ Tags: liberty, love, wonder
 
 Work Title: Gracie Goes to Schooner School
 
-Work Type: Interview
-
-Work Minor Title:  
-
-Work Link: http://www.seattlepi.com/ae/books/article/Gracie-goes-to-schooner-school-1238432.php
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2007-05-26 21:32:40 -0700
 

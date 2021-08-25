@@ -12,23 +12,7 @@ Tags: individuals
 
 Work Title: Abinger Harvest
 
-Work Type: Book
-
-Work Minor Title:  Our Diversions
-
-Work Link: 
-
-Work Id:  0156026104
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2007-04-10 15:11:35 -0700
 

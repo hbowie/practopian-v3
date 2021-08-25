@@ -12,23 +12,7 @@ Tags: critical thinking
 
 Work Title: Through the Looking Glass
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  1840220740
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2010-11-21 07:23:15 -0800
 

@@ -12,23 +12,7 @@ Tags: cultural evolution
 
 Work Title: Sapiens: A Brief History of Humankind
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: https://www.ynharari.com/book/sapiens-2/
-
-Work Id:  0062316095
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Yuval Noah Harari
-
-Publisher:  Harper Collins
-
-Publisher City:  
 
 Date Added: 2016-12-03 10:22:36 -0800
 

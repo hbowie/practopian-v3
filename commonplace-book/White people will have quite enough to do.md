@@ -12,23 +12,7 @@ Tags: equality
 
 Work Title: Letter from a Region of My Mind
 
-Work Type: Essay
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2021-02-23 09:24:09 -0800
 

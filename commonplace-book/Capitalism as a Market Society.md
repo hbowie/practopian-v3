@@ -12,23 +12,7 @@ Tags: critical thinking, equality, society, systemic
 
 Work Title: Talking to My Daughter About the Economy: or, How Capitalism Works -- and How It Fails
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: https://www.yanisvaroufakis.eu/books/talking-to-my-daughter-about-the-economy-a-brief-history-of-capitalism/
-
-Work Id:  B076H4WMY1
-
 Work Pages:  4
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-12-28 11:18:17 -0800
 

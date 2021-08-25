@@ -12,23 +12,7 @@ Tags: equality, liberty, rule of law, society
 
 Work Title: Eisenhower Second Inaugural Address
 
-Work Type: Speech
-
-Work Minor Title:  
-
-Work Link: https://avalon.law.yale.edu/20th_century/eisen2.asp
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2020-12-12 08:48:52 -0800
 

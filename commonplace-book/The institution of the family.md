@@ -12,23 +12,7 @@ Tags: parenthood
 
 Work Title: Family and Nation
 
-Work Type: Book
-
-Work Minor Title:  Chapter 1
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-11-15 16:24:42 -0800
 

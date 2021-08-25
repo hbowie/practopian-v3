@@ -12,23 +12,7 @@ Tags: education
 
 Work Title: Commencement Address at Kenyon College
 
-Work Type: Speech
-
-Work Minor Title:  
-
-Work Link: https://fs.blog/2012/04/david-foster-wallace-this-is-water/
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2019-01-29 10:17:11 -0800
 

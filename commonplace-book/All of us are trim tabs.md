@@ -12,23 +12,7 @@ Tags: individuals, society
 
 Work Title: Golden Globes Speech
 
-Work Type: Speech
-
-Work Minor Title:  
-
-Work Link: https://www.washingtonpost.com/arts-entertainment/2019/01/07/tag-youre-it-heres-full-transcript-jeff-bridgess-wacky-golden-globes-speech/
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2019-01-07 09:07:37 -0800
 

@@ -12,23 +12,7 @@ Tags: cultural evolution, diversity, systemic
 
 Work Title: Spiral Dynamics: Mastering Values, Leadership, and Change
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  1405133562
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Don Edward Beck and Christopher C. Cowan
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2006-12-02 12:08:20 -0800
 

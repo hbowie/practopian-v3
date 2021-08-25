@@ -12,23 +12,7 @@ Tags: individuals, progress
 
 Work Title: Santa Clara Valley Historical Association
 
-Work Type: Interview
-
-Work Minor Title:  Steve Jobs: Visionary Entrepreneur
-
-Work Link: http://www.siliconvalleyhistorical.org/#!steve-jobs-film/c1x1c
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2015-10-16 04:39:08 -0700
 

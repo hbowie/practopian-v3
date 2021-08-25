@@ -12,23 +12,7 @@ Tags: connection
 
 Work Title: Riverside Church Speech
 
-Work Type: Speech
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2020-12-23 08:53:25 -0800
 

@@ -12,23 +12,7 @@ Tags: Design, evolution, systemic
 
 Work Title: Systemantics
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0812906748
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-01-21 16:06:48 -0800
 

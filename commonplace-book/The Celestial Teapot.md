@@ -12,23 +12,7 @@ Tags: critical thinking, religion
 
 Work Title: Is There A God?
 
-Work Type: Essay
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2007-09-08 10:21:56 -0700
 

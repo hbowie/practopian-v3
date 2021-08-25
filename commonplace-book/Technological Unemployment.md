@@ -12,23 +12,7 @@ Tags: value creation
 
 Work Title: Economic Possibilities for our Grandchildren
 
-Work Type: Essay
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-07-09 11:59:12 -0700
 

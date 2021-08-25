@@ -12,23 +12,7 @@ Tags: humanism
 
 Work Title: Bill Moyers
 
-Work Type: Interview
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-04-16 10:59:52 -0700
 

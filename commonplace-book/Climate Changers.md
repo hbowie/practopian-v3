@@ -12,23 +12,7 @@ Tags: sustainability
 
 Work Title: The Independent
 
-Work Type: Article
-
-Work Minor Title:  Overpopulation “is main threat to planet”
-
-Work Link: http://news.independent.co.uk/environment/article337005.ece
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Independent News and Media Limited
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2006-11-30 14:29:31 -0800
 

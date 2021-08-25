@@ -12,23 +12,7 @@ Tags: practical, progress
 
 Work Title: The Seattle Times
 
-Work Type: Interview
-
-Work Minor Title:  AP Interview: JC Penney CEO talks about the chain
-
-Work Link: http://seattletimes.nwsource.com/html/businesstechnology/2017375916_apusnewpenneyceotalks.html
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  The Seattle TImes Company
-
-Publisher:  The Seattle Times
-
-Publisher City:  Seattle
 
 Date Added: 2012-02-04 06:27:37 -0800
 

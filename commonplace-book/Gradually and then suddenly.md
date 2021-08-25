@@ -12,23 +12,7 @@ Tags: critical thinking
 
 Work Title: The Sun Also Rises
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2021-04-06 09:49:32 -0700
 

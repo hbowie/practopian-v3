@@ -12,23 +12,7 @@ Tags: liberty
 
 Work Title: The Marriage of Heaven and Hell
 
-Work Type: Book
-
-Work Minor Title:  Proverbs of Hell
-
-Work Link: https://poets.org/poem/proverbs-hell
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  Public Domain
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2019-08-30 15:31:29 -0700
 

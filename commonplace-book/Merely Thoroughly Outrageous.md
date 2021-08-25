@@ -12,23 +12,7 @@ Tags: cultural evolution
 
 Work Title: The Tiger in the Smoke
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0099477734
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Margery Allingham Carter
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2007-10-24 18:20:11 -0700
 

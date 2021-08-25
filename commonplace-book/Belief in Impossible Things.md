@@ -12,23 +12,7 @@ Tags: Project Management, critical thinking
 
 Work Title: Waltzing with Bears: Managing Risk on Software Projects
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: http://amzn.to/2b02ZYS
-
-Work Id:  0932633609
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Tom DeMarco and Timothy Lister
-
-Publisher:  Dorset House Publishing
-
-Publisher City:  New York
 
 Date Added: 2006-11-30 14:29:32 -0800
 

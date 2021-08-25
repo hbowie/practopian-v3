@@ -12,23 +12,7 @@ Tags: society
 
 Work Title: The Federalist no. 10
 
-Work Type: Paper
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2020-10-25 17:10:20 -0700
 

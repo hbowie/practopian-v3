@@ -12,23 +12,7 @@ Tags: art, imperfection
 
 Work Title: Kung Fu Monkey
 
-Work Type: Blog Post
-
-Work Minor Title:  Ephemera 2009 (7)
-
-Work Link: http://kfmonkey.blogspot.com/2009/03/ephemera-2009-7.html
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2011-10-30 11:35:29 -0700
 

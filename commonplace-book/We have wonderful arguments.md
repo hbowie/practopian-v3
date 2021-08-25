@@ -12,23 +12,7 @@ Tags: critical thinking, design, equality
 
 Work Title: D8 Conference
 
-Work Type: unknown
-
-Work Minor Title:  Conversation with Walt Mossberg
-
-Work Link: http://thesmallwave.com/ideas-not-hierarchy-on-steve-jobs-supposedly
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2011-08-30 19:39:19 -0700
 

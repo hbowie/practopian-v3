@@ -12,23 +12,7 @@ Tags: written word
 
 Work Title: The Demon-Haunted World: Science as a Candle in the Dark
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  039453512X
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2017-12-05 09:12:14 -0800
 

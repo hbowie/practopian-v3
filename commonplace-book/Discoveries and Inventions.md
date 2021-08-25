@@ -12,23 +12,7 @@ Tags: science
 
 Work Title: Lecture on Discoveries and Inventions
 
-Work Type: Speech
-
-Work Minor Title:  
-
-Work Link: http://www.abrahamlincolnonline.org/lincoln/speeches/discoveries.htm
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-05-27 07:35:51 -0700
 

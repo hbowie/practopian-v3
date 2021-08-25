@@ -12,23 +12,7 @@ Tags: equality
 
 Work Title: Rolling Stone 2009-Jan-05
 
-Work Type: unknown
-
-Work Minor Title:  Bringing It All Back Home
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Rolling Stone LLC
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2009-01-23 06:17:23 -0800
 

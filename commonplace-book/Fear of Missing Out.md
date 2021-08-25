@@ -12,23 +12,7 @@ Tags: cultural evolution
 
 Work Title: Homo Deus: A Brief History of Tomorrow
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0062464310
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Yuval Noah Harari
-
-Publisher:  Harper
-
-Publisher City:  New York
 
 Date Added: 2017-11-06 12:00:55 -0800
 

@@ -12,23 +12,7 @@ Tags: love, progress
 
 Work Title: The Defendant
 
-Work Type: unknown
-
-Work Minor Title:  In Defence Of A New Edition
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2011-04-22 06:11:48 -0700
 

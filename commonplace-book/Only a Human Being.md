@@ -12,23 +12,7 @@ Tags: cultural evolution, humanism
 
 Work Title: The Collected Papers of Albert Einstein
 
-Work Type: unknown
-
-Work Minor Title:  My Future Plans
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2010-08-15 09:16:17 -0700
 

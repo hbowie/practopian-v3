@@ -12,23 +12,7 @@ Tags: equality
 
 Work Title: WTF: What's the Future and Why It's Up To Us
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  304
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-06-21 11:29:55 -0700
 

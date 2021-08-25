@@ -12,23 +12,7 @@ Tags: art
 
 Work Title: London Evening Standard
 
-Work Type: Interview
-
-Work Minor Title:  Interview with Maureen Cleave
-
-Work Link: http://en.wikipedia.org/wiki/More_popular_than_Jesus
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2013-03-01 04:39:35 -0800
 

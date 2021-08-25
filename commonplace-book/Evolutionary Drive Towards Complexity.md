@@ -12,23 +12,7 @@ Tags: evolution
 
 Work Title: The God Delusion
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0618680004
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Richard Dawkins
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2007-09-08 10:13:31 -0700
 

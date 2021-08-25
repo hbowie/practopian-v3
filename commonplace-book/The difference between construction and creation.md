@@ -12,23 +12,7 @@ Tags: love
 
 Work Title: Appreciations and Criticisms of the Works of Charles Dickens
 
-Work Type: unknown
-
-Work Minor Title:  Pickwick Papers
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2011-04-22 06:08:09 -0700
 

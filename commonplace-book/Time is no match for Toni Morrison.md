@@ -12,23 +12,7 @@ Tags: art
 
 Work Title: Time is no match for Toni Morrison
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2019-08-06 08:24:45 -0700
 

@@ -12,23 +12,7 @@ Tags: individuals, progress
 
 Work Title: Beyond 1984: The People Machines
 
-Work Type: Essay
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2015-03-21 11:15:56 -0700
 

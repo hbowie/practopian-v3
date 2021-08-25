@@ -12,23 +12,7 @@ Tags: written word
 
 Work Title: Amusing Ourselves to Death: Public Discourse in the Age of Show Business
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-12-14 12:48:16 -0800
 

@@ -12,23 +12,7 @@ Tags: equality, humanism
 
 Work Title: Swan Song
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-06-21 11:09:05 -0700
 

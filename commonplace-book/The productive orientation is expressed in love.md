@@ -12,23 +12,7 @@ Tags: love
 
 Work Title: The Sane Society
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: https://us.macmillan.com/books/9780805014020
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2021-03-23 08:35:32 -0700
 

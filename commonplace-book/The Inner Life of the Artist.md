@@ -12,23 +12,7 @@ Tags: art, individuals
 
 Work Title: Statements by Four Artists
 
-Work Type: Article
-
-Work Minor Title:  Reality 1
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  8
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2014-11-03 04:55:22 -0800
 

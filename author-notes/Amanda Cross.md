@@ -1,13 +1,7 @@
 Author: Amanda Cross
 
-Tags:
+Author Info: American academic at Columbia University, a prolific feminist author of academic studies, and a mystery author. 
 
-Author Info:  
+Author Years: 1926-2003
 
-Author Years: 
-
-Author Link:  
-
-Author Notes:
-
-
+Author Link: https://en.wikipedia.org/wiki/Carolyn_Gold_Heilbrun

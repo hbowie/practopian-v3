@@ -12,23 +12,7 @@ Tags: critical thinking
 
 Work Title: unknown
 
-Work Type: unknown
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2011-03-09 06:38:19 -0800
 

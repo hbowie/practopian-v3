@@ -12,23 +12,7 @@ Tags: connection, society
 
 Work Title: Meet John Doe
 
-Work Type: Film
-
-Work Minor Title:  
-
-Work Link: https://amzn.to/2ua1E7d
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-07-07 09:13:08 -0700
 

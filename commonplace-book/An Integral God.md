@@ -12,23 +12,7 @@ Tags: integral, religion
 
 Work Title: Beliefnet
 
-Work Type: Essay
-
-Work Minor Title:  An Integral Spirituality
-
-Work Link: http://www.beliefnet.com/Wellness/2004/03/An-Integral-Spirituality.aspx
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Ken Wilber
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2007-02-11 09:48:55 -0800
 

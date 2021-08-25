@@ -12,23 +12,7 @@ Tags: art
 
 Work Title: Big Sur and the Oranges of Hieronymus Bosch
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0811201074
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Henry Miller
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2006-11-30 14:29:31 -0800
 

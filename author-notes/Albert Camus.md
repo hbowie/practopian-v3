@@ -1,13 +1,7 @@
 Author: Albert Camus
 
-Tags:
+Author Info: French philosopher, author, and journalist
 
-Author Info:  
+Author Years: 1913-1960
 
-Author Years: 
-
-Author Link:  
-
-Author Notes:
-
-
+Author Link: https://en.wikipedia.org/wiki/Albert_Camus

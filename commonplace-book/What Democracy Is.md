@@ -12,23 +12,7 @@ Tags: democracy
 
 Work Title: E. B. White on “The Meaning of Democracy”
 
-Work Type: Letter
-
-Work Minor Title:  
-
-Work Link: https://www.newyorker.com/books/double-take/e-b-white-on-the-meaning-of-democracy
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2020-05-30 14:05:21 -0700
 

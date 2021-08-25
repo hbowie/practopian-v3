@@ -12,23 +12,7 @@ Tags: individuals
 
 Work Title: Retirement address
 
-Work Type: Speech
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2013-01-03 05:42:18 -0800
 

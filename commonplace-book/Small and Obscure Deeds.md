@@ -12,23 +12,7 @@ Tags: individuals, progress
 
 Work Title: Leading Quietly: An Unorthodox Guide to Doing the Right Thing
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  1578514878
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Joseph L. Badaracco, Jr
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2006-11-30 14:29:31 -0800
 

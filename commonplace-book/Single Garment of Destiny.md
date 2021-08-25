@@ -12,23 +12,7 @@ Tags: connection
 
 Work Title: Remaining Awake Through A Great Revolution
 
-Work Type: Speech
-
-Work Minor Title:  
-
-Work Link: http://www.stanford.edu/group/King/publications/sermons/680331.000_Remaining_Awake.html
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  The Estate of Martin Luther King Jr.
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2008-01-20 12:28:31 -0800
 

@@ -12,23 +12,7 @@ Tags: cultural evolution
 
 Work Title: 
 
-Work Type: Letter
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2020-10-25 09:40:11 -0700
 

@@ -12,23 +12,7 @@ Tags: humanism
 
 Work Title: The Dig
 
-Work Type: Film
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2021-02-07 08:16:33 -0800
 

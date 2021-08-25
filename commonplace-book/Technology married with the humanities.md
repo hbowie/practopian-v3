@@ -12,23 +12,7 @@ Tags: integral
 
 Work Title: Harvard Business Review
 
-Work Type: Article
-
-Work Minor Title:  Quality Comes to City Hall
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2011-09-01 06:31:28 -0700
 

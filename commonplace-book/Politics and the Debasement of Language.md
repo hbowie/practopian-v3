@@ -12,23 +12,7 @@ Tags: critical thinking, written word
 
 Work Title: Politics and the English Language
 
-Work Type: Essay
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2014-07-21 18:10:29 -0700
 

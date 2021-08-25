@@ -12,23 +12,7 @@ Tags: mission
 
 Work Title: Twilight of the Idols
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2020-11-19 13:11:28 -0800
 

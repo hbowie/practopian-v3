@@ -12,23 +12,7 @@ Tags: critical thinking, diversity, integral
 
 Work Title: Signal vs. Noise
 
-Work Type: Interview
-
-Work Minor Title:  Some advice from Jeff Bezos
-
-Work Link: https://m.signalvnoise.com/some-advice-from-jeff-bezos-28b3c2938968#.5mg9cq83q
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2012-10-22 05:30:34 -0700
 

@@ -12,23 +12,7 @@ Tags: USA, cultural evolution, individuals, progress
 
 Work Title: 2009 Inaugral Address
 
-Work Type: Speech
-
-Work Minor Title:  
-
-Work Link: http://www.whitehouse.gov/blog/inaugural-address/
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2009-04-02 19:50:16 -0700
 

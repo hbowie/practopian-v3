@@ -12,23 +12,7 @@ Tags: USA, equality
 
 Work Title: The Philosophy of Andy Warhol
 
-Work Type: Book
-
-Work Minor Title:  Work
-
-Work Link: 
-
-Work Id:  0156717204
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2012-01-09 17:37:44 -0800
 

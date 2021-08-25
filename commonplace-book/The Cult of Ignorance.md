@@ -12,23 +12,7 @@ Tags: USA, critical thinking
 
 Work Title: The Magazine of Fantasy and Science Fiction
 
-Work Type: Story
-
-Work Minor Title:  The Planet That Wasn't
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2014-09-04 03:51:11 -0700
 

@@ -12,23 +12,7 @@ Tags: cultural evolution
 
 Work Title: the integral vision
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  1590304756
-
 Work Pages:  34
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Ken Wilber
-
-Publisher:  Shambhala
-
-Publisher City:  Boston &amp; London
 
 Date Added: 2008-10-19 09:28:50 -0700
 

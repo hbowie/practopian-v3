@@ -12,23 +12,7 @@ Tags: integral
 
 Work Title: Collected Works of Ken Wilber, Volume 8
 
-Work Type: Book
-
-Work Minor Title:  Introduction
-
-Work Link: 
-
-Work Id:  1590303261
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Ken Wilber
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2007-02-10 15:04:57 -0800
 

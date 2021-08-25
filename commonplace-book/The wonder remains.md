@@ -12,23 +12,7 @@ Tags: wonder
 
 Work Title: Modes of Thought
 
-Work Type: Book
-
-Work Minor Title:  Chapter 3, Lecture 7
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2017-07-29 17:58:54 -0700
 

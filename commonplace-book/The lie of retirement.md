@@ -12,23 +12,7 @@ Tags: mission
 
 Work Title: Design is Not Appearance: My Interview with Milton Glaser
 
-Work Type: Interview
-
-Work Minor Title:  
-
-Work Link: https://medium.com/@davidpogue/design-is-not-appearance-my-interview-with-milton-glaser-8524253e307c
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  Medium
-
-Publisher City:  
 
 Date Added: 2020-06-27 12:18:00 -0700
 

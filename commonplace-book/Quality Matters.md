@@ -12,23 +12,7 @@ Tags: education
 
 Work Title: How the West was Lost
 
-Work Type: unknown
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0374173257
-
 Work Pages:  92
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Dambisa Moyo
-
-Publisher:  Farrar, Straus and Giroux
-
-Publisher City:  New York
 
 Date Added: 2011-06-24 20:17:22 -0700
 

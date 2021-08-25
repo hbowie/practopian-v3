@@ -12,23 +12,7 @@ Tags: cultural evolution, progress
 
 Work Title: The Conduct of Life
 
-Work Type: Essay
-
-Work Minor Title:  Culture
-
-Work Link: 
-
-Work Id:  0761834117
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2012-01-09 04:57:15 -0800
 

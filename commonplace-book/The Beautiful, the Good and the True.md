@@ -12,23 +12,7 @@ Tags: integral
 
 Work Title: A Brief History of Everything
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  1570627401
-
 Work Pages:  76
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Ken Wilber
-
-Publisher:  Shambhala
-
-Publisher City:  Boston &amp; London
 
 Date Added: 2007-02-11 09:42:57 -0800
 

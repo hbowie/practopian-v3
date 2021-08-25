@@ -12,23 +12,7 @@ Tags: art, equality, humanism, individuals
 
 Work Title: Henry Miller on Writing
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  New Directions Publishing
-
-Publisher City:  
 
 Date Added: 2013-06-27 04:12:18 -0700
 

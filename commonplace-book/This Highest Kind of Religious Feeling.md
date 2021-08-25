@@ -12,23 +12,7 @@ Tags: cultural evolution, religion, wonder
 
 Work Title: Religion and Science
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2010-08-13 18:22:37 -0700
 

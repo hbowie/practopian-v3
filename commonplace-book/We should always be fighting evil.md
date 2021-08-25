@@ -12,23 +12,7 @@ Tags: mission
 
 Work Title: Reform Judaism Online
 
-Work Type: Article
-
-Work Minor Title:  How the Jews Cerated the Comic Book Industry Part I: The Golden Age (1933 - 1935)
-
-Work Link: http://reformjudaismmag.net/03fall/comics.shtml
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-11-13 14:14:25 -0800
 

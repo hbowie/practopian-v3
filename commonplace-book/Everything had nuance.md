@@ -12,23 +12,7 @@ Tags: balance, integral
 
 Work Title: Little Fires Everywhere
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: https://www.celesteng.com/little-fires-everywhere
-
-Work Id:  9780735224292
-
 Work Pages:  206 - 207
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Celeste Ng
-
-Publisher:  Penguin Press
-
-Publisher City:  
 
 Date Added: 2020-08-04 10:17:36 -0700
 

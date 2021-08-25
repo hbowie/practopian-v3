@@ -12,23 +12,7 @@ Tags: progress
 
 Work Title: The Life of Reason: Reason in Common Sense
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0486239195
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2007-11-13 17:53:40 -0800
 

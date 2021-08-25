@@ -12,23 +12,7 @@ Tags: critical thinking, humanism, mission
 
 Work Title: with Bill Moyers
 
-Work Type: unknown
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2014-10-31 19:17:06 -0700
 

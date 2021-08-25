@@ -12,23 +12,7 @@ Tags: science
 
 Work Title: The Ethics
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0393058980
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2010-07-12 15:03:19 -0700
 

@@ -12,23 +12,7 @@ Tags: art
 
 Work Title: Leonard Cohen: 'All I've got to put in a song is my own experience'
 
-Work Type: Interview
-
-Work Minor Title:  
-
-Work Link: https://www.theguardian.com/music/2012/jan/19/leonard-cohen
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  
-
-Publisher:  The Guardian
-
-Publisher City:  
 
 Date Added: 2016-11-14 15:57:21 -0800
 

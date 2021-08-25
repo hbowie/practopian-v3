@@ -12,23 +12,7 @@ Tags: art
 
 Work Title: in a friend's East Village apartment, NYC
 
-Work Type: Interview
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2021-06-19 07:49:41 -0700
 

@@ -12,23 +12,7 @@ Tags: mission
 
 Work Title: The Futurist
 
-Work Type: Article
-
-Work Minor Title:  Human Nature Prepares for a Momentous Leap
-
-Work Link: http://www.clarewgraves.com/articles_content/1974_Futurist/1974_Futurist.html
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-11-07 11:54:03 -0800
 

@@ -12,23 +12,7 @@ Tags: connection, love, progress
 
 Work Title: Memo to Self
 
-Work Type: Remarks
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2013-03-21 18:27:09 -0700
 

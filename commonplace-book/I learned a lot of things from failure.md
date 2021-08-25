@@ -12,23 +12,7 @@ Tags: imperfection
 
 Work Title: We Would Have Played For Nothing
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: https://amzn.to/2OBYnty
-
-Work Id:  B001XT61BE
-
 Work Pages:  251
-
-Work Rights:  Copyright
-
-Work Rights Holder:  The Baseball Oral History Project Foundation
-
-Publisher:  Simon & Schuster Paperbacks
-
-Publisher City:  New York, NY
 
 Date Added: 2018-10-03 19:03:18 -0700
 

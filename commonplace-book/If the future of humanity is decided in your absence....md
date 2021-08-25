@@ -12,23 +12,7 @@ Tags: cultural evolution
 
 Work Title: 21 Lessons for the 21st Century
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: https://amzn.to/2EP8LdX
-
-Work Id:  9780525512172
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Yuval Noah Harari
-
-Publisher:  Spiegel & Grau
-
-Publisher City:  New York
 
 Date Added: 2018-10-26 10:42:28 -0700
 

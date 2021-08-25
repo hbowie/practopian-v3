@@ -12,23 +12,7 @@ Tags: connection, love
 
 Work Title: Braving the Wilderness: The Quest for True Belonging and the Courage to Stand Alone
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: https://amzn.to/2KiYrgQ
-
-Work Id:  0812995848
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Brené Brown
-
-Publisher:  Random House
-
-Publisher City:  New York
 
 Date Added: 2018-06-27 17:56:34 -0700
 

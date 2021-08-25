@@ -12,23 +12,7 @@ Tags: critical thinking, equality, religion
 
 Work Title: Minority Report : H.L. Mencken”s Notebooks
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0801856582
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  The Johns Hopkins University Press
-
-Publisher City:  
 
 Date Added: 2008-07-30 19:37:55 -0700
 

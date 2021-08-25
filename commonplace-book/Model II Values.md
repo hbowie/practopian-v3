@@ -12,23 +12,7 @@ Tags: critical thinking, liberty, society
 
 Work Title: Theory in Practice: Increasing Personal Effectiveness
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  1555424465
-
 Work Pages:  xxiv
-
-Work Rights:  Copyright
-
-Work Rights Holder:  John Wiley &amp; Sons, Inc.
-
-Publisher:  Jossey-Bass Publishers
-
-Publisher City:  San Francisco
 
 Date Added: 2008-10-16 20:49:39 -0700
 

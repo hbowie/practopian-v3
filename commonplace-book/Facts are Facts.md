@@ -12,23 +12,7 @@ Tags: critical thinking
 
 Work Title: Time Magazine
 
-Work Type: Article
-
-Work Minor Title:  
-
-Work Link: http://time.com/4675860/donald-trump-fake-news-attacks/
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2017-02-20 08:28:52 -0800
 

@@ -12,23 +12,7 @@ Tags: cultural evolution
 
 Work Title: Tribute to Pablo Casals
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2020-11-19 11:11:19 -0800
 

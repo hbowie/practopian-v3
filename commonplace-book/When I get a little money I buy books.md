@@ -12,23 +12,7 @@ Tags: written word
 
 Work Title: to Jacob Batt
 
-Work Type: Letter
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-10-11 12:59:45 -0700
 

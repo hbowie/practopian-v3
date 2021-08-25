@@ -12,23 +12,7 @@ Tags: democracy
 
 Work Title: How Democracies Die
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  1524762946
-
 Work Pages:  8 - 9
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Steven Levitsky and Daniel Ziblatt
-
-Publisher:  Broadway Books
-
-Publisher City:  
 
 Date Added: 2020-05-21 10:09:31 -0700
 

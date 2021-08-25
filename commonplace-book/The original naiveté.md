@@ -12,23 +12,7 @@ Tags: art, love, wonder
 
 Work Title: Time Magazine
 
-Work Type: Article
-
-Work Minor Title:  
-
-Work Link: http://time.com/4675860/donald-trump-fake-news-attacks/
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2014-09-27 07:12:08 -0700
 

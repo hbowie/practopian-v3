@@ -12,23 +12,7 @@ Tags: humanism
 
 Work Title: 2018 University of Michigan Spring Commencement Address
 
-Work Type: Speech
-
-Work Minor Title:  
-
-Work Link: https://record.umich.edu/articles/woodson-encourages-graduates-help-see-humanity-others
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  The Regents of the University of Michigan
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-05-20 13:21:32 -0700
 

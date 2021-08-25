@@ -12,23 +12,7 @@ Tags: mission, society
 
 Work Title: 
 
-Work Type: 
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-12-06 18:06:16 -0800
 

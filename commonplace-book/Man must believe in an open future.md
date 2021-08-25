@@ -12,23 +12,7 @@ Tags: liberty, mission
 
 Work Title: New Pathways In Psychology: Maslow and the Post-Freudian Revolution
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  219 - 220
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-11-13 15:43:26 -0800
 

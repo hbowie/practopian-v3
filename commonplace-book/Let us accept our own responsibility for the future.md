@@ -12,23 +12,7 @@ Tags: mission
 
 Work Title: Loyola College Alumni Banquet
 
-Work Type: Remarks
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-10-29 07:20:00 -0700
 

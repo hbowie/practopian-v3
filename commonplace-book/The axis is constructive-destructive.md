@@ -1,8 +1,8 @@
 Title: The axis is constructive-destructive
 
-Featured: 
+Featured: false
 
-Recommended: 
+Recommended: false
 
 Author: Steve Jobs
 
@@ -12,23 +12,7 @@ Tags: mission
 
 Work Title: Conversation with Rupert Murdoch
 
-Work Type: Remarks
-
-Work Minor Title:  
-
-Work Link: https://9to5mac.com/2011/10/26/steve-jobs-told-rupert-murdoch-fox-news-is-an-incredibly-destructive-force/
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-07-18 15:08:07 -0700
 

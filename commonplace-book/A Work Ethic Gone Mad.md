@@ -12,23 +12,7 @@ Tags: balance, humanism, mission, value creation
 
 Work Title: The Management Myth: Why the Experts Keep Getting it Wrong
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0393065537
-
 Work Pages:  280-281
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Matthew Stewart
-
-Publisher:  W. W. Norton and Company
-
-Publisher City:  New York, London
 
 Date Added: 2010-02-27 13:29:06 -0800
 

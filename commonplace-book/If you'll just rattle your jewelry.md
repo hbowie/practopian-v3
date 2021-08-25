@@ -12,23 +12,7 @@ Tags: equality, society
 
 Work Title: Royal Variety Performance in London
 
-Work Type: Comment
-
-Work Minor Title:  
-
-Work Link: https://youtu.be/rvBCmY7wAAU
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2019-01-27 09:28:11 -0800
 

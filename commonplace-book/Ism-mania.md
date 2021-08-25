@@ -12,23 +12,7 @@ Tags: USA, diversity
 
 Work Title: You Can't Take It With You
 
-Work Type: Film
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  B000ION7A8
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2010-10-31 18:30:54 -0700
 

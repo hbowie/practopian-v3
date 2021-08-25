@@ -12,23 +12,7 @@ Tags: love
 
 Work Title: Moving to Higher Ground: How Jazz Can Change Your Life
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  1400060788
-
 Work Pages:  40
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Wynton Marsalis Enterprises
-
-Publisher:  Random House
-
-Publisher City:  New York
 
 Date Added: 2010-10-23 11:28:26 -0700
 

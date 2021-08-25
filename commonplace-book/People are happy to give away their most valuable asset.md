@@ -12,23 +12,7 @@ Tags: critical thinking
 
 Work Title: 21 Lessons for the 21st Century
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: https://amzn.to/2EP8LdX
-
-Work Id:  9780525512172
-
 Work Pages:  79
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Yuval Noah Harari
-
-Publisher:  Spiegel & Grau
-
-Publisher City:  New York
 
 Date Added: 2018-11-12 14:35:22 -0800
 

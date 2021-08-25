@@ -12,23 +12,7 @@ Tags: love, written word
 
 Work Title: Civil Rights March on Washington, August 28
 
-Work Type: Speech
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2006-11-30 14:29:31 -0800
 

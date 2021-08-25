@@ -12,23 +12,7 @@ Tags: love
 
 Work Title: 
 
-Work Type: Interview
-
-Work Minor Title:  
-
-Work Link: http://mgoblue.com/news/2018/3/18/mens-basketball-poole-party-behind-the-game-winning-shot-that-has-michigan-moving-on.aspx
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Board of Regents of the University of Michigan
-
-Publisher:  
-
-Publisher City:  Ann Arbor
 
 Date Added: 2018-11-15 16:24:42 -0800
 

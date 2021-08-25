@@ -12,23 +12,7 @@ Tags: equality
 
 Work Title: The Cut Podcast
 
-Work Type: Interview
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  Inequality.org
-
-Publisher City:  
 
 Date Added: 2019-04-08 11:54:15 -0700
 

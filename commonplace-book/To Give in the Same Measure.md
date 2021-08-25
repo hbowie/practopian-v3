@@ -12,23 +12,7 @@ Tags: connection, mission
 
 Work Title: The World As I See It
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: https://amzn.to/2vyCRvf
-
-Work Id:  1599868245
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2008-07-13 08:59:35 -0700
 

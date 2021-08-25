@@ -12,23 +12,7 @@ Tags: critical thinking
 
 Work Title: The Common Good
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  052552049X
-
 Work Pages:  156
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Robert B. Reich
-
-Publisher:  Knopf
-
-Publisher City:  
 
 Date Added: 2018-11-15 16:24:42 -0800
 

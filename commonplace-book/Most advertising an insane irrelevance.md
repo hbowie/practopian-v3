@@ -12,23 +12,7 @@ Tags: critical thinking
 
 Work Title: New Left Review
 
-Work Type: Essay
-
-Work Minor Title:  The Magic System
-
-Work Link: https://newleftreview.org/issues/I4/articles/raymond-williams-the-magic-system
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  New Left Review Ltd
-
-Publisher:  New Left Review
-
-Publisher City:  London
 
 Date Added: 2018-07-05 14:58:16 -0700
 

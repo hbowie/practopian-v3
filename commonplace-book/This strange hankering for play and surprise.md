@@ -12,23 +12,7 @@ Tags: wonder
 
 Work Title: Wonderland: How Play Made the Modern World
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: https://amzn.to/2TGtV1o
-
-Work Id:  039918449X
-
 Work Pages:  73
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Steven Johnson and Nutopia Ltd.
-
-Publisher:  Riverhead Books
-
-Publisher City:  
 
 Date Added: 2018-11-22 11:37:59 -0800
 

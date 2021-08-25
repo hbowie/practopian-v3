@@ -12,23 +12,7 @@ Tags: education, governance, liberty, written word
 
 Work Title: To Colonel Charles Yancey
 
-Work Type: Letter
-
-Work Minor Title:  
-
-Work Link: http://oll.libertyfund.org/titles/807/88152
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2015-12-01 05:36:20 -0800
 

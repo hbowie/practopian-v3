@@ -12,23 +12,7 @@ Tags: connection, liberty
 
 Work Title: In Search of Excellence: Lessons from America”s Best-Run Companies
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0446385077
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Thomas J. Peters and Robert H. Waterman, Jr.
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2006-11-30 14:29:32 -0800
 

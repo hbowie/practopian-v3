@@ -12,23 +12,7 @@ Tags: connection, individuals
 
 Work Title: 
 
-Work Type: unknown
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2016-01-05 19:40:57 -0800
 

@@ -12,23 +12,7 @@ Tags: education, society
 
 Work Title: WTF: What's the Future and Why It's Up To Us
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  320
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-05-27 07:30:12 -0700
 

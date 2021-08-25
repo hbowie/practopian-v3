@@ -12,23 +12,7 @@ Tags: cultural evolution
 
 Work Title: 
 
-Work Type: Speech
-
-Work Minor Title:  
-
-Work Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3327546/
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-04-11 12:20:50 -0700
 

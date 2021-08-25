@@ -12,23 +12,7 @@ Tags: governance
 
 Work Title: The Ezra Klein Show
 
-Work Type: Podcast
-
-Work Minor Title:  
-
-Work Link: https://www.nytimes.com/2021/06/01/opinion/ezra-klein-podcast-barack-obama.html
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  The New York Times Company
-
-Publisher:  The New York Times
-
-Publisher City:  
 
 Date Added: 2021-06-02 08:28:00 -0700
 

@@ -12,23 +12,7 @@ Tags: art
 
 Work Title: Democratic Vistas
 
-Work Type: Essay
-
-Work Minor Title:  
-
-Work Link: http://xroads.virginia.edu/~hyper/whitman/vistas/vistas.html
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-11-15 16:24:42 -0800
 

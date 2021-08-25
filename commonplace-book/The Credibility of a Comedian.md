@@ -12,23 +12,7 @@ Tags: USA, democracy
 
 Work Title: Fox News Sunday with Chris Wallace
 
-Work Type: Television Show
-
-Work Minor Title:  
-
-Work Link: http://gothamist.com/2011/06/20/video_jon_stewart_says_the_times_bi.php
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2011-06-21 18:13:17 -0700
 

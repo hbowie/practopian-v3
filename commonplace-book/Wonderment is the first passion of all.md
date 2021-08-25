@@ -12,23 +12,7 @@ Tags: wonder
 
 Work Title: The Passions of the Soul
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2017-12-05 09:18:13 -0800
 

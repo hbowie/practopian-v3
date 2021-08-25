@@ -12,23 +12,7 @@ Tags: governance, progress
 
 Work Title: Illustrated London News
 
-Work Type: unknown
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2011-04-22 06:06:37 -0700
 

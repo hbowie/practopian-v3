@@ -12,23 +12,7 @@ Tags: equality
 
 Work Title: The Beatles Anthology
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0811826848
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  Chronicle Books
-
-Publisher City:  San Francisco
 
 Date Added: 2012-03-23 06:15:29 -0700
 

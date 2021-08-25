@@ -12,23 +12,7 @@ Tags: art, connection
 
 Work Title: White Bicycles: Making Music in the 1960s
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  1852429100
-
 Work Pages:  204-205
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Joe Boyd
-
-Publisher:  Serpent's Tail
-
-Publisher City:  London
 
 Date Added: 2008-11-02 08:12:54 -0800
 

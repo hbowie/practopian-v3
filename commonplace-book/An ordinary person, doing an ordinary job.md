@@ -12,23 +12,7 @@ Tags: individuals
 
 Work Title: Why Jesus Called a Man A Fool
 
-Work Type: Sermon
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-01-16 08:02:13 -0800
 

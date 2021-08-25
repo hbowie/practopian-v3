@@ -12,23 +12,7 @@ Tags: Management, Measurement, art, humanism, liberty
 
 Work Title: Measuring and Managing Performance in Organizations
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0932633366
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Robert D. Austin
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2006-12-19 16:27:23 -0800
 

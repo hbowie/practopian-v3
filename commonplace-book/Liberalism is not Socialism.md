@@ -12,23 +12,7 @@ Tags: equality, governance, value creation
 
 Work Title: unknown
 
-Work Type: unknown
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2012-06-10 06:47:13 -0700
 

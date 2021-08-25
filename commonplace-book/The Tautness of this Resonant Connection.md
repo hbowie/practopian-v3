@@ -12,23 +12,7 @@ Tags: art
 
 Work Title: Reason to Rock: Rock Music as Art Form
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: http://www.reasontorock.com
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  Copyright 2001-2010
-
-Work Rights Holder:  Herb Bowie
-
-Publisher:  PowerSurge Publishing
-
-Publisher City:  Seattle
 
 Date Added: 2010-11-20 12:35:29 -0800
 

@@ -12,23 +12,7 @@ Tags: connection, society
 
 Work Title: Changing the Frame: Family Photos on Your Desk Could Make You More Ethical on the Job
 
-Work Type: Interview
-
-Work Minor Title:  
-
-Work Link: https://michiganross.umich.edu/rtia-articles/changing-frame-family-photos-your-desk-could-make-you-more-ethical-job
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2020-11-12 08:01:22 -0800
 

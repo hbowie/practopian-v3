@@ -12,23 +12,7 @@ Tags: humanism
 
 Work Title: unknown
 
-Work Type: unknown
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2013-04-01 04:52:55 -0700
 

@@ -12,23 +12,7 @@ Tags: connection, cultural evolution
 
 Work Title: Conquering Self-centeredness
 
-Work Type: Sermon
-
-Work Minor Title:  
-
-Work Link: https://kinginstitute.stanford.edu/king-papers/documents/conquering-self-centeredness-sermon-delivered-dexter-avenue-baptist-church
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-01-16 07:50:36 -0800
 

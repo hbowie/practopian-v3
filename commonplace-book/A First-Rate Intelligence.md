@@ -12,23 +12,7 @@ Tags: critical thinking
 
 Work Title: The Crack-Up
 
-Work Type: unknown
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  B000M4T6PO
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2008-06-08 20:05:24 -0700
 

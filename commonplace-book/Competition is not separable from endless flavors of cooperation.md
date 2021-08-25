@@ -12,23 +12,7 @@ Tags: evolution, systemic, wonder
 
 Work Title: The Overstory
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: http://www.richardpowers.net/the-overstory/
-
-Work Id:  039335668X
-
 Work Pages:  142
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Richard Powers
-
-Publisher:  W. W. Norton & Company
-
-Publisher City:  New York, London
 
 Date Added: 2019-08-21 18:25:37 -0700
 

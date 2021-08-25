@@ -12,23 +12,7 @@ Tags: equality, rule of law
 
 Work Title: No Name in the Street
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0307275922
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2015-12-31 10:56:51 -0800
 

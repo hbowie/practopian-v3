@@ -12,23 +12,7 @@ Tags: progress
 
 Work Title: unknown
 
-Work Type: unknown
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  The Gallup Organization
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2006-11-30 14:29:32 -0800
 

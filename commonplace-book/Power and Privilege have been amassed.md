@@ -12,23 +12,7 @@ Tags: society
 
 Work Title: A Conversation with Peter Boettke
 
-Work Type: Interview
-
-Work Minor Title:  
-
-Work Link: https://evolution-institute.org/the-role-of-the-market-in-the-third-way-of-entrepreneurship-a-conversation-with-peter-boettke/#
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2020-07-01 15:40:26 -0700
 

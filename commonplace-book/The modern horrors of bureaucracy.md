@@ -12,23 +12,7 @@ Tags: humanism, systemic
 
 Work Title: In the Last Analysis
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2020-08-17 07:41:04 -0700
 

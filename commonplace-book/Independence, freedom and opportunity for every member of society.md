@@ -12,23 +12,7 @@ Tags: liberty
 
 Work Title: The Nordic Theory of Everything: In Search of a Better Life
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: https://www.anupartanen.com/the-nordic-theory-of-everything/
-
-Work Id:  0062316540
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  Harper
-
-Publisher City:  
 
 Date Added: 2017-02-21 10:27:11 -0800
 

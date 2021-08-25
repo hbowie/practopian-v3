@@ -12,23 +12,7 @@ Tags: governance
 
 Work Title: Concerning the Relief of the Poor
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2021-06-03 10:31:05 -0700
 

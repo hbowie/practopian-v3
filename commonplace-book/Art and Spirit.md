@@ -12,23 +12,7 @@ Tags: art, wonder
 
 Work Title: The Eye of Spirit: An Integral Vision for a World Gone Slightly Mad
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  1570628718
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Ken Wilber
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2007-03-20 16:49:17 -0700
 

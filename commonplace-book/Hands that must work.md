@@ -12,23 +12,7 @@ Tags: education
 
 Work Title: Valedictorian Speech
 
-Work Type: unknown
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2017-07-18 08:46:36 -0700
 

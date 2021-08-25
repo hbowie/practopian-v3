@@ -12,23 +12,7 @@ Tags: cultural evolution, religion, science
 
 Work Title: New Scientist
 
-Work Type: Article
-
-Work Minor Title:  Can biology do better than faith?
-
-Work Link: http://www.newscientist.com/article/dn8254-can-biology-do-better-than-faith.html
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Reed Business Information Ltd.
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2010-10-26 19:52:23 -0700
 

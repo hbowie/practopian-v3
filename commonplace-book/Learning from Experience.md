@@ -12,23 +12,7 @@ Tags: critical thinking, education, systemic
 
 Work Title: The Fifth Discipline: The Art and Practice of the Learning Organization
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: https://en.wikipedia.org/wiki/The_Fifth_Discipline
-
-Work Id:  0385260946
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Peter M. Senge.
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2006-11-30 14:29:32 -0800
 

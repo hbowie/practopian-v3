@@ -12,23 +12,7 @@ Tags: written word
 
 Work Title: An Experiment in Criticism
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2014-12-06 13:20:17 -0800
 

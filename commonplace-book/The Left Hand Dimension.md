@@ -12,23 +12,7 @@ Tags: integral
 
 Work Title: A Brief History of Everything
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: https://www.penguinrandomhouse.com/books/643728/a-brief-history-of-everything-20th-anniversary-edition-by-ken-wilber/
-
-Work Id:  1570627401
-
 Work Pages:  76
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Ken Wilber
-
-Publisher:  Shambhala
-
-Publisher City:  Boston &amp; London
 
 Date Added: 2012-03-10 11:02:20 -0800
 

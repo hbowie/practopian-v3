@@ -12,23 +12,7 @@ Tags: humanism
 
 Work Title: Words Are My Matter
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  1618731343
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2017-04-21 08:53:54 -0700
 

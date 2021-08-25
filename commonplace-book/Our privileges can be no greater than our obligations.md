@@ -12,23 +12,7 @@ Tags: individuals, liberty
 
 Work Title: 90th Anniversary Convocation of Vanderbilt University
 
-Work Type: Speech
-
-Work Minor Title:  
-
-Work Link: https://www.jfklibrary.org/Research/Research-Aids/JFK-Speeches/Vanderbilt-University_19630518.aspx
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2017-03-26 13:13:49 -0700
 

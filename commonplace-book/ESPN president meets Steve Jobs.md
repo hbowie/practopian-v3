@@ -12,23 +12,7 @@ Tags: critical thinking, equality
 
 Work Title: Those Guys Have All the Fun: Inside the World of ESPN
 
-Work Type: unknown
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0316043001
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  Little, Brown and Company
-
-Publisher City:  
 
 Date Added: 2011-08-01 12:42:03 -0700
 

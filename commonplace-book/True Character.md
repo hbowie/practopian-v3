@@ -12,23 +12,7 @@ Tags: individuals, religion, society
 
 Work Title: Consilience: The Unity of Knowledge
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0679450777
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  Alfred A. Knopf
-
-Publisher City:  New York
 
 Date Added: 2010-10-26 20:00:28 -0700
 

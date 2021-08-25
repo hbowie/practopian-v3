@@ -12,23 +12,7 @@ Tags: art, written word
 
 Work Title: Tibetan Peach Pie: A True Account of an Imaginative Life
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  006226740X
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Tom Robbins
-
-Publisher:  Ecco
-
-Publisher City:  
 
 Date Added: 2016-10-23 14:48:01 -0700
 

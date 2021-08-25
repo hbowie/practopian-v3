@@ -12,23 +12,7 @@ Tags: connection, love
 
 Work Title: The Portable Jack Kerouac
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2020-12-06 09:46:29 -0800
 

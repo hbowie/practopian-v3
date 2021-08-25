@@ -12,23 +12,7 @@ Tags: love, mission
 
 Work Title: Tikkun Olam and the Mission of the Gottman Institute
 
-Work Type: Essay
-
-Work Minor Title:  
-
-Work Link: https://www.gottman.com/blog/tikkun-olam-and-the-mission-of-the-gottman-institute/
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  The Gottman Institute
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2019-01-29 10:35:17 -0800
 

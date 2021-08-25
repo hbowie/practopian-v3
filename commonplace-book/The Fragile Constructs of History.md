@@ -12,23 +12,7 @@ Tags: cultural evolution
 
 Work Title: Powerful Times: Rising to the Challenge of our Uncertain World
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0131855204
-
 Work Pages:  2
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Pearson Education, Inc.
-
-Publisher:  Wharton School Publishing
-
-Publisher City:  New Jersey
 
 Date Added: 2010-04-06 19:31:43 -0700
 

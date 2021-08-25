@@ -12,23 +12,7 @@ Tags: critical thinking
 
 Work Title: Five Stages of Greek Religion
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  1153825074
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2010-04-16 22:12:13 -0700
 

@@ -12,23 +12,7 @@ Tags: connection, equality
 
 Work Title: Book of the Eskimo
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  B0006AWY8A
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  World Pub. Co.
-
-Publisher City:  
 
 Date Added: 2011-10-30 12:21:59 -0700
 

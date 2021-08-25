@@ -12,23 +12,7 @@ Tags: democracy, education, society
 
 Work Title: Talking to My Daughter About the Economy: or, How Capitalism Works -- and How It Fails
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: https://www.amazon.com/Talking-Daughter-About-Economy-Works-ebook/dp/B076H4WMY1/ref=as_li_ss_tl?ie=UTF8&qid=1529605200&sr=8-1&keywords=explaining+the+economy+to+my+daughter&linkCode=ll1&tag=practopians-20&linkId=24ecc111b5ebfbba0a2736eef1842aec
-
-Work Id:  B076H4WMY1
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-06-21 11:15:21 -0700
 

@@ -12,23 +12,7 @@ Tags: art, diversity
 
 Work Title: The Case of the Gilded Fly
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: https://amzn.to/2RRwVXy
-
-Work Id:  0008228000
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  London House and Maxwell
-
-Publisher City:  Elmsford, New York
 
 Date Added: 2012-07-29 10:36:54 -0700
 

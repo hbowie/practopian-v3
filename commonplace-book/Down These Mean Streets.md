@@ -12,23 +12,7 @@ Tags: individuals
 
 Work Title: The Simple Art of Murder
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0394757653
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Raymond Chandler
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2006-11-30 14:29:32 -0800
 

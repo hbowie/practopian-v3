@@ -12,23 +12,7 @@ Tags: society, written word
 
 Work Title: Fourth and Long
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: https://amzn.to/2tQgDU2
-
-Work Id:  1476760306
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2014-06-13 04:28:19 -0700
 

@@ -12,23 +12,7 @@ Tags: critical thinking, equality
 
 Work Title: Thinking Clockwise: A Field Guide for the Innovative Leader
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0964042932
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Dennis Stauffer
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2008-06-01 10:06:31 -0700
 

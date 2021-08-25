@@ -12,23 +12,7 @@ Tags: connection
 
 Work Title: No Name in the Street
 
-Work Type: Story
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-11-09 16:46:29 -0800
 

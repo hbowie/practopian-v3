@@ -12,23 +12,7 @@ Tags: humanism
 
 Work Title: Twelve Types
 
-Work Type: unknown
-
-Work Minor Title:  Sir Walter Scott
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2011-04-22 06:05:01 -0700
 

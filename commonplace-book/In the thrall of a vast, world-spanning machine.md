@@ -12,23 +12,7 @@ Tags: systemic
 
 Work Title: WTF: What's the Future and Why It's Up To Us
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: https://amzn.to/2Hp1MJI
-
-Work Id:  0062565710
-
 Work Pages:  231
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Timothy F. O'Reilly
-
-Publisher:  Harper Business
-
-Publisher City:  New York
 
 Date Added: 2018-04-16 11:14:20 -0700
 

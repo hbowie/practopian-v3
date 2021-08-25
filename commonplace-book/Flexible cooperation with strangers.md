@@ -12,23 +12,7 @@ Tags: society
 
 Work Title: Homo Deus: A Brief History of Tomorrow
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0062464310
-
 Work Pages:  133
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Yuval Noah Harari
-
-Publisher:  Harper
-
-Publisher City:  New York
 
 Date Added: 2017-10-15 07:14:00 -0700
 

@@ -12,23 +12,7 @@ Tags: governance, society
 
 Work Title: Fragment on Government
 
-Work Type: Article
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-07-09 11:46:07 -0700
 

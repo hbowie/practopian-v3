@@ -12,23 +12,7 @@ Tags: cultural evolution
 
 Work Title: Studies in Language Origins
 
-Work Type: Book
-
-Work Minor Title:  The Meaning of Duality of Patterning and Its Importance in Language Evolution
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2017-02-16 13:25:08 -0800
 

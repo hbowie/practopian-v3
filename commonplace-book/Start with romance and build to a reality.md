@@ -12,23 +12,7 @@ Tags: art, humanism, wonder
 
 Work Title: Mars and the Mind of Man
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2021-02-18 14:43:01 -0800
 

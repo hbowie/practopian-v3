@@ -12,23 +12,7 @@ Tags: connection, equality, governance
 
 Work Title: Brent Schlender's Conversations with Steve Jobs
 
-Work Type: Interview
-
-Work Minor Title:  
-
-Work Link: http://www.fastcompany.com/magazine/165/steve-jobs-highlights
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Mansueto Ventures
-
-Publisher:  Fast Company
-
-Publisher City:  New York, NY
 
 Date Added: 2012-04-22 14:57:41 -0700
 

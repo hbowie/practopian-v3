@@ -12,23 +12,7 @@ Tags: value creation
 
 Work Title: Life Magazine
 
-Work Type: Article
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2017-02-15 09:59:53 -0800
 

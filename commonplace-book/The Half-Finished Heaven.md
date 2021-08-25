@@ -12,23 +12,7 @@ Tags: connection, wonder
 
 Work Title: The Half-Finished Heaven
 
-Work Type: Poem
-
-Work Minor Title:  
-
-Work Link: https://www.nobelprize.org/nobel_prizes/literature/laureates/2011/transtromer-poetry_heaven.html
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-07-07 10:03:19 -0700
 

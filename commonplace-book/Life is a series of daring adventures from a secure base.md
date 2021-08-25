@@ -12,23 +12,7 @@ Tags: connection, education, governance, parenthood, value creation
 
 Work Title: The New York Times
 
-Work Type: Essay
-
-Work Minor Title:  Trumpism at Its Best, Straight Up
-
-Work Link: https://www.nytimes.com/2017/03/03/opinion/trumpism-at-its-best-straight-up.html
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  The New York Times Company
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2017-03-07 15:13:30 -0800
 

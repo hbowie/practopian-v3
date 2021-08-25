@@ -12,23 +12,7 @@ Tags: education, equality
 
 Work Title: The Nordic Theory of Everything: In Search of a Better Life
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0062316540
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  Harper
-
-Publisher City:  
 
 Date Added: 2017-02-21 10:57:26 -0800
 

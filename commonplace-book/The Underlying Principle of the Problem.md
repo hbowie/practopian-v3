@@ -12,23 +12,7 @@ Tags: critical thinking
 
 Work Title: Insanely Great: The Life and Times of Macintosh, the Computer that Changed Everything
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0140291776
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2008-07-13 13:40:38 -0700
 

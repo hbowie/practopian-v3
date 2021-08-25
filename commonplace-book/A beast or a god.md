@@ -12,23 +12,7 @@ Tags: society
 
 Work Title: Politics
 
-Work Type: Book
-
-Work Minor Title:  Book I
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-11-08 07:19:45 -0800
 

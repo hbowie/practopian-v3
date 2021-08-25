@@ -12,23 +12,7 @@ Tags: wonder
 
 Work Title: Keynote at Eisner Awards
 
-Work Type: Speech
-
-Work Minor Title:  
-
-Work Link: http://www.comic-con.org/cci/cci_eisners04keynote.shtml
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2010-03-10 06:39:13 -0800
 

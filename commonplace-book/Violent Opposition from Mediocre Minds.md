@@ -12,23 +12,7 @@ Tags: critical thinking, science
 
 Work Title: to Morris Raphael Cohen, professor emeritus of philosophy at the College of the City of New York
 
-Work Type: unknown
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2010-10-27 20:15:50 -0700
 

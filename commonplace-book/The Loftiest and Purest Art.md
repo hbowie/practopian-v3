@@ -12,23 +12,7 @@ Tags: art
 
 Work Title: unknown
 
-Work Type: Speech
-
-Work Minor Title:  Talk to an Art-Union (A Brooklyn fragment)
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2010-08-21 12:50:18 -0700
 

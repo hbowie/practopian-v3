@@ -12,23 +12,7 @@ Tags: critical thinking, humanism, written word
 
 Work Title: This Fleeting World: A Short History of Humanity
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  1933782048
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  Berkshire Publishing Group
-
-Publisher City:  
 
 Date Added: 2014-04-09 18:54:37 -0700
 

@@ -12,23 +12,7 @@ Tags: wonder
 
 Work Title: The Portable Jack Kerouac
 
-Work Type: Letter
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2014-03-23 15:19:09 -0700
 

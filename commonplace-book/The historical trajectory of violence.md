@@ -12,23 +12,7 @@ Tags: cultural evolution
 
 Work Title: The Better Angels of our Nature: Why Violence Has Declined
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  xxi
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Steven Pinker
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-10-26 10:48:17 -0700
 

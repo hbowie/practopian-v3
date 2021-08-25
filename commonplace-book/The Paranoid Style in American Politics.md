@@ -12,23 +12,7 @@ Tags: democracy
 
 Work Title: Harper's Magazine
 
-Work Type: Article
-
-Work Minor Title:  
-
-Work Link: https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Harper's Magazine Foundation
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2020-12-01 14:39:16 -0800
 

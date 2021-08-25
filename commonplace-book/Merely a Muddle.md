@@ -12,23 +12,7 @@ Tags: critical thinking
 
 Work Title: The Seven Suspects
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0140068864
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  John Innes Mackintosh Stewart
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2007-09-29 07:47:36 -0700
 

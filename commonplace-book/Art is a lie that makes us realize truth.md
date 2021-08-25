@@ -12,23 +12,7 @@ Tags: art
 
 Work Title: The Arts
 
-Work Type: Article
-
-Work Minor Title:  Picasso Speaks
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2017-05-24 15:57:36 -0700
 

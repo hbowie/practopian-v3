@@ -12,23 +12,7 @@ Tags: balance, power
 
 Work Title: The Zebra-Striped Hearse
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2021-02-25 08:03:44 -0800
 

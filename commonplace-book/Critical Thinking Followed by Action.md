@@ -12,23 +12,7 @@ Tags: art, critical thinking, individuals, progress
 
 Work Title: I Am
 
-Work Type: Film
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2013-12-28 13:09:27 -0800
 

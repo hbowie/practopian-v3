@@ -12,23 +12,7 @@ Tags: society
 
 Work Title: My Early Beliefs
 
-Work Type: Essay
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2018-07-20 16:19:08 -0700
 

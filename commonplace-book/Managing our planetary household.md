@@ -12,23 +12,7 @@ Tags: sustainability, value creation
 
 Work Title: Doughnut Economics: 7 Ways to Think Like a 21st Century Economist
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: https://www.kateraworth.com/#
-
-Work Id:  
-
 Work Pages:  4
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Kate Raworth
-
-Publisher:  Chelsea Green Publishing
-
-Publisher City:  
 
 Date Added: 2021-03-30 13:06:32 -0700
 

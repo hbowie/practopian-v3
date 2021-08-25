@@ -1,13 +1,7 @@
 Author: Alan Lightman
 
-Tags:
+Author Info: American physicist, writer, and social entrepreneur
 
-Author Info:  
+Author Years: 1948-
 
-Author Years: 
-
-Author Link:  
-
-Author Notes:
-
-
+Author Link: https://en.wikipedia.org/wiki/Alan_Lightman

@@ -12,23 +12,7 @@ Tags: cultural evolution
 
 Work Title: Survival of the Friendliest: Understanding our Origins and Rediscovering our Common Humanity
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: https://www.penguinrandomhouse.com/books/550437/survival-of-the-friendliest-by-brian-hare-and-vanessa-woods/
-
-Work Id:  9780399590665
-
 Work Pages:  66-67
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Brian Hare and Vanessa Woods
-
-Publisher:  Random House
-
-Publisher City:  New York
 
 Date Added: 2020-09-24 18:19:46 -0700
 

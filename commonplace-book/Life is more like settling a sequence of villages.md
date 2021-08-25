@@ -12,23 +12,7 @@ Tags: connection
 
 Work Title: The Strange Failure of the Educated Elite
 
-Work Type: Essay
-
-Work Minor Title:  
-
-Work Link: https://www.nytimes.com/2018/05/28/opinion/failure-educated-elite.html
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  The New York Times Company
-
-Publisher:  The New York Times
-
-Publisher City:  New York
 
 Date Added: 2018-05-29 15:10:51 -0700
 

@@ -12,23 +12,7 @@ Tags: connection, humanism, integral
 
 Work Title: Howard”s End
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0486424545
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2007-04-10 14:52:58 -0700
 

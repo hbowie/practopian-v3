@@ -12,23 +12,7 @@ Tags: critical thinking, progress, technology
 
 Work Title: Macworld Keynote
 
-Work Type: Speech
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2010-02-23 18:57:08 -0800
 

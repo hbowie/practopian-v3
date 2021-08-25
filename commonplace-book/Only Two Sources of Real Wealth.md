@@ -12,23 +12,7 @@ Tags: individuals, value creation
 
 Work Title: Why Work?
 
-Work Type: Essay
-
-Work Minor Title:  
-
-Work Link: http://tnl.org/wp-content/uploads/Why-Work-Dorothy-Sayers.pdf
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2016-04-26 09:02:12 -0700
 

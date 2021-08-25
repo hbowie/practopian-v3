@@ -12,23 +12,7 @@ Tags: connection
 
 Work Title: The Great Good Place
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  1569246815
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Ray Oldenburg
-
-Publisher:  Da Capo Press
-
-Publisher City:  Cambridge, Massachusetts
 
 Date Added: 2009-02-04 07:47:47 -0800
 

@@ -12,23 +12,7 @@ Tags: progress
 
 Work Title: The Prince
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0679410449
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2012-01-19 13:34:08 -0800
 

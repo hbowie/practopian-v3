@@ -12,23 +12,7 @@ Tags: humanism, wonder
 
 Work Title: unknown
 
-Work Type: unknown
-
-Work Minor Title:  Introduction
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2011-04-22 06:12:38 -0700
 

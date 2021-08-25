@@ -12,23 +12,7 @@ Tags: critical thinking
 
 Work Title: AntiPatterns and Patterns in Software Configuration Management
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0471329290
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  William J. Brown, Hays W. Skip McCormick III, Scott W. Thomas
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2006-11-30 14:29:32 -0800
 

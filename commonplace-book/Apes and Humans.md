@@ -12,23 +12,7 @@ Tags: evolution, humanism, science
 
 Work Title: Shadows of Forgotten Ancestors: A Search for Who We Are
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: https://en.wikipedia.org/wiki/Shadows_of_Forgotten_Ancestors_(book)
-
-Work Id:  0345384725
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Carl Sagan and Ann Druyan
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2007-10-08 19:40:58 -0700
 

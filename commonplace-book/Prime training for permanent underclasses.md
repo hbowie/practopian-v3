@@ -12,23 +12,7 @@ Tags: education
 
 Work Title: Dumbing Us Down: The Hidden Curriculum of Compulsory Schooling, 10th Anniversary Edition
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  086571519X
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2014-01-08 17:42:02 -0800
 

@@ -12,23 +12,7 @@ Tags: science
 
 Work Title: Popular Lectures
 
-Work Type: Lecture
-
-Work Minor Title:  Electrical Units of Measurement
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2014-03-13 06:15:56 -0700
 

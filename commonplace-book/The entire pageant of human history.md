@@ -12,23 +12,7 @@ Tags: cultural evolution
 
 Work Title: This View of Life: Completing the Darwinian Revolution
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: https://amzn.to/2EZNQ5q
-
-Work Id:  1101870206
-
 Work Pages:  106
-
-Work Rights:  Copyright
-
-Work Rights Holder:  David Sloan Wilson
-
-Publisher:  Pantheon Books
-
-Publisher City:  New York
 
 Date Added: 2019-07-15 19:48:00 -0700
 

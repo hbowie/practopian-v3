@@ -12,23 +12,7 @@ Tags: cultural evolution, value creation
 
 Work Title: Sapiens: A Brief History of Humankind
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2021-05-25 15:13:43 -0700
 

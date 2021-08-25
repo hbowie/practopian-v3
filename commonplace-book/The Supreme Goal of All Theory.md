@@ -12,23 +12,7 @@ Tags: science
 
 Work Title: On the Method of Theoretical Physics
 
-Work Type: Lecture
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2008-07-13 08:55:57 -0700
 

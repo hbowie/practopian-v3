@@ -12,23 +12,7 @@ Tags: art, religion, science, wonder
 
 Work Title: The World As I See It
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  1599868245
-
 Work Pages:  
-
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2012-11-06 04:07:51 -0800
 

@@ -12,23 +12,7 @@ Tags: love
 
 Work Title: The Overstory
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: https://amzn.to/33I65am
-
-Work Id:  039335668X
-
 Work Pages:  144
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Richard Powers
-
-Publisher:  W. W. Norton & Company
-
-Publisher City:  New York, London
 
 Date Added: 2019-08-21 18:18:11 -0700
 

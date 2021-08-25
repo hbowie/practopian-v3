@@ -12,23 +12,7 @@ Tags: governance, systemic
 
 Work Title: Sapiens: A Brief History of Humankind
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  0062316095
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Yuval Noah Harari
-
-Publisher:  Harper Collins
-
-Publisher City:  
 
 Date Added: 2017-01-13 11:51:50 -0800
 

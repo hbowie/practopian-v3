@@ -12,23 +12,7 @@ Tags: critical thinking
 
 Work Title: At the Existentialist Café: Freedom, Being, and Apricot Cocktails
 
-Work Type: Book
-
-Work Minor Title:  
-
-Work Link: 
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  2016
-
-Publisher:  Other Press
-
-Publisher City:  New York
 
 Date Added: 2018-10-26 10:56:02 -0700
 

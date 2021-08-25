@@ -12,23 +12,7 @@ Tags: cultural evolution, humanism
 
 Work Title: Harvard Magazine
 
-Work Type: Article
-
-Work Minor Title:  An Intellectual Entente
-
-Work Link: http://harvardmagazine.com/breaking-news/james-watson-edward-o-wilson-intellectual-entente
-
-Work Id:  
-
 Work Pages:  
-
-Work Rights:  Copyright
-
-Work Rights Holder:  Harvard Magazine Inc.
-
-Publisher:  
-
-Publisher City:  
 
 Date Added: 2010-10-26 19:46:43 -0700
 
