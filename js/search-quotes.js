@@ -39,25 +39,25 @@ let searchQuotes = [
 		title: "We are idealists and we are realists",
 		date: "2018",
     url: "quotes/we-are-idealists-and-we-are-realists.html",
-		content: "We are idealists and we are realists We are dreamers and we are builders We are experiencers and we are experimenters We long for certainties yet we ourselves are full of the ambiguities of the Mona Lisa and the I Ching We ourselves are a part of the yin yang of the world Alan Lightman  Searching for Stars on an Island in Maine "
+		content: "We are idealists and we are realists We are dreamers and we are builders We are experiencers and we are experimenters We long for certainties yet we ourselves are full of the ambiguities of the Mona Lisa and the I Ching We ourselves are a part of the yin yang of the world Alan Lightman American physicist, writer, and social entrepreneur Searching for Stars on an Island in Maine "
 	},
 	{
 		title: "An Invincible Summer",
 		date: "1952",
     url: "quotes/an-invincible-summer.html",
-		content: "In the depths of winter I finally learned that within me there lay an invincible summer Albert Camus  Lyrical and Critical Essays "
+		content: "In the depths of winter I finally learned that within me there lay an invincible summer Albert Camus French philosopher, author, and journalist Lyrical and Critical Essays "
 	},
 	{
 		title: "The evil in the world comes almost always from ignorance",
 		date: "1947",
     url: "quotes/the-evil-in-the-world-comes-almost-always-from-ignorance.html",
-		content: "The evil in the world comes almost always from ignorance and goodwill can cause as much damage as ill will if it is not enlightened There is no true goodness or fine love without the greatest possible degree of clear sightedness Albert Camus  The Plague "
+		content: "The evil in the world comes almost always from ignorance and goodwill can cause as much damage as ill will if it is not enlightened There is no true goodness or fine love without the greatest possible degree of clear sightedness Albert Camus French philosopher, author, and journalist The Plague "
 	},
 	{
 		title: "Work, Soul and Life",
 		date: "",
     url: "quotes/work-soul-and-life.html",
-		content: "Without work all life goes rotten But when work is soulless life stifles and dies Albert Camus  unknown "
+		content: "Without work all life goes rotten But when work is soulless life stifles and dies Albert Camus French philosopher, author, and journalist unknown "
 	},
 	{
 		title: "The Eternal Struggle for Human Rights",
@@ -171,7 +171,7 @@ let searchQuotes = [
 		title: "The modern horrors of bureaucracy",
 		date: "1964",
     url: "quotes/the-modern-horrors-of-bureaucracy.html",
-		content: "Yet the people here suffered apparently from the fact that they were employed not by an educational institution but by a bureaucratic system They were all to a large extent clerks neatly bound up in red tape and like clerks they gave themselves the illusion of freedom by discussing and ridiculing the strictures that bound them Kate thought lovingly of her own university where one struggled God knew against the ancient sins of favoritism flattery and simony but where the modern horrors of bureaucracy had not yet strangled her colleagues or herself Amanda Cross  In the Last Analysis "
+		content: "Yet the people here suffered apparently from the fact that they were employed not by an educational institution but by a bureaucratic system They were all to a large extent clerks neatly bound up in red tape and like clerks they gave themselves the illusion of freedom by discussing and ridiculing the strictures that bound them Kate thought lovingly of her own university where one struggled God knew against the ancient sins of favoritism flattery and simony but where the modern horrors of bureaucracy had not yet strangled her colleagues or herself Amanda Cross American academic at Columbia University, a prolific feminist author of academic studies, and a mystery author. In the Last Analysis "
 	},
 	{
 		title: "The sort of organisms that interpret and modify their agency",
@@ -201,7 +201,7 @@ let searchQuotes = [
 		title: "Excitement from Art",
 		date: "1974",
     url: "quotes/excitement-from-art.html",
-		content: "The excitement we derive from a work of art is mostly the excitement of seeing connections that did not exist before of seeing quite different aspects of life unified through a pattern Anthony Burgess  English Literature: A Survey for Students "
+		content: "The excitement we derive from a work of art is mostly the excitement of seeing connections that did not exist before of seeing quite different aspects of life unified through a pattern Anthony Burgess English writer and composer English Literature: A Survey for Students "
 	},
 	{
 		title: "The Extent of Freedom in All of its Dimensions",
@@ -555,7 +555,7 @@ let searchQuotes = [
 		title: "Life is a series of daring adventures from a secure base",
 		date: "March 3, 2017",
     url: "quotes/life-is-a-series-of-daring-adventures-from-a-secure-base.html",
-		content: "Human development research offers a different formula All of life is a series of daring adventures from a secure base If government can create a framework in which people grow up amid healthy families nurturing schools thick communities and a secure safety net then they will have the resources and audacity to thrive in a free global economy and a diversifying skills economy David Brooks  The New York Times "
+		content: "Human development research offers a different formula All of life is a series of daring adventures from a secure base If government can create a framework in which people grow up amid healthy families nurturing schools thick communities and a secure safety net then they will have the resources and audacity to thrive in a free global economy and a diversifying skills economy David Brooks American film director, producer, screenwriter, and actor The New York Times "
 	},
 	{
 		title: "Life is more like settling a sequence of villages",
@@ -591,25 +591,25 @@ let searchQuotes = [
 		title: "Between-group selection became the primary evolutionary force",
 		date: "2019",
     url: "quotes/between-group-selection-became-the-primary-evolutionary-force.html",
-		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The chicken experiment",
 		date: "2019",
     url: "quotes/the-chicken-experiment.html",
-		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The entire pageant of human history",
 		date: "2019",
     url: "quotes/the-entire-pageant-of-human-history.html",
-		content: "Once we become attuned to it the entire pageant of human history starting approximately 100 000 years ago can be seen as evolution at high speed made possible by the transmission of learned information across generations Our departure from Africa and colonization of the rest of the planet our ability to inhabit all climatic zones and dozens of ecological niches as hunter gatherers our ability to grow food as farmers the advent of writing and the exploitation of fossil fuels were all made possible by the generational transfer of information David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Once we become attuned to it the entire pageant of human history starting approximately 100 000 years ago can be seen as evolution at high speed made possible by the transmission of learned information across generations Our departure from Africa and colonization of the rest of the planet our ability to inhabit all climatic zones and dozens of ecological niches as hunter gatherers our ability to grow food as farmers the advent of writing and the exploitation of fossil fuels were all made possible by the generational transfer of information David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The eternal struggle between good and evil",
 		date: "2019",
     url: "quotes/the-eternal-struggle-between-good-and-evil.html",
-		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Increase nurturance thoughout the life span",
@@ -621,13 +621,13 @@ let searchQuotes = [
 		title: "Living in small groups has been baked into our psyches",
 		date: "2019",
     url: "quotes/living-in-small-groups-has-been-baked-into-our-psyches.html",
-		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The malleability of life",
 		date: "2019",
     url: "quotes/the-malleability-of-life.html",
-		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Nurturance is a master variable",
@@ -639,13 +639,13 @@ let searchQuotes = [
 		title: "Our long-term personal and societal goals",
 		date: "2019",
     url: "quotes/our-long-term-personal-and-societal-goals.html",
-		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Our species does represent a new evolutionary process",
 		date: "2019",
     url: "quotes/our-species-does-represent-a-new-evolutionary-process.html",
-		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Religions are great bushy trees",
@@ -1365,7 +1365,7 @@ let searchQuotes = [
 		title: "It is foolish to view realism and idealism as incompatible",
 		date: "May 8, 2017",
     url: "quotes/it-is-foolish-to-view-realism-and-idealism-as-incompatible.html",
-		content: "I consider myself a realist I have certainly seen my share of the world as it really is and not how I wish it would be What I ve learned is that it is foolish to view realism and idealism as incompatible or to consider our power and wealth as encumbered by the demands of justice morality and conscience John McCain  New York Times "
+		content: "I consider myself a realist I have certainly seen my share of the world as it really is and not how I wish it would be What I ve learned is that it is foolish to view realism and idealism as incompatible or to consider our power and wealth as encumbered by the demands of justice morality and conscience John McCain American film director, producer, screenwriter, and actor New York Times "
 	},
 	{
 		title: "Unbelievable Heroes",
@@ -2007,7 +2007,7 @@ let searchQuotes = [
 		title: "Investing in other people's children",
 		date: "2014",
     url: "quotes/investing-in-other-peoples-children.html",
-		content: "All of the great advances in our society have come when we have made investments in other people s children Robert Putnam  WTF: What's the Future and Why It's Up To Us "
+		content: "All of the great advances in our society have come when we have made investments in other people s children Robert Putnam American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "People are finally finding out that the guy next door isn't a bad egg",
@@ -2199,7 +2199,7 @@ let searchQuotes = [
 		title: "Worshipping the divine right of capital",
 		date: "2017",
     url: "quotes/worshipping-the-divine-right-of-capital.html",
-		content: "Future economic historians may look back wryly at this period when we worshipped the divine right of capital while looking down on our ancestors who believed in the divine right of kings Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
+		content: "Future economic historians may look back wryly at this period when we worshipped the divine right of capital while looking down on our ancestors who believed in the divine right of kings Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Belief in Impossible Things",
@@ -2349,7 +2349,7 @@ let searchQuotes = [
 		title: "It's the rich class that's winning",
 		date: "Nov 26, 2006",
     url: "quotes/its-the-rich-class-thats-winning.html",
-		content: "There s class warfare all right but it s my class the rich class that s making war and we re winning Warren Buffett  New York Times "
+		content: "There s class warfare all right but it s my class the rich class that s making war and we re winning Warren Buffett American film director, producer, screenwriter, and actor New York Times "
 	},
 	{
 		title: "More than enough",

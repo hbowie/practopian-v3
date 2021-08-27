@@ -1,13 +1,7 @@
 Author: Anthony Burgess
 
-Tags:
+Author Info: English writer and composer
 
-Author Info:  
+Author Years: 1917-1993
 
-Author Years: 
-
-Author Link:  
-
-Author Notes:
-
-
+Author Link: https://en.wikipedia.org/wiki/Anthony_Burgess
