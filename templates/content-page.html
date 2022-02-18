@@ -39,9 +39,25 @@
 				<p><span class="pr-topics-label">topics:</span> =$tags&gtags/;btn btn-secondary mx-1 my-1 pr-topic$=</p>
 
 <?if "=$imagename$=" ?>
+<?if "=$imagecredit$=" ?>
+				<figure>
+					<img class="img-fluid rounded" src="=$relative$=images/=$imagename&f$=" alt="=$imagealt$=">
+				<figcaption>
+				image credit:
+<?if "imagecreditlink" ?>
+					<a href="=$imagecreditlink$=">
+<?endif?>
+						=$imagecredit$=
+<?if "imagecreditlink" ?>
+					</a>
+<?endif?>
+				</figcaption>
+				</figure>
+<?else?>
 				<p>
 					<img class="img-fluid rounded" src="=$relative$=images/=$imagename&f$=" alt="=$imagealt$=">
 				</p>
+<?endif?>
 
 <?copyfile "../content/hbowie/files/=$imagename$=" "../images/=$imagename&f$=" ?>
 <?endif?>
@@ -62,7 +78,7 @@
 				on <a href="=$medium-link$=">Medium</a>.
 <?endif?>
 <?endif?>
-				If you&#8217;d like a convenient short URL to link to this piece, you can use <a href="https://pract.org/=$shortid$=.html">pract.org/=$shortid$=.html</a>.
+				If you&#8217;d like a convenient short URL to link to this piece, you can use <a href="https://pract.org/s/=$shortid$=.html">pract.org/s/=$shortid$=.html</a>.
 				Or feel free to simply share this piece using one of the social media buttons below!
 				</p>
 				</div>

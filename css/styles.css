@@ -20,6 +20,14 @@ h6 { font-size: 1.0em; } */
 
 .img-practopian { vertical-align: -70%; }
 
+figcaption {
+	font-size: 0.8em; 
+	font-style: italic;
+	margin-top: 0.3em;
+	margin-bottom: 0.8em;
+	text-align: center;
+}
+
 .centered-block {
 	display: block;
   margin-left: auto;

@@ -1,13 +1,3 @@
 Author: Baruch Spinoza
 
-Tags:
-
-Author Info:  
-
-Author Years: 
-
-Author Link:  
-
-Author Notes:
-
-
+Author Link: https://en.wikipedia.org/wiki/Baruch_Spinoza

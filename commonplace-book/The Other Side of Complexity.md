@@ -1,23 +1,18 @@
-Title: The Other Side of Complexity
+Title:  The Other Side of Complexity
 
-Featured: 
+Tags:   critical thinking
 
-Recommended: 
+Featured: false
+
+Recommended: false
 
 Author: Oliver Wendell Holmes
 
-Date: 
-
-Tags: critical thinking
-
 Work Title: unknown
-
-Work Pages:  
 
 Date Added: 2014-07-16 20:05:36 -0700
 
-Body:
+Body: 
 
 I would not give a fig for the simplicity this side of complexity, but I would give my life for the simplicity on the other side of complexity.
-
 

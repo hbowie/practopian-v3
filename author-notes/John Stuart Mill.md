@@ -1,13 +1,7 @@
 Author: John Stuart Mill
 
-Tags:
+Author Info: English philosopher, political economist, Member of Parliament (MP) and civil servant
 
-Author Info:  
+Author Years: 1806-1873
 
-Author Years: 
-
-Author Link:  
-
-Author Notes:
-
-
+Author Link: https://en.wikipedia.org/wiki/John_Stuart_Mill

@@ -1,13 +1,3 @@
 Author: Arnold J. Toynbee
 
-Tags:
-
-Author Info:  
-
-Author Years: 
-
-Author Link:  
-
-Author Notes:
-
-
+Author Link: https://en.wikipedia.org/wiki/Arnold_J._Toynbee

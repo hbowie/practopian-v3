@@ -1,23 +1,20 @@
-Title: No Perfect Answer
+Title:  No Perfect Answer
 
-Featured: 
+Tags:   critical thinking, governance
 
-Recommended: 
+Featured: false
+
+Recommended: false
 
 Author: Barack Obama
 
-Date: 7 Dec 2020
-
-Tags: critical thinking, governance
+Date:   7 Dec 2020
 
 Work Title: Dare to Lead podcast
 
-Work Pages:  
-
 Date Added: 2020-12-18 10:38:01 -0800
 
-Body:
+Body: 
 
 The higher up you go in politics -- but I think this is true of any organization -- the more you will be confronted with challenges, problems, issues that do not yield a perfect answer.
-
 

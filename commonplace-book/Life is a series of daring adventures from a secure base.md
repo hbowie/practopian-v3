@@ -1,23 +1,20 @@
-Title: Life is a series of daring adventures from a secure base
+Title:  Life is a series of daring adventures from a secure base
 
-Featured: 
+Tags:   connection, education, governance, parenthood, value creation
 
-Recommended: 
+Featured: false
+
+Recommended: false
 
 Author: David Brooks
 
-Date: March 3, 2017
+Date:   March 3, 2017
 
-Tags: connection, education, governance, parenthood, value creation
-
-Work Title: The New York Times
-
-Work Pages:  
+Work Title: Trumpism at Its Best, Straight Up
 
 Date Added: 2017-03-07 15:13:30 -0800
 
-Body:
+Body: 
 
 Human development research offers a different formula: All of life is a series of daring adventures from a secure base. If government can create a framework in which people grow up amid healthy families, nurturing schools, thick communities and a secure safety net, then they will have the resources and audacity to thrive in a free global economy and a diversifying skills economy.
-
 

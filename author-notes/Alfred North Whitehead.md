@@ -1,13 +1,3 @@
 Author: Alfred North Whitehead
 
-Tags:
-
-Author Info:  
-
-Author Years: 
-
-Author Link:  
-
-Author Notes:
-
-
+Author Link: https://en.wikipedia.org/wiki/Alfred_North_Whitehead

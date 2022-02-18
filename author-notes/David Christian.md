@@ -1,13 +1,7 @@
 Author: David Christian
 
-Tags:
+Author Info: historian teaching the discipline of Big History
 
-Author Info:  
+Author Years: 1946-
 
-Author Years: 
-
-Author Link:  
-
-Author Notes:
-
-
+Author Link: https://en.wikipedia.org/wiki/David_Christian_(historian)

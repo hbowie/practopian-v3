@@ -1,23 +1,20 @@
-Title: Most sociopolitical hierarchies lack a logical or biological basis
+Title:  Most sociopolitical hierarchies lack a logical or biological basis
 
-Featured: 
+Tags:   cultural evolution
 
-Recommended: 
+Featured: false
+
+Recommended: false
 
 Author: Yuval Noah Harari
 
-Date: 2015
-
-Tags: cultural evolution
+Date:   2015
 
 Work Title: Sapiens: A Brief History of Humankind
 
-Work Pages:  
-
 Date Added: 2016-11-28 08:52:16 -0800
 
-Body:
+Body: 
 
 Most sociopolitical hierarchies lack a logical or biological basis -- they are nothing but the perpetuation of chance events supported by myths.
-
 

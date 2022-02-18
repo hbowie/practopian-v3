@@ -1,0 +1,17 @@
+Title:  Immigration is tough, and it always has been
+
+Featured: false
+
+Recommended: false
+
+Author: Barack Obama
+
+Date:   18 Sep 2021
+
+Work Title: ABC News Interview with Barack Obama on 18 Sep 2021
+
+Date Added: 2021-10-25 11:23:14 -0700
+
+Body: 
+
+Immigration is tough. It always has been because, on the one hand, I think we are naturally a people that wants to help others. And we see tragedy and hardship and families that are desperately trying to get here so that their kids are safe, and they're in some cases fleeing violence or catastrophe. At the same time, we're a nation state. We have borders. The idea that we can just have open borders is something that ... as a practical matter, is unsustainable.

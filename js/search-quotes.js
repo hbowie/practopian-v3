@@ -276,6 +276,12 @@ let searchQuotes = [
 		content: "In reaffirming the greatness of our nation we understand that greatness is never a given It must be earned Our journey has never been one of shortcuts or settling for less It has not been the path for the faint hearted for those who prefer leisure over work or seek only the pleasures of riches and fame Rather it has been the risk takers the doers the makers of things some celebrated but more often men and women obscure in their labor who have carried us up the long rugged path towards prosperity and freedom Barack Obama American politician and attorney who served as the 44th president of the United States from 2009 to 2017 2009 Inaugral Address "
 	},
 	{
+		title: "Immigration is tough, and it always has been",
+		date: "18 Sep 2021",
+    url: "quotes/immigration-is-tough-and-it-always-has-been.html",
+		content: "Immigration is tough It always has been because on the one hand I think we are naturally a people that wants to help others And we see tragedy and hardship and families that are desperately trying to get here so that their kids are safe and they re in some cases fleeing violence or catastrophe At the same time we re a nation state We have borders The idea that we can just have open borders is something that as a practical matter is unsustainable Barack Obama American politician and attorney who served as the 44th president of the United States from 2009 to 2017 ABC News Interview with Barack Obama on 18 Sep 2021 "
+	},
+	{
 		title: "No Perfect Answer",
 		date: "7 Dec 2020",
     url: "quotes/no-perfect-answer.html",
@@ -358,6 +364,18 @@ let searchQuotes = [
 		date: "2019",
     url: "quotes/the-human-experiment-is-now-in-question.html",
 		content: "Put simply between ecological destruction and technological hubris the human experiment is now in question The stakes feel very high and the odds very long and the trends very ominous Bill McKibben  Falter: Has the Human Game Begun to Play Itself Out? "
+	},
+	{
+		title: "The Team, The Team, The Team",
+		date: "1983",
+    url: "quotes/the-team-the-team-the-team.html",
+		content: "We want the Big Ten championship and we re gonna win it as a Team They can throw out all those great backs and great quarterbacks and great defensive players throughout the country and in this conference but there s gonna be one Team that s gonna play solely as a Team No man is more important than The Team No coach is more important than The Team The Team The Team The Team and if we think that way all of us everything that you do you take into consideration what effect does it have on my Team Because you can go into professional football you can go anywhere you want to play after you leave here You will never play for a Team again You ll play for a contract You ll play for this You ll play for that You ll play for everything except the team and think what a great thing it is to be a part of something that is The Team We re gonna win it We re gonna win the championship again because we re gonna play as team better than anybody else in this conference we re gonna play together as a team We re gonna believe in each other we re not gonna criticize each other we re not gonna talk about each other we re gonna encourage each other And when we play as a team when the old season is over you and I know it s gonna be Michigan again Michigan Bo Schembechler American football player, coach, and athletics administrator The Team, The Team, The Team "
+	},
+	{
+		title: "The Songs are my Lexicon",
+		date: "1997",
+    url: "quotes/the-songs-are-my-lexicon.html",
+		content: "Here s the thing with me and the religious thing This is the flat out truth I find the religiosity and philosophy in the music I don t find it anywhere else Songs like Let Me Rest on a Peaceful Mountain or I Saw the Light that s my religion I don t adhere to rabbis preachers evangelists all of that I ve learned more from the songs than I ve learned from any of this kind of entity The songs are my lexicon I believe the songs Bob Dylan American journalist and novelist Bob Dylan 1997 Interview for Newsweek "
 	},
 	{
 		title: "Living happily ever after",
@@ -552,10 +570,10 @@ let searchQuotes = [
 		content: "Most people tend to think that characteristics of a person drive whether someone is ethical or not For example one s upbringing religious values or even genetics must determine whether a person is a good apple or a bad egg While those factors matter to some degree my research and decades of science in social and organizational psychology tell us that we vastly underestimate the impact of our immediate environment on our behavior Good people can do bad things in certain contexts and the reverse is true as well Dave Mayer An award-winning researcher and teacher and speaker, he is an expert on leadership, diversity, and ethics Changing the Frame: Family Photos on Your Desk Could Make You More Ethical on the Job "
 	},
 	{
-		title: "Life is a series of daring adventures from a secure base",
-		date: "March 3, 2017",
-    url: "quotes/life-is-a-series-of-daring-adventures-from-a-secure-base.html",
-		content: "Human development research offers a different formula All of life is a series of daring adventures from a secure base If government can create a framework in which people grow up amid healthy families nurturing schools thick communities and a secure safety net then they will have the resources and audacity to thrive in a free global economy and a diversifying skills economy David Brooks American film director, producer, screenwriter, and actor The New York Times "
+		title: "No Philosophy of Family Life",
+		date: "March 2020",
+    url: "quotes/no-philosophy-of-family-life.html",
+		content: "In other words while social conservatives have a philosophy of family life they can t operationalize because it no longer is relevant progressives have no philosophy of family life at all because they don t want to seem judgmental The sexual revolution has come and gone and it s left us with no governing norms of family life no guiding values no articulated ideals On this most central issue our shared culture often has nothing relevant to say and so for decades things have been falling apart David Brooks  The Nuclear Family was a Mistake "
 	},
 	{
 		title: "Life is more like settling a sequence of villages",
@@ -564,10 +582,16 @@ let searchQuotes = [
 		content: "Life is not really an individual journey Life is more like settling a sequence of villages You help build a community at home at work in your town and then you go off and settle more villages David Brooks  The Strange Failure of the Educated Elite "
 	},
 	{
+		title: "Life is a series of daring adventures from a secure base",
+		date: "March 3, 2017",
+    url: "quotes/life-is-a-series-of-daring-adventures-from-a-secure-base.html",
+		content: "Human development research offers a different formula All of life is a series of daring adventures from a secure base If government can create a framework in which people grow up amid healthy families nurturing schools thick communities and a secure safety net then they will have the resources and audacity to thrive in a free global economy and a diversifying skills economy David Brooks  Trumpism at Its Best, Straight Up "
+	},
+	{
 		title: "Symbolic Language",
 		date: "2008",
     url: "quotes/symbolic-language.html",
-		content: "At the moment the most powerful marker the feature that distinguishes our species most decisively from closely related species appears to be symbolic language Many animals can communicate with each other and share information in rudimentary ways But humans are the only creatures who can communicate using symbolic language a system of arbitrary symbols that can be linked by formal grammars to create a nearly limitless variety of precise utterances Symbolic language greatly enhanced the precision of human communication and the range of ideas that humans can exchange Symbolic language allowed people for the first time to talk about entities that were not immediately present including experiences and events in the past and future as well as entities whose existence was not certain such as souls demons and dreams David Christian  This Fleeting World: A Short History of Humanity "
+		content: "At the moment the most powerful marker the feature that distinguishes our species most decisively from closely related species appears to be symbolic language Many animals can communicate with each other and share information in rudimentary ways But humans are the only creatures who can communicate using symbolic language a system of arbitrary symbols that can be linked by formal grammars to create a nearly limitless variety of precise utterances Symbolic language greatly enhanced the precision of human communication and the range of ideas that humans can exchange Symbolic language allowed people for the first time to talk about entities that were not immediately present including experiences and events in the past and future as well as entities whose existence was not certain such as souls demons and dreams David Christian historian teaching the discipline of Big History This Fleeting World: A Short History of Humanity "
 	},
 	{
 		title: "Rough consensus and running code",
@@ -597,7 +621,7 @@ let searchQuotes = [
 		title: "The chicken experiment",
 		date: "2019",
     url: "quotes/the-chicken-experiment.html",
-		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The entire pageant of human history",
@@ -609,13 +633,13 @@ let searchQuotes = [
 		title: "The eternal struggle between good and evil",
 		date: "2019",
     url: "quotes/the-eternal-struggle-between-good-and-evil.html",
-		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Increase nurturance thoughout the life span",
 		date: "2019",
     url: "quotes/increase-nurturance-thoughout-the-life-span.html",
-		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Living in small groups has been baked into our psyches",
@@ -627,7 +651,7 @@ let searchQuotes = [
 		title: "The malleability of life",
 		date: "2019",
     url: "quotes/the-malleability-of-life.html",
-		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Nurturance is a master variable",
@@ -645,7 +669,7 @@ let searchQuotes = [
 		title: "Our species does represent a new evolutionary process",
 		date: "2019",
     url: "quotes/our-species-does-represent-a-new-evolutionary-process.html",
-		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Religions are great bushy trees",
@@ -700,6 +724,12 @@ let searchQuotes = [
 		date: "",
     url: "quotes/only-two-sources-of-real-wealth.html",
 		content: "We have had to learn the bitter lesson that in all the world there are only two sources of real wealth the fruit of the earth and the labor of men and to estimate work not by the money it brings to the producer but by the worth of the thing that is made Dorothy L. Sayers  Why Work? "
+	},
+	{
+		title: "Terrible with raisins in it",
+		date: "",
+    url: "quotes/terrible-with-raisins-in-it.html",
+		content: "This wasn t just plain terrible this was fancy terrible This was terrible with raisins in it Dorothy Parker American writer, poet, and critic  "
 	},
 	{
 		title: "Peace with Justice",
@@ -772,6 +802,12 @@ let searchQuotes = [
 		date: "1959",
     url: "quotes/the-growth-of-firms.html",
 		content: "All the evidence we have indicates that the growth of firms is connected with the attempts of a particular group of human beings to do something Edith Penrose  The Theory of the Growth of the Firm "
+	},
+	{
+		title: "The great primeval contract of eternal society",
+		date: "",
+    url: "quotes/the-great-primeval-contract-of-eternal-society.html",
+		content: "Society is a partnership in all science a partnership in all art a partnership in every virtue and in all perfection As the ends of such a partnership cannot be obtained in many generations it becomes a partnership not only between those who are living but between those who are living those who are dead and those who are to be born Each contract of each particular State is but a clause in the great primeval contract of eternal society linking the lower with the higher natures connecting the visible and invisible world according to a fixed compact sanctioned by the inviolable oath whith holds all physical and all moral natures each in their appointed place Edmund Burke British and Irish statesman, economist, and philosopher Reflections on the Revolution in France "
 	},
 	{
 		title: "All must be held valuable, or none",
@@ -1110,6 +1146,12 @@ let searchQuotes = [
 		content: "Now my own suspicion is that the universe is not only queerer than we suppose but queerer than we can suppose J. B. S. Haldane British-Indian scientist Possible Worlds and Other Essays "
 	},
 	{
+		title: "A strange magic in human-made things",
+		date: "24 Dec 2021",
+    url: "quotes/a-strange-magic-in-human-made-things.html",
+		content: "There can be a strange magic in human made things Not in all of them not in plastic bottles or Q Tips or batteries but in those that are interwoven with our pasts with our homes with our great loves These are things that have been mysteriously imbued with humanity our own or other people s J. K. Rowling British author, philanthropist, film producer, and screenwriter J. K. Rowling on the Magic of 'Things' "
+	},
+	{
 		title: "The Golden Eternity",
 		date: "",
     url: "quotes/the-golden-eternity.html",
@@ -1168,6 +1210,12 @@ let searchQuotes = [
 		date: "1787",
     url: "quotes/frivolous-and-fanciful-distrinctions.html",
 		content: "So strong is this propensity of mankind to fall into mutual animosities that where no substantial occasion presents itself the most frivolous and fanciful distrinctions have been sufficient to kindle their unfriendly passions and excite their most violent conflicts James Madison American statesman, diplomat, expansionist, philosopher, and Founding Father who served as the fourth president of the United States The Federalist no. 10 "
+	},
+	{
+		title: "Invest in your employees",
+		date: "5 Oct 2021",
+    url: "quotes/invest-in-your-employees.html",
+		content: "I give them other business owners the same advice my grandfather had when he was starting the business Dick s Drive Ins A business first step is it has to make a profit The next step is to invest in your employees They ll take better care of your customers which will help you earn more profit When they move on from your business and do other things they re evangelists for your company and that helps you make more profit Once that virtuous cycle is going you can also invest in your community because if your community is thriving your business will thrive And so for these businesses that come to us asking what they should do first the biggest thing I tell them is to talk to your employees Ask them what it is that your employee population would want Talk to them Start with that And if you can t do it for everybody or everything that they would want just do some part of it then work your way up from there Jasmine Donovan President & CFO at Dick's Drive-In Restaurants How does Dick’s Drive-In pay workers $19 an hour with a menu completely under $5? "
 	},
 	{
 		title: "You have to create more than you consume",
@@ -1374,10 +1422,16 @@ let searchQuotes = [
 		content: "There are two novels that can change a bookish fourteen year old s life The <cite>Lord of the Rings< cite> and <cite>Atlas Shrugged< cite> One is a childish fantasy that often engenders a lifelong obsession with its unbelievable heroes leading to an emotionally stunted socially crippled adulthood unable to deal with the real world The other of course involves orcs John Rogers  Kung Fu Monkey "
 	},
 	{
+		title: "The increase of wealth is not boundless",
+		date: "1848",
+    url: "quotes/the-increase-of-wealth-is-not-boundless.html",
+		content: "The increase of wealth is not boundless A stationary condition of capital and population implies no stationary state of human improvement There would be as much scope as ever for all kinds of mental culture and moral and social progress as much room for improving the art of living and much more likelihood of it being improved when minds ceased to be engrossed by the art of getting on John Stuart Mill English philosopher, political economist, Member of Parliament (MP) and civil servant  "
+	},
+	{
 		title: "Intellectual Debate",
 		date: "",
     url: "quotes/intellectual-debate.html",
-		content: "In all intellectual debates both sides tend to be correct in what they affirm and wrong in what they deny John Stuart Mill  unknown "
+		content: "In all intellectual debates both sides tend to be correct in what they affirm and wrong in what they deny John Stuart Mill English philosopher, political economist, Member of Parliament (MP) and civil servant unknown "
 	},
 	{
 		title: "Prime training for permanent underclasses",
@@ -1512,10 +1566,40 @@ let searchQuotes = [
 		content: "It s only recently that I ve come to understand that writers are not marginal to our society that they in fact do all our thinking for us that we are writing myths and our myths are believed and that old myths are believed until someone writes a new one I think writers should be more responsible than they are as we ve imagined for a long time that it really doesn t matter what we say I think it s a beginning for authors to acknowledge that they are myth makers and that if they are widely read will have an influence that will last for many years I don t think that there s a strong awareness of that now and we have such a young culture that there is an opportunity to contribute wonderful new myths to it which will be accepted Kurt Vonnegut American writer WNYC Reader's Almanac "
 	},
 	{
+		title: "The Power of Stakeholder Capitalism",
+		date: "2022",
+    url: "quotes/the-power-of-stakeholder-capitalism.html",
+		content: "Stakeholder capitalism is not about politics It is not a social or ideological agenda It is not woke It is capitalism driven by mutually beneficial relationships between you and the employees customers suppliers and communities your company relies on to prosper This is the power of capitalism Larry Fink American billionaire businessman, chairman and CEO of BlackRock Letter to CEOs from Larry Fink in 2022 "
+	},
+	{
+		title: "We need governments to provide clear pathways",
+		date: "2022",
+    url: "quotes/we-need-governments-to-provide-clear-pathways.html",
+		content: "Capitalism has the power to shape society and act as a powerful catalyst for change But businesses can t do this alone and they cannot be the climate police That will not be a good outcome for society We need governments to provide clear pathways and a consistent taxonomy for sustainability policy regulation and disclosure across markets When we harness the power of both the public and private sectors we can achieve truly incredible things This is what we must do to get to net zero Larry Fink American billionaire businessman, chairman and CEO of BlackRock Letter to CEOs from Larry Fink in 2022 "
+	},
+	{
+		title: "Workers demanding more from their employers",
+		date: "2022",
+    url: "quotes/workers-demanding-more-from-their-employers.html",
+		content: "Workers demanding more from their employers is an essential feature of effective capitalism It drives prosperity and creates a more competitive landscape for talent pushing companies to create better more innovative environments for their employees actions that will help them achieve greater profits for their shareholders Companies that deliver are reaping the rewards Larry Fink American billionaire businessman, chairman and CEO of BlackRock Letter to CEOs from Larry Fink in 2022 "
+	},
+	{
+		title: "Your company’s purpose is its north star",
+		date: "2022",
+    url: "quotes/your-companys-purpose-is-its-north-star.html",
+		content: "It s never been more essential for CEOs to have a consistent voice a clear purpose a coherent strategy and a long term view Your company s purpose is its north star in this tumultuous environment Putting your company s purpose at the foundation of your relationships with your stakeholders is critical to long term success Larry Fink American billionaire businessman, chairman and CEO of BlackRock Letter to CEOs from Larry Fink in 2022 "
+	},
+	{
 		title: "Hands that must work",
 		date: "1916",
     url: "quotes/hands-that-must-work.html",
 		content: "We have hands that must work brains that must think and personalities that must be developed Lauretta Bender  Valedictorian Speech "
+	},
+	{
+		title: "Art has to transform life itself",
+		date: "1994",
+    url: "quotes/art-has-to-transform-life-itself.html",
+		content: "I really believe that art is capable of the total transformation of the world and of life itself and nothing less is really acceptable So I mean if art is going to have any excuse for beyond being a leisure class plaything it has to transform life itself Lawrence Ferlinghetti American poet, painter, social activist, and co-founder of City Lights Booksellers & Publishers  "
 	},
 	{
 		title: "Americans' faith in democracy is at a record low",
@@ -2052,6 +2136,12 @@ let searchQuotes = [
 		content: "All of this confirms something that I ve long suspected Most humans until very recently desired and maintained cultural stability not change Change was a threat and was embraced only when absolutely necessary Stephen E. Nash  Sapiens.org "
 	},
 	{
+		title: "Design is the fundamental soul of a man-made creation",
+		date: "January 24, 2000",
+    url: "quotes/design-is-the-fundamental-soul-of-a-man-made-creation.html",
+		content: "In most people s vocabularies design means veneer It s interior decorating It s the fabric of the curtains and the sofa But to me nothing could be further from the meaning of design Design is the fundamental soul of a man made creation that ends up expressing itself in successive outer layers of the product or service Steve Jobs American business magnate, industrial designer, investor, and media proprietor Apple's One-Dollar-a-Year Man "
+	},
+	{
 		title: "Good Management is Like The Beatles",
 		date: "October, 2004",
     url: "quotes/good-management-is-like-the-beatles.html",
@@ -2142,6 +2232,12 @@ let searchQuotes = [
 		content: "Our dilemma is that we hate change and love it at the same time what we really want is for things to remain the same but get better Sydney Harris  unknown "
 	},
 	{
+		title: "Learn why the world wags and what wags it",
+		date: "",
+    url: "quotes/learn-why-the-world-wags-and-what-wags-it.html",
+		content: "You may grow old and trembling in your anatomies you may lie awake at night listening to the disorders of your veins you may miss your only love you may see the world about you devastated by evil lunatics or know your honour trampled in the sewers of baser minds There is only one thing for it then to learn Learn why the world wags and what wags it That is the only thing which the mind can never exhaust never alienate never be tortured by never fear or distrust and never dream of regretting T. H. White English author best known for his Arthurian novels The Once and Future King "
+	},
+	{
 		title: "The Web of Life",
 		date: "",
     url: "quotes/the-web-of-life.html",
@@ -2172,6 +2268,12 @@ let searchQuotes = [
 		content: "Ridicule is the only weapon which can be used against unintelligible propositions Ideas must be distinct before reason can act upon them Thomas Jefferson American statesman, diplomat, lawyer, architect, philosopher, and Founding Father who served as the third president of the United States from 1801 to 1809 unknown "
 	},
 	{
+		title: "The fundamental goodness of human nature",
+		date: "2004",
+    url: "quotes/the-fundamental-goodness-of-human-nature.html",
+		content: "The fundamental goodness of human nature like the mystery of the Trinity Grace and the Incarnation is an essential element of Christian faith This basic core of goodness is capable of unlimited development indeed becoming transformed into Christ and deified Our basic core of goodness is our true Self Its center of gravity is God The acceptance of our basic goodness is a quantum leap in the spiritual journey God and our true Self are not separate Though we are not God God and our true Self are the same thing The disintegrating and dying of our false self is our participation in the passion and death of Jesus The building of our new self based on the transforming power of divine love is our participation in His risen life Thomas Keating American Catholic monk and priest Founations for Centering Prayer and the Christian Contemplative Life "
+	},
+	{
 		title: "A Progressive Annual Tax on Capital",
 		date: "2014",
     url: "quotes/a-progressive-annual-tax-on-capital.html",
@@ -2187,7 +2289,7 @@ let searchQuotes = [
 		title: "Governance is essential",
 		date: "2017",
     url: "quotes/governance-is-essential.html",
-		content: "The simple maps of idealized markets leave out many real world details that must be dealt with in order for the market to actually function properly Governance is essential Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
+		content: "The simple maps of idealized markets leave out many real world details that must be dealt with in order for the market to actually function properly Governance is essential Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "In the thrall of a vast, world-spanning machine",
@@ -2302,6 +2404,12 @@ let searchQuotes = [
 		date: "06 Aug 2020",
     url: "quotes/the-american-cult-of-the-individual.html",
 		content: "The American cult of the individual denies not just community but the very idea of society No one owes anything to anyone All must be prepared to fight for everything education shelter food medical care Wade Davis  Rolling Stone "
+	},
+	{
+		title: "We make money to make more movies",
+		date: "",
+    url: "quotes/we-make-money-to-make-more-movies.html",
+		content: "We don t make movies to make money we make money to make more movies Walt Disney American entrepreneur, animator, writer, voice actor, and film producer  "
 	},
 	{
 		title: "The divine literatus",

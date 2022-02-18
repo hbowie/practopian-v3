@@ -1,13 +1,3 @@
 Author: Alexis de Tocqueville
 
-Tags:
-
-Author Info:  
-
-Author Years: 
-
-Author Link:  
-
-Author Notes:
-
-
+Author Link: https://en.wikipedia.org/wiki/Alexis_de_Tocqueville
