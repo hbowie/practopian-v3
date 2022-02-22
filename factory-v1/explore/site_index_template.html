@@ -1,0 +1,33 @@
+<?output "../../html/explore/site-index.html"?>
+
+<?include "../../includes/site-index-letters.html" ?>
+
+<?nextrec?>
+<?definegroup 1 =$initial-letter$= ?>
+<?definegroup 2 "=$term$=" ?>
+<?ifendgroup 2 ?>
+<?endif?>
+<?ifendgroup 1 ?>
+</dl>
+<?endif?>
+<?ifnewgroup 1 ?>
+<h3 id="letter-=$initial-letter&l$=">&mdash; =$initial-letter$= &mdash;</h3>
+<dl class="index">
+<?endif?>
+<?ifnewgroup 2 ?>
+	<dt>
+<?if "=$term-link$=" ?>
+		<a href="=$term-link$=" class="reflink" target="ref">
+<?endif?>
+			=$term$=
+<?if "=$term-link$=" ?>
+		</a>
+<?endif?>
+	</dt>
+<?endif?>
+		<dd>
+			<a href="=$relative$==$page-link$=">
+				=$item-type$=:&nbsp;&ldquo;=$page-title$=&rdquo;
+			</a>
+		</dd>
+<?loop?>

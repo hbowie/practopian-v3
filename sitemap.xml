@@ -2006,7 +2006,7 @@
   </url>
   <url>
     <loc>https://practopian.org/authors/david-sloan-wilson.html</loc>
-    <lastmod>2022-02-18</lastmod>
+    <lastmod>2022-02-20</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/authors/david-d-clark.html</loc>
@@ -2082,7 +2082,7 @@
   </url>
   <url>
     <loc>https://practopian.org/authors/tim-oreilly.html</loc>
-    <lastmod>2022-02-18</lastmod>
+    <lastmod>2022-02-21</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/authors/eric-braverman.html</loc>
@@ -2142,7 +2142,7 @@
   </url>
   <url>
     <loc>https://practopian.org/authors/index.html</loc>
-    <lastmod>2022-02-18</lastmod>
+    <lastmod>2022-02-21</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/authors/chris-argyris-and-donald-schn.html</loc>
@@ -2578,7 +2578,7 @@
   </url>
   <url>
     <loc>https://practopian.org/authors/bob-dylan.html</loc>
-    <lastmod>2022-02-18</lastmod>
+    <lastmod>2022-02-21</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/authors/henry-miller.html</loc>
@@ -3002,7 +3002,7 @@
   </url>
   <url>
     <loc>https://practopian.org/cross-posts/getting-back-to-the-feeling.html</loc>
-    <lastmod>2022-02-18</lastmod>
+    <lastmod>2022-02-21</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/cross-posts/patterns-of-human-cooperation.html</loc>
@@ -3359,6 +3359,10 @@
   <url>
     <loc>https://practopian.org/cross-posts/religious-freedom.html</loc>
     <lastmod>2021-05-17</lastmod>
+  </url>
+  <url>
+    <loc>https://practopian.org//temp-display.html</loc>
+    <lastmod>2022-02-19</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/s/pp.html</loc>
@@ -3778,7 +3782,7 @@
   </url>
   <url>
     <loc>https://practopian.org/blog/hbowie/getting-back-to-the-feeling.html</loc>
-    <lastmod>2022-02-18</lastmod>
+    <lastmod>2022-02-21</lastmod>
   </url>
   <url>
     <loc>https://practopian.org/blog/hbowie/patterns-of-human-cooperation.html</loc>
@@ -4343,5 +4347,9 @@
   <url>
     <loc>https://practopian.org/tags/systemic.html</loc>
     <lastmod>2021-04-08</lastmod>
+  </url>
+  <url>
+    <loc>https://practopian.org//temp-html.html</loc>
+    <lastmod>2022-02-19</lastmod>
   </url>
 </urlset> 

@@ -1,0 +1,9 @@
+<?output "../tagcloud/tags.txt" ?>
+<?nextrec?>
+<?definegroup 1 "=$tag$=" ?>
+<?ifendgroup 1 ?>
+<?endif?>
+<?ifnewgroup 1 ?>
+<?endif?>
+=$tag$=
+<?loop?>

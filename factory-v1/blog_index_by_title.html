@@ -1,0 +1,9 @@
+<?output "../html/blog/index-by-title.html"?>
+<?nextrec?>
+<?if "=$section-title$=" == "Blog" ?>
+					<p><a href="../=$path$==$content-title&f$=.html">
+						=$content-title$=
+					</a></p>
+					<p class="blog-by-and-date">Blog post by =$author-name$=, published  =$post-date&MMM dd, yyyy$= </p>
+<?endif?>
+<?loop?>

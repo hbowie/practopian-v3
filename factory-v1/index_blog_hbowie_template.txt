@@ -1,0 +1,5 @@
+<?output "../index/blog-hbowie.txt"?>
+Initial Letter	Lower Case Term	Term	Term Link	Section	Item Type	Date	Page Title	Page Link
+<?nextrec?>
+=$initial-letter$=	=$lower-case-term$=	=$term$=	=$term-link$=	Blog	blog post	=$date$=	=$page$=	blog/hbowie/=$page&f$=.html
+<?loop?>

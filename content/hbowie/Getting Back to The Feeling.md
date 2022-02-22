@@ -24,7 +24,7 @@ Image Name: rooftop
 
 Image Alt: The Beatles performing on the rooftop of Apple's HQ
 
-Image Caption: RIngo, Paul, John and George, up on the roof 
+Image Caption: RIngo, Paul, John and George, up on the roof
 
 Image Credit: Disney
 
@@ -32,11 +32,14 @@ Image Credit Link: https://www.disneyplus.com/series/the-beatles-get-back/7DcWEe
 
 Medium Link: https://medium.com/@hbowie/getting-back-to-the-feeling-2236f13eccad
 
+Substack Link: https://practopian.substack.com/p/getting-back-to-the-feeling
+
 Short ID: gebf
 
 Teaser:
 
 A few thoughts about the new Peter Jackson documentary about The Beatles, including a new appreciation for the song "I've Got A Feeling."
+
 
 Body:
 
@@ -80,6 +83,3 @@ But still, the time they had together, the time they shared so generously with u
 And this remarkable new glimpse into who they were will serve as a keepsake, ready to call them back to mind whenever we need to look back on those impossible, golden days when there were four lads from Liverpool known to all the world as The Beatles.
 
 [igot]: https://music.apple.com/us/album/ive-got-a-feeling-2021-mix/1582219768?i=1582224736
- 
-
-

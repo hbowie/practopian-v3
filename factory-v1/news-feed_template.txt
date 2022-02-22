@@ -1,0 +1,5 @@
+<?output "../feed/news-feed.txt"?>
+Section	Item Type	Date	Title	Link	Tags	Teaser
+<?nextrec?>
+News	News Item	=$date$=	=$title$=	news/=$title&f$=.html	=$tags$=	=$teaser&q$=
+<?loop?>

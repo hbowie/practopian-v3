@@ -1,0 +1,12 @@
+<?output "../tagcloud/tags-word-list.txt" ?>
+<?nextrec?>
+<?definegroup 1 "=$tag$=" ?>
+<?ifendgroup 1 ?>
+=$count&r2$=	=$lasttag$=	https://www.Practopian.org/tags/=$lasttag&f$=.html
+<?endif?>
+<?ifnewgroup 1 ?>
+<?set count = 0 ?>
+<?endif?>
+<?set count ++ ?>
+<?set lasttag = =$tag$= ?>
+<?loop?>

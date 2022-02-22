@@ -1,0 +1,5 @@
+<?output "../index/appreciation.txt"?>
+Initial Letter	Lower Case Term	Term	Term Link	Section	Item Type	Date	Page Title	Page Link
+<?nextrec?>
+=$initial-letter$=	=$lower-case-term$=	=$term$=	=$term-link$=	Appreciation	appreciation	=$date$=	=$page$=	appreciation/=$page&f$=.html
+<?loop?>

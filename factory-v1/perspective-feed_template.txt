@@ -1,0 +1,5 @@
+<?output "../feed/perspective-feed.txt"?>
+Section	Item Type	Date	Title	Author	Link	Tags	Teaser
+<?nextrec?>
+Perspective	Perspective	=$date$=	=$title$=		perspective/=$title&f$=.html		
+<?loop?>

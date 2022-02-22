@@ -1,0 +1,5 @@
+<?output "../feed/appreciation-feed.txt"?>
+Section	Item Type	Date	Title	Author	Link	Tags	Image	Alt	Teaser
+<?nextrec?>
+Appreciation	Appreciation	=$date$=	=$title$=	=$author$=	appreciation/=$title&f$=.html	=$tags$=	=$image$=	=$alt$=	=$teaser&q$=
+<?loop?>

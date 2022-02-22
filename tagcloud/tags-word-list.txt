@@ -1,0 +1,35 @@
+35	art	https://www.Practopian.org/tags/art.html
+16	balance	https://www.Practopian.org/tags/balance.html
+36	connection	https://www.Practopian.org/tags/connection.html
+74	critical thinking	https://www.Practopian.org/tags/critical-thinking.html
+90	cultural evolution	https://www.Practopian.org/tags/cultural-evolution.html
+35	democracy	https://www.Practopian.org/tags/democracy.html
+13	diversity	https://www.Practopian.org/tags/diversity.html
+27	education	https://www.Practopian.org/tags/education.html
+47	equality	https://www.Practopian.org/tags/equality.html
+11	evolution	https://www.Practopian.org/tags/evolution.html
+36	governance	https://www.Practopian.org/tags/governance.html
+32	humanism	https://www.Practopian.org/tags/humanism.html
+09	imperfection	https://www.Practopian.org/tags/imperfection.html
+37	individuals	https://www.Practopian.org/tags/individuals.html
+20	integral	https://www.Practopian.org/tags/integral.html
+23	liberty	https://www.Practopian.org/tags/liberty.html
+23	love	https://www.Practopian.org/tags/love.html
+20	mission	https://www.Practopian.org/tags/mission.html
+07	parenthood	https://www.Practopian.org/tags/parenthood.html
+04	population	https://www.Practopian.org/tags/population.html
+04	practical	https://www.Practopian.org/tags/practical.html
+01	practopian	https://www.Practopian.org/tags/practopian.html
+35	progress	https://www.Practopian.org/tags/progress.html
+02	property	https://www.Practopian.org/tags/property.html
+21	religion	https://www.Practopian.org/tags/religion.html
+04	rule of law	https://www.Practopian.org/tags/rule-of-law.html
+18	science	https://www.Practopian.org/tags/science.html
+53	society	https://www.Practopian.org/tags/society.html
+14	stories	https://www.Practopian.org/tags/stories.html
+24	sustainability	https://www.Practopian.org/tags/sustainability.html
+21	systemic	https://www.Practopian.org/tags/systemic.html
+02	tools	https://www.Practopian.org/tags/tools.html
+25	value creation	https://www.Practopian.org/tags/value-creation.html
+18	wonder	https://www.Practopian.org/tags/wonder.html
+19	written word	https://www.Practopian.org/tags/written-word.html

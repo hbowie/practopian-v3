@@ -1,0 +1,5 @@
+<?output "../index/basics.txt"?>
+Initial Letter	Lower Case Term	Term	Term Link	Section	Item Type	Date	Page Title	Page Link
+<?nextrec?>
+=$initial-letter$=	=$lower-case-term$=	=$term$=	=$term-link$=	Basics	basic info	=$date$=	=$page$=	basics/=$page&f$=.html
+<?loop?>
