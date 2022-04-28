@@ -8,6 +8,10 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
 Importance: 20
 
 Date:   24 Mar 2020
@@ -26,12 +30,12 @@ Image Credit Link: https://www.istockphoto.com/vector/open-book-with-history-doo
 
 Short ID: uhh
 
-Teaser: 
+Teaser:
 
 When I was in school, history was one of my least favorite subjects: It just seemed like a bunch of arbitrary names and dates and events that I had to memorize. In hindsight, I realize now, the problem I had with the subject was that it had been "storified."
 
 
-Body: 
+Body:
 
 When I was in school, history was one of my least favorite subjects: It just seemed like a bunch of arbitrary names and dates and events that I had to memorize. 
 

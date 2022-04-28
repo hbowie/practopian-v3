@@ -6,9 +6,9 @@ Timestamp: 20220218193420
 
 Status: 9 - Published
 
-Type:   blog
+Type:   appreciation
 
-Featured: true
+Featured: false
 
 Greatest Hits: false
 

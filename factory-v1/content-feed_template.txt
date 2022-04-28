@@ -1,7 +1,0 @@
-<?output "../feed/content-feed.txt"?>
-Section	Item Type	Date	Title	Subtitle	Author	Link	Tags	Image	Alt	Teaser
-<?nextrec?>
-<?if "=$post-date$=" ?>
-=$section-title$=	=$item-type$=	=$post-date$=	=$content-title$=	=$subtitle$=	=$authorname$=	=$path$==$content-title&f$=.html	=$tags$=	=$image$=	=$alt$=	=$teaser&q$=
-<?endif?>
-<?loop?>

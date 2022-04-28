@@ -1,5 +1,0 @@
-<?output "../feed/links-feed.txt"?>
-Section	Item Type	Date	Title	Link	Tags	Teaser
-<?nextrec?>
-Links	Link	=$date$=	=$title$=	links/=$title&f$=.html	=$tags$=	=$teaser&q$=
-<?loop?>

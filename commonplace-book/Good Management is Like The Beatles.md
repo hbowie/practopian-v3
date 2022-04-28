@@ -2,7 +2,7 @@ Title:  Good Management is Like The Beatles
 
 Tags:   connection, equality, governance
 
-Featured: true
+Featured: false
 
 Recommended: false
 

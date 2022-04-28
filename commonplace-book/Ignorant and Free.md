@@ -1,23 +1,20 @@
-Title: Ignorant and Free
+Title:  Ignorant and Free
+
+Tags:   education, governance, liberty, written word
 
 Featured: false
 
-Recommended: 
+Recommended: false
 
 Author: Thomas Jefferson
 
-Date: Jan 6, 1816
-
-Tags: education, governance, liberty, written word
+Date:   Jan 6, 1816
 
 Work Title: To Colonel Charles Yancey
-
-Work Pages:  
 
 Date Added: 2015-12-01 05:36:20 -0800
 
 Body:
 
 If a nation expects to be ignorant and free, in a state of civilization, it expects what never was and never will be. The functionaries of every government have propensities to command at will the liberty and property of their constituents. There is no safe deposit for these but with the people themselves; nor can they be safe with them without information. Where the press is free, and every man able to read, all is safe.
-
 

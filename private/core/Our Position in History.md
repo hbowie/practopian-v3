@@ -1,2 +1,0 @@
-- Our Position in History			
-- 			

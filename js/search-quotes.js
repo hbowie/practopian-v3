@@ -621,7 +621,7 @@ let searchQuotes = [
 		title: "The chicken experiment",
 		date: "2019",
     url: "quotes/the-chicken-experiment.html",
-		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The entire pageant of human history",
@@ -633,13 +633,13 @@ let searchQuotes = [
 		title: "The eternal struggle between good and evil",
 		date: "2019",
     url: "quotes/the-eternal-struggle-between-good-and-evil.html",
-		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Increase nurturance thoughout the life span",
 		date: "2019",
     url: "quotes/increase-nurturance-thoughout-the-life-span.html",
-		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Living in small groups has been baked into our psyches",
@@ -669,7 +669,7 @@ let searchQuotes = [
 		title: "Our species does represent a new evolutionary process",
 		date: "2019",
     url: "quotes/our-species-does-represent-a-new-evolutionary-process.html",
-		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Religions are great bushy trees",
@@ -681,7 +681,7 @@ let searchQuotes = [
 		title: "Small groups are a fundamental unit of human social organization",
 		date: "2019",
     url: "quotes/small-groups-are-a-fundamental-unit-of-human-social-organization.html",
-		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "A vast repository of information learned and passed down from previous generations",
@@ -1494,6 +1494,12 @@ let searchQuotes = [
 		content: "Economics it turns out is not a matter of discovering laws it is essentially a question of design Kate Raworth English economist Doughnut Economics: 7 Ways to Think Like a 21st Century Economist "
 	},
 	{
+		title: "Economies that make us thrive",
+		date: "2017",
+    url: "quotes/economies-that-make-us-thrive.html",
+		content: "Today we have economies that need to grow whether or not they make us thrive what we need are economies that make us thrive whether or not they grow Kate Raworth English economist Doughnut Economics: 7 Ways to Think Like a 21st Century Economist "
+	},
+	{
 		title: "Managing our planetary household",
 		date: "2017",
     url: "quotes/managing-our-planetary-household.html",
@@ -1552,6 +1558,12 @@ let searchQuotes = [
 		date: "2007",
     url: "quotes/levels-of-development.html",
 		content: "To grasp what is involved with levels or stages let s use a very simple model possessing only 3 of them If we look at moral development for example we find that an infant at birth has not yet been socialized into the culture s ethics and conventions this is called the <strong>preconventional stage< strong> It is also called <strong>egocentric< strong> in that the infant s awareness is largely self absorbed But as the young child begins to learns its culture s rules and norms it grows into the <strong>conventional stage< strong> of morals This stage is also called <strong>ethnocentric< strong> in that it centers on the child s particular group tribe clan or nation and it therefore tends to exclude those not of its group But at the next major stage of moral development the <strong>postconventional stage< strong> the individual s identity expands once again this time to include a care and concern for all peoples regardless of race color sex or creed which is why this stage is also called <strong>worldcentric< strong> Thus moral development tends to move from me egocentric to us ethnocentric to all of us worldcentric a good example of the unfolding waves of consciousness Ken Wilber American philosopher and author the integral vision "
+	},
+	{
+		title: "Exponential growth in a finite world",
+		date: "1973",
+    url: "quotes/exponential-growth-in-a-finite-world.html",
+		content: "Anyone who believes that exponential growth can go on forever in a finite world is either a madman or an economist Kenneth Boulding English-born American economist, educator, peace activist, and interdisciplinary philosopher Congressional Hearings on Energy Reorganization Act of 1973 "
 	},
 	{
 		title: "We are what we pretend to be",
@@ -1654,6 +1666,12 @@ let searchQuotes = [
 		date: "3 May 1883",
     url: "quotes/when-you-can-measure-what-you-are-speaking-about.html",
 		content: "I often say that when you can measure what you are speaking about and express it in numbers you know something about it but when you cannot express it in numbers your knowledge is of a meagre and unsatisfactory kind it may be the beginning of knowledge but you have scarcely in your thoughts advanced to the stage of science whatever the matter may be Lord Kelvin British mathematical physicist and engineer Popular Lectures "
+	},
+	{
+		title: "Four Sentences that Lead to Wisdom",
+		date: "",
+    url: "quotes/four-sentences-that-lead-to-wisdom.html",
+		content: "There are four sentences that lead to wisdom Do with them what you will + I am sorry + I was wrong + I don t know + I need help Louise Penny Canadian author of mystery novels set in the Canadian province of Quebec centred on the work of francophone Chief Inspector Armand Gamache of the Sûreté du Québec. The Madness of Crowds "
 	},
 	{
 		title: "Changing the World",
@@ -2289,13 +2307,13 @@ let searchQuotes = [
 		title: "Governance is essential",
 		date: "2017",
     url: "quotes/governance-is-essential.html",
-		content: "The simple maps of idealized markets leave out many real world details that must be dealt with in order for the market to actually function properly Governance is essential Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
+		content: "The simple maps of idealized markets leave out many real world details that must be dealt with in order for the market to actually function properly Governance is essential Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "In the thrall of a vast, world-spanning machine",
 		date: "2017",
     url: "quotes/in-the-thrall-of-a-vast-world-spanning-machine.html",
-		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
+		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Worshipping the divine right of capital",

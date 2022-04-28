@@ -8,6 +8,10 @@ Status: 9 - Published
 
 Type:   appreciation
 
+Featured: false
+
+Greatest Hits: false
+
 Importance: 102
 
 Date:   04 Dec 2020
@@ -20,12 +24,12 @@ Image Name: Father Christmas
 
 Short ID: fcsbk
 
-Teaser: 
+Teaser:
 
 Much like Jackson Browne's "The Rebel Jesus," this Christmas song from The Kinks is also focused on the needs of the poor. And although the children in this tale seem to come more from the Oliver Twist/Artful Dodger tradition than from "The Christmas Carol," Dickens would still recognize their predicament and their motivations.
 
 
-Body: 
+Body:
 
 Listen on [Apple Music](https://music.apple.com/us/album/father-christmas/1192916604?i=1192917508). 
 

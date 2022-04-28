@@ -6,7 +6,7 @@ Status: 9 - Published
 
 Type:   appreciation
 
-Featured: true
+Featured: false
 
 Greatest Hits: false
 
@@ -22,7 +22,7 @@ Image Alt: The Buffalo Springfield album cover
 
 Short ID: whwo
 
-Body: 
+Body:
 
 *An appreciation of the song "For What It's Worth," recorded by [Buffalo Springfield](https://reasontorock/artists/buffalo_springfield.html),  written by Stephen Stills*
 

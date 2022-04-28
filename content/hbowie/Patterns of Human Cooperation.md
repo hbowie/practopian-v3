@@ -10,6 +10,10 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
 Importance: 10
 
 Date:   27 Mar 2020
@@ -28,12 +32,12 @@ Image Credit Link: https://www.istockphoto.com/photo/group-of-people-on-peak-mou
 
 Short ID: phc
 
-Teaser: 
+Teaser:
 
 As humans our superpower is the ability to work cooperatively with others of our species. But these seemingly simple ideas of cooperation and coordination turn out to be devilishly complex in practice, especially in large undertakings. In an organization of any appreciable size, all of the following patterns of cooperation can be found. 
 
 
-Body: 
+Body:
 
 In a [previous post][human-history] I talked about human history being best understood as a progressive spiral made up of four intertwining strands, with the third of those strands consisting of our increasing ability to cooperate with each other. This post is the first of several in which I'll elaborate on my understanding of this element of our human history. 
 

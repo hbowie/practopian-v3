@@ -8,13 +8,13 @@ Sort Descending: false
 
 Other Fields Allowed: false
 
-Last Index Selected: 54
+Last Index Selected: 286
 
 Mirror Auto Index: false
 
 Display Body Label: true
 
-Display H1 Titles: false
+Title Display Option: p bold
 
 Streamlined Reading: false
 
@@ -22,7 +22,11 @@ MathJax: false
 
 Local Images: false
 
-Shortcut: quotes
+Missing Targets: false
 
-Window Numbers: 61.0;0.0;1250.0;1415.0;500.0;
+Curly Apostrophes: true
+
+Shortcut: commonplace
+
+Window Numbers: 1302.0;298.0;1242.0;1117.0;500.0;
 

@@ -8,6 +8,10 @@ Status: 9 - Published
 
 Type:   appreciation
 
+Featured: false
+
+Greatest Hits: false
+
 Importance: 103
 
 Date:   5 Dec 2020
@@ -18,12 +22,12 @@ Image Name: Soul Christmas
 
 Short ID: mcbs
 
-Teaser: 
+Teaser:
 
 This song was originally recorded in 1947 by Johnny Moore's Three Blazers, featuring Charles Brown on piano and vocals. The original recording was a hit on the Rhythm and Blues charts, and the song has been recorded by many blues and R&B artists down through the years. The lyrics recount the happy tale of a man feeling appreciative of his wife/girlfriend on Christmas morning, after opening his many presents. 
 
 
-Body: 
+Body:
 
 Listen on [Apple Music](https://music.apple.com/us/album/merry-christmas-baby/399650872?i=399651038).
 

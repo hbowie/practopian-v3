@@ -14,5 +14,15 @@ Mirror Auto Index: false
 
 Display Body Label: false
 
-Display H1 Titles: true
+Title Display Option: h1
+
+Streamlined Reading: false
+
+MathJax: false
+
+Local Images: false
+
+Missing Targets: false
+
+Window Numbers: 160.0;0.0;1250.0;1415.0;451.5;
 
