@@ -8,7 +8,7 @@ Status: 9 - Published
 
 Type:   appreciation
 
-Featured: true
+Featured: false
 
 Greatest Hits: true
 

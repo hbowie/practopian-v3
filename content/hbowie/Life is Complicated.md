@@ -8,6 +8,10 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
 Importance: 50
 
 Date:   26 Dec 2020
@@ -26,12 +30,12 @@ Image Credit Link: https://www.istockphoto.com/photo/easy-and-hard-path-difficul
 
 Short ID: lc
 
-Teaser: 
+Teaser:
 
 We all would like a quick fix of simple certainty, and no matter where we turn today, we can find an army of pushers waiting to feed our habit, even giving the stuff away for free, just to keep us hooked.
 
 
-Body: 
+Body:
 
 ## Is It Really So?
 

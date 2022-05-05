@@ -2,7 +2,7 @@ Title:  What Democracy Is
 
 Tags:   democracy
 
-Featured: true
+Featured: false
 
 Recommended: false
 
