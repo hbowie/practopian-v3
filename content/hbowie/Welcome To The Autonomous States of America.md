@@ -8,7 +8,7 @@ Status: 9 - Published
 
 Type:   blog
 
-Featured: true
+Featured: false
 
 Greatest Hits: false
 
@@ -26,11 +26,16 @@ Image Credit: iStock / FoxysGraphic
 
 Image Credit Link: https://www.istockphoto.com/vector/poster-map-united-states-of-america-with-state-names-gm610663444-104871117
 
+Medium Link: https://medium.com/@hbowie/welcome-to-the-autonomous-states-of-america-7e0c28311989
+
+Substack Link: https://practopian.substack.com/p/autonomous-states-of-america?s=w
+
 Short ID: wasa
 
 Teaser:
 
 Every state will once again be empowered to set its own rules on abortion, and we will have taken one more step away from the United States of America, and towards the disjointed, discombobulated, and largely autonomous fifty states of middle North America.
+
 
 Body:
 
@@ -38,7 +43,7 @@ Based on a recently leaked [draft majority opinion](https://www.politico.com/new
 
 I say this because the arguments contained in the leaked draft really leave no room for ambiguity or doubt or equivocation: they unflinchingly lambast the original Roe v. Wade decision as deeply flawed, and without a single redeeming judicial characteristic. 
 
-And so, with one breath, the house of cards holding up universal abortion access in America appears to be about to fall. 
+And so, with one breath, the house of cards holding up universal abortion access in America appears about to fall. 
 
 Instead, every state will once again be empowered to set its own rules on abortion, and we will have taken one more step away from the United States of America, and towards the disjointed, discombobulated, and largely autonomous fifty states of middle North America. 
 
@@ -81,4 +86,4 @@ What then?
 + The forces of aggrievement that increasingly seem to power our politics may well swing in the direction of more progressive interests: overturning Roe v. Wade might well take the wind out of Republican sails, and start to fill Democratic equivalents, as women are denied abortions and forced by the state to bear unwanted children.  
 + Republicans may well find that they should have been more careful about what they wished for, as their governors and legislatures become freed to do more truly stupid and terrible things, and their citizens begin to take a harder look at the realities their votes have engendered, and begin to experience buyer's remorse.  
 
-Many of us may not like what this brave new world of disarray will look like, but at least for now, there may not be much we can do to hold it back.  
+Many of us may not like what this brave new world of disarray will look like, but at least for now, there may not be much we can do to hold it back.

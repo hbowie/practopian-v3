@@ -2,7 +2,7 @@ Title:  No Philosophy of Family Life
 
 Tags:   connection
 
-Featured: true
+Featured: false
 
 Recommended: false
 
