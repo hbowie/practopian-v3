@@ -375,7 +375,7 @@ let searchQuotes = [
 		title: "The Songs are my Lexicon",
 		date: "1997",
     url: "quotes/the-songs-are-my-lexicon.html",
-		content: "Here s the thing with me and the religious thing This is the flat out truth I find the religiosity and philosophy in the music I don t find it anywhere else Songs like Let Me Rest on a Peaceful Mountain or I Saw the Light that s my religion I don t adhere to rabbis preachers evangelists all of that I ve learned more from the songs than I ve learned from any of this kind of entity The songs are my lexicon I believe the songs Bob Dylan American journalist and novelist Bob Dylan 1997 Interview for Newsweek "
+		content: "Here s the thing with me and the religious thing This is the flat out truth I find the religiosity and philosophy in the music I don t find it anywhere else Songs like Let Me Rest on a Peaceful Mountain or I Saw the Light that s my religion I don t adhere to rabbis preachers evangelists all of that I ve learned more from the songs than I ve learned from any of this kind of entity The songs are my lexicon I believe the songs Bob Dylan American singer-songwriter, author and visual artist Bob Dylan 1997 Interview for Newsweek "
 	},
 	{
 		title: "Living happily ever after",
@@ -424,6 +424,12 @@ let searchQuotes = [
 		date: "1961",
     url: "quotes/the-enormous-extension-of-our-being.html",
 		content: "Those of us who have been true readers all our life seldom fully realize the enormous extension of our being which we owe to authors We realize it best when we talk with an unliterary friend He may be full of goodness and good sense but he inhabits a tiny world In it we should be suffocated The man who is contented to be only himself and therefore less a self is in prison My own eyes are not enough for me I will see through those of others Reality even seen through the eyes of many is not enough I will see what others have invented Even the eyes of all humanity are not enough I regret that the brutes cannot write books Very gladly would I learn what face things present to a mouse or a bee more gladly still would I perceive the olfactory world charged with all the information and emotion it carries for a dog C. S. Lewis  An Experiment in Criticism "
+	},
+	{
+		title: "Mastery of Inner and Outer Worlds",
+		date: "1962",
+    url: "quotes/mastery-of-inner-and-outer-worlds.html",
+		content: "Mastery of the inner world with a relative contempt for the outer must inevitably lead to great catastrophe Mastery of the outer world to the exclusion of the inner delivers us over to the demonic forces of the latter and keeps us barbaric despite all outward forms of culture Carl Jung Swiss psychiatrist and psychoanalyst who founded analytical psychology  "
 	},
 	{
 		title: "Bathing in mystery and confusion",
@@ -615,7 +621,7 @@ let searchQuotes = [
 		title: "Between-group selection became the primary evolutionary force",
 		date: "2019",
     url: "quotes/between-group-selection-became-the-primary-evolutionary-force.html",
-		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The chicken experiment",
@@ -627,7 +633,7 @@ let searchQuotes = [
 		title: "The entire pageant of human history",
 		date: "2019",
     url: "quotes/the-entire-pageant-of-human-history.html",
-		content: "Once we become attuned to it the entire pageant of human history starting approximately 100 000 years ago can be seen as evolution at high speed made possible by the transmission of learned information across generations Our departure from Africa and colonization of the rest of the planet our ability to inhabit all climatic zones and dozens of ecological niches as hunter gatherers our ability to grow food as farmers the advent of writing and the exploitation of fossil fuels were all made possible by the generational transfer of information David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Once we become attuned to it the entire pageant of human history starting approximately 100 000 years ago can be seen as evolution at high speed made possible by the transmission of learned information across generations Our departure from Africa and colonization of the rest of the planet our ability to inhabit all climatic zones and dozens of ecological niches as hunter gatherers our ability to grow food as farmers the advent of writing and the exploitation of fossil fuels were all made possible by the generational transfer of information David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The eternal struggle between good and evil",
@@ -639,7 +645,7 @@ let searchQuotes = [
 		title: "Increase nurturance thoughout the life span",
 		date: "2019",
     url: "quotes/increase-nurturance-thoughout-the-life-span.html",
-		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Living in small groups has been baked into our psyches",
@@ -657,19 +663,19 @@ let searchQuotes = [
 		title: "Nurturance is a master variable",
 		date: "2019",
     url: "quotes/nurturance-is-a-master-variable.html",
-		content: "One basic prescription is to do everything possible to re create the ancestral social environment of small groups of nurturing individuals who know each other by their actions Provide such an environment and prosocial child development and adult relations will take place with surprising ease In the absence of a nurturing social environment the shaping of behavior will lead in a very different direction survival and reproductive strategies that are predicated on the absence of social support that benefit me and not you us and not them today without regard for tomorrow That s what Tony means by calling nurturance a master variable David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "One basic prescription is to do everything possible to re create the ancestral social environment of small groups of nurturing individuals who know each other by their actions Provide such an environment and prosocial child development and adult relations will take place with surprising ease In the absence of a nurturing social environment the shaping of behavior will lead in a very different direction survival and reproductive strategies that are predicated on the absence of social support that benefit me and not you us and not them today without regard for tomorrow That s what Tony means by calling nurturance a master variable David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Our long-term personal and societal goals",
 		date: "2019",
     url: "quotes/our-long-term-personal-and-societal-goals.html",
-		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Our species does represent a new evolutionary process",
 		date: "2019",
     url: "quotes/our-species-does-represent-a-new-evolutionary-process.html",
-		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Religions are great bushy trees",
@@ -681,7 +687,7 @@ let searchQuotes = [
 		title: "Small groups are a fundamental unit of human social organization",
 		date: "2019",
     url: "quotes/small-groups-are-a-fundamental-unit-of-human-social-organization.html",
-		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "A vast repository of information learned and passed down from previous generations",
@@ -2130,6 +2136,12 @@ let searchQuotes = [
 		content: "Freedom is the individual s capacity to know that he is the determined one to pause between stimulus and response and thus to throw his weight however slight it may be on the side of one particular response among several possible ones Indeed I would define mental health as the capacity to be aware of the gap between stimulus and response together with the capacity to use this gap constructively Rollo May American existential psychologist Freedom and Responsibility Re-Examined "
 	},
 	{
+		title: "The new form of the problem of identity",
+		date: "1969",
+    url: "quotes/the-new-form-of-the-problem-of-identity.html",
+		content: "The individual is forced to turn inward he becomes obsessed with the new form of the problem of identity namely Even if I know who I am I have no significance I am unable to influence others The next step is apathy And the step following that is violence For no human being can stand the perpetually numbing experiene of his own powerlessness Rollo May American existential psychologist Love and Will "
+	},
+	{
 		title: "Steve Jobs Ideals",
 		date: "01/30/2012",
     url: "quotes/steve-jobs-ideals.html",
@@ -2313,13 +2325,13 @@ let searchQuotes = [
 		title: "Governance is essential",
 		date: "2017",
     url: "quotes/governance-is-essential.html",
-		content: "The simple maps of idealized markets leave out many real world details that must be dealt with in order for the market to actually function properly Governance is essential Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
+		content: "The simple maps of idealized markets leave out many real world details that must be dealt with in order for the market to actually function properly Governance is essential Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "In the thrall of a vast, world-spanning machine",
 		date: "2017",
     url: "quotes/in-the-thrall-of-a-vast-world-spanning-machine.html",
-		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
+		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Worshipping the divine right of capital",
