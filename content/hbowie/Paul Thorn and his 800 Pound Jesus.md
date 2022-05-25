@@ -8,7 +8,7 @@ Status: 9 - Published
 
 Type:   appreciation
 
-Featured: false
+Featured: true
 
 Greatest Hits: false
 
@@ -26,12 +26,12 @@ Image Alt: Hammer and Nail Album Cover
 
 Short ID: pth8pj
 
-Teaser: 
+Teaser:
 
 I'd been aware of Paul Thorn for some time, but didn't really become a fan until I saw him live last summer at The Ark in Ann Arbor. I convinced an old University of Michigan roommate to come with me while I was in town, as an opportunity to catch up, but we were both caught off guard by how much we loved Thorn's show. I've been listening to Thorn's recordings regularly since then, and can now bear witness to a great catalog that bears deep and repeated listening.
 
 
-Body: 
+Body:
 
 I'd been aware of [Paul Thorn][thorn] for some time, but didn't really become a fan until I saw him live last summer at [The Ark][ark] in Ann Arbor. I convinced an old University of Michigan roommate to come with me while I was in town, as an opportunity to catch up, but we were both caught off guard by how much we loved Thorn's show.
 

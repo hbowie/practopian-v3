@@ -1,3 +1,7 @@
+/**
+ * Based on Go Make Things blog post at:
+ * https://gomakethings.com/how-to-create-a-vanilla-js-search-page-for-a-static-website/
+ */
 (function (window, document, undefined) {
 
 	'use strict';

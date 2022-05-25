@@ -2,7 +2,7 @@ Title:  Preparing Managers to Manage
 
 Tags:   education, governance
 
-Featured: true
+Featured: false
 
 Recommended: true
 

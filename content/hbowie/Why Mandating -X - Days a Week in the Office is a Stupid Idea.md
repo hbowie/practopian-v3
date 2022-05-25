@@ -8,7 +8,7 @@ Status: 9 - Published
 
 Type:   blog
 
-Featured: true
+Featured: false
 
 Greatest Hits: false
 
@@ -29,6 +29,8 @@ Image Credit: iStock / .shock
 Image Credit Link: https://www.istockphoto.com/photo/team-meeting-and-brainstorming-in-modern-office-gm1318360204-405516123
 
 Medium Link: https://hbowie.medium.com/why-mandating-x-days-a-week-in-the-office-is-a-stupid-idea-8c731dba747
+
+Substack Link: https://practopian.substack.com/p/mandating-x-days-a-week-in-the-office
 
 Short ID: wmxdwios
 

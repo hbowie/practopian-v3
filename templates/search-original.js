@@ -2,7 +2,7 @@
 let searchOriginal = [
 <?nextrec?>
 	{
-		title: "=$title$=",
+		title: "=$title&p$=",
 		date: "=$date&dd MMM yyyy$=",
 <?if =$type$= eq "appreciation" ?>
     url: "appreciation/=$title&f$=.html",

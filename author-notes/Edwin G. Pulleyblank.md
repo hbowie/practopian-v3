@@ -1,13 +1,7 @@
 Author: Edwin G. Pulleyblank
 
-Tags:
+Author Info: Canadian sinologist and professor at the University of British Columbia
 
-Author Info:  
+Author Years: 1922-2013
 
-Author Years: 
-
-Author Link:  
-
-Author Notes:
-
-
+Author Link: https://en.wikipedia.org/wiki/Edwin_G._Pulleyblank
