@@ -1,0 +1,20 @@
+Title:  Ceremonies are designed to
+
+Featured: false
+
+Recommended: false
+
+Author: Sebastian Junger
+
+Date:   2016
+
+Work Title: Tribe: On Homecoming and Belonging
+
+Work Pages: 121
+
+Date Added: 2022-06-19 12:56:10 -0700
+
+Body:
+
+In all cultures, ceremonies are designed to communicate the experience of one group of people to the wider community. When people bury loved ones, when they wed, when they graduate from college, the respective ceremonies communicate something essential to the people who are watching. 
+

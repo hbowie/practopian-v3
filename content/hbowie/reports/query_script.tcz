@@ -1,0 +1,13 @@
+module	action	modifier	object	value
+input	set		xpltags	false
+input	set		dirdepth	1
+input	open	notenik-defined		/Users/hbowie/Sites/practopian 3/content/hbowie
+filter	clear			
+filter	add	eq	type	appreciation
+filter	set		params	
+sort	clear			
+sort	add	ascending	title	
+sort	set		params	
+template	open			/Users/hbowie/Sites/practopian 3/content/hbowie/reports/query_template.html
+template	generate			
+browse				file:///Users/hbowie/Sites/practopian%203/content/hbowie/reports/query.html

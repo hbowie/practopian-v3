@@ -8,6 +8,10 @@ Status: 9 - Published
 
 Type:   appreciation
 
+Featured: false
+
+Greatest Hits: false
+
 Importance: 112
 
 Date:   18 Dec 2020
@@ -20,12 +24,12 @@ Image Alt: Dave Matthews album cover
 
 Short ID: csbdm
 
-Teaser: 
+Teaser:
 
 Like Robbie Robertson and The Band, Dave Matthews seeks here to craft a retelling of the story of Jesus that might cause us to look at this old tale from a fresh perspective, and consider anew its core meaning. This retelling is a bit more ambitious than Robertson's. Like Jackson Browne, Matthews is not an avowed Christian, and yet he finds deep meaning in this story. 
 
 
-Body: 
+Body:
 
 Like [Robbie Robertson and The Band][rr], [Dave Matthews][dm] seeks here to craft a retelling of the story of Jesus that might cause us to look at this old tale from a fresh perspective, and consider anew its core meaning. 
 

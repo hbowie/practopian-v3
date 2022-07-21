@@ -2,7 +2,7 @@ Title:  Cultural, as opposed to biological, evolution
 
 Tags:   cultural evolution
 
-Featured: true
+Featured: false
 
 Recommended: false
 

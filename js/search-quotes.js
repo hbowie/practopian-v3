@@ -36,6 +36,12 @@ let searchQuotes = [
 		content: "Don t worry about what anybody else is going to do The best way to predict the future is to invent it Really smart people with reasonable funding can do just about anything that doesn t violate too many of Newton s Laws Alan Kay American computer scientist Meeting of the Palo Alto Research Center "
 	},
 	{
+		title: "Simple things should be simple, complex things should be possible",
+		date: "",
+    url: "quotes/simple-things-should-be-simple-complex-things-should-be-possible.html",
+		content: "Simple things should be simple complex things should be possible Alan Kay American computer scientist Parc discussions with Alan Kay "
+	},
+	{
 		title: "We are idealists and we are realists",
 		date: "2018",
     url: "quotes/we-are-idealists-and-we-are-realists.html",
@@ -375,7 +381,7 @@ let searchQuotes = [
 		title: "The Songs are my Lexicon",
 		date: "1997",
     url: "quotes/the-songs-are-my-lexicon.html",
-		content: "Here s the thing with me and the religious thing This is the flat out truth I find the religiosity and philosophy in the music I don t find it anywhere else Songs like Let Me Rest on a Peaceful Mountain or I Saw the Light that s my religion I don t adhere to rabbis preachers evangelists all of that I ve learned more from the songs than I ve learned from any of this kind of entity The songs are my lexicon I believe the songs Bob Dylan American singer-songwriter, author and visual artist Bob Dylan 1997 Interview for Newsweek "
+		content: "Here s the thing with me and the religious thing This is the flat out truth I find the religiosity and philosophy in the music I don t find it anywhere else Songs like Let Me Rest on a Peaceful Mountain or I Saw the Light that s my religion I don t adhere to rabbis preachers evangelists all of that I ve learned more from the songs than I ve learned from any of this kind of entity The songs are my lexicon I believe the songs Bob Dylan American journalist and novelist Bob Dylan 1997 Interview for Newsweek "
 	},
 	{
 		title: "Living happily ever after",
@@ -627,7 +633,7 @@ let searchQuotes = [
 		title: "The chicken experiment",
 		date: "2019",
     url: "quotes/the-chicken-experiment.html",
-		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The entire pageant of human history",
@@ -645,7 +651,7 @@ let searchQuotes = [
 		title: "Increase nurturance thoughout the life span",
 		date: "2019",
     url: "quotes/increase-nurturance-thoughout-the-life-span.html",
-		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Living in small groups has been baked into our psyches",
@@ -663,19 +669,19 @@ let searchQuotes = [
 		title: "Nurturance is a master variable",
 		date: "2019",
     url: "quotes/nurturance-is-a-master-variable.html",
-		content: "One basic prescription is to do everything possible to re create the ancestral social environment of small groups of nurturing individuals who know each other by their actions Provide such an environment and prosocial child development and adult relations will take place with surprising ease In the absence of a nurturing social environment the shaping of behavior will lead in a very different direction survival and reproductive strategies that are predicated on the absence of social support that benefit me and not you us and not them today without regard for tomorrow That s what Tony means by calling nurturance a master variable David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "One basic prescription is to do everything possible to re create the ancestral social environment of small groups of nurturing individuals who know each other by their actions Provide such an environment and prosocial child development and adult relations will take place with surprising ease In the absence of a nurturing social environment the shaping of behavior will lead in a very different direction survival and reproductive strategies that are predicated on the absence of social support that benefit me and not you us and not them today without regard for tomorrow That s what Tony means by calling nurturance a master variable David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Our long-term personal and societal goals",
 		date: "2019",
     url: "quotes/our-long-term-personal-and-societal-goals.html",
-		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Our species does represent a new evolutionary process",
 		date: "2019",
     url: "quotes/our-species-does-represent-a-new-evolutionary-process.html",
-		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Religions are great bushy trees",
@@ -693,7 +699,7 @@ let searchQuotes = [
 		title: "A vast repository of information learned and passed down from previous generations",
 		date: "2019",
     url: "quotes/a-vast-repository-of-information-learned-and-passed-down-from-previous-generations.html",
-		content: "With this perspective you can begin to think of yourself as not just a product of your genes and not just a product of your personal experience but also as one of many members of your culture who collectively contain a vast repository of information learned and passed down from previous generations This makes you part of something larger than yourself The information has not just been passed down but it has also been winnowed through the generations leaving us with a set of beliefs and practices that helped us to cohere as groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "With this perspective you can begin to think of yourself as not just a product of your genes and not just a product of your personal experience but also as one of many members of your culture who collectively contain a vast repository of information learned and passed down from previous generations This makes you part of something larger than yourself The information has not just been passed down but it has also been winnowed through the generations leaving us with a set of beliefs and practices that helped us to cohere as groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The Columbia Disaster",
@@ -2106,6 +2112,12 @@ let searchQuotes = [
 		content: "One frequent analogy casts the manager in the role of an airplane pilot guided by organizational measures that are like cockpit instruments Mechanistic and organic analogies are flawed because they are too simplistic Kaplan and Norton s cockpit analogy would be more accurate if it included a multitude of tiny gremlins controlling wing flaps fuel flow and so on of a plane being buffeted by winds and generally struggling against nature but with the gremlins always controlling information flow back to the cockpit instruments for fear that the pilot might find gremlin replacements It would not be surprising if airplanes guided this way occasionally flew into mountainsides when they seemed to be progressing smoothly toward their destinations Robert D. Austin  Measuring and Managing Performance in Organizations "
 	},
 	{
+		title: "A continuous effort to make sense of things",
+		date: "21 Dec 2000",
+    url: "quotes/a-continuous-effort-to-make-sense-of-things.html",
+		content: "Unlike modern readers who follow the flow of a narrative from beginning to end early modern Englishmen read in fits and starts and jumped from book to book They broke texts into fragments and assembled them into new patterns by transcribing them in different sections of their notebooks Then they reread the copies and rearranged the patterns while adding more excerpts Reading and writing were therefore inseparable activities They belonged to a continuous effort to make sense of things for the world was full of signs you could read your way through it and by keeping an account of your readings you made a book of your own one stamped with your personality Robert Darnton American cultural historian and academic librarian Extraordinary Commonplaces "
+	},
+	{
 		title: "Daily Acts of Trivia",
 		date: "",
     url: "quotes/daily-acts-of-trivia.html",
@@ -2158,6 +2170,42 @@ let searchQuotes = [
 		date: "2016",
     url: "quotes/thinking-should-be-generous-and-have-a-good-appetite.html",
 		content: "Thinking should be generous and have a good appetite I find life far too valuable these days to shut out most of its variety in favour of digging down into the depths Sarah Bakewell  At the Existentialist Café: Freedom, Being, and Apricot Cocktails "
+	},
+	{
+		title: "Continually debating people and never winning",
+		date: "2014",
+    url: "quotes/continually-debating-people-and-never-winning.html",
+		content: "If your view of the world is that people use reason for their important decisions you are setting yourself up for a life of frustration and confusion You ll find yourself continually debating people and never winning except in your own mind Few things are as destructive and limiting as a worldview that assumes people are mostly rational Scott Adams American author and cartoonist How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life "
+	},
+	{
+		title: "The system-vs-goals model",
+		date: "2014",
+    url: "quotes/the-system-vs-goals-model.html",
+		content: "If you do something every day it s a system If you re waiting to achieve it someday in the future it s a goal O ne should have a system instead of a goal The system versus goals model can be applied to most human endeavours In the world of dieting losing twenty pounds is a goal but eating right is a system In the exercise realm running a marathon in under four hours is a goal but exercising daily is a system In business making a million dollars is a goal but being a serial entrepreneur is a system Goal oriented people exist in a state of continuous pre success failure at best and permanent failure at worst if things never work out Systems people succeed every time they apply their systems in the sense that they did what they intended to do The goals people are fighting the feeling of discouragement at each turn The systems people are feeling good every time they apply their system That s a big difference in terms of maintaining your personal energy in the right direction Scott Adams American author and cartoonist How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life "
+	},
+	{
+		title: "Ceremonies are designed to",
+		date: "2016",
+    url: "quotes/ceremonies-are-designed-to.html",
+		content: "In all cultures ceremonies are designed to communicate the experience of one group of people to the wider community When people bury loved ones when they wed when they graduate from college the respective ceremonies communicate something essential to the people who are watching Sebastian Junger American journalist, author and filmmaker Tribe: On Homecoming and Belonging "
+	},
+	{
+		title: "The group of people that you would both help feed and help defend",
+		date: "2016",
+    url: "quotes/the-group-of-people-that-you-would-both-help-feed-and-help-defend.html",
+		content: "Two of the behaviors that set early humans apart were the systematic sharing of food and altruistic group defense Other primates did very little of either but increasingly hominids did and those behaviors set them on an evolutionary path that produced the modern world The earliest and most basic definition of community of tribe would be the group of people that you would both help feed and help defend A society that doesn t offer its members the chance to act selflessly in these ways isn t a society in any tribal sense of the word it s just a political entity that lacking enemies will probably fall apart on its own Sebastian Junger American journalist, author and filmmaker Tribe: On Homecoming and Belonging "
+	},
+	{
+		title: "Individualized lifestyles deeply brutalizing to the human spirit",
+		date: "2016",
+    url: "quotes/individualized-lifestyles-deeply-brutalizing-to-the-human-spirit.html",
+		content: "Most primates including humans are intensely social and there are very few instances of lone primates surviving in the wild A modern soldier returning from combat or a survivor of Sarajevo goes from the kind of close knit group that humans evolved for back into a society where most people work outside the home children are educated by strangers families are isolated from wider communities and personal gain almost completely eclipses collective good Even if he or she is part of a family that is not the same as belonging to a group that shares resources and experiences almost everything collectively Whatever the technological advances of modern society and they re nearly miraculous the individualized lifestyles that those technologies spawn seem to be deeply brutalizing to the human spirit Sebastian Junger American journalist, author and filmmaker Tribe: On Homecoming and Belonging "
+	},
+	{
+		title: "Social resilience",
+		date: "2016",
+    url: "quotes/social-resilience.html",
+		content: "Recent studies of something called social resilience have identified resource sharing and egalitarian wealth distribution as major components of a society s ability to recover from hardship Sebastian Junger American journalist, author and filmmaker Tribe: On Homecoming and Belonging "
 	},
 	{
 		title: "We should always be fighting evil",
@@ -2325,7 +2373,7 @@ let searchQuotes = [
 		title: "Governance is essential",
 		date: "2017",
     url: "quotes/governance-is-essential.html",
-		content: "The simple maps of idealized markets leave out many real world details that must be dealt with in order for the market to actually function properly Governance is essential Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
+		content: "The simple maps of idealized markets leave out many real world details that must be dealt with in order for the market to actually function properly Governance is essential Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "In the thrall of a vast, world-spanning machine",

@@ -8,6 +8,10 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
 Importance: 90
 
 Date:   6 Sep 2020
@@ -26,12 +30,12 @@ Image Credit Link: https://www.istockphoto.com/photo/maryland-state-capital-buil
 
 Short ID: staul
 
-Teaser: 
+Teaser:
 
 I can tell from my occasional conversations with friends and relatives who vote Republican that they have been thoroughly brainwashed about what we liberals stand for in the modern era. So let me lift the veil of secrecy and reveal some of our deepest, darkest secrets.
 
 
-Body: 
+Body:
 
 I can tell from my occasional conversations with friends and relatives who vote Republican that they have been thoroughly brainwashed about what we liberals stand for in the modern era. 
 

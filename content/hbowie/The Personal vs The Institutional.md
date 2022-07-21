@@ -8,6 +8,10 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
 Importance: 50
 
 Date:   1 Nov 2019
@@ -26,12 +30,12 @@ Image Credit Link: https://www.istockphoto.com/photo/column-outside-u-s-supreme-
 
 Short ID: pvi
 
-Teaser: 
+Teaser:
 
 The problem here is that this conflict between the personal and the institutional is a false dichotomy. While we are right to believe that the ultimate goal of human society is the welfare of the individual persons within that society, it is folly to believe that these ends can be met without participation in and reliance on human institutions.
 
 
-Body: 
+Body:
 
 ### Trump as Person Writ Large
 

@@ -1,0 +1,116 @@
+Title:  Popping the Hood with the Notenik App
+
+Tags:   liberty, society, technology
+
+Timestamp: 20220618204609
+
+Status: 9 - Published
+
+Type:   blog
+
+Featured: false
+
+Greatest Hits: false
+
+Importance: 90
+
+Date:   18 Jun 2022
+
+Minutes to Read: 6
+
+Image Name: auto mechanic
+
+Image Alt: Mechanic working under the hood at the repair garage
+
+Image Credit: iStock / dragana991
+
+Image Credit Link: https://www.istockphoto.com/photo/lovely-female-auto-mechanic-examining-engine-of-an-automobile-gm1157319426-315749931
+
+Short ID: phwna
+
+Teaser:
+
+My dad was a mechanical engineer. His first car was a Ford of some ancient vintage, and he grew up working on engines, knowing he could always "pop the hood" to see what was going on underneath, and adjust it if necessary. But the trend in most modern app development is to discourage hood popping. That's where Notenik is different. 
+
+
+Body:
+
+> Simple things should be simple, complex things should be possible.
+>  
+> -- Alan Kay, from [discussions held at the Palo Alto Research Center](https://www.quora.com/What-is-the-story-behind-Alan-Kay-s-adage-Simple-things-should-be-simple-complex-things-should-be-possible)
+
+My dad was a mechanical engineer. His first car was a Ford of some ancient vintage, and he grew up working on engines, knowing he could always "[pop the hood](https://www.phrasemix.com/phrases/pop-the-hood-of-a-car)" to see what was going on underneath, and adjust it if necessary. 
+
+Fast forward a few decades and I can remember talking to a Dean of Engineering at a major university, who was praising the current generation of mechanical engineering students as being smarter than ever, but being prone to occasional major blunders because they no longer had the sort of hands-on knowledge that came from working on their own cars as they grew up. Because, of course, whatever is going on under the hood of a modern car is something too complex for any of us to tinker with. 
+
+And so it goes with software. 
+
+The trend in most modern app development is to discourage "hood popping," to make simple things simple, and to make anything more complex impossible. 
+
+As a result, each piece of software we use has this nice hard outer shell, known as its user interface, and it is designed to be absolutely impenetrable, so that we humans employing the software interact only with this carefully designed UI, and are thus trained to never even *think* about what might be going on beneath the surface. 
+
+And in many ways, of course, this sort of setup represents a nice division of labor: all of us technocrats on one side, building the guts of these apps, seeing what's going on inside, with all of us users on the other side, looking at the nice shiny outer shell, and never having to consider what makes it all tick. 
+
+So what's wrong with this picture? 
+
+Just this: human development, and human activities, generally don't work all that well when everyone is forced to spend all of their time in one silo or another. 
+
+Human affairs generally progress more effectively when our areas of interest, and areas of vision, and areas of knowledge, all overlap a bit -- when we can stretch our legs from time to time, walk away from our usual vantage points, and see what things look like from a different perspective. That's when we can learn from each other, and piece together our fragmented shards of perception into a more comprehensive, more inclusive whole. 
+
+I suspect Steve Jobs knew this better than anyone else working in technology. That's why [he said](https://hbr.org/2011/08/steve-jobss-ultimate-lesson-fo):   
+
+> Technology alone is not enough. It's technology married with the liberal arts, married with the humanities, that yields the results that makes our hearts sing. 
+
+And so, when I set out to build [Notenik](https://notenik.app), I did so with the clear idea that the app should be capable of handling simple things directly through its traditional user interface, but should also allow users to "pop the hood" to see what's going on underneath, and to undertake more complex tasks. 
+
+Here are all the ways in which Notenik allows "hood-popping."
+
+1. Notenik is open-source software, and all of the software code, as well as documentation, is hosted on [GitHub](https://github.com/hbowie/notenik-swift), and is available for anyone to view, and potentially change. 
+
+2. Notenik stores all of its info in plain text files that can be opened and inspected and modified using any text editor. 
+
+3. Text files are stored in folders, and the user gets to choose where the folders will be stored.
+
+4. The format in which Notenik stores its data is meant to be highly user-readable, as well as machine-readable, so that pretty much anyone viewing the contents of a file in a text editor can immediately see what's going on. 
+
+5. Notenik is highly user-configurable, so that each user can tailor each collection of notes to his or her own particular needs. 
+
+6. Folders full of text files generated by other applications are generally fully interoperable with Notenik, even if they are not formatted in exactly the same way that Notenik would prefer. 
+
+7. While Notenik is designed to help users manage collections of text files in various productive ways, and allows a user to edit all of a Note's fields within its own interface, Notenik is not itself designed to be an advanced text editor. This is why Notenik comes with two key menu actions, both with handy keyboard shortcuts:
+
+	+ `Text Edit Note` (CMD-T) -- This will open the current Note in the user's preferred text editor. 
+	
+	+ `Reload Note` (CMD-J) -- This will reload the current Note from the latest version of the file that has been saved to disk.
+
+8. In order to "fine-tune" settings for fields, it is sometimes necessary to use a text editor to adjust a Collection's template file (using OPT-CMD-T and OPT-CMD-J). 
+
+9. Notenik is designed to convert a user's Notes into HTML, the language of the Web, and offers multiple opportunities for users to adjust the HTML layouts being used, including adjustments to the CSS (style sheets) used to control the overall appearance of the generated HTML. (HTML and CSS are both written in plain text, and can also be edited via any text editor). 
+
+10. Advanced HTML generation also makes use of special text files used for scripting. 
+
+11. Notenik can import and export user data in any of several common, non-proprietary, plain text formats, such as CSV, JSON and OPML, with no data loss. 
+
+12. And now, Notenik even has its own [Discourse forum](https://discourse.notenik.app), where users and developers can have open discussions about the workings of the application in the past, present and future. 
+
+Now Notenik will not be everyone's cup of tea, for a number of reasons. 
+
+And not every app can be expected to allow as much hood-popping as is the case with Notenik. 
+
+On the other hand, I do think it's vitally important *to our society* for developers to offer greater levels of transparency and tinkering to users, and for users to begin to expect greater levels of transparency and tinkering from their software. 
+
+Wikipedia is a great example of the benefits of this sort of approach: anyone can see and edit the source code for the pages that appear within this vast online encyclopedia. 
+
+On the other hand, most of our social media platforms are great examples of what happens when users are denied access under the hood: secret algorithms manipulate the feeds of information that we see, twisting our minds and emotions and attitudes to benefit the financial objectives of the companies that own and operate the algorithms. 
+
+It's an issue that all of us should think about. 
+
+As developers, are we holding our users back by keeping them confined to such small, safe spaces that are completely under our control? 
+
+As users, are we really being helped by software systems that force our attention and actions along such carefully manicured paths, surrounded by such insurmountable guardrails? 
+
+Perhaps it's time to start thinking that maybe -- just maybe -- there might be a better way. 
+
+In the meantime, if you'd like to use Notenik without ever taking a peek under the hood -- that's perfectly fine. 
+
+On the other hand, if you'd like to see more of how it works, and fine-tune things a bit -- feel free to pop that hood.

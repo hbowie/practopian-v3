@@ -8,6 +8,10 @@ Status: 9 - Published
 
 Type:   appreciation
 
+Featured: false
+
+Greatest Hits: false
+
 Importance: 111
 
 Date:   17 Dec 2020
@@ -22,12 +26,12 @@ Image Credit Link: https://music.apple.com/us/album/have-yourself-a-merry-little
 
 Short ID: hymlc
 
-Teaser: 
+Teaser:
 
 This is a favorite yuletide tune that has been recorded by almost everyone at least once. Note that the lyrics have varied quite a bit since the song's original composition. Written by Hugh Martin and Ralph Blane, the song was introduced in the 1944 MGM musical *Meet Me in St. Louis,* as performed by Judy Garland.
 
 
-Body: 
+Body:
 
 This is a favorite yuletide tune that has been recorded by almost everyone at least once. 
 

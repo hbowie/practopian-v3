@@ -12,7 +12,7 @@ Status: 9 - Published
 
 Type:   appreciation
 
-Featured: false
+Featured: true
 
 Greatest Hits: false
 
@@ -34,12 +34,12 @@ Image Credit Link: https://www.istockphoto.com/photo/montreal-skyline-with-leona
 
 Short ID: h
 
-Teaser: 
+Teaser:
 
 The history of Leonard Cohen's song "Hallelujah" is a fascinating one. Cohen's songs had never really been embraced by the masses, and his first recording of "Hallelujah" in the early eighties was part of an album so lacking in obvious commercial appeal that the president of CBS Records responded to it by saying: "What is this? This isn't pop music. We're not releasing it. This is a disaster."
 
 
-Body: 
+Body:
 
 The history of Leonard Cohen's song "Hallelujah" is a fascinating one. Cohen's songs had never really been embraced by the masses, and his first recording of "Hallelujah" in the early eighties was part of an album so lacking in obvious commercial appeal that the president of CBS Records responded to it by saying: "What is this? This isn't pop music. We're not releasing it. This is a disaster."
 

@@ -8,6 +8,10 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
 Importance: 80
 
 Date:   25 Feb 2020
@@ -22,12 +26,12 @@ Image Alt: Capital M followed by down arrow
 
 Short ID: wiumwyst
 
-Teaser: 
+Teaser:
 
 What is Markdown, and why should you care? Let's just start by saying that Markdown is a deceptively simple tool for writers. 
 
 
-Body: 
+Body:
 
 What is Markdown, and why should you care?
 

@@ -8,6 +8,10 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
 Importance: 1
 
 Date:   2018-11-12
@@ -26,12 +30,12 @@ Image Credit Link: https://www.istockphoto.com/photo/text-words-have-power-typed
 
 Short ID: wwi2c
 
-Teaser: 
+Teaser:
 
 Whether we are talking about the *King James Bible*, *The Catcher in the Rye*, *On the Origin of Species*, or *Wikipedia*, we recognize that writing things down is an important means of preserving human knowledge and wisdom, and that both writing and reading are invaluable human activities. 
 
 
-Body: 
+Body:
 
 Whether we are talking about the *King James Bible*, *The Catcher in the Rye*, *On the Origin of Species*, or *Wikipedia*, we can recognize that writing things down is an important means of preserving human knowledge and wisdom, and that both writing and reading are invaluable human activities.
 

@@ -1,23 +1,20 @@
-Title: Between Saturday night and Sunday morning
+Title:  Between Saturday night and Sunday morning
 
-Featured: 
+Tags:   imperfection
 
-Recommended: 
+Featured: false
+
+Recommended: false
 
 Author: Jimmy Buffet
 
-Date: 1994
-
-Tags: imperfection
+Date:   1994
 
 Work Title: Fruitcakes
-
-Work Pages:  
 
 Date Added: 2011-07-11 05:05:21 -0700
 
 Body:
 
 Oh, there's a thin line between Saturday night and Sunday morning.
-
 

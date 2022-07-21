@@ -10,6 +10,10 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
 Importance: 50
 
 Date:   5 Mar 2019
@@ -28,12 +32,12 @@ Image Credit Link: https://www.istockphoto.com/photo/pieces-of-jigsaw-puzzle-and
 
 Short ID: thadwp
 
-Teaser: 
+Teaser:
 
 We all run into challenges from time to time, whether at work, at home, or in our communities. In general, I would suggest, we have three different approaches available to us when we try to respond to such situations.  
 
 
-Body: 
+Body:
 
 We all run into challenges from time to time, whether at work, at home, or in our communities. 
 

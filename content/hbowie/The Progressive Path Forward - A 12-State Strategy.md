@@ -8,6 +8,10 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
 Importance: 20
 
 Date:   29 Jun 2020
@@ -26,12 +30,12 @@ Image Credit Link: https://www.istockphoto.com/vector/top-light-arrows-on-dark-b
 
 Short ID: ppf1ss
 
-Teaser: 
+Teaser:
 
 By now leading progressives are starting to realize that they face some severe structural impediments if they are serious about getting real progress in the United States. Let's figure out a way around them. 
 
 
-Body: 
+Body:
 
 By now leading progressives are starting to realize that they face some severe structural impediments if they are serious about getting real progress in the United States. 
 
