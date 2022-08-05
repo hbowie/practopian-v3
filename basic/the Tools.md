@@ -15,7 +15,7 @@ I've used the following tools and services to bring you the latest version of th
 + [GitHub](https://github.com/hbowie/practopian-v3)
 + [GreenGeeks](https://www.greengeeks.com)
 + [HTML5](https://en.wikipedia.org/wiki/HTML5)
-+ [iA / Writer](https://ia.net/writer)
++ [iA Writer](https://ia.net/writer)
 + [Markdown](https://daringfireball.net/projects/markdown/)
 + [Notenik](https://www.notenik.net)
 + [Tower](https://www.git-tower.com/)

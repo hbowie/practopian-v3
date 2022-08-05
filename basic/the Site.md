@@ -31,7 +31,7 @@ In terms of the size of my ambitions, I'll be content to ride along with singer-
 
 With my more general intentions out of the way, let me move on to the website's organization. 
 
-* The **[Home](/)** page, titled "The Latest", shows the most recent content of any kind. 
+* The **[Home](../index.html)** page contains a sampling of the material to be found on the site. 
 
 * I've tagged each piece of content to one or more **[Topics][]** that I've found to be of recurring interest and enduring importance; some of these I occasionally refer to prescriptively as principles or values to be recommended. 
 
@@ -39,32 +39,22 @@ With my more general intentions out of the way, let me move on to the website's 
 
 * I have some additional pieces that I classify as **[Appreciations][]**: these are written to explain my enthusiasms for various works by others: songs, films books and the like. 
 
-* I also post short, topical comments from time to time that you will find under the **[Social][]** heading. 
-
 * The **[Quotes][]** section contains brief quotations from works by others that I've found particularly enlightening. 
 
-* The sections listed above generally follow the expected norm of showing the latest additions first; for other ways to access the complete site contents, I encourage you to explore the **[Archive][]** page.
-
-BTW, this latest rendition of my site has been built using [Drupal 8](https://drupal.org), and is hosted by the fine people at [Pantheon](https://pantheon.io).
-
-If you'd like to drop me a line about any subject likely to be of mutual interest, feel free to use the [Website feedback page](contact/feedback), and I'll do my level best to respond in a timely fashion. 
+If you'd like to drop me a line about any subject likely to be of mutual interest, feel free to [send me a note](mailto:feedback@practopian.org), and I'll do my level best to respond in a timely fashion. 
 
 -- [Herb Bowie][hbowie], October, 2020
 
-[appreciations]: appreciation/index.html
+[appreciations]: ../appreciation/index.html
 
-[archive]: archive.html
-
-[essays]: essays/latest.html
+[essays]: ../blog/hbowie/latest.html
 
 [hbowie]: https://hbowie.net/about.html
 
-[quotes]: quotes/index.html
-
-[social]: micro/latest.html
+[quotes]: ../quotes/latest.html
 
 [thornt]: http://www.paulthorn.com/aint-love-strange-land
 
-[titles]: essays/by-title.html
+[titles]: ../essays/by-title.html
 
-[topics]: tags/index.html
+[topics]: ../tags/index.html

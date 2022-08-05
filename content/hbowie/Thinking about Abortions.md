@@ -8,7 +8,7 @@ Status: 9 - Published
 
 Type:   blog
 
-Featured: true
+Featured: false
 
 Greatest Hits: false
 
@@ -23,6 +23,10 @@ Image Alt: Shower of fiery sparks
 Image Credit: iStock / Rudzhan Nagiev
 
 Image Credit Link: https://www.istockphoto.com/vector/shower-of-fiery-sparks-from-welding-metal-gm1269858040-373029361
+
+Medium Link: https://medium.com/@hbowie/thinking-about-abortion-s-7d112342a9ea
+
+Substack Link: https://practopian.substack.com/p/thinking-about-abortions
 
 Short ID: tfoas
 

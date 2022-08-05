@@ -1,23 +1,20 @@
-Title: The Toxic Mix of Religion and Tribalism
+Title:  The Toxic Mix of Religion and Tribalism
 
-Featured: 
+Tags:   cultural evolution, religion, science
 
-Recommended: 
+Featured: false
+
+Recommended: false
 
 Author: E. O. Wilson
 
-Date: November 2, 2005
-
-Tags: cultural evolution, religion, science
+Date:   November 2, 2005
 
 Work Title: New Scientist
-
-Work Pages:  
 
 Date Added: 2010-10-26 19:52:23 -0700
 
 Body:
 
 The toxic mix of religion and tribalism has become so dangerous as to justify taking seriously the alternative view, that humanism based on science is the effective antidote, the light and the way at last placed before us. 
-
 
