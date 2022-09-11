@@ -6,12 +6,21 @@
 <title>Notenik Query</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <style>
+:root {
+    color-scheme: light dark;
+    --background-color: #FFFFFF;
+    --text-color: #000000;
+    --link-color: Blue;
+    --highlight-color: Gainsboro
+}
+@media screen and (prefers-color-scheme: dark) { 
   :root {
     --background-color: #000000;
     --text-color: #F0F0F0;
     --link-color: #93d5ff;
     --highlight-color: DimGray
   }
+}
 a {
     color: var(--link-color);
 }
@@ -75,7 +84,7 @@ ul.tags-cloud a {
   padding: 2px 12px 2px 12px; 
   margin: 10px 10px 10px 10px; 
   min-width: 40px; 
-  text-aligh: center; 
+  text-align: center; 
 } 
 </style>
 </head>
@@ -89,11 +98,15 @@ ul.tags-cloud a {
 <tr>
 <th>
 Title</th>
+<th>
+Type</th>
 </tr>
 <?nextrec?>
 <tr>
 <td>
 <a href="notenik://open?path=/Users/hbowie/Sites/practopian%203/content/hbowie/&id==$title&i$=">=$title$=</a></td>
+<td>
+=$type$=</td>
 </tr>
 <?loop?>
 </table>

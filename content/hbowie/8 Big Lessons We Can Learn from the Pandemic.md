@@ -18,7 +18,7 @@ Date:   10 May 2020
 
 Index:  Einstein, Albert; Harari, Yuval Noah; Jefferson Airplane; King, Martin Luther Jr.; 
 
-Minutes to Read: 7
+Minutes to Read: 6
 
 Image Name: young couple at end of pier
 
@@ -30,12 +30,12 @@ Image Credit Link: https://www.istockphoto.com/photo/mindfulness-gm1165048384-32
 
 Short ID: 8blclfp
 
-Teaser: 
+Teaser:
 
 Suffering through a pandemic is a terrible way to have to learn a lesson or two about the nature of humanity. But it's what we have, so we may as well make use of it.
 
 
-Body: 
+Body:
 
 Suffering through a pandemic is a terrible way to have to learn a lesson or two about the nature of humanity. 
 

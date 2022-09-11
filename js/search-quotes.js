@@ -627,13 +627,13 @@ let searchQuotes = [
 		title: "Between-group selection became the primary evolutionary force",
 		date: "2019",
     url: "quotes/between-group-selection-became-the-primary-evolutionary-force.html",
-		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The chicken experiment",
 		date: "2019",
     url: "quotes/the-chicken-experiment.html",
-		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The entire pageant of human history",
@@ -657,31 +657,31 @@ let searchQuotes = [
 		title: "Living in small groups has been baked into our psyches",
 		date: "2019",
     url: "quotes/living-in-small-groups-has-been-baked-into-our-psyches.html",
-		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The malleability of life",
 		date: "2019",
     url: "quotes/the-malleability-of-life.html",
-		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Nurturance is a master variable",
 		date: "2019",
     url: "quotes/nurturance-is-a-master-variable.html",
-		content: "One basic prescription is to do everything possible to re create the ancestral social environment of small groups of nurturing individuals who know each other by their actions Provide such an environment and prosocial child development and adult relations will take place with surprising ease In the absence of a nurturing social environment the shaping of behavior will lead in a very different direction survival and reproductive strategies that are predicated on the absence of social support that benefit me and not you us and not them today without regard for tomorrow That s what Tony means by calling nurturance a master variable David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "One basic prescription is to do everything possible to re create the ancestral social environment of small groups of nurturing individuals who know each other by their actions Provide such an environment and prosocial child development and adult relations will take place with surprising ease In the absence of a nurturing social environment the shaping of behavior will lead in a very different direction survival and reproductive strategies that are predicated on the absence of social support that benefit me and not you us and not them today without regard for tomorrow That s what Tony means by calling nurturance a master variable David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Our long-term personal and societal goals",
 		date: "2019",
     url: "quotes/our-long-term-personal-and-societal-goals.html",
-		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Our species does represent a new evolutionary process",
 		date: "2019",
     url: "quotes/our-species-does-represent-a-new-evolutionary-process.html",
-		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Religions are great bushy trees",
@@ -934,6 +934,12 @@ let searchQuotes = [
 		date: "1926",
     url: "quotes/gradually-and-then-suddenly.html",
 		content: " How did you go bankrupt Bill asked Two ways Mike said Gradually and then suddenly Ernest Hemingway American novelist, short story writer, and journalist The Sun Also Rises "
+	},
+	{
+		title: "My brain felt hungry",
+		date: "07 Aug 2022",
+    url: "quotes/my-brain-felt-hungry.html",
+		content: "That s how my brain felt to me too Hungry Needy Itchy Once it wanted information But then it was distraction And then with social media validation A drumbeat of You exist You are seen Ezra Klein American journalist, political analyst, columnist and podcaster I Didn’t Want It to Be True, but the Medium Really Is the Message "
 	},
 	{
 		title: "A First-Rate Intelligence",
@@ -1728,6 +1734,12 @@ let searchQuotes = [
 		content: "Do the right thing It will gratify some people and astonish the rest Mark Twain  unknown "
 	},
 	{
+		title: "To distract the watchdog of the mind",
+		date: "",
+    url: "quotes/to-distract-the-watchdog-of-the-mind.html",
+		content: "Our conventional response to all media namely that it is how they are used that counts is the numb stance of the technological idiot For the content of a medium is like the juicy piece of meat carried by the burglar to distract the watchdog of the mind Marshall McLuhan Canadian philosopher Understanding Media: The Extensions of Man "
+	},
+	{
 		title: "Unarmed Truth and Unconditional Love",
 		date: "1963",
     url: "quotes/unarmed-truth-and-unconditional-love.html",
@@ -2367,7 +2379,7 @@ let searchQuotes = [
 		title: "Generosity is the robust strategy",
 		date: "2017",
     url: "quotes/generosity-is-the-robust-strategy.html",
-		content: "It is deeply unfortunate how difficult it is for humans to practice foresight In his wise and insightful book The Wealth of Humans senior editor for the Economist Ryan Avent traces the lessons that we could and should take from the centuries of economic and political struggle that led from the innovations of the industrial revolution to the successful economies of the second half of the twentieth century Prosperity came when the fruits of productivity were widely shared enmity political turmoil and even outright warfare were the harvest of rampant inequality It is obvious that generosity is the robust strategy Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
+		content: "It is deeply unfortunate how difficult it is for humans to practice foresight In his wise and insightful book The Wealth of Humans senior editor for the Economist Ryan Avent traces the lessons that we could and should take from the centuries of economic and political struggle that led from the innovations of the industrial revolution to the successful economies of the second half of the twentieth century Prosperity came when the fruits of productivity were widely shared enmity political turmoil and even outright warfare were the harvest of rampant inequality It is obvious that generosity is the robust strategy Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Governance is essential",

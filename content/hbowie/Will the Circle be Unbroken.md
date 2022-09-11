@@ -8,13 +8,17 @@ Status: 9 - Published
 
 Type:   appreciation
 
+Featured: false
+
+Greatest Hits: false
+
 Importance: 80
 
 Date:   15 Aug 2018
 
 Index:  religion; humanism; parenthood; death; Nitty Gritty Dirt Band; The Country Gentlemen; Tim O'Brien; Darrell Scott; 
 
-Minutes to Read: 6
+Minutes to Read: 5
 
 Image Name: Will the Circle be Unbroken album cover
 
@@ -24,12 +28,12 @@ Image Caption: Album Cover from the Nitty Gritty Dirt Band's Will the Circle be 
 
 Short ID: wcbu
 
-Teaser: 
+Teaser:
 
 It's certainly fair to categorize this song as a religious one, and more particularly as a Christian song, and yet, even though I consider myself to be a non-believer, my lack of faith doesn't diminish my appreciation for this song in the slightest: if anything, I think it increases it. For unlike many songs that we could put in this category, this song does not seek to proselytize, or ask us to accept any particular religious teaching. 
 
 
-Body: 
+Body:
 
 I first heard this song as the title track on the monumental 1972 album by the Nitty Gritty Dirt Band, which they recorded with a number of country music greats who were still alive at the time.
 

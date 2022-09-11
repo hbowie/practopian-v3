@@ -7,7 +7,7 @@ filter	add	eq	type	appreciation
 filter	set		params	
 sort	clear			
 sort	add	ascending	title	
+sort	add	ascending	type	
 sort	set		params	
 template	open			/Users/hbowie/Sites/practopian 3/content/hbowie/reports/query_template.html
 template	generate			
-browse				file:///Users/hbowie/Sites/practopian%203/content/hbowie/reports/query.html
