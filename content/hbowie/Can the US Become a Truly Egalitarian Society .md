@@ -18,7 +18,7 @@ Date:   15 Jun 2020
 
 Index:  Arbery, Ahmaud; Armstrong, Louis; Black Americans; Declaration of Independence; Floyd, George; Fox News; Mar-a-Lago; Native Americans; Rand, Ayn; Taylor, Breanna; Trump, Donald; cultural evolution; egalitarian; equality; hierarchical; police; politics, US; society; 
 
-Minutes to Read: 12
+Minutes to Read: 10
 
 Image Name: Louis Armstrong stamp
 
@@ -30,12 +30,12 @@ Image Credit Link: https://www.istockphoto.com/photo/louis-armstrong-stamp-gm458
 
 Short ID: cubtes
 
-Teaser: 
+Teaser:
 
 As with many of us, I've been thinking deeply lately about the murders of George Floyd, Ahmaud Arbery, Breanna Taylor, and so many other people of color, and wondering how and why these atrocities continue to occur in my country, and what we can do to turn things around. And I've concluded that there are basically two types of human societies, with very different ways of thinking about themselves. 
 
 
-Body: 
+Body:
 
 As with many of us, I've been thinking deeply lately about the murders of George Floyd, Ahmaud Arbery, Breanna Taylor, and so many other people of color, and wondering how and why these atrocities continue to occur in my country, and what we can do to turn things around. 
 

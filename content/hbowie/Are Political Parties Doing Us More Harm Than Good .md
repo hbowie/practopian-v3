@@ -16,7 +16,7 @@ Importance: 20
 
 Date:   25 Jun 2021
 
-Minutes to Read: 7
+Minutes to Read: 6
 
 Image Name: istock
 
@@ -32,12 +32,12 @@ Substack Link: https://practopian.substack.com/p/political-parties-more-harm-tha
 
 Short ID: ppdumhtg
 
-Teaser: 
+Teaser:
 
 I've been making the case lately that the Republican Party is in decline, and needs to reinvent itself. But perhaps something even more radical is needed. For when we look at the current state of our two-party system in the US, nothing about it makes any sense. 
 
 
-Body: 
+Body:
 
 I've been making the case lately that the [Republican Party is in decline][decline], and needs to [reinvent itself][where]. 
 

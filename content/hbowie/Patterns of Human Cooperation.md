@@ -20,7 +20,7 @@ Date:   27 Mar 2020
 
 Index:  Harari, Yuval Noah; Wilson, David Sloan; cooperation; management; 
 
-Minutes to Read: 7
+Minutes to Read: 6
 
 Image Name: teamwork on mountain
 

@@ -8,7 +8,7 @@ Sort Descending: false
 
 Other Fields Allowed: false
 
-Last Index Selected: 115
+Last Index Selected: 244
 
 Mirror Auto Index: false
 
@@ -26,7 +26,9 @@ Missing Targets: false
 
 Curly Apostrophes: true
 
-Shortcut: authors
+Shortcut: authorspr
 
-Window Numbers: 1146.0;445.0;1250.0;970.0;500.0;
+Window Numbers: 389.0;193.0;1429.0;970.0;500.0;
+
+Note File Format: nnk
 

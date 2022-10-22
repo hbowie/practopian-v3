@@ -2,7 +2,7 @@ Title:  To distract the watchdog of the mind
 
 Tags:   technology
 
-Featured: false
+Featured: true
 
 Recommended: false
 

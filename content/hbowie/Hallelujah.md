@@ -12,7 +12,7 @@ Status: 9 - Published
 
 Type:   appreciation
 
-Featured: true
+Featured: false
 
 Greatest Hits: false
 
@@ -22,7 +22,7 @@ Date:   29 Oct 2020
 
 Index:  Cohen, Leonard; Hallelujah; 
 
-Minutes to Read: 12
+Minutes to Read: 11
 
 Image Name: Leonard Cohen mural in Montreal
 

@@ -8,7 +8,7 @@ Sort Descending: false
 
 Other Fields Allowed: false
 
-Last Index Selected: 122
+Last Index Selected: 78
 
 Mirror Auto Index: false
 
@@ -26,5 +26,9 @@ Missing Targets: false
 
 Curly Apostrophes: true
 
-Window Numbers: 1310.0;-1.0;1243.0;1415.0;442.5;
+Window Numbers: 1317.0;-10.0;1243.0;1415.0;442.5;
+
+Note File Format: nnk
+
+Hash Tags: false
 

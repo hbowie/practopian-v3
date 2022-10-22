@@ -16,7 +16,7 @@ Importance: 20
 
 Date:   24 Apr 2021
 
-Minutes to Read: 14
+Minutes to Read: 12
 
 Image Name: diagram
 
@@ -30,12 +30,12 @@ Substack Link: https://practopian.substack.com/p/thinking-differently-about-our-
 
 Short ID: tdae
 
-Teaser: 
+Teaser:
 
 We all know that the economy is important. We talk about it every day. But do we ever think about... how we think about it? How we visualize it? How we've been conditioned to think about it, perhaps unknowingly? 
 
 
-Body: 
+Body:
 
 We all know that the economy is important. We talk about it every day. But do we ever think about... how we think about it? How we visualize it? How we've been conditioned to think about it, perhaps unknowingly? 
 

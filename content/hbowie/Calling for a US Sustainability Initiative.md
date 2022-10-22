@@ -18,7 +18,7 @@ Date:   03 Dec 2018
 
 Index:  sustainability; Capra, Frank; Why We Fight; space race; World War II; developmental levels; US politics; Ocasio-Cortez, Alexandria; Green New Deal; 
 
-Minutes to Read: 5
+Minutes to Read: 4
 
 Image Name: green city life
 
@@ -30,12 +30,12 @@ Image Credit Link: https://www.istockphoto.com/vector/green-city-life-gm47850835
 
 Short ID: cusi
 
-Teaser: 
+Teaser:
 
 Looking back over the history of the United States, it's easy to see in hindsight a series of events and actions that have either united or divided us. 
 
 
-Body: 
+Body:
 
 Looking back over the history of the United States, it's easy to see in hindsight a series of events and actions that have either united or divided us. 
 

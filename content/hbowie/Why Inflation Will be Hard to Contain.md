@@ -2,7 +2,7 @@ Title:  Why Inflation Will be Hard to Contain
 
 Timestamp: 20220901025053
 
-Status: 9 - Published
+Status: 4 - In Work
 
 Type:   blog
 
@@ -118,8 +118,4 @@ Most of our experts, prognosticating based on their understanding of what has ha
 
 The problem is that, if we back up and look at the big picture, there are other factors at work, new factors that weren't present historically. 
 
-And so I very much doubt that the future of this inflationary trend is going to look much like ones of the past. 
-
- 
-
-
+And so I very much doubt that the future of this inflationary trend is going to look much like ones of the past.

@@ -2,7 +2,7 @@ Title:  Crosscutting Alliances
 
 Tags:   connection, democracy, diversity
 
-Featured: true
+Featured: false
 
 Recommended: true
 

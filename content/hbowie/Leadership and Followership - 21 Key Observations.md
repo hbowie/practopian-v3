@@ -18,7 +18,7 @@ Date:   06 May 2021
 
 Index:  leadership; followership; decisions; 
 
-Minutes to Read: 4
+Minutes to Read: 3
 
 Image Name: Red King
 
@@ -34,12 +34,12 @@ Substack Link: https://practopian.substack.com/p/leadership-and-followership
 
 Short ID: lf2ko
 
-Teaser: 
+Teaser:
 
 I was reading recently about a couple of different situations involving traits of both leadership and followership. Some reflection on these two situations has compelled me to dispense the following bits of wisdom on the subjects of leading and following. Some of these may seem obvious, and some controversial, but they are all equally true and valuable, based on my own experience doing a fair bit of both in a number of different organizations.
 
 
-Body: 
+Body:
 
 I was reading recently about a couple of different situations involving traits of both leadership and followership. 
 

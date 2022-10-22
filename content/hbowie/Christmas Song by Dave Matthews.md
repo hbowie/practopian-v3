@@ -16,7 +16,7 @@ Importance: 112
 
 Date:   18 Dec 2020
 
-Minutes to Read: 6
+Minutes to Read: 5
 
 Image Name: Live at Luther College
 

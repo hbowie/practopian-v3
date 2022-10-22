@@ -18,7 +18,7 @@ Date:   2018-08-13
 
 Index:  cultural evolution; evolution; culture; 
 
-Minutes to Read: 10
+Minutes to Read: 9
 
 Image Name: book by Alex Mesoudi
 
@@ -30,12 +30,12 @@ Image Credit Link: https://press.uchicago.edu/ucp/books/book/chicago/C/bo8787504
 
 Short ID: ce
 
-Teaser: 
+Teaser:
 
 A belief in cultural evolution is one of the core Practopian principles. But what do we mean by human culture? And by its evolution? Let's dive a little deeper to uncover some of the significant ideas lurking behind this simple statement.
 
 
-Body: 
+Body:
 
 Let's talk a bit about cultural evolution to find out why this idea is so important. 
 

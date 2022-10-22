@@ -18,7 +18,7 @@ Date:   21 Nov 2020
 
 Index:  Doering, Jody; Covid-19; Hammett, Dashiell; Biden, Joe; Ted Lasso; 
 
-Minutes to Read: 6
+Minutes to Read: 5
 
 Image Name: diving into dark waters
 
@@ -30,12 +30,12 @@ Image Credit Link: https://www.istockphoto.com/photo/diving-into-dark-water-unkn
 
 Short ID: dbiam
 
-Teaser: 
+Teaser:
 
 I'm tempted to call the story heartbreaking, but it's more like brain-breaking: how can people who are so sick that they have to be hospitalized still refuse to believe in the existence of the very disease that is killing them?
 
 
-Body: 
+Body:
 
 I came across a [story in The Washington Post][wapo] recently about a nurse in South Dakota haunted by memories of patients who were dying from Covid-19. 
 

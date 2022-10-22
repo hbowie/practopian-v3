@@ -18,7 +18,7 @@ Date:   9 Apr 2020
 
 Index:  Ostrom, Elinor; Wilson, David Sloan; cooperation; management; Prosocial World; teams; 
 
-Minutes to Read: 4
+Minutes to Read: 3
 
 Image Name: team
 
@@ -30,12 +30,12 @@ Image Credit Link: https://www.istockphoto.com/vector/business-team-concept-gm10
 
 Short ID: cdpt
 
-Teaser: 
+Teaser:
 
 David Sloan Wilson and his pals at Prosocial World have done the heavy lifting for us, providing the eight Core Design Principles to maximize the effectiveness of human groups of all sizes. 
 
 
-Body: 
+Body:
 
 In a recent post on "[Understanding Human History](understanding-human-history.html)," I asserted that our story can be seen as a progressive spiral made up of four intertwining strands, with the third consisting of communication mechanisms, organizational structures and other means for enhancing human cooperation. 
 

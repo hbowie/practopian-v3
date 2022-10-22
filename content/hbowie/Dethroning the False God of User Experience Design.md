@@ -8,13 +8,17 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
 Importance: 60
 
 Date:   27 Dec 2019
 
 Index:  art; connection; imperfection; individuals; love; value creation; Osborne 1; Jobs, Steve; Norman, Donald; technology; design; user experience; tools; Apple; iPhone; Facebook; Google; Amazon; progress; Meek, Donald; Capra, Frank; Boeing; Glatzer, Richard; Magliozzi, Tom and Ray; You Can't Take It With You; Car Talk; Avitzur, Ron; Robbins, Greg; Gruber, John; Markdown; Simmons, Brent; Berners-Lee, Tim; Browne, Jackson; NetNewsWire; 
 
-Minutes to Read: 8
+Minutes to Read: 7
 
 Image Alt: Working On A Metal Lathe
 
@@ -24,12 +28,12 @@ Image Credit Link: https://www.istockphoto.com/photo/working-on-a-metal-lathe-gm
 
 Short ID: dfgued
 
-Teaser: 
+Teaser:
 
 The problem is that we've had something valuable stolen from us along the way. And the whole modern notion of UX design is one of the thieves that has robbed us. 
 
 
-Body: 
+Body:
 
 My first personal computer was an [Osborne 1][os1]. It came with not only a CP/M operating system, but copies of SuperCalc, WordStar and two versions of the BASIC programming language: both CBASIC and MBASIC. 
 

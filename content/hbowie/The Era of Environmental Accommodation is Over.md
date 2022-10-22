@@ -8,13 +8,17 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
 Importance: 30
 
 Date:   14 Sep 2020
 
 Index:  sustainability; Anthropocene Epoch; history; 
 
-Minutes to Read: 8
+Minutes to Read: 7
 
 Image Name: green globe
 
@@ -26,12 +30,12 @@ Image Credit Link: https://www.istockphoto.com/vector/world-map-globe-environmen
 
 Short ID: eeao
 
-Teaser: 
+Teaser:
 
 When historians look at the long span of our human history, they try to make sense of our arc of cultural evolution by breaking it up into phases. There are multiple perspectives we can use for this sort of exercise, but the most important is the relationship of our human population to the rest of our world. 
 
 
-Body: 
+Body:
 
 When historians look at the long span of our human history, they try to make sense of our arc of [cultural evolution][cult] by breaking it up into phases: the agrarian era, the industrial era, the digital era, and so forth. 
 

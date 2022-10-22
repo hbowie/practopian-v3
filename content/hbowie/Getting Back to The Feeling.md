@@ -18,7 +18,7 @@ Date:   18 Feb 2022
 
 Index:  Beatles, The; 
 
-Minutes to Read: 8
+Minutes to Read: 7
 
 Image Name: rooftop
 

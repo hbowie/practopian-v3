@@ -1,13 +1,5 @@
 Author: Victor Hwang
 
-Tags:
+Author Info: Tech CEO and author
 
-Author Info:  
-
-Author Years: 
-
-Author Link:  
-
-Author Notes:
-
-
+Author Link: https://thisviewoflife.com/profile/victor-w-hwang/

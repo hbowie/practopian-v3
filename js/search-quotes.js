@@ -381,7 +381,7 @@ let searchQuotes = [
 		title: "The Songs are my Lexicon",
 		date: "1997",
     url: "quotes/the-songs-are-my-lexicon.html",
-		content: "Here s the thing with me and the religious thing This is the flat out truth I find the religiosity and philosophy in the music I don t find it anywhere else Songs like Let Me Rest on a Peaceful Mountain or I Saw the Light that s my religion I don t adhere to rabbis preachers evangelists all of that I ve learned more from the songs than I ve learned from any of this kind of entity The songs are my lexicon I believe the songs Bob Dylan American journalist and novelist Bob Dylan 1997 Interview for Newsweek "
+		content: "Here s the thing with me and the religious thing This is the flat out truth I find the religiosity and philosophy in the music I don t find it anywhere else Songs like Let Me Rest on a Peaceful Mountain or I Saw the Light that s my religion I don t adhere to rabbis preachers evangelists all of that I ve learned more from the songs than I ve learned from any of this kind of entity The songs are my lexicon I believe the songs Bob Dylan American singer-songwriter, author and visual artist Bob Dylan 1997 Interview for Newsweek "
 	},
 	{
 		title: "Living happily ever after",
@@ -624,6 +624,18 @@ let searchQuotes = [
 		content: "But there are all different kinds of freedom and the kind that is most precious you will not hear much talked about in the great outside world of winning and achieving and displaying The really important kind of freedom involves attention and awareness and discipline and effort and being able truly to care about other people and to sacrifice for them over and over in myriad petty little unsexy ways every day That is real freedom The alternative is unconsciousness the default setting the rat race the constant gnawing sense of having had and lost some infinite thing David Foster Wallace American author of novels, short stories and essays Commencement Address at Kenyon College "
 	},
 	{
+		title: "Many humans just don't like their families",
+		date: "2021",
+    url: "quotes/many-humans-just-dont-like-their-families.html",
+		content: "There is an obvious objection to evolutionary models which assume that our strongest social ties are based on close biological kinship many humans just don t like their families very much And this appears to be just as true of present day hunter gatherers as anybody else Many seem to find the prospect of living their entire lives surrounded by close relatives so unpleasant that they will travel very long distances just to get away from them David Graeber and David Wengrow  The Dawn of Everything: A New History of Humanity "
+	},
+	{
+		title: "Very large social units are imaginary",
+		date: "2021",
+    url: "quotes/very-large-social-units-are-imaginary.html",
+		content: "Very large social units are always in a sense imaginary Or to put it in a slightly different way there is always a fundamental distinction between the way one relates to friends family neighbourhood people and places that we actually know directly and the way one relates to empires nations and metropolises phenomena that exist largely or at least most of the time in our heads David Graeber and David Wengrow  The Dawn of Everything: A New History of Humanity "
+	},
+	{
 		title: "Between-group selection became the primary evolutionary force",
 		date: "2019",
     url: "quotes/between-group-selection-became-the-primary-evolutionary-force.html",
@@ -633,13 +645,13 @@ let searchQuotes = [
 		title: "The chicken experiment",
 		date: "2019",
     url: "quotes/the-chicken-experiment.html",
-		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The entire pageant of human history",
 		date: "2019",
     url: "quotes/the-entire-pageant-of-human-history.html",
-		content: "Once we become attuned to it the entire pageant of human history starting approximately 100 000 years ago can be seen as evolution at high speed made possible by the transmission of learned information across generations Our departure from Africa and colonization of the rest of the planet our ability to inhabit all climatic zones and dozens of ecological niches as hunter gatherers our ability to grow food as farmers the advent of writing and the exploitation of fossil fuels were all made possible by the generational transfer of information David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Once we become attuned to it the entire pageant of human history starting approximately 100 000 years ago can be seen as evolution at high speed made possible by the transmission of learned information across generations Our departure from Africa and colonization of the rest of the planet our ability to inhabit all climatic zones and dozens of ecological niches as hunter gatherers our ability to grow food as farmers the advent of writing and the exploitation of fossil fuels were all made possible by the generational transfer of information David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The eternal struggle between good and evil",
@@ -651,25 +663,25 @@ let searchQuotes = [
 		title: "Increase nurturance thoughout the life span",
 		date: "2019",
     url: "quotes/increase-nurturance-thoughout-the-life-span.html",
-		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Living in small groups has been baked into our psyches",
 		date: "2019",
     url: "quotes/living-in-small-groups-has-been-baked-into-our-psyches.html",
-		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The malleability of life",
 		date: "2019",
     url: "quotes/the-malleability-of-life.html",
-		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Nurturance is a master variable",
 		date: "2019",
     url: "quotes/nurturance-is-a-master-variable.html",
-		content: "One basic prescription is to do everything possible to re create the ancestral social environment of small groups of nurturing individuals who know each other by their actions Provide such an environment and prosocial child development and adult relations will take place with surprising ease In the absence of a nurturing social environment the shaping of behavior will lead in a very different direction survival and reproductive strategies that are predicated on the absence of social support that benefit me and not you us and not them today without regard for tomorrow That s what Tony means by calling nurturance a master variable David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "One basic prescription is to do everything possible to re create the ancestral social environment of small groups of nurturing individuals who know each other by their actions Provide such an environment and prosocial child development and adult relations will take place with surprising ease In the absence of a nurturing social environment the shaping of behavior will lead in a very different direction survival and reproductive strategies that are predicated on the absence of social support that benefit me and not you us and not them today without regard for tomorrow That s what Tony means by calling nurturance a master variable David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Our long-term personal and societal goals",
@@ -693,7 +705,7 @@ let searchQuotes = [
 		title: "Small groups are a fundamental unit of human social organization",
 		date: "2019",
     url: "quotes/small-groups-are-a-fundamental-unit-of-human-social-organization.html",
-		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "A vast repository of information learned and passed down from previous generations",
@@ -2256,6 +2268,12 @@ let searchQuotes = [
 		content: "Jobs What I do all day is meet with teams of people and work on ideas and solve problems to make new products to make new marketing programs whatever it is Mossberg And are people willing to tell you you re wrong Jobs laughs Yeah Mossberg I mean other than snarky journalists I mean people that work for Jobs Oh yeah no we have wonderful arguments Mossberg And do you win them all Jobs Oh no I wish I did No you see you can t If you want to hire great people and have them stay working for you you have to let them make a lot of decisions and you have to you have to be run by ideas not hierarchy The best ideas have to win otherwise good people don t stay Mossberg But you must be more than a facilitator who runs meetings You obviously contribute your own ideas Jobs I contribute ideas sure Why would I be there if I didn t Steve Jobs American business magnate, industrial designer, investor, and media proprietor D8 Conference "
 	},
 	{
+		title: "I love and admire my species",
+		date: "2 Sep 2010",
+    url: "quotes/i-love-and-admire-my-species.html",
+		content: "I grow little of the food I eat and of the little I do grow I did not breed or perfect the seeds I do not make any of my own clothing I speak a language I did not invent or refine I did not discover the mathematics I use I am protected by freedoms and laws I did not conceive of or legislate and do not enforce or adjudicate I am moved by music I did not create myself When I needed medical attention I was helpless to help myself survive I did not invent the transistor the microprocessor object oriented programming or most of the technology I work with I love and admire my species living and dead and am totally dependent on them for my life and well being Steve Jobs American business magnate, industrial designer, investor, and media proprietor Email from and to Steve Jobs, Dated September 2, 2010 "
+	},
+	{
 		title: "Technology married with the humanities",
 		date: "March-April 1991",
     url: "quotes/technology-married-with-the-humanities.html",
@@ -2391,13 +2409,13 @@ let searchQuotes = [
 		title: "In the thrall of a vast, world-spanning machine",
 		date: "2017",
     url: "quotes/in-the-thrall-of-a-vast-world-spanning-machine.html",
-		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
+		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Worshipping the divine right of capital",
 		date: "2017",
     url: "quotes/worshipping-the-divine-right-of-capital.html",
-		content: "Future economic historians may look back wryly at this period when we worshipped the divine right of capital while looking down on our ancestors who believed in the divine right of kings Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
+		content: "Future economic historians may look back wryly at this period when we worshipped the divine right of capital while looking down on our ancestors who believed in the divine right of kings Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Belief in Impossible Things",
@@ -2475,13 +2493,13 @@ let searchQuotes = [
 		title: "Culture can be either mutualistic or predatory",
 		date: "06 Aug 2020",
     url: "quotes/culture-can-be-either-mutualistic-or-predatory.html",
-		content: "Culture can be either mutualistic or predatory that s our choice as a society We can choose to create societies that prioritize what we consider good Victor Hwang  Evolution, Complexity, and the Third Way of Entrepreneurship: A Capstone Conversation with Victor Hwang "
+		content: "Culture can be either mutualistic or predatory that s our choice as a society We can choose to create societies that prioritize what we consider good Victor Hwang Tech CEO and author Evolution, Complexity, and the Third Way of Entrepreneurship: A Capstone Conversation with Victor Hwang "
 	},
 	{
 		title: "We have the capacity to envision a better future and make it a reality",
 		date: "06 Aug 2020",
     url: "quotes/we-have-the-capacity-to-envision-a-better-future-and-make-it-a-reality.html",
-		content: "Many people interpret the invisible hand concept as saying we should just take our hands off the steering wheel like there s nothing we should do I don t agree with that Humans aren t designed to accept the world as is so to just say whatever is denying what makes us thrive as a species More than any other creature on Earth we have the capacity to envision a better future and make it a reality We are askers of the question What kind of world do we want And perhaps even more importantly we can ask the follow up question How do we build that Victor Hwang  Evolution, Complexity, and the Third Way of Entrepreneurship: A Capstone Conversation with Victor Hwang "
+		content: "Many people interpret the invisible hand concept as saying we should just take our hands off the steering wheel like there s nothing we should do I don t agree with that Humans aren t designed to accept the world as is so to just say whatever is denying what makes us thrive as a species More than any other creature on Earth we have the capacity to envision a better future and make it a reality We are askers of the question What kind of world do we want And perhaps even more importantly we can ask the follow up question How do we build that Victor Hwang Tech CEO and author Evolution, Complexity, and the Third Way of Entrepreneurship: A Capstone Conversation with Victor Hwang "
 	},
 	{
 		title: "Confusion leads to understanding",

@@ -18,7 +18,7 @@ Date:   17 July 2020
 
 Index:  third way; Wilson, David Sloan; cooperation; competition; multi-level selection theory; politics, US; coercion; Black Lives Matter; Boettke, Peter; Best, Carmen; 
 
-Minutes to Read: 7
+Minutes to Read: 6
 
 Image Name: riot poice in the street
 
@@ -30,12 +30,12 @@ Image Credit Link: https://www.istockphoto.com/photo/riots-near-g20-june-26-2010
 
 Short ID: ccc
 
-Teaser: 
+Teaser:
 
 When we look at the major societal choices facing us today, the primary question is not whether we want a society that is more cooperative or more competitive, but whether we're ready for a society that is less coercive.
 
 
-Body: 
+Body:
 
 Let's take a closer look at some of the major ideas regularly animating our public discourse today.  
 

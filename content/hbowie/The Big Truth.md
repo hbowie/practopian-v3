@@ -16,7 +16,7 @@ Importance: 80
 
 Date:   17 Jan 2021
 
-Minutes to Read: 10
+Minutes to Read: 9
 
 Image Name: compass pointing to truth
 
@@ -28,12 +28,12 @@ Image Credit Link: https://www.istockphoto.com/photo/truth-gm505750350-83837067
 
 Short ID: bt
 
-Teaser: 
+Teaser:
 
 If we want to end The Big Lie, what undisclosed pieces of truth do we need to bring out into the open in order to achieve a more spacious shared understanding of our common reality?
 
 
-Body: 
+Body:
 
 As I write these words, the invasion of our US Capitol in DC is only a week behind us. 
 

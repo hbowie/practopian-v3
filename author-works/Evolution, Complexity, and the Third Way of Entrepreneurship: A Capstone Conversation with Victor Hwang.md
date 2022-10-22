@@ -1,26 +1,13 @@
-Work Title: Evolution, Complexity, and the Third Way of Entrepreneurship: A Capstone Conversation with Victor Hwang 
-
-Tags: 
+Work Title: Evolution, Complexity, and the Third Way of Entrepreneurship: A Capstone Conversation with Victor Hwang
 
 Author: Victor Hwang
 
-Work Type: Interview 
-
-Work Minor Title:  
+Work Type: Interview
 
 Work Date: 06 Aug 2020
 
-Work Link: https://evolution-institute.org/evolution-complexity-and-the-third-way-of-entrepreneurship-a-capstone-conversation-with-victor-hwang/ 
+Work Link: https://thisviewoflife.com/evolution-complexity-and-the-third-way-of-entrepreneurship-a-capstone-conversation-with-victor-hwang/
 
-Work ID:  
+Work Rights: Copyright
 
-Work Rights:  Copyright
-
-Work Rights Holder:  
-
-Publisher:  The Evolution Institute
-
-Publisher City:  
-
-Work Notes: 
-
+Publisher: The Evolution Institute

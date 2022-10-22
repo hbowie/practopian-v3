@@ -18,7 +18,7 @@ Date:   15 Apr 2019
 
 Index:  class system; middle class; equality; Schultz, Howard; Gabler, Neal; Chandler, Raymond; 
 
-Minutes to Read: 7
+Minutes to Read: 6
 
 Image Name: young girls in station wagon
 
@@ -30,12 +30,12 @@ Image Credit Link: https://www.istockphoto.com/photo/two-girls-lying-in-estate-c
 
 Short ID: dtvmc
 
-Teaser: 
+Teaser:
 
 If you react in any of these typical ways, then I will argue today that you're missing the bigger picture, and overlooking the most devastating consequences of our country's loss of our middle class.
 
 
-Body: 
+Body:
 
 You're probably already familiar with much of the data and analysis concerning the [decline of the American middle class][decline]. But let me remind you of some of the pertinent information, just in case you need a refresher. 
 

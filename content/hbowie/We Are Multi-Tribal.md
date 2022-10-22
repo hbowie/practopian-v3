@@ -8,13 +8,13 @@ Status: 9 - Published
 
 Type:   blog
 
-Featured: true
+Featured: false
 
 Greatest Hits: false
 
 Date:   01 Aug 2022
 
-Minutes to Read: 7
+Minutes to Read: 6
 
 Image Name: connected
 

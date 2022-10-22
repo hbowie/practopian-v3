@@ -18,7 +18,7 @@ Date:   19 Nov 2018
 
 Index:  integral; Wilber, Ken; broadcasting; developmental levels; consciousness; cultural evolution; King Jr., Martin Luther; communications strategies; social structures; quadrants; Harari, Yuval Noah; cooperation; Graves, Clare W.; Capra, Frank; Meet John Doe; Hitler, Adolf; Welles, Orson; Sullivan, Ed; Beatles, The; advertising; Pinker, Steven; Better Angels of our Nature, The; social media; news media; 
 
-Minutes to Read: 17
+Minutes to Read: 15
 
 Image Name: Please Stand By
 
@@ -30,12 +30,12 @@ Image Credit Link: https://www.istockphoto.com/vector/please-stand-by-test-scree
 
 Short ID: bc
 
-Teaser: 
+Teaser:
 
 Let me take you on a little journey of thought exploring some hitherto unconsidered aspects of our common cultural evolution. 
 
 
-Body: 
+Body:
 
 Let me take you on a little journey of thought exploring some hitherto unconsidered aspects of our common cultural evolution. 
 

@@ -18,7 +18,7 @@ Date:   26 Oct 2012
 
 Index:  Wilber, Ken; AQAL; quadrants; Four Quadrants; interior; exterior; psychology; Austin, Rob; Harari, Yuval Noah; objective; subjective; inter-subjective; Liker, Jeffrey; Toyota; 
 
-Minutes to Read: 9
+Minutes to Read: 8
 
 Image Name: Upper and Lower, Left and Right
 
@@ -26,12 +26,12 @@ Image Alt: I / Subjective; It / Objective; We / Intersubjective; Its / Interobje
 
 Short ID: fqhk
 
-Teaser: 
+Teaser:
 
 I first came across Ken Wilber's work late in the last century when a friend handed me a copy of <cite>A Brief History of Everything</cite> as a birthday present.
 
 
-Body: 
+Body:
 
 I first came across [Ken Wilber's work][work] late in the last century when a friend handed me a copy of <cite>[A Brief History of Everything][bhoe]</cite> as a birthday present.
 
