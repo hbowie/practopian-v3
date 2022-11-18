@@ -12,13 +12,15 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 06 - Christmas
+
 Importance: 102
 
 Date:   04 Dec 2020
 
 Index:  Christmas; Kinks, The; Davies, Ray; 
 
-Minutes to Read: 5
+Minutes to Read: 4
 
 Image Name: Father Christmas
 

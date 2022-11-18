@@ -12,7 +12,9 @@ Featured: false
 
 Greatest Hits: true
 
-Importance: 75
+Category: 05 - Critical
+
+Importance: 10
 
 Date:   2019-05-07
 

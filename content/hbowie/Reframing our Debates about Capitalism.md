@@ -8,13 +8,19 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
+Category: 03 - Canonical
+
 Importance: 30
 
 Date:   12 Oct 2020
 
 Index:  capitalism; socialism; 
 
-Minutes to Read: 11
+Minutes to Read: 9
 
 Image Name: deeds with butler
 
@@ -24,12 +30,12 @@ Image Caption: Gary Cooper looking askance at his newly acquired butler in a sce
 
 Short ID: rdac
 
-Teaser: 
+Teaser:
 
 There is a flaw in the reasoning behind our infernal, never-ending, society-splitting debate concerning socialism vs. capitalism, and I want to point it out.
 
 
-Body: 
+Body:
 
 There is a flaw in the reasoning behind our infernal, never-ending, society-splitting debate concerning socialism vs. capitalism, and I want to point it out. 
 

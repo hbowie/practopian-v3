@@ -12,13 +12,15 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 02 - Core
+
 Importance: 1
 
 Date:   2018-11-12
 
 Index:  written word; Sagan, Carl; publishing; books; Erasmus, Desiderius; 
 
-Minutes to Read: 8
+Minutes to Read: 7
 
 Image Name: Words Have Power
 

@@ -12,11 +12,13 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 03 - Canonical 
+
 Date:   7 Jan 2019
 
 Index:  Abrams, Frank W.; Harari, Yuval Noah; Lincoln, Abraham; Luce, Edward; O'Reilly, Tim; Reuther, Walter; Varoufakis, Yanis; capitalism; democracy; equality; feudalism; globalization; labor; surplus; work; 
 
-Minutes to Read: 9
+Minutes to Read: 8
 
 Image Name: greedy capitalist
 
@@ -24,12 +26,12 @@ Image Alt: Many-armed capitalist with his fingers in everything
 
 Short ID: tac
 
-Teaser: 
+Teaser:
 
 No matter which way you lean politically, you probably have strong feelings about capitalism. It seems to me that there are a lot of odd ideas on this topic running around out there in today's world. Let me offer some thoughts about what seems true to me.  
 
 
-Body: 
+Body:
 
 No matter which way you lean politically, you probably have strong feelings about capitalism. It seems to me that there are a lot of odd ideas on this topic running around out there in today's world. Let me offer some thoughts about what seems true to me. 
 

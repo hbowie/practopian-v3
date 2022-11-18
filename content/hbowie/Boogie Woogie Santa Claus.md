@@ -12,6 +12,8 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 06 - Christmas 
+
 Importance: 118
 
 Date:   18 Dec 2020

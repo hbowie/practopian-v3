@@ -12,6 +12,8 @@ Featured: false
 
 Greatest Hits: true
 
+Category: 01 - Foundational
+
 Importance: 1
 
 Date:   22 Oct 2009
@@ -30,14 +32,14 @@ Image Credit Link: https://www.istockphoto.com/photo/hand-arranging-wood-block-s
 
 Short ID: dl
 
-Teaser: 
+Teaser:
 
 A number of authors and systems of thought espouse one or another series of developmental levels, in fields of study as diverse as psychology, sociology, economics and organizational development. Ken Wilber was the first author I encountered who proposed an integration of these various developmental progressions into a single unifying scheme. However, much of Ken's take  on these levels was heavily influenced by the Spiral Dynamics work done by Clare W. Graves, Don Beck and Chris Cowan.
 
 The following reference table lists the levels in this general, unifying model, showing the color schemes used by both Integral Theory and Spiral Dynamics.
 
 
-Body: 
+Body:
 
 A number of authors and systems of thought espouse one or another series of developmental levels, in fields of study as diverse as psychology, sociology, economics and organizational development. [Ken Wilber][wilber] was the first author I encountered who proposed an integration of these various developmental progressions into a single unifying scheme. However, much of Ken's take  on these levels was heavily influenced by the Spiral Dynamics work done by Clare W. Graves, Don Beck and Chris Cowan.
 

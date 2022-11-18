@@ -12,6 +12,8 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 03 - Canonical
+
 Importance: 50
 
 Date:   22 Apr 2022

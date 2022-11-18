@@ -14,13 +14,15 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 03 - Canonical
+
 Importance: 50
 
 Date:   5 Mar 2019
 
 Index:  problem-solving; systems thinking; critical thinking; sustainability; global warming; politics; ideal; science; democracy; Goldfinger; Bond, James; measles; vaccinations; marijuana; 
 
-Minutes to Read: 11
+Minutes to Read: 10
 
 Image Name: jigsaw puzzle on globe
 

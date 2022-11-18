@@ -12,6 +12,8 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 01 - Foundational
+
 Importance: 1
 
 Date:   2018-10-26
@@ -30,12 +32,12 @@ Image Credit Link: https://www.istockphoto.com/vector/merge-arrows-infographic-g
 
 Short ID: ia
 
-Teaser: 
+Teaser:
 
 A belief in an integral approach is one of the core Practopian principles. At its most basic, this principle simply means that people can see things from different perspectives, and that often no one way of seeing something is the "right" or only way.
 
 
-Body: 
+Body:
 
 ## Integral Basics
 

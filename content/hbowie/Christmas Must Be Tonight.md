@@ -8,6 +8,12 @@ Status: 9 - Published
 
 Type:   appreciation
 
+Featured: false
+
+Greatest Hits: false
+
+Category: 06 - Christmas
+
 Importance: 110
 
 Date:   18 Dec 2020
@@ -20,12 +26,12 @@ Image Alt: To Kingdom Come album cover
 
 Short ID: cmbt
 
-Teaser: 
+Teaser:
 
 I've always loved this Christmas song from The Band. There's nothing terribly fancy or ambitious about it. Robbie Robertson just recounts the story of Christmas, of the birth of Jesus, in a series of familiar scenes, using simple and straightforward language. 
 
 
-Body: 
+Body:
 
 I've always loved this Christmas song from [The Band][tb]. 
 

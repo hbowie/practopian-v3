@@ -12,13 +12,15 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 07 - Topical
+
 Importance: 50
 
 Date:   17 Aug 2021
 
 Index:  Adams, John; Afghanistan; 
 
-Minutes to Read: 5
+Minutes to Read: 4
 
 Image Name: pebble pyramid
 
@@ -34,12 +36,12 @@ Substack Link: https://practopian.substack.com/p/lessons-to-be-learned-from-the-
 
 Short ID: lblffa
 
-Teaser: 
+Teaser:
 
 I think there are a few very broad lessons we Americans can learn from the rapid fall of the Afghan government over the last few days. 
 
 
-Body: 
+Body:
 
 I think there are a few very broad lessons we Americans can learn from the rapid fall of the Afghan government over the last few days. 
 

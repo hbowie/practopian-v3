@@ -8,6 +8,12 @@ Status: 9 - Published
 
 Type:   appreciation
 
+Featured: false
+
+Greatest Hits: false
+
+Category: 06 - Christmas
+
 Importance: 116
 
 Date:   17 Dec 2020
@@ -20,12 +26,12 @@ Image Alt: We Three Kings album by The Roches
 
 Short ID: sw
 
-Teaser: 
+Teaser:
 
 This is a lovely little song, written by Terre Roche and recorded *a cappella* by The Roches for their Christmas album, *We Three Kings*.
 
 
-Body: 
+Body:
 
 This is a lovely little song, written by Terre Roche and recorded *a cappella* by [The Roches][roches] for their Christmas album, [*We Three Kings*][amazon].
 

@@ -12,11 +12,13 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 07 - Topical
+
 Importance: 50
 
 Date:   19 Apr 2021
 
-Minutes to Read: 6
+Minutes to Read: 5
 
 Image Name: faces of many colors all looking right
 
@@ -32,12 +34,12 @@ Substack Link: https://practopian.substack.com/p/the-importance-of-progressive-a
 
 Short ID: ipa
 
-Teaser: 
+Teaser:
 
 It was just a little over four years ago that I remember sitting in front of our TV with our neighbors, watching the election returns, preparing to celebrate. 
 
 
-Body: 
+Body:
 
 It was just a little over four years ago that I remember sitting in front of our TV with our neighbors, watching the election returns, preparing to celebrate. 
 

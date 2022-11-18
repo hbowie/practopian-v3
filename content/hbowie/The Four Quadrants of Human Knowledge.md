@@ -12,6 +12,8 @@ Featured: false
 
 Greatest Hits: true
 
+Category: 01 - Foundational
+
 Importance: 2
 
 Date:   26 Oct 2012

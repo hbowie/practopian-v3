@@ -1,0 +1,113 @@
+<?output "../../web/index.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>The Practical Utopian</title>
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+
+<?include "../includes/nav.html" ?>
+
+<header class="page-header header container">
+
+		<!-- ><p>
+			<a href="=$relative$=index.html"><img class="img-practopian" alt="Practopian Logo" src="=$relative$=images/logo_sq128.png" width="64" height="64"></a>
+		</p> -->
+		<p class="the-practopian">The Practical Utopian</p>
+		<p class="pr-slogan">Big Ideas Powering Better Outcomes for Humanity</p>
+
+		<hr />
+
+</header>
+
+<div class="container">
+
+	<!-- FIRST ROW -->
+	<div class="row">
+
+		<!-- Row 1, Column 1 -->
+		<div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
+
+<?include "../includes-gen/featured.html" ?>
+
+		</div>
+
+		<!-- Row 1, Column 2 -->
+		<div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
+
+<?include "../includes-gen/tags-home.html" ?>
+
+		</div>
+
+		<!-- Row 1, Column 3 -->
+		<div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
+
+<?include "../includes/home-from-author.html" ?>
+
+		</div>
+
+	</div> <!-- /.row -->
+
+	<hr />
+
+	<!-- SECOND ROW -->
+	<div class="row">
+
+		<!-- Row 2, Column 1 -->
+		<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+
+<?include "../includes-gen/featured-quote.html" ?>
+
+		</div>
+
+		<!-- Row 2, Column 2 -->
+		<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+
+<?include "../includes-gen/featured-appreciation.html" ?>
+
+		</div>
+
+	</div> <!-- /.row -->
+
+	<hr />
+
+	<!-- THIRD ROW -->
+	<div class="row">
+
+		<!-- Row 3, Column 1 -->
+		<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+
+<?include "../includes-gen/greatest-hits.html" ?>
+
+		<hr />
+
+<?include "../includes/notenik.html" ?>
+
+		<hr />
+
+<?include "../includes/rel-me-auth.html" ?>
+
+		</div>
+
+		<!-- Row 3, Column 2 -->
+		<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+
+<?include "../includes-gen/recommended.html" ?>
+
+		</div>
+
+	</div> <!-- /.row -->
+
+<?nextrec?>
+<?loop?>
+
+<?include "../includes/license.html" ?>
+
+</div> <!-- /.container -->
+
+    <script src="=$relative$=js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

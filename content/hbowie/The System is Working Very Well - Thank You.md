@@ -8,13 +8,19 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
+Category: 03 - Canonical
+
 Importance: 50
 
 Date:   25 Sep 2019
 
 Index:  capitalism; democracy; equality; labor; system; work; 
 
-Minutes to Read: 10
+Minutes to Read: 9
 
 Image Name: engineer at work
 
@@ -26,12 +32,12 @@ Image Credit Link: https://www.istockphoto.com/photo/stationary-engineer-at-work
 
 Short ID: swvwty
 
-Teaser: 
+Teaser:
 
 We need to realize that the current system is, in fact, not broken. Instead, in truth, it is doing exactly what it was designed to do.
 
 
-Body: 
+Body:
 
 I hear a lot of talk these days about the [System being broken][broken]. 
 

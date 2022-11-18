@@ -8,13 +8,19 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
+Category: 03 - Canonical
+
 Importance: 10
 
 Date:   15 Dec 2013
 
 Index:  humanism; human nature; Darwin, Charles; nature; symbols; temporal sense; mortality; cultural evolution; stories; 
 
-Minutes to Read: 4
+Minutes to Read: 3
 
 Image Name: What is your story
 
@@ -26,12 +32,12 @@ Image Credit Link: https://www.istockphoto.com/photo/whats-your-story-the-text-i
 
 Short ID: hn
 
-Teaser: 
+Teaser:
 
 What does it mean to be human? This must certainly be a foundational question for all of us, when  contemplating almost any aspect of our existence. 
 
 
-Body: 
+Body:
 
 What does it mean to be human?
 

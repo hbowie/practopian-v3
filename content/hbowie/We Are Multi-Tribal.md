@@ -12,6 +12,8 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 03 - Canonical
+
 Date:   01 Aug 2022
 
 Minutes to Read: 6
@@ -81,7 +83,7 @@ It strikes me that there are a few important implications here.
 
 First, when we compare our modern human society to early human tribes, there is a temptation to conclude that we have strayed from our basic natures, and that the answer to our societal problems requires us to somehow return to this early mono-tribal state, or at least to certain aspects of it. 
 
-This seems to me to be a mistaken impulse. There are certainly valuable lessons we can learn from studying early human societies, but if we fail to realize that, to be useful, we must figure out how to apply such lessons to our modern multi-tribal condition, then these learnings are apt to lead us down the garden path -- perhaps even down the garden-of-Eden path, on which we construct wishful fantasies about some ideal early human state.  
+This seems to me to be a mistaken impulse. There are certainly valuable lessons we can learn from studying early human societies, but if we fail to realize that, to be useful, such lessons must be adapted to our modern multi-tribal condition, then these learnings are apt to lead us down the garden path -- perhaps even down the garden-of-Eden path, on which we construct wishful fantasies about some ideal early human state.  
 
 Mono-tribal societies of the past were certainly simpler, even as varied as they were, and simplicity is always appealing. And yes, modern human society is anything but simple and, in fact, tremendously complex and often confusing and sometimes dysfunctional and almost always, it seems, suboptimal. But, as modern humans, that's where we're at. We need to apply ourselves to improving the tribes to which we belong, and the ways they operate and interact. It's not an easy task, but it's part and parcel of being a human in the 21st century. And trying to return to some sort of mono-tribal society is not likely to help get us where we need to go. 
 

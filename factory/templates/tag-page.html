@@ -1,0 +1,64 @@
+<?nextrec?>
+<?output "../../web/tags/=$title&f$=.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>=$title$=</title>
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+
+<?include "../includes/nav.html" ?>
+
+<div class="container">
+
+	<div class="row">
+
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-10 col-lg-8 col-xl-6">
+
+			<main>
+
+				<p><span class="pr-topics-label">topic:</span>
+					<button type="button" class="btn btn-secondary my-1 pr-topic">
+						=$title$=
+					</button>
+				</p>
+
+				<div class="pr-content">
+
+				<h3>Significance</h3>
+
+				=$body&o$=
+
+<?include "../includes-gen/tag-=$title&f$=-content.html" ?>
+
+<?include "../includes-gen/tag-=$title&f$=-quotes.html" ?>
+
+				</div>
+
+			</main>
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+	</div> <!-- /.row -->
+
+<?include "../includes/license.html" ?>
+
+</div> <!-- /.container -->
+
+
+    <script src="=$relative$=js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+<?loop?>
+

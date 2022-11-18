@@ -12,13 +12,15 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 02 - Core
+
 Importance: 10
 
 Date:   28 Jun 2018
 
 Index:  humanism; 
 
-Minutes to Read: 8
+Minutes to Read: 7
 
 Image Name: progress
 
@@ -30,7 +32,7 @@ Image Credit Link: https://www.istockphoto.com/photo/past-present-and-future-tim
 
 Short ID: hpu
 
-Body: 
+Body:
 
 The [first Practopian core principle][humanism] states that "We are humanistic: we are focused on human concerns and human potential."
 

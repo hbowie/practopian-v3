@@ -1,0 +1,135 @@
+<?nextrec?>
+<?if =$type$= eq "appreciation" ?>
+<?output "../../web/appreciation/=$title&f$=.html"?>
+<?set pr-path = "appreciation" ?>
+<?endif?>
+<?if =$type$= eq "blog" ?>
+<?output "../../web/blog/hbowie/=$title&f$=.html"?>
+<?set pr-path = "blog%2Fhbowie" ?>
+<?endif?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>=$title$=</title>
+<?include "../includes/head-links.html" ?>
+ <link href="=$relative$=/fontawesome/css/all.css" rel="stylesheet">
+</head>
+<body>
+
+<?include "../includes/nav.html" ?>
+
+<div class="container">
+
+	<div class="row">
+
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-10 col-lg-8 col-xl-6">
+
+			<main>
+
+				<h1 class="pr-page-title">=$title$=</h1>
+
+				<p class="pr-date-and-mins">=$date&dd MMM yyyy$= &middot; =$minutes-to-read$= min read</p>
+
+				<p><span class="pr-topics-label">topics:</span> =$tags&gtags/;btn btn-secondary mx-1 my-1 pr-topic$=</p>
+
+<?if "=$imagename$=" ?>
+<?if "=$imagecredit$=" ?>
+				<figure>
+					<img class="img-fluid rounded" src="=$relative$=images/=$imagename&f$=" alt="=$imagealt$=">
+				<figcaption>
+				image credit:
+<?if "imagecreditlink" ?>
+					<a href="=$imagecreditlink$=">
+<?endif?>
+						=$imagecredit$=
+<?if "imagecreditlink" ?>
+					</a>
+<?endif?>
+				</figcaption>
+				</figure>
+<?else?>
+				<p>
+					<img class="img-fluid rounded" src="=$relative$=images/=$imagename&f$=" alt="=$imagealt$=">
+				</p>
+<?endif?>
+
+<?copyfile "../../content/hbowie/files/=$imagename$=" "../../web/images/=$imagename&f$=" ?>
+<?endif?>
+
+				<div class="pr-content">
+					=$body&o$=
+				</div>
+
+
+				<div>
+				<hr>
+				<p>Thanks for reading!
+<?if "=$medium-link$=" ?>
+				If you&#8217;d like to leave a comment, you can do so
+<?if "=$substack-link$=" ?>
+				either on <a href="=$medium-link$=">Medium</a> or on <a href="=$substack-link$=">Substack</a>.
+<?else?>
+				on <a href="=$medium-link$=">Medium</a>.
+<?endif?>
+<?endif?>
+				If you&#8217;d like a convenient short URL to link to this piece, you can use <a href="https://pract.org/s/=$shortid$=.html">pract.org/s/=$shortid$=.html</a>.
+				Or feel free to simply share this piece using one of the social media buttons below!
+				</p>
+				</div>
+
+
+			</main>
+
+			<div class="d-flex justify-content-center">
+
+				<a class="btn btn-primary m-2" style="background-color: #3b5998" role="button" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fpractopian.org%2F=$pr-path$=%2F=$title&f$=.html&title==$title&caaa+$=">
+  				<i class="fab fa-facebook-f me-2"></i>
+  				Facebook
+  			</a>
+
+  			<a class="btn btn-primary m-2" style="background-color: #0082ca" role="button" rel="noopener"
+   href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fpractopian.org%2F=$pr-path$=%2F=$title&f$=.html&title==$title&caaa+$=">
+  				<i class="fab fa-linkedin-in me-2"></i>
+  				LinkedIn
+  			</a>
+
+				<a class="btn btn-primary m-2" style="background-color: #55acee" role="button" rel="noopener"
+   href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fpractopian.org%2F=$pr-path$=%2F=$title&f$=.html&text==$title&caaa+$=+by+%40herbbowie&hashtags=">
+  				<i class="fab fa-twitter me-2"></i>
+  				Twitter
+  			</a>
+
+  			<a href="#" class="btn btn-outline-secondary m-2" role="button">
+  				Back to top
+  			</a>
+
+			</div>
+
+			<p>
+
+
+
+			</p>
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+	</div> <!-- /.row -->
+
+<?include "../includes/license.html" ?>
+
+</div> <!-- /.container -->
+
+    <script src="=$relative$=js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+<?loop?>

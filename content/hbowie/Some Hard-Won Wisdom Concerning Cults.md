@@ -12,11 +12,13 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 03 - Canonical
+
 Importance: 21
 
 Date:   27 May 2021
 
-Minutes to Read: 5
+Minutes to Read: 4
 
 Image Name: brainwashing machine
 
@@ -32,12 +34,12 @@ Substack Link: https://practopian.substack.com/p/cults
 
 Short ID: shwwcc
 
-Teaser: 
+Teaser:
 
 As someone who once belonged to an organization later determined to be a cult, I can tell you that the warning signs are not always obvious. 
 
 
-Body: 
+Body:
 
 As someone who once belonged to an organization later determined to be a cult, I can tell you that the warning signs are not always obvious. 
 

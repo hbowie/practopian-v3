@@ -12,11 +12,13 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 06 - Christmas 
+
 Importance: 113
 
 Date:   17 Dec 2020
 
-Minutes to Read: 3
+Minutes to Read: 2
 
 Image Name: Holidays Rule
 
@@ -24,12 +26,12 @@ Image Alt: Holidays Rule album cover
 
 Short ID: als
 
-Teaser: 
+Teaser:
 
 Although this isn't strictly a Christmas song, its use in the closing scene of *It's A Wonderful Life* qualifies it as one in my book. And, in any case, it expresses a wonderful sentiment entirely appropriate to the holidays. 
 
 
-Body: 
+Body:
 
 Although this isn't strictly a Christmas song, its use in the closing scene of *It's A Wonderful Life* qualifies it as one in my book. And, in any case, it expresses a wonderful sentiment entirely appropriate to the holidays. 
 

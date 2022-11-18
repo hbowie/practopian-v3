@@ -8,13 +8,19 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
+Category: 03 - Canonical
+
 Importance: 20
 
 Date:   21 Feb 2012
 
 Index:  Hammett, Dashiell; truth; belief; Russell, Bertrand; Mencken, H. L.; religion; science; critical thinking; 
 
-Minutes to Read: 5
+Minutes to Read: 4
 
 Image Name: decision making diagram
 
@@ -26,7 +32,7 @@ Image Credit Link: https://www.istockphoto.com/vector/decision-making-and-behavi
 
 Short ID: rb
 
-Teaser: 
+Teaser:
 
 We often seem to assume that people say things, and come to believe them, because they are true.
 
@@ -35,7 +41,7 @@ It seems to me, though, that people take up beliefs for a whole host of reasons,
 Here then, are the multifarious reasons why people may choose to believe something.
 
 
-Body: 
+Body:
 
 We often seem to assume that people say things, and come to believe them, because they are true.
 

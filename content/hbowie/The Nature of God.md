@@ -8,13 +8,19 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
+Category: 03 - Canonical
+
 Importance: 5
 
 Date:   10 Mar 2012
 
 Index:  god; religion; human nature; levels, developmental; developmental levels; death; Wilber, Ken; Chesterton, G.K.; 
 
-Minutes to Read: 5
+Minutes to Read: 4
 
 Image Name: garden of eden
 
@@ -26,7 +32,7 @@ Image Credit Link: https://www.istockphoto.com/photo/stained-glass-trio-gm529437
 
 Short ID: ng
 
-Teaser: 
+Teaser:
 
 Human records indicate that some sort of belief in a God or collection of gods is a feature of almost all human culture. No matter what the continent or age, a belief in powerful, supernatural beings that somehow influence human existence is a near-constant. 
 
@@ -37,7 +43,7 @@ Rather than approach the question of God's existence directly, it seems wiser to
 There seem to be, most fundamentally, only two possibilities.
 
 
-Body: 
+Body:
 
 Human records indicate that some sort of belief in a God or collection of gods is a feature of almost all human culture. No matter what the continent or age, a belief in powerful, supernatural beings that somehow influence human existence is a near-constant. 
 

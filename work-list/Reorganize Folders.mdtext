@@ -1,0 +1,9 @@
+Title:  Reorganize Folders
+
+Status: 4 - In Work
+
+Body:
+
+[ ] - Create content folder, move all content folders there  
+[ ] - Create web folder, move all website content there  
+[ ] - Create factory folder for scripts, templates and includes  

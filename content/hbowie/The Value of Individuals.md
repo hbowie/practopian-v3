@@ -8,13 +8,19 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
+Category: 02 - Core
+
 Importance: 1
 
 Date:   2018-12-10
 
 Index:  individuals; free will; Jobs, Steve; Mead, Margaret; Bradbury, Ray; Kay, Alan; Wright, Frank Lloyd; Forster, E.M.; Schweitzer, Albert; 
 
-Minutes to Read: 3
+Minutes to Read: 2
 
 Image Name: individual dancing
 
@@ -26,12 +32,12 @@ Image Credit Link: https://www.istockphoto.com/photo/girl-dancing-on-training-rh
 
 Short ID: vi
 
-Teaser: 
+Teaser:
 
 A belief in the value of individuals is one of the core Practopian principles.
 
 
-Body: 
+Body:
 
 Some people believe that [we humans lack free will][free-will]. As computers become increasingly powerful, many observers allege that we are just bundles of algorithms, programmed by a combination of our inherited genetic material and our environment, simply responding to stimuli in predictable ways. 
 

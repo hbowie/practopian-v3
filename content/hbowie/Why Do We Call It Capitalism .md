@@ -12,24 +12,26 @@ Featured: false
 
 Greatest Hits: true
 
+Category: 03 - Canonical
+
 Importance: 10
 
 Date:   16 Apr 2020
 
 Index:  capitalism; inequality; 
 
-Minutes to Read: 8
+Minutes to Read: 7
 
 Image Alt: Multi-armed capitalism with his fingers in all the pies
 
 Short ID: wdcic
 
-Teaser: 
+Teaser:
 
 As Americans we generally believe in capitalism as a superior economic system, and are typically convinced that our country is run on capitalistic principles. But I've been wondering lately: If these things are really true, then why do so few Americans actually possess any capital?  
 
 
-Body: 
+Body:
 
 As Americans we generally believe in [capitalism][] as a superior economic system, and are typically convinced that our country is run on capitalistic principles. 
 

@@ -12,13 +12,15 @@ Featured: false
 
 Greatest Hits: true
 
+Category: 03 - Canonical
+
 Importance: 50
 
 Date:   27 Jan 2019
 
 Index:  Warhol, Andy; Coke; Coca-Cola; Bond, James; Fleming, Ian; Kennedy, John F.; Beatles, The; class system; Lennon, John; equality; Annapolis High School; Belichick, Bill; Ford; Clemson Tigers; Trump, Donald; White House; Starbucks; Schultz, Howard; US politics; 
 
-Minutes to Read: 6
+Minutes to Read: 5
 
 Image Name: Coke bottle with glass
 
@@ -30,12 +32,12 @@ Image Credit Link: https://www.istockphoto.com/photo/coke-bottle-and-glass-gm458
 
 Short ID: acs
 
-Teaser: 
+Teaser:
 
 This was a period of our history during which class distinctions seemed to be fading. Sure, some people had more money than others. My mother drove a Ford Falcon, my father drove a Mustang, and my Uncle drove a Thunderbird. But they all drove Fords, everyone drove cars built in Detroit, and the similarities between the cars they were driving were more significant than the differences.
 
 
-Body: 
+Body:
 
 Back in the 1970's, [Andy Warhol made this observation][warhol] about American society:   
  

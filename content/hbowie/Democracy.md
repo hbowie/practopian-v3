@@ -12,6 +12,8 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 02 - Core
+
 Importance: 1
 
 Date:   2020-06-03
@@ -30,12 +32,12 @@ Image Credit Link: https://www.istockphoto.com/photo/lincoln-gettysburg-address-
 
 Short ID: d
 
-Teaser: 
+Teaser:
 
 I believe in democracy, with all citizens having an equal say in defining their society's laws, and an equal opportunity to influence their governments.
 
 
-Body: 
+Body:
 
 Democracy is a means of [governance][] over a [society][] that places the reins of power in the hands of the [people][humanism] being governed. 
 

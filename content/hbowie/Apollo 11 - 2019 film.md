@@ -12,6 +12,8 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 05 - Critical 
+
 Importance: 50
 
 Date:   20 July 2019
@@ -30,12 +32,12 @@ Image Credit Link: https://www.istockphoto.com/photo/half-moon-in-a-black-night-
 
 Short ID: a12f
 
-Teaser: 
+Teaser:
 
 No matter what your age or orientation, it's hard to gainsay the significance of humankind's first trip through space to set foot on a celestial body other than our birth planet. Of course fictional space flight has become so common that sitting down for two hours to watch a documentary about a real trip that took place half a century ago might seem like a somewhat pedestrian enterprise. Ah, but there's where you'd be wrong.
 
 
-Body: 
+Body:
 
 No matter what your age or orientation (political or otherwise), it's hard to gainsay the significance of humankind's first trip through space to set foot on a celestial body other than our birth planet. 
 

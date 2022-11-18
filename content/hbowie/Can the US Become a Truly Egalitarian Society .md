@@ -12,6 +12,8 @@ Featured: false
 
 Greatest Hits: true
 
+Category: 03 - Canonical 
+
 Importance: 80
 
 Date:   15 Jun 2020

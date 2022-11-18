@@ -8,13 +8,19 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
+Category: 03 - Canonical
+
 Importance: 75
 
 Date:   23 Aug 2017
 
 Index:  robots; AI; artificial intelligence; Harari, Yuval Noah; work; labor; Mead, Margaret; Jobs, Steve; Wales, Jimmy; Vonnegut, Kurt; Robbins, Tom; technology; 
 
-Minutes to Read: 6
+Minutes to Read: 5
 
 Image Name: robots job interview
 
@@ -26,12 +32,12 @@ Image Credit Link: https://www.istockphoto.com/photo/robot-job-interview-gm53848
 
 Short ID: hhrc
 
-Teaser: 
+Teaser:
 
 Many pundits today are predicting a future of robots equipped with artificial intelligence so powerful that they will essentially render great swaths of humanity obsolete. Let me just make a few points concerning such imaginings. 
 
 
-Body: 
+Body:
 
 Many pundits today are predicting a future of robots equipped with artificial intelligence so powerful that they will essentially render great swaths of humanity obsolete. 
 

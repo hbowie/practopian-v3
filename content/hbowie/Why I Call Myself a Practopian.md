@@ -8,6 +8,12 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
+Category: 03 - Canonical
+
 Importance: 20
 
 Date:   15 Sep 2018
@@ -26,12 +32,12 @@ Image Credit Link: https://www.istockphoto.com/photo/view-of-downtown-seattle-sk
 
 Short ID: wicmp
 
-Teaser: 
+Teaser:
 
 I suffered a crisis of faith a few years ago: a crisis of faith in my atheism. 
 
 
-Body: 
+Body:
 
 I suffered a crisis of faith a few years ago: a crisis of faith in my atheism. 
 

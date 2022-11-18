@@ -1,0 +1,20 @@
+module	action	modifier	object	value
+
+<!-- Original content by tag  -->
+
+input	set		normalization	0
+input	set		xpltags	true
+input	open	notenik-split-tags		/Users/hbowie/Sites/practopian 3/content/hbowie
+filter	clear
+filter	set		params
+filter	add	not equal to	Tag
+filter	set		params
+sort	clear
+sort	set		params
+sort	add	ascending	Tag
+sort	add	ascending	Importance
+sort	add	ascending	Title
+sort	set		params
+template	webroot			/Users/hbowie/Sites/practopian 3/web
+template	open			/Users/hbowie/Sites/practopian 3/factory/templates/content-by-tag.html
+template	generate

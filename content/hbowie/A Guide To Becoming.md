@@ -12,6 +12,8 @@ Featured: false
 
 Greatest Hits: true
 
+Category: 03 - Canonical
+
 Importance: 50
 
 Date:   22 Oct 2021
@@ -32,12 +34,12 @@ Substack Link: https://practopian.substack.com/p/becoming
 
 Short ID: gube
 
-Teaser: 
+Teaser:
 
 I can remember with wonderful clarity the evening when I received my LSAT scores in the mail. I had recently graduated from the University of Michigan with a degree in English – after switching majors from Engineering a year or so into my academic career – and was living with my father and his second wife in Northern California.
 
 
-Body: 
+Body:
 
 *Dedicated in memoriam to my peerless friend Richard Glatzer.*
 

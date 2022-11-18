@@ -12,11 +12,13 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 04 - Political 
+
 Date:   27 Feb 2018
 
 Index:  integral; guns; Florida; Stoneman Douglas High School; 
 
-Minutes to Read: 10
+Minutes to Read: 9
 
 Image Name: images of guns
 
@@ -28,12 +30,12 @@ Image Credit Link: https://www.istockphoto.com/vector/various-rifle-guns-and-pis
 
 Short ID: pagiiu
 
-Teaser: 
+Teaser:
 
 The recent Florida school shooting has again propelled issues surrounding gun violence into the forefront of our national dialogue. The Core Practopian beliefs may seem very broad and general, but I'd like to illustrate how they can be usefully employed in a specific debate such as this one. 
 
 
-Body: 
+Body:
 
 The [Florida school shooting][stoneman] once again propelled issues surrounding gun violence into the forefront of our national dialogue. 
 
@@ -47,7 +49,7 @@ Let's try to remember that, when all is said and done, if we haven't advanced ou
 
 ## Balance
 
-The first [Practopian value][values] is [balance][], and we state it like this:
+A primary [Practopian value][core] is [balance][], and we state it like this:
 
 > We believe in striving for balance between competing concerns. Although all of the values on this list are important to us, we have no desire to establish any one of them as fundamentally absolute. 
 

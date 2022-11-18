@@ -12,13 +12,13 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 07 - Topical
+
 Importance: 50
 
 Date:   29 Nov 2021
 
-Minutes to Read: 6
-
-Image Name: um-vs-ohio
+Minutes to Read: 5
 
 Image Alt: Michigan and Ohio State Football Players Facing Each Other
 
@@ -32,12 +32,12 @@ Medium Link: https://hbowie.medium.com/why-michigans-42-27-victory-over-ohio-sta
 
 Short ID: wms42voo
 
-Teaser: 
+Teaser:
 
 To beat Ohio State at football is a terribly hard thing to do. That's the way it's been for over a hundred years. And that's the way it's *supposed* to be. It's not supposed to be easy. The outcome is never certain. 
 
 
-Body: 
+Body:
 
 My first year at Michigan, 1969, was also Bo Schembechler's first year coaching football on that campus. 
 

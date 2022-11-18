@@ -12,6 +12,8 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 06 - Christmas
+
 Importance: 104
 
 Date:   5 Dec 2020
@@ -24,12 +26,12 @@ Image Name: Rebel Records compilation
 
 Short ID: ctbhsbcg
 
-Teaser: 
+Teaser:
 
 It seems to me that the eternal promise of Christmas is to restore for us a certain unbroken wholeness. This wholeness can take on many appearances, but this song certainly nails one of them for me: a feeling of returning to a family home, isolated from our usual cares, but still connected to something larger than ourselves.
 
 
-Body: 
+Body:
 
 It seems to me that the eternal promise of Christmas is to restore for us a certain unbroken wholeness. This wholeness can take on many appearances, but this song certainly nails one of them for me: a feeling of returning to a family home, isolated from our usual cares, but still connected to something larger than ourselves. 
 

@@ -12,6 +12,8 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 06 - Christmas
+
 Importance: 108
 
 Date:   14 Dec 2020
@@ -24,7 +26,7 @@ Image Alt: Louis Armstrong and Friends
 
 Short ID: cnih
 
-Body: 
+Body:
 
 As long as we're enjoying a "[Holiday in Harlem][hih]" with Ella, we may as well stick around a little longer for a "[Christmas Night in Harlem][cnih]" with Louis Armstrong. 
 

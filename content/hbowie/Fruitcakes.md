@@ -12,11 +12,13 @@ Featured: false
 
 Greatest Hits: true
 
+Category: 05 - Critical 
+
 Date:   13 Oct 2018
 
 Index:  Buffett, Jimmy; Fruitcakes; imperfection; individuals; diversity; religion; space travel; 
 
-Minutes to Read: 8
+Minutes to Read: 7
 
 Image Name: Fruitcakes album cover
 

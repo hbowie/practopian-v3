@@ -12,13 +12,15 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 03 - Canonical
+
 Importance: 50
 
 Date:   1 Nov 2019
 
 Index:  Chasing Coral; Boeing; Slick, Grace; evolution; Wilson, David Sloan; institutions; Trump, Donald; Anthropocene Epoch; Powers, Richard; tragedy of the commons; Thunberg, Greta; Viet Nam War; 
 
-Minutes to Read: 9
+Minutes to Read: 8
 
 Image Name: US Supreme Court columns
 

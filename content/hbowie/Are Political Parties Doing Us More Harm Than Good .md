@@ -12,6 +12,8 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 04 - Political 
+
 Importance: 20
 
 Date:   25 Jun 2021

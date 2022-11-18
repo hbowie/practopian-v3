@@ -12,11 +12,13 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 03 - Canonical
+
 Date:   2 Jul 2018
 
 Index:  Amazon; Capra, Frank; Churchill, Winston; Cooper, Gary; Ford; Lincoln, Abraham; Meet John Doe; Reuther, Walter; Seattle; balance; business; cities; community; competition; consumers; democracy; economics; globalization; governance; labor; robots; 
 
-Minutes to Read: 12
+Minutes to Read: 11
 
 Image Name: big fish eating smaller ones
 
@@ -24,12 +26,12 @@ Image Alt: Big Fish Eating Smaller Fish
 
 Short ID: wdabb
 
-Teaser: 
+Teaser:
 
 Has business gotten too big? Rather than trying to answer this question directly, let's start by reviewing the fundamental architecture of all modern societies.
 
 
-Body: 
+Body:
 
 Has business gotten too big? 
 
@@ -43,7 +45,7 @@ Let's start with the major components.
 
 Any modern society has to concern itself with maintaining a measured balance between a number of competing interests. At the highest level, these interests might be summarized as: 
 
-* **Consumers** -- Those who make use of good and services;
+* **Consumers** -- Those who make use of goods and services;
 
 * **Labor** -- The people who work for a regular income;
 

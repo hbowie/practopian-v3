@@ -12,6 +12,8 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 02 - Core
+
 Importance: 1
 
 Date:   2018-11-26
@@ -30,12 +32,12 @@ Image Credit Link: https://www.istockphoto.com/photo/company-statement-mission-g
 
 Short ID: im
 
-Teaser: 
+Teaser:
 
 The dictionary on my Mac defines mission as "a strongly felt aim, ambition, or calling."
 
 
-Body: 
+Body:
 
 The dictionary on my Mac defines mission as "a strongly felt aim, ambition, or calling."
 

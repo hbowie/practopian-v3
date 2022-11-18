@@ -12,9 +12,11 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 04 - Political 
+
 Date:   21 Jul 2022
 
-Minutes to Read: 9
+Minutes to Read: 8
 
 Image Name: sparks
 

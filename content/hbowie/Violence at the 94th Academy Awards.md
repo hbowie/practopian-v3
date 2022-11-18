@@ -12,11 +12,13 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 07 - Topical
+
 Importance: 65
 
 Date:   29 Mar 2022
 
-Minutes to Read: 6
+Minutes to Read: 5
 
 Image Name: Oscars
 

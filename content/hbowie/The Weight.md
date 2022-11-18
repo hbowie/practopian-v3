@@ -8,9 +8,11 @@ Status: 9 - Published
 
 Type:   appreciation
 
-Featured: false
+Featured: true
 
 Greatest Hits: false
+
+Category: 05 - Critical
 
 Importance: 75
 
@@ -18,7 +20,7 @@ Date:   06 Apr 2020
 
 Index:  Band, The; Robertson, Robbie; Weight, The; Starr, Ringo; Landy, Elliott; Simon, John; Twain, Mark; Carter Family; Wabash Cannonball; Nazareth; Martin Guitar; religion; 
 
-Minutes to Read: 8
+Minutes to Read: 7
 
 Image Name: next of kin
 

@@ -8,6 +8,12 @@ Status: 9 - Published
 
 Type:   appreciation
 
+Featured: false
+
+Greatest Hits: false
+
+Category: 06 - Christmas
+
 Importance: 109
 
 Date:   7 Dec 2020
@@ -20,12 +26,12 @@ Image Alt: A Putumayo Christmas
 
 Short ID: cb
 
-Teaser: 
+Teaser:
 
 On Christmas day in 1863 American poet Henry Wadsworth Longfellow wrote "Christmas Bells." Longfellow's words from this poem have been set to music by a number of different composers and performers, starting as early as 1872. There are a number of contemporary recordings based on this poem, but the one with which I am particularly taken is a rather obscure track by John Gorka. The music here is Gorka's, and doesn't seem to share anything with other musical renditions of the poem. Gorka dropped three of the stanzas, including those most directly referencing the Civil War, leaving him with four verses for his song. 
 
 
-Body: 
+Body:
 
 On Christmas day in 1863 American poet [Henry Wadsworth Longfellow][hwl] wrote "[Christmas Bells][cb]." This was the middle of the American Civil War, and the poet's heart was heavy with the toll being taken on his country by this tragic and prolonged conflict. 
 

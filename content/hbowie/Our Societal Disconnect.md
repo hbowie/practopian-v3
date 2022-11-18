@@ -12,13 +12,15 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 03 - Canonical
+
 Importance: 40
 
 Date:   26 Sep 2018
 
 Index:  Annapolis; society; community; 
 
-Minutes to Read: 6
+Minutes to Read: 5
 
 Image Name: downtown Annapolis
 
@@ -30,12 +32,12 @@ Image Credit Link: https://www.istockphoto.com/photo/downtown-annapolis-marlyand
 
 Short ID: sd
 
-Teaser: 
+Teaser:
 
 I was thinking recently about my own upbringing in Annapolis, Maryland, back in the sixties, and it occurred to me that there were several aspects of my experience there and then that I took for granted, but that are no longer very common today.
 
 
-Body: 
+Body:
 
 I was thinking recently about my own upbringing in Annapolis, Maryland, back in the sixties, and it occurred to me that there were several aspects of my experience there and then that I took for granted, but that are no longer very common today.
 

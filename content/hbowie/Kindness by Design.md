@@ -18,7 +18,7 @@ Date:   14 Jul 2021
 
 Index:  jubilee; Sugaree; Hunter, Robert; Raworth, Kate; Jobs, Steve; McCullough, Michael E.; Chesterton, G. K.; 
 
-Minutes to Read: 6
+Minutes to Read: 5
 
 Image Name: iStock-1252584401
 
@@ -34,12 +34,12 @@ Substack Link: https://practopian.substack.com/p/kindness-by-design
 
 Short ID: kbd
 
-Teaser: 
+Teaser:
 
 Perhaps we might come around to thinking that economic kindness, instead of being something indulged in capriciously by bleeding-heart liberals who are occasionally feeling generous, should in fact be a regular practice that is designed into our societies.  
 
 
-Body: 
+Body:
 
 Sometimes I find myself making good headway through a book, only to be suddenly stopped in my tracks by a particular insight that suggests an entirely new way of thinking about a problem. 
 

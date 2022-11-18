@@ -8,13 +8,19 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
+Category: 04 - Political
+
 Importance: 75
 
 Date:   25 Jun 2019
 
 Index:  US politics; centrist; Democrats; Republicans; 
 
-Minutes to Read: 8
+Minutes to Read: 7
 
 Image Name: Jimmy Stewart and Claude Rains
 
@@ -24,12 +30,12 @@ Image Caption: Claude Rains and Jimmy Stewart in the climactic scene of Frank Ca
 
 Short ID: dpn
 
-Teaser: 
+Teaser:
 
 I'm not quite as old as Biden, and I've never served in public office, but I can still share his nostalgia for seemingly simpler times when our political leaders displayed some sort of respect for each other, even when they disagreed over issues of state. However it's one thing to reveal a preference for certain elements of those bygone days, but quite another to base your presidential run on wishful thinking that those lost elements can somehow be restored in the third decade of the 21st century.
 
 
-Body: 
+Body:
 
 Former Vice President and presidential hopeful Joe Biden recently [got himself in some hot water with progressives][biden] by publicly indulging in a bit of nostalgia for the good old days when elected representatives in DC could engage in civil discourse and "get things done," even when they violently disagreed with one another. 
 

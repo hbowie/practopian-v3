@@ -8,13 +8,19 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
+Category: 03 - Canonical
+
 Importance: 30
 
 Date:   22 May 2019
 
 Index:  DuckDuckGo; Facebook; Fox News; Hughes, Chris; Mastodon; Sherman Antitrust Act; Sherman, John; Smith, Adam; Stallman, Richard; Twitter; US politics; advertising; antitrust legislation; capitalism; democracy; email; free software; news media; open standards; politics, US; property; social media; standards; value creation; 
 
-Minutes to Read: 9
+Minutes to Read: 8
 
 Image Name: social media icons
 
@@ -26,12 +32,12 @@ Image Credit Link: https://www.istockphoto.com/vector/social-media-marketing-lik
 
 Short ID: hfbt
 
-Teaser: 
+Teaser:
 
 We all sort of know the problems, right? Monopolies. Lock-in. Stream addiction. Reality bubbles. Billionaires seeking market dominance. All other values taking a back seat to growth. I don't think I need to elaborate. If you're reading this, then you're probably well aware of all these concerns. But what do we do about them? Here are a couple of ideas. Radical but practical. And very doable. 
 
 
-Body: 
+Body:
 
 We all sort of know the problems, right? 
 

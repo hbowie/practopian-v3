@@ -8,6 +8,12 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
+Category: 03 - Canonical
+
 Importance: 50
 
 Date:   2018-10-31
@@ -26,12 +32,12 @@ Image Credit Link: https://www.istockphoto.com/vector/notification-concept-icon-
 
 Short ID: maypaa
 
-Teaser: 
+Teaser:
 
 Today I'd like to offer some advice for what people can and should do to improve their own personal lots in modern life. I have only a few recommendations, and they're rather brief and straightforward, although I won't claim they're easy.  
 
 
-Body: 
+Body:
 
 We live in times of often bewildering choices and rampant temptation. Over 30% of adults in the US are obese, and drug addiction is running wild through our society, especially in rural areas. Average growth in real income has stagnated for American workers, and economic inequality is reaching levels not seen since the Gilded Age. Many pundits are predicting a future marked by both ecological collapse and economic marginalization for an increasingly large segment of our populace. 
 

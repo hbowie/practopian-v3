@@ -12,13 +12,13 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 04 - Political
+
 Importance: 80
 
 Date:   31 May 2021
 
-Minutes to Read: 10
-
-Image Name: Democrats and Republicans arguing
+Minutes to Read: 9
 
 Image Alt: Profiles of Republican and Democrat arguing in front of US map
 
@@ -32,12 +32,12 @@ Substack Link: https://practopian.substack.com/p/have-our-political-parties-now-
 
 Short ID: hpptic
 
-Teaser: 
+Teaser:
 
 I recently wrote a piece offering "Some Hard-Won Wisdom Concerning Cults." And I've written a couple of pieces recently questioning the direction of the current Republican Party. And so, today, I want to ask the question: should either, or both, of our political parties be considered cults? 
 
 
-Body: 
+Body:
 
 I recently wrote a piece offering [Some Hard-Won Wisdom Concerning Cults][cults]. And I've written a couple of pieces recently questioning the direction of the current Republican Party. (See "[The Decline of the Republican Party — First Gradually and then Suddenly][decline]" and "[Where, Exactly, Are the Republicans Headed?][where]".) 
 

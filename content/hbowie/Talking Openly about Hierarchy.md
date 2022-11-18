@@ -8,13 +8,19 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
+Category: 03 - Canonical
+
 Importance: 30
 
 Date:   13 Apr 2018
 
 Index:  Mill, John Stuart; Moskowitz, Stewart; conservatives; cultural evolution; developmental levels; hierarchy; levels, developmental; liberals; penguins; 
 
-Minutes to Read: 12
+Minutes to Read: 11
 
 Image Name: penguin pyramid
 
@@ -24,12 +30,12 @@ Image Credit: Stewart Moskowitz
 
 Short ID: toah
 
-Teaser: 
+Teaser:
 
 I sometimes think that at least half of the confusion we currently experience in our civil discourse stems from our inability to speak openly and honestly about the nature of hierarchy.
 
 
-Body: 
+Body:
 
 I sometimes think that at least half of the confusion we currently experience in our civil discourse stems from our inability to speak openly and honestly about the nature of hierarchy. 
 

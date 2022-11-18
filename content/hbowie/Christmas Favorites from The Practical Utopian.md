@@ -12,6 +12,8 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 06 - Christmas
+
 Importance: 100
 
 Date:   20 Dec 2020
@@ -24,12 +26,12 @@ Image Alt: Album covers from four of my favorite Xmas albums
 
 Short ID: cffpu
 
-Teaser: 
+Teaser:
 
 The Christmas season is one of my favorite times of year, and I've acquired a huge collection of holiday music over the years, so I thought I would share my thoughts about a few of my favorites with all of you. So here are 20 of my favorite holiday tracks. I've tried to select as wide a variety of songs as possible, mixing different artists and styles. 
 
 
-Body: 
+Body:
 
 The Christmas season is one of my favorite times of year, and I've acquired a huge collection of holiday music over the years, so I thought I would share my thoughts about a few of my favorites with all of you. So here are 20 of my favorite holiday tracks. I've tried to select as wide a variety of songs as possible, mixing different artists and styles. 
 

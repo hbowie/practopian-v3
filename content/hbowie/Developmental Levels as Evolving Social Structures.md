@@ -12,13 +12,15 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 01 - Foundational
+
 Importance: 5
 
 Date:   10 Jan 2016
 
 Index:  developmental levels; levels, developmental; social structures; penguins; Moskowitz, Stewart; lone wolf; family; power pyramid; shared principles; peer network; pluralistic cosmopolis; systemic; Jobs, Steve; 
 
-Minutes to Read: 7
+Minutes to Read: 6
 
 Image Name: connected wooden people blocks
 
@@ -30,12 +32,12 @@ Image Credit Link: https://www.istockphoto.com/photo/leadership-and-social-netwo
 
 Short ID: dless
 
-Teaser: 
+Teaser:
 
 As human society has evolved over the centuries, we have developed different types of social structures. None of the later structures  replace earlier ones, yet each new structure has been devised in order to confer some new sort of evolutionary advantage to our species -- in other words, to help us survive and thrive more effectively.
 
 
-Body: 
+Body:
 
 ## Introduction
 

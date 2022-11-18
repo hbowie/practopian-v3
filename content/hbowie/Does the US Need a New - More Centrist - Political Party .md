@@ -12,11 +12,13 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 04 - Political
+
 Importance: 65
 
 Date:   31 Jan 2022
 
-Minutes to Read: 5
+Minutes to Read: 4
 
 Image Name: red and blue wrecking balls
 
@@ -32,12 +34,12 @@ Substack Link: https://practopian.substack.com/p/new-centrist-party
 
 Short ID: dunnmcpp
 
-Teaser: 
+Teaser:
 
 It's time for a new party that is explicitly centrist, and explicitly denounces extremism at both ends of our political spectrum. Creating such a new party will no doubt be a large and expensive  and difficult enterprise, fraught with challenges, but I don't believe any better choices are left to us. 
 
 
-Body: 
+Body:
 
 Many of us are increasingly fearful for our political situation here in the US. 
 

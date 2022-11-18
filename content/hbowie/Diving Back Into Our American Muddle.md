@@ -12,6 +12,8 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 07 - Topical
+
 Importance: 40
 
 Date:   21 Nov 2020

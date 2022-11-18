@@ -8,6 +8,12 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
+Category: 03 - Canonical
+
 Importance: 10
 
 Date:   27 Nov 2014
@@ -26,12 +32,12 @@ Image Credit Link: https://www.istockphoto.com/vector/open-book-storytelling-fan
 
 Short ID: rsa
 
-Teaser: 
+Teaser:
 
 Religion can be thought of as a collection of shared cultural artifacts that provide a sense of meaning about human existence. Religion attempts to answer the really "big" questions. 
 
 
-Body: 
+Body:
 
 Religion can be thought of as a collection of shared cultural artifacts that provide a sense of meaning about human existence.
 

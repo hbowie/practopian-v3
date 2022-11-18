@@ -8,6 +8,12 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
+Category: 02 - Core
+
 Importance: 1
 
 Date:   2017-06-12
@@ -26,12 +32,12 @@ Image Credit Link: https://www.istockphoto.com/photo/balancing-stones-gm18525454
 
 Short ID: idb
 
-Teaser: 
+Teaser:
 
 When I created The Practical Utopian, I based it on a fundamental set of beliefs, divided up into principles and values. And the very first value, the one given preeminent position, is balance. 
 
 
-Body: 
+Body:
 
 When I created The Practical Utopian, I based it on a fundamental set of beliefs, divided up into principles and values. And the very first value, the one given preeminent position, is balance. 
 

@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>critical thinking</title>
+    <!-- Favicons -->
+    <link rel="icon" href="../favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="../favicon.png" type="image/png" />
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="../css/bootstrap.min.css" type="text/css" />
+    <!-- Fonts -->
+    <link rel="stylesheet" href="../fonts/concourse_t3.css" type="text/css" />
+    <link rel="stylesheet" href="../fonts/stylesheet.css" type="text/css" />
+    <!-- Custom styles for Practopians -->
+    <link rel="stylesheet" href="../css/styles.css" />
+    <!-- Icons -->
+    <link rel="stylesheet" href="../open-iconic/font/css/open-iconic-bootstrap.min.css" >
+
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+	<div class="container-md">
+
+    <a class="navbar-brand" href="../index.html">
+    	<img width="32" height="32" alt="logo" src="../images/logo_sq128.png">
+    </a>
+
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#main-navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="main-navigation">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../index.html">
+								Home
+							</a>
+					</li>
+
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../recent.html">
+								Recent
+							</a>
+					</li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-topics" data-bs-toggle="dropdown" aria-expanded="false">
+            	Topics
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-topics">
+              <li><a class="dropdown-item pr-nav-item" href="../tags/index.html">
+              	Topic Index
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../tags/core.html">
+              	Core Beliefs
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../tags/missing.html">
+              	"Missing" Topics
+              </a></li>
+            </ul>
+          </li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-essays" data-bs-toggle="dropdown" aria-expanded="false">
+            	Essays
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-essays">
+              <li><a class="dropdown-item pr-nav-item" href="../blog/hbowie/index.html">
+              	Essays by Title
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../blog/hbowie/latest.html">
+              	Latest Essays
+              </a></li>
+            </ul>
+          </li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-appreciations" data-bs-toggle="dropdown" aria-expanded="false">
+            	Appreciations
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-appreciations">
+              <li><a class="dropdown-item pr-nav-item" href="../appreciation/index.html">
+              	Appreciations by Title
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../appreciation/latest.html">
+              	Latest Appreciations
+              </a></li>
+            </ul>
+          </li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-quotes" data-bs-toggle="dropdown" aria-expanded="false">
+            	Quotes
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-quotes">
+              <li><a class="dropdown-item pr-nav-item" href="../authors/index.html">
+              	Authors
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../quotes/latest.html">
+              	Latest Quotes
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../quotes/random.html">
+              	Random Quote
+              </a></li>
+            </ul>
+          </li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-find" data-bs-toggle="dropdown" aria-expanded="false">
+            	Find
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-find">
+              <li><a class="dropdown-item pr-nav-item" href="../search.html">
+              	Search
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../site-index.html">
+              	Site Index
+              </a></li>
+            </ul>
+          </li>
+
+          <li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-about" data-bs-toggle="dropdown" aria-expanded="false">
+            	About
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-about">
+              <li><a class="dropdown-item pr-nav-item" href="../about/the-author.html">
+              	About the Author
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../about/the-site.html">
+              	About the Site
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../about/the-tools.html">
+              	About the Tools
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../about/follow.html">
+              	Follow
+              </a></li>
+            </ul>
+          </li>
+
+        </ul>
+    </div> <!-- /#main-navigation -->
+
+  </div> <!-- /.container -->
+
+</nav>
+
+<div class="container">
+
+	<div class="row">
+
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-10 col-lg-8 col-xl-6">
+
+			<main>
+
+				<p><span class="pr-topics-label">topic:</span>
+					<button type="button" class="btn btn-secondary my-1 pr-topic">
+						critical thinking
+					</button>
+				</p>
+
+				<div class="pr-content">
+
+				<h3>Significance</h3>
+
+				<p>Humans generally achieve better outcomes when they avoid judging situations by their outward appearances, and instead look beneath the surfaces to search out objective facts and engage in reasoned analysis. </p>
+
+<h3>Original Content</h3>
+<ul>
+
+<li><a href="../blog/hbowie/the-nature-of-god.html">The Nature of God</a></li>
+
+<li><a href="../appreciation/building-a-case-for-the-detective-story.html">An Appreciation for Building a Case for the Detective Story</a></li>
+
+<li><a href="../blog/hbowie/religious-freedom.html">Religious Freedom</a></li>
+
+<li><a href="../blog/hbowie/are-political-parties-doing-us-more-harm-than-good.html">Are Political Parties Doing Us More Harm Than Good?</a></li>
+
+<li><a href="../blog/hbowie/the-maga-bubble-finally-bursts.html">The MAGA Bubble Finally Bursts</a></li>
+
+<li><a href="../blog/hbowie/reasons-for-belief.html">Reasons for Belief</a></li>
+
+<li><a href="../blog/hbowie/understanding-human-history.html">Understanding Human History</a></li>
+
+<li><a href="../blog/hbowie/some-hard-won-wisdom-concerning-cults.html">Some Hard-Won Wisdom Concerning Cults</a></li>
+
+<li><a href="../blog/hbowie/have-we-passed-the-point-of-maximum-useful-tech.html">Have We Passed The Point of Maximum Useful Tech?</a></li>
+
+<li><a href="../blog/hbowie/life-is-complicated.html">Life is Complicated</a></li>
+
+<li><a href="../blog/hbowie/our-three-human-approaches-to-dealing-with-problems.html">Our Three Human Approaches to Dealing with Problems</a></li>
+
+<li><a href="../blog/hbowie/where-exactly-are-the-republicans-headed.html">Where, Exactly, Are the Republicans Headed?</a></li>
+
+<li><a href="../blog/hbowie/the-decline-of-the-republican-party-first-gradually-and-then-suddenly.html">The Decline of the Republican Party - First Gradually and then Suddenly</a></li>
+
+<li><a href="../blog/hbowie/the-dangers-of-political-nostalgia.html">The Dangers of Political Nostalgia</a></li>
+
+<li><a href="../blog/hbowie/have-our-political-parties-turned-into-cults.html">Have Our Political Parties Turned Into Cults?</a></li>
+
+<li><a href="../blog/hbowie/why-i-use-markdown-and-why-you-should-too.html">Why I Use Markdown (And Why You Should Too)</a></li>
+
+<li><a href="../blog/hbowie/the-clown-coup.html">The Clown Coup</a></li>
+</ul>
+
+<h3>Quotations</h3>
+<ul>
+<li>
+<a href="../quotes/belief-in-impossible-things.html">
+Belief in Impossible Things
+</a>
+</li>
+<li>
+<a href="../quotes/belief-is-the-end-of-observation.html">
+Belief is the end of Observation
+</a>
+</li>
+<li>
+<a href="../quotes/capitalism-as-a-market-society.html">
+Capitalism as a Market Society
+</a>
+</li>
+<li>
+<a href="../quotes/the-celestial-teapot.html">
+The Celestial Teapot
+</a>
+</li>
+<li>
+<a href="../quotes/the-columbia-disaster.html">
+The Columbia Disaster
+</a>
+</li>
+<li>
+<a href="../quotes/confusion-leads-to-understanding.html">
+Confusion leads to understanding
+</a>
+</li>
+<li>
+<a href="../quotes/conventional-views.html">
+Conventional Views
+</a>
+</li>
+<li>
+<a href="../quotes/cost-of-education.html">
+Cost of Education
+</a>
+</li>
+<li>
+<a href="../quotes/critical-thinking-followed-by-action.html">
+Critical Thinking Followed by Action
+</a>
+</li>
+<li>
+<a href="../quotes/the-cult-of-ignorance.html">
+The Cult of Ignorance
+</a>
+</li>
+<li>
+<a href="../quotes/a-dark-procession.html">
+A Dark Procession
+</a>
+</li>
+<li>
+<a href="../quotes/the-discomfort-of-thought.html">
+The Discomfort of Thought
+</a>
+</li>
+<li>
+<a href="../quotes/easy-solutions.html">
+Easy Solutions
+</a>
+</li>
+<li>
+<a href="../quotes/entertain-a-thought.html">
+Entertain a Thought
+</a>
+</li>
+<li>
+<a href="../quotes/espn-president-meets-steve-jobs.html">
+ESPN president meets Steve Jobs
+</a>
+</li>
+<li>
+<a href="../quotes/everyone-is-entitled-to-his-own-opinion-but-not-his-own-facts.html">
+Everyone is entitled to his own opinion, but not his own facts
+</a>
+</li>
+<li>
+<a href="../quotes/the-evil-in-the-world-comes-almost-always-from-ignorance.html">
+The evil in the world comes almost always from ignorance
+</a>
+</li>
+<li>
+<a href="../quotes/exponential-growth-in-a-finite-world.html">
+Exponential growth in a finite world
+</a>
+</li>
+<li>
+<a href="../quotes/facts-are-facts.html">
+Facts are Facts
+</a>
+</li>
+<li>
+<a href="../quotes/a-first-rate-intelligence.html">
+A First-Rate Intelligence
+</a>
+</li>
+<li>
+<a href="../quotes/the-four-fold-way.html">
+The Four-Fold Way
+</a>
+</li>
+<li>
+<a href="../quotes/fuzzy-concept.html">
+Fuzzy Concept
+</a>
+</li>
+<li>
+<a href="../quotes/gradually-and-then-suddenly.html">
+Gradually and then suddenly
+</a>
+</li>
+<li>
+<a href="../quotes/great-minds-discuss-ideas.html">
+Great minds discuss ideas
+</a>
+</li>
+<li>
+<a href="../quotes/hard-discipline-of-reasonableness-and-honesty.html">
+Hard Discipline of Reasonableness and Honesty
+</a>
+</li>
+<li>
+<a href="../quotes/intellectual-debate.html">
+Intellectual Debate
+</a>
+</li>
+<li>
+<a href="../quotes/learning-from-experience.html">
+Learning from Experience
+</a>
+</li>
+<li>
+<a href="../quotes/men-fear-thought.html">
+Men Fear Thought
+</a>
+</li>
+<li>
+<a href="../quotes/merely-a-muddle.html">
+Merely a Muddle
+</a>
+</li>
+<li>
+<a href="../quotes/model-ii-decision-making.html">
+Model II Decision-Making
+</a>
+</li>
+<li>
+<a href="../quotes/model-ii-values.html">
+Model II Values
+</a>
+</li>
+<li>
+<a href="../quotes/most-advertising-an-insane-irrelevance.html">
+Most advertising an insane irrelevance
+</a>
+</li>
+<li>
+<a href="../quotes/muddled-thinking-and-self-deception.html">
+Muddled thinking and self-deception
+</a>
+</li>
+<li>
+<a href="../quotes/nirvana-antipattern.html">
+Nirvana Antipattern
+</a>
+</li>
+<li>
+<a href="../quotes/no-perfect-answer.html">
+No Perfect Answer
+</a>
+</li>
+<li>
+<a href="../quotes/occasions-when-the-intellect-retires-gracefully.html">
+Occasions When the Intellect Retires Gracefully
+</a>
+</li>
+<li>
+<a href="../quotes/the-other-side-of-complexity.html">
+The Other Side of Complexity
+</a>
+</li>
+<li>
+<a href="../quotes/people-are-happy-to-give-away-their-most-valuable-asset.html">
+People are happy to give away their most valuable asset
+</a>
+</li>
+<li>
+<a href="../quotes/the-point-of-modern-propaganda.html">
+The point of modern propaganda
+</a>
+</li>
+<li>
+<a href="../quotes/politics-and-the-debasement-of-language.html">
+Politics and the Debasement of Language
+</a>
+</li>
+<li>
+<a href="../quotes/public-truth.html">
+Public Truth
+</a>
+</li>
+<li>
+<a href="../quotes/seeing-the-bigger-picture-from-multiple-angles.html">
+Seeing the Bigger Picture from Multiple Angles
+</a>
+</li>
+<li>
+<a href="../quotes/seeking-ways-to-disagree-with-myself.html">
+Seeking ways to disagree with myself
+</a>
+</li>
+<li>
+<a href="../quotes/six-impossible-things-before-breakfast.html">
+Six Impossible Things Before Breakfast
+</a>
+</li>
+<li>
+<a href="../quotes/successful-planning.html">
+Successful Planning
+</a>
+</li>
+<li>
+<a href="../quotes/symbolic-language.html">
+Symbolic Language
+</a>
+</li>
+<li>
+<a href="../quotes/taking-a-fence-down.html">
+Taking a Fence Down
+</a>
+</li>
+<li>
+<a href="../quotes/ten-commandments-for-teachers.html">
+Ten Commandments for Teachers
+</a>
+</li>
+<li>
+<a href="../quotes/terrible-with-raisins-in-it.html">
+Terrible with raisins in it
+</a>
+</li>
+<li>
+<a href="../quotes/thinkings-a-dizzy-business.html">
+Thinking's a Dizzy Business
+</a>
+</li>
+<li>
+<a href="../quotes/thinking-should-be-generous-and-have-a-good-appetite.html">
+Thinking should be generous and have a good appetite
+</a>
+</li>
+<li>
+<a href="../quotes/this-faith-in-consciousness.html">
+This faith in consciousness
+</a>
+</li>
+<li>
+<a href="../quotes/those-sharp-scratchy-harsh-almost-unpleasant-guys.html">
+Those Sharp, Scratchy, Harsh, Almost Unpleasant Guys
+</a>
+</li>
+<li>
+<a href="../quotes/to-differentiate-truth-from-falsehood.html">
+To differentiate truth from falsehood
+</a>
+</li>
+<li>
+<a href="../quotes/to-prolong-our-presence-on-the-face-of-the-earth.html">
+To prolong our presence on the face of the Earth
+</a>
+</li>
+<li>
+<a href="../quotes/torturing-the-data.html">
+Torturing the Data
+</a>
+</li>
+<li>
+<a href="../quotes/the-underlying-principle-of-the-problem.html">
+The Underlying Principle of the Problem
+</a>
+</li>
+<li>
+<a href="../quotes/unintelligible-propositions.html">
+Unintelligible Propositions
+</a>
+</li>
+<li>
+<a href="../quotes/violent-opposition-from-mediocre-minds.html">
+Violent Opposition from Mediocre Minds
+</a>
+</li>
+<li>
+<a href="../quotes/we-are-doing-our-best.html">
+We are Doing our Best
+</a>
+</li>
+<li>
+<a href="../quotes/we-are-what-we-pretend-to-be.html">
+We are what we pretend to be
+</a>
+</li>
+<li>
+<a href="../quotes/we-dont-even-own-suits.html">
+We don't even own suits
+</a>
+</li>
+<li>
+<a href="../quotes/we-have-wonderful-arguments.html">
+We have wonderful arguments
+</a>
+</li>
+<li>
+<a href="../quotes/we-must-respect-the-other-fellows-religion.html">
+We Must Respect the Other Fellow's Religion
+</a>
+</li>
+<li>
+<a href="../quotes/when-his-salary-depends-on-his-not-understanding-it.html">
+When his salary depends on his not understanding it
+</a>
+</li>
+<li>
+<a href="../quotes/where-the-puck-is-going-to-be.html">
+Where the Puck is Going to Be
+</a>
+</li>
+</ul>
+
+				</div>
+
+			</main>
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+	</div> <!-- /.row -->
+
+	<div class="row">
+
+		<div class="col-12">
+
+			<hr />
+
+			<p class="text-center pr-footer-p" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+				<a class="pr-footer-a" property="dct:title" rel="cc:attributionURL" href="https://practopian.org">
+					The Practical Utopian website
+				</a>
+				by
+				<a  class="pr-footer-a" rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://hbowie.net">
+					Herb Bowie
+				</a>
+				is licensed under
+				<a  class="pr-footer-a" href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
+					CC BY-SA 4.0
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1">
+				</a>
+			</p>
+
+		</div>
+
+	</div> <!-- /.row -->
+
+</div> <!-- /.container -->
+
+
+    <script src="../js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

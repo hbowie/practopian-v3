@@ -8,6 +8,12 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
+Category: 03 - Canonical
+
 Importance: 10
 
 Date:   4 Aug 2012
@@ -26,7 +32,7 @@ Image Credit Link: https://www.istockphoto.com/photo/cancelled-stamp-of-religiou
 
 Short ID: rf
 
-Teaser: 
+Teaser:
 
 When it comes to religion, I have to confess to being a bit of a mongrel.
 
@@ -35,7 +41,7 @@ My mother was a Methodist. My father was a nudist. And I once called myself an i
 These days I choose not to align myself with any particular religious group.
 
 
-Body: 
+Body:
 
 When it comes to religion, I have to confess to being a bit of a mongrel.
 

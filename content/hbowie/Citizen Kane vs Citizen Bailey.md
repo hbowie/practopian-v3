@@ -12,6 +12,8 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 03 - Canonical
+
 Importance: 75
 
 Date:   4 Mar 2019
@@ -24,16 +26,16 @@ Image Name: Kane vs Bailey
 
 Short ID: ckvcb
 
-Teaser: 
+Teaser:
 
 I've often considered *Citizen Kane* and *It's A Wonderful Life* to be complementary works, much like cinematic twins separated at birth. 
 
 
-Body: 
+Body:
 
 I've often considered *[Citizen Kane][kane]* and *[It's A Wonderful Life][life]* to be complementary works, much like cinematic twins separated at birth. 
 
-Consider first their similarities. *Kane* was released in 1941, while *Wonderful Life* was released in '46. Both were highly collaborative productions, and both were ultimately considered the signature works of their respective directors, Orson Welles and Frank Capra. Both films were box office failures when initially released, but found appreciative audiences later in their long careers. And both are often considered among the [finest movies ever made][best]. 
+Consider first their similarities. *Kane* was released in 1941, while *Wonderful Life* was released in '46. Both were highly collaborative productions, and both were ultimately considered the signature works of their respective directors, Orson Welles and Frank Capra. Both films were box office failures when initially released, but found appreciative audiences later in their long careers. And both are often considered among the finest movies ever made. 
 
 More significantly, each film took on the challenge of summarizing a character's entire life during the course of roughly two hours. Both told their stories via flashbacks, and both used the dramatic device of having one or more narrators explaining elements of the character's life to an inquisitive outsider: a reporter, in *Kane*, and an angel in *Life*. And both began their stories with children playing in the snow. 
 
@@ -165,8 +167,6 @@ All of us are faced with difficult decisions over the courses of our lives, but 
 And works of art such as *Citizen Kane* and *It's A Wonderful Life*, when viewed with thoughtful appreciation, can help show us the way. 
 
 [amazon]: https://www.cnbc.com/2019/02/27/amazon-backs-out-of-rainier-square-tower-in-seattle-geekwire.html
-
-[best]: https://www.afi.com/100Years/movies.aspx
 
 [devlev]: developmental-levels.html
 

@@ -1,0 +1,90 @@
+<?nextrec?>
+<?definegroup 1 “=$author$="?>
+<?ifendgroup 1 ?>
+
+<?include "../includes/back-to-top.html" ?>
+
+			</main>
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+	</div> <!-- /.row -->
+
+<?include "../includes/license.html" ?>
+
+</div> <!-- /.container -->
+
+  <script src="=$relative$=js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+<?ifnewgroup 1 ?>
+<?output "../../web/authors/=$author&f$=.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>Quoted Author: =$author$=</title>
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+
+<?include "../includes/nav.html" ?>
+
+<div class="container">
+
+	<div class="row">
+
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-10 col-lg-8 col-xl-6">
+
+			<main>
+
+				<h1 class="pr-page-title">Author: =$author$=</h1>
+
+<?include "../includes-gen/author-=$author&f$=.html" ?>
+
+<h2>Quotations</h2>
+
+<?endif?>
+
+				<hr />
+
+				<h3>=$title$=</h3>
+
+				<p><span class="pr-topics-label">topics:</span> =$tags&gtags/;btn btn-secondary btn-sm mx-1 my-1 pr-topic$=</p>
+
+				<div class="pr-content">
+					<blockquote>
+						=$body&o$=
+					</blockquote>
+
+<?if "=$worktitle$=" ?>
+<p>From
+<?if =$worktype$= ?>
+the =$worktype&l$=
+<?endif?>
+<cite>
+<?if "=$worklink$=" ?>
+<a href="=$worklink$=">
+<?endif?>
+=$worktitle$=
+<?if "=$worklink$=" ?>
+</a>
+<?endif?>
+</cite></p>
+<?endif?>
+				</div>
+
+<?if "=$date$=" ?>
+					<p class="text-end">&mdash; =$date$=</p>
+<?endif?>
+
+<?loop?>

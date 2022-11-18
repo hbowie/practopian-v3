@@ -8,13 +8,19 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
+Category: 04 - Political
+
 Importance: 50
 
 Date:   25 Apr 2019
 
 Index:  US politics; centrist; Democrats; Republicans; 
 
-Minutes to Read: 8
+Minutes to Read: 7
 
 Image Name: ladder to target
 
@@ -26,12 +32,12 @@ Image Credit Link: https://www.istockphoto.com/photo/stand-out-from-the-crowd-an
 
 Short ID: cdplg
 
-Teaser: 
+Teaser:
 
 Right now Democrats are focused primarily on two things happening in 2020: 1. Beating Trump; 2. Regaining control of the Senate. These would both be great accomplishments for the party, and for the winning candidates. But for the country, not so much. 
 
 
-Body: 
+Body:
 
 Right now Democrats are focused primarily on two things happening in 2020:
 

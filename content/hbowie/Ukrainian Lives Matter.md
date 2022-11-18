@@ -14,6 +14,8 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 07 - Topical
+
 Importance: 40
 
 Date:   26 Feb 2022

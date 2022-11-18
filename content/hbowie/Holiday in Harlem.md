@@ -8,6 +8,12 @@ Status: 9 - Published
 
 Type:   appreciation
 
+Featured: false
+
+Greatest Hits: false
+
+Category: 06 - Christmas
+
 Importance: 107
 
 Date:   9 Dec 2020
@@ -18,12 +24,12 @@ Image Name: Stomping at the Savoy
 
 Short ID: hih
 
-Teaser: 
+Teaser:
 
 Christmas may be a time for returning home to see family and friends, but not all of us pine for snow-covered hills in the country. In this song, written by Chick Webb, and sung by Ella Fitzgerald, the singer reveals to us the joys of spending the Christmas season in Harlem, circa 1937. 
 
 
-Body: 
+Body:
 
 Christmas may be a time for returning home to see family and friends, but not all of us pine for [snow-covered hills in the country][ctbh]. 
 

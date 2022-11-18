@@ -12,13 +12,15 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 04 - Political
+
 Importance: 20
 
 Date:   29 Jun 2020
 
 Index:  politics, US; progress; competition; progressives; electoral college; US Senate; Greenberg, Leah; Levin, Ezra; Amazon; 
 
-Minutes to Read: 7
+Minutes to Read: 6
 
 Image Name: blue arrows
 

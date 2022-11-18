@@ -12,6 +12,8 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 03 - Canonical
+
 Importance: 10
 
 Date:   11 Feb 2019
@@ -26,12 +28,12 @@ Image Alt: Original Star Wars poster
 
 Short ID: rtili
 
-Teaser: 
+Teaser:
 
 I find it fascinating to compare the original *Star Trek* television series with the first *Star Wars* movie. And I think this comparison can reveal a lot about the current state of our culture. 
 
 
-Body: 
+Body:
 
 I find it fascinating to compare the original [*Star Trek*][trek] television series with the first [*Star Wars*][wars] movie. And I think this comparison can reveal a lot about the current state of our culture. 
 

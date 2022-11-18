@@ -1,0 +1,20 @@
+Title: <title> 
+
+Featured: <boolean> 
+
+Recommended: <boolean> 
+
+Author: <lookup: authorspr> 
+
+Date: <date> 
+
+Tags: <tags> 
+
+Work Title: <lookup: workspr> 
+
+Work Pages:  
+
+Date Added: <dateadded> 
+
+Body:  
+

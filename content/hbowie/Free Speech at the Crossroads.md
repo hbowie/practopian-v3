@@ -12,13 +12,15 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 04 - Political
+
 Importance: 50
 
 Date:   17 Feb 2021
 
 Index:  free speech; US Constitution; Section 230; 
 
-Minutes to Read: 8
+Minutes to Read: 7
 
 Image Name: crowd of demonstrators
 
@@ -30,12 +32,12 @@ Image Credit Link: https://www.istockphoto.com/vector/illustration-of-crowd-of-p
 
 Short ID: fsc
 
-Teaser: 
+Teaser:
 
 No matter where you stand on the political spectrum, questions surrounding free speech are hot-button items these days. Should anyone be free to say anything, about anyone, at any time, and to any audience? If not, who's responsible for moderation, and what are the rules? And at what point does moderation become censorship?
 
 
-Body: 
+Body:
 
 No matter where you stand on the political spectrum, questions surrounding free speech are hot-button items these days. Should anyone be free to say anything, about anyone, at any time, and to any audience? If not, who's responsible for moderation, and what are the rules? And at what point does moderation become censorship?
 

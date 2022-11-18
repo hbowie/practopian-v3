@@ -12,6 +12,8 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 02 - Core
+
 Importance: 1
 
 Date:   2018-05-22
@@ -30,12 +32,12 @@ Image Credit Link: https://www.istockphoto.com/vector/evolution-of-man-gm6948976
 
 Short ID: ei
 
-Teaser: 
+Teaser:
 
 A belief in evolution is one of the core Practopian principles. But to say that we believe in evolution means quite a bit more to us than simply a denial of creationism. We also mean to imply that we believe in natural selection as a process for improving things, including human culture. 
 
 
-Body: 
+Body:
 
 A belief in evolution follows, in part, from a belief in [science][]. In other words, current scientific knowledge tells us that all life forms on Earth, including humanity, evolved gradually over long periods of time, rather than being created once and forever in their current forms. 
 

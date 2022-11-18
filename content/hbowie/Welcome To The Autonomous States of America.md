@@ -12,11 +12,13 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 03 - Canonical
+
 Importance: 51
 
 Date:   04 May 2022
 
-Minutes to Read: 5
+Minutes to Read: 4
 
 Image Name: US Map
 

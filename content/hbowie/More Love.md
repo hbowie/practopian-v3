@@ -8,13 +8,19 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
+Category: 02 - Core
+
 Importance: 1
 
 Date:   2019-01-26
 
 Index:  Forster, E.M.; Chesterton, G.K.; Mo Wagner; love; pompitous; Miller, Steve; 
 
-Minutes to Read: 5
+Minutes to Read: 4
 
 Image Name: heart-shaped world
 
@@ -26,12 +32,12 @@ Image Credit Link: https://www.istockphoto.com/photo/world-heart-day-and-environ
 
 Short ID: ml
 
-Teaser: 
+Teaser:
 
 For me, love is an elemental human feeling that helps to bind us to one another, and to the world around us. It is a feeling of care and appreciation for, and attachment to, people and things of value that have an independent existence outside of ourselves. And while love may not be "*all* we need," it does seem to be an essential starting point for everything else.
 
 
-Body: 
+Body:
 
 Any attempt to expound on the subject of love must first come to terms with the problem that we use the word in many different ways and situations. There is romantic love. There is sexual attraction. There is the love of a parent for his or her child. There is the feeling we have for a great work of art. There is an appreciation we have for the natural world around us. Which of these sorts of love are we talking about? 
 

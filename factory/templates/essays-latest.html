@@ -1,0 +1,67 @@
+<?output "../../web/blog/hbowie/latest.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>Latest Essays</title>
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+
+<?include "../includes/nav.html" ?>
+
+<div class="container">
+
+	<div class="row">
+
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-10 col-lg-8 col-xl-6">
+
+			<main>
+
+				<h1 class="pr-page-title">Latest Essays</h1>
+
+				<div class="pr-content">
+
+					<p>What follows is a list of all of my general essays written for <cite>The Practical Utopian</cite>, with the most recent ones shown first. (Appreciations appear on a separate list).</p>
+
+					<ul>
+<?nextrec?>
+<?if =$type$= eq "blog" ?>
+						<li>
+							<a href="=$title&f$=.html">
+								=$title$=
+							</a>
+							&middot;
+							<em>
+								=$date&dd MMM yyyy$=
+							</em>
+						</li>
+<?endif?>
+<?loop?>
+					</ul>
+				</div>
+
+<?include "../includes/back-to-top.html" ?>
+
+			</main>
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+	</div> <!-- /.row -->
+
+<?include "../includes/license.html" ?>
+
+</div> <!-- /.container -->
+
+    <script src="=$relative$=js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

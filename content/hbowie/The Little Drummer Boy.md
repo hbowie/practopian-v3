@@ -12,6 +12,8 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 06 - Christmas
+
 Importance: 114
 
 Date:   17 Dec 2020
@@ -24,12 +26,12 @@ Image Alt: Pink Martini - Joy to the World album cover
 
 Short ID: ldb
 
-Teaser: 
+Teaser:
 
 This is an odd little song, but an undeniable Christmas favorite. It was written in 1941 by the American classical composer Katherine Kennicott Davis, and was said to be based on a traditional Czech carol. Davis' interest in writing the song was to produce something that could be sung by amateur and girls' choirs. The original title was "Carol of the Drum."
 
 
-Body: 
+Body:
 
 This is an odd little song, but an undeniable Christmas favorite. 
 

@@ -8,9 +8,13 @@ Status: 9 - Published
 
 Type:   blog
 
-Featured: true
+Featured: false
 
 Greatest Hits: false
+
+Category: 07 - Topical
+
+Importance: 99
 
 Date:   10 Oct 2022
 

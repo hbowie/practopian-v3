@@ -8,13 +8,19 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
+Category: 02 - Core
+
 Importance: 1
 
 Date:   2018-10-11
 
 Index:  imperfection; Voltaire; Watson-Watt, Robert; Brown, Brené; 
 
-Minutes to Read: 3
+Minutes to Read: 2
 
 Image Name: Voltaire
 
@@ -22,12 +28,12 @@ Image Alt: Don't let the perfect by the enemy of the GOOD - Voltaire
 
 Short ID: i
 
-Teaser: 
+Teaser:
 
 Belief in imperfection as a fundamental principle may seem like an odd concept but, in fact, it is an essential part of our thinking. Let's look at some of the reasoning behind this principle. 
 
 
-Body: 
+Body:
 
 It may seem odd to advance a belief in imperfection as a key idea to be embraced, but there are several reasons for its importance. 
 

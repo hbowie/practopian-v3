@@ -12,13 +12,15 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 05 - Critical
+
 Importance: 60
 
 Date:   26 Mar 2019
 
 Index:  religion; humanism; art; Thorn, Paul; Kinks, The; Davies, Ray; McClinton, Delbert; Americana; Jesus; 800 Pound Jesus; 
 
-Minutes to Read: 9
+Minutes to Read: 8
 
 Image Name: Hammer and Nail
 

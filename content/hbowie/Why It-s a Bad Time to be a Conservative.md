@@ -12,11 +12,13 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 03 - Canonical
+
 Importance: 25
 
 Date:   21 Jul 2021
 
-Minutes to Read: 8
+Minutes to Read: 7
 
 Image Name: green city
 
@@ -32,12 +34,12 @@ Substack Link: https://practopian.substack.com/p/why-its-a-bad-time-to-be-a-cons
 
 Short ID: wisbtbc
 
-Teaser: 
+Teaser:
 
 Conservatism is a respectable human impulse. But now is not a particularly good time for it.  
 
 
-Body: 
+Body:
 
 All of us humans, both individually and collectively, have to strike some reasonable balance between doing what we've done before (safe but boring) and trying something new (exciting but risky). 
 

@@ -8,13 +8,19 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
+Category: 03 - Canonical
+
 Importance: 10
 
 Date:   15 Aug 2011
 
 Index:  developmental levels; levels, developmental; systemic; Chaplin, Charlie; global warming; Toyota Prius; Haiti; Apple, Inc.; Jobs, Steve; 
 
-Minutes to Read: 7
+Minutes to Read: 6
 
 Image Name: Chaplin in Modern Times
 
@@ -22,14 +28,14 @@ Image Alt: Charlie Chaplin in Modern Times
 
 Short ID: se
 
-Teaser: 
+Teaser:
 
 We tend to divide up human history into relatively neat periods, and give them names like "The Agrarian Era," "The Age of Industrialization" and "The Information Age."
 
 When I look at what's going on around me today and try to make sense of it, I am forced to draw the conclusion that we are deep into an as yet unnamed age that I would call "The Systemic Era." What I mean by this is that we are now at a point where the human condition is much more influenced by vast social and economic systems of our own collective making than by any natural forces or conditions, or any individual actions we might take, or even any individual intentions we might have.
 
 
-Body: 
+Body:
 
  We tend to divide up human history into relatively neat periods, and give them names like "The Agrarian Era," "The Age of Industrialization" and "The Information Age."
 

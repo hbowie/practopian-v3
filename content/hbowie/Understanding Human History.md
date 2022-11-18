@@ -12,13 +12,15 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 03 - Canonical
+
 Importance: 20
 
 Date:   24 Mar 2020
 
 Index:  history; 
 
-Minutes to Read: 7
+Minutes to Read: 6
 
 Image Name: history book
 

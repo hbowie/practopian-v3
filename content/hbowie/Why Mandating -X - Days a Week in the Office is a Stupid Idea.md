@@ -1,6 +1,6 @@
 Title:  Why Mandating 'X' Days a Week in the Office is a Stupid Idea
 
-Tags:   governance, liberty
+Tags:   Apple, governance, liberty, technology
 
 Timestamp: 20220511163640
 
@@ -12,11 +12,13 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 03 - Canonical
+
 Importance: 52
 
 Date:   11 May 2022
 
-Minutes to Read: 6
+Minutes to Read: 5
 
 Image Name: team meeting in office
 

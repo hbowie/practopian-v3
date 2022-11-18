@@ -12,13 +12,15 @@ Featured: false
 
 Greatest Hits: true
 
+Category: 04 - Political
+
 Importance: 60
 
 Date:   07 Apr 2021
 
 Index:  McConnell, Mitch; Trump, Donald; Gaetz, Matt; 
 
-Minutes to Read: 7
+Minutes to Read: 6
 
 Image Name: graph
 
@@ -34,12 +36,12 @@ Substack Link: https://practopian.substack.com/p/republican-party-decline
 
 Short ID: drpfgts
 
-Teaser: 
+Teaser:
 
 In line with the famous quote from Ernest Hemingway, the Republican Party seems to see their fortunes on the decline -- gradually for now -- but perhaps suddenly before much longer. 
 
 
-Body: 
+Body:
 
 Ernest Hemingway supplied two of his characters in *The Sun Also Rises* with a pair of memorably terse lines. 
 
