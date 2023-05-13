@@ -1,6 +1,6 @@
 Title:  A Traditional Remedy for the Facebook Problem: Competition
 
-Tags:   cultural evolution, democracy, value creation
+Tags:   cultural evolution, democracy, technology, value creation
 
 Timestamp: 20210316203434
 
@@ -12,13 +12,15 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 07 - Topical
+
 Importance: 80
 
 Date:   5 April 2018
 
 Index:  Facebook; Zuckerberg, Mark; competition; business; social media; technology; 
 
-Minutes to Read: 7
+Minutes to Read: 6
 
 Image Name: competition ahead sign
 
@@ -30,12 +32,12 @@ Image Credit Link: https://www.istockphoto.com/photo/competition-ahead-warning-s
 
 Short ID: trfpc
 
-Teaser: 
+Teaser:
 
 Facebook has been in the news lately due to renewed privacy concerns, and many observers have called for various solutions, including pledges from CEO Mark Zuckerberg to do better, as well as increased government regulation. But there seems to be an obvious and somewhat traditional remedy that is not getting much consideration: good old fashioned competition. 
 
 
-Body: 
+Body:
 
 Facebook has been [in the news lately][news] due to renewed privacy concerns, and many observers have called for various solutions, including pledges from CEO Mark Zuckerberg to do better, as well as increased government regulation. 
 

@@ -12,6 +12,8 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 08 - Technical
+
 Importance: 90
 
 Date:   18 Jun 2022

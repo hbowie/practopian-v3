@@ -12,13 +12,15 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 03 - Canonical
+
 Importance: 80
 
 Date:   10 June 2019
 
 Index:  US politics; cultural evolution; culture; King Jr., Martin Luther; politics, US; progressives; zombie movies; 
 
-Minutes to Read: 9
+Minutes to Read: 8
 
 Image Name: culture loading
 
@@ -30,12 +32,12 @@ Image Credit Link: https://www.istockphoto.com/photo/culture-concept-chart-with-
 
 Short ID: pp
 
-Teaser: 
+Teaser:
 
 For progressives in the US -- and, indeed, in many parts of the world -- recent events have called into question our faith in the goodness of people, and in our continued march forward towards a better tomorrow. 
 
 
-Body: 
+Body:
 
 For progressives in the US -- and, indeed, in many parts of the world -- recent events have called into question our faith in the goodness of people, and in our continued march forward towards a better tomorrow. 
 

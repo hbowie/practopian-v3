@@ -8,6 +8,12 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
+Category: 03 - Canonical
+
 Importance: 90
 
 Date:   17 Dec 2019
@@ -24,18 +30,20 @@ Image Credit: iStock/brainmaster
 
 Image Credit Link: https://www.istockphoto.com/photo/earth-night-space-gm1070110506-286289120
 
+Ghost Link: https://email.practopian.org/my-prayer-for-a-more-integral-new-year/
+
 Short ID: mpminy
 
-Teaser: 
+Teaser:
 
 As our old year winds to a close, and we pause briefly to compose ourselves before finding out what the next has in store, I want to take a moment to offer up a prayer -- not to God, but to all of us -- for a more integral sense of who we are in the new year.
 
 
-Body: 
+Body:
 
 As our old year winds to a close, and we pause briefly to compose ourselves before finding out what the next has in store, I want to take a moment to offer up a prayer -- not to God, but to all of us -- for a more integral sense of who we are in the new year.
 
-Of all the great lies coursing through our culture these days, the broadest, the most mistaken, and the most damaging has been the notion that some piece of our world should be elevated to higher prominence, and viewed as move valuable, even more essential, than other pieces. 
+Of all the great lies coursing through our culture these days, the broadest, the most mistaken, and the most damaging has been the notion that some piece of our world should be elevated to higher prominence, and viewed as more valuable, even more essential, than other pieces. 
 
 This is a lie borne out of isolation. It starts with the feeling that we are cut off and separate from the world around us, even that the world has no need of us. And as this sense of isolation grows, individuals come together and build a shared sense of estrangement. And this simmering, brooding resentment ultimately breeds rebellion, an emergent sense that "no, it is not *we* who are of no value, it is *them*, the others, those who seem so content to carry on without us, oblivious to our very existence."  
 

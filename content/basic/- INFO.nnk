@@ -1,6 +1,8 @@
-Title: practopian 3 basic pages
+Title: practopian 3 / content / basic
 
-Link: /Users/hbowie/Sites/practopian 3/basic
+Title Set by User: true
+
+Link: /Users/hbowie/Sites/practopian 3/content/basic
 
 Sort Parm: 0
 
@@ -8,7 +10,7 @@ Sort Descending: false
 
 Other Fields Allowed: false
 
-Last Index Selected: 4
+Last Index Selected: 1
 
 Mirror Auto Index: false
 
@@ -24,5 +26,15 @@ Local Images: false
 
 Missing Targets: false
 
+Curly Apostrophes: true
+
+Ext Links Open in New Windows: true
+
+Note File Format: nnk
+
+Hash Tags: false
+
 Window Numbers: 160.0;0.0;1250.0;1415.0;451.5;
+
+Column Widths: title: 200, 437, 1500; rank: 50, 80, 250; dateadded: 100, 180, 250; author: 100, 200, 1000; x: 12, 20, 50; date: 80, 120, 500; statusdigit: 20, 30, 50; tags: 50, 100, 1200; klass: 60, 80, 150; seq: 30, 80, 250; datemod: 100, 180, 250; 
 

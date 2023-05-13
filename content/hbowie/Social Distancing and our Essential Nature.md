@@ -8,6 +8,12 @@ Status: 6 - Completed
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
+Category: 07 - Topical
+
 Importance: 80
 
 Date:   29 Oct 2020
@@ -26,12 +32,12 @@ Image Credit Link: https://www.istockphoto.com/photo/golder-retriever-standing-b
 
 Short ID: sden
 
-Teaser: 
+Teaser:
 
 As ever more people work from home, and more students attempt remote learning, I'm concerned about a growing chorus of folks who are celebrating this enforced distancing as a welcome wave of the future, and suggesting that what started as a temporary fix should be embraced as a permanent fixture of 21st century society.
 
 
-Body: 
+Body:
 
 Social distancing and wearing of face masks have become the new normal for most of us, thanks to the continued threat of COVID-19. 
 

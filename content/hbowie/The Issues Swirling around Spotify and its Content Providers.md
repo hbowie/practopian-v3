@@ -14,11 +14,13 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 07 - Topical
+
 Importance: 90
 
 Date:   09 Feb 2022
 
-Minutes to Read: 9
+Minutes to Read: 8
 
 Image Name: microphone
 

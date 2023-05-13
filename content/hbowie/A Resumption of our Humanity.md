@@ -12,6 +12,8 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 03 - Canonical
+
 Importance: 80
 
 Date:   21 Jan 2021
@@ -30,12 +32,12 @@ Image Credit Link: https://www.istockphoto.com/photo/people-gather-at-the-center
 
 Short ID: rh
 
-Teaser: 
+Teaser:
 
 As I watched the Biden-Harris inaugural ceremonies this week, I found myself overcome by unanticipated thoughts and feelings.
 
 
-Body: 
+Body:
 
 As I watched the Biden-Harris inaugural ceremonies this week, I found myself overcome by unanticipated thoughts and feelings. 
 

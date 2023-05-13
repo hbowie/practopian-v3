@@ -12,6 +12,8 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 07 - Topical
+
 Importance: 99
 
 Date:   08 Jan 2021

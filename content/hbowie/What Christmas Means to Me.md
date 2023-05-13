@@ -30,6 +30,8 @@ Image Credit: iStock/coldsnowstorm
 
 Image Credit Link: https://www.istockphoto.com/photo/tourists-by-the-christmas-tree-in-trafalgar-square-london-uk-gm503215838-82399209
 
+Ghost Link: https://email.practopian.org/what-christmas-means-to-me/
+
 Short ID: wcmm
 
 Teaser:
@@ -73,6 +75,6 @@ And so I wish you the very best this Christmas season: the best of what we human
 
 *(Enjoy a series of short pieces about [my favorite Christmas songs][xmasfavs].)*
 
-[rf]: religious-freedom.html
+[rf]: https://practopian.org/blog/hbowie/religious-freedom.html
 
-[xmasfavs]: ../../appreciation/christmas-favorites-from-the-practical-utopian.html
+[xmasfavs]: https://practopian.org/appreciation/christmas-favorites-from-the-practical-utopian.html

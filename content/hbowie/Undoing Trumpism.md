@@ -12,13 +12,15 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 07 - Topical
+
 Importance: 99
 
 Date:   Aug 4 2020
 
 Index:  Trump, Donald; politics, US; 
 
-Minutes to Read: 7
+Minutes to Read: 6
 
 Image Alt: Abandoned House with a Trump electoral sign
 
@@ -28,12 +30,12 @@ Image Credit Link: https://www.istockphoto.com/photo/old-abandoned-house-with-a-
 
 Short ID: ut
 
-Teaser: 
+Teaser:
 
 With a little luck, and a lot of hard work, we might be fortunate enough to see Donald Trump leave office in a few months. If so, that will be the end of the Trump presidency. Unfortunately, though, it won't mean the end of Trumpism. 
 
 
-Body: 
+Body:
 
 With a little luck, and a lot of hard work, we might be fortunate enough to see [Donald Trump leave office in a few months](https://www.forbes.com/sites/jackbrewster/2020/07/21/betting-odds-for-biden-winning-election-are-now-higher-than-trumps-have-ever-been/#74a59a8e5d1f). 
 

@@ -8,7 +8,7 @@ Status: 9 - Published
 
 Type:   blog
 
-Featured: true
+Featured: false
 
 Greatest Hits: false
 
@@ -35,6 +35,7 @@ Short ID: mbfb
 Teaser:
 
 Back on 7 Apr 2021 I wrote a piece titled "The Decline of the Republican Party - First Gradually and then Suddenly." Well, for those who haven't been paying attention lately, the *suddenly* part has now finally arrived. So what will the Republicans do now? They face a number of significant challenges. 
+
 
 Body:
 

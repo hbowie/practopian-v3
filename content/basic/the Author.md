@@ -8,7 +8,7 @@ Image Name: Herb with Hank
 
 Image Alt: Author Herb with Golden Retriever Hank
 
-Body: 
+Body:
 
 ## Personal
 
@@ -22,4 +22,4 @@ Graduated from Annapolis Senior High School in 1969, and from the University of 
 
 Began a career in what was then called data processing in 1973, and progressed over the years to positions of increasing levels of responsibility in the field currently known as Information Technology. Worked as a software developer, a leader of development teams, and as the leader for a software process improvement office. Employed by a major American aerospace company for a number of years. Now working as an independent author and [software developer][nn]. 
 
-[nn]: https://notenik.net
+[nn]: https://notenik.app

@@ -16,6 +16,8 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 05 - Critical
+
 Importance: 99
 
 Date:   29 Oct 2020

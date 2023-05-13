@@ -1,22 +1,41 @@
 Title:  Why Inflation Will be Hard to Contain
 
+Tags:   sustainability, value creation
+
 Timestamp: 20220901025053
 
-Status: 4 - In Work
+Status: 9 - Published
 
 Type:   blog
 
-Featured: true
+Featured: false
 
 Greatest Hits: false
 
+Category: 03 - Canonical
+
 Importance: 50
 
-Date:   31 Aug 2022
+Date:   12 Dec 2022
 
 Minutes to Read: 7
 
+Image Name: istock
+
+Image Alt: Money is flying away by the inflation bubble and employees trying to prevent it.
+
+Image Credit: iStock | Cemile Bingol
+
+Image Credit Link: https://www.istockphoto.com/vector/inflation-gm1360200099-433297395?phrase=inflation
+
+Medium Link: https://hbowie.medium.com/why-inflation-will-be-hard-to-contain-1cacca16ec33
+
 Short ID: wiwbhc
+
+Teaser:
+
+After staying at a pleasantly ignorable level for years, inflation is once again making headlines. And so the pundits and talking heads are falling over each other trying to explain what's going on. But I still think most of them have a hold of the wrong end of the stick. 
+
 
 Body:
 
@@ -32,7 +51,7 @@ Let's look at a few charts.
 
 I cribbed this first one from a recent [Barry Ritholtz piece](https://ritholtz.com/2022/06/latte-bullshit/), and he seems to have gotten it from [the Hustle](https://thehustle.co/just-stop-buying-lattes-the-origins-of-a-millennial-housing-myth/).
 
-![US Home Prices Compared to Wages](files/Why Inflation Will be Hard to Contain | home-prices-vs-wages.png)
+![US Home Prices Compared to Wages](../../images/home-prices-vs-wages.png)
 
 The point is clear: when compared to the median income, the median home price in the US has grown from 2.2x in 1950 to 6.3x in 2020. Which means that home prices are growing much faster than wages. 
 
@@ -42,7 +61,7 @@ Let's look at another chart.
 
 This one comes from [macrotrends.net](https://www.macrotrends.net/countries/USA/united-states/population).
 
-![US Population Growth](files/Why Inflation Will be Hard to Contain | us-population-growth.png)
+![US Population Growth](../../images/us-population-growth.png)
 
 This shows the growth of our US population over roughly the same timeframe, from 1950 to 2022. And if we look at the blue line, on the top of the chart, we can see that the number of people living in the US has more than doubled over that length of time. 
 
@@ -50,7 +69,7 @@ Now let's consider one more chart.
 
 This one comes from [footprintnetwork.org](https://www.overshootday.org/content/uploads/2022/06/2022_Past_EOD_en.pdf). 
 
-![Earth Overshoot Day](files/Why Inflation Will be Hard to Contain | earth-overshoot-day.png)
+![Earth Overshoot Day](../../images/earth-overshoot-day.png)
 
 This shows the movement of the Earth overshoot day from 1971 - 2022. The *overshoot day* marks the date when humanity has used all the biological resources that Earth regenerates during the entire year. For 2022, the overshoot day for all of us on this planet falls on July 28.
 

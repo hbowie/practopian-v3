@@ -1,10 +1,10 @@
 Title: <title> 
 
-Page Title: 
+Page Title:  
 
 Tags: <tags> 
 
-Folder: 
+Folder:  
 
 Image Name: <imagename> 
 

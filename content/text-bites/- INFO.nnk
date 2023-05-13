@@ -1,6 +1,8 @@
-Title: practopian 3 text-bites
+Title: practopian 3 / content / text-bites
 
-Link: /Users/hbowie/Sites/practopian 3/text-bites
+Title Set by User: true
+
+Link: /Users/hbowie/Sites/practopian 3/content/text-bites
 
 Sort Parm: 0
 
@@ -14,5 +16,23 @@ Mirror Auto Index: false
 
 Display Body Label: true
 
-Display H1 Titles: false
+Title Display Option: p bold
+
+Streamlined Reading: false
+
+MathJax: false
+
+Local Images: false
+
+Missing Targets: false
+
+Curly Apostrophes: true
+
+Note File Format: nnk
+
+Hash Tags: false
+
+Window Numbers: 210.0;0.0;1250.0;1415.0;451.5;
+
+Column Widths: rank: 50, 80, 250; tags: 50, 100, 1200; title: 200, 445, 1500; datemod: 100, 180, 250; statusdigit: 20, 30, 50; seq: 30, 80, 250; author: 100, 200, 1000; dateadded: 100, 180, 250; klass: 60, 80, 150; x: 12, 20, 50; date: 80, 120, 500; 
 

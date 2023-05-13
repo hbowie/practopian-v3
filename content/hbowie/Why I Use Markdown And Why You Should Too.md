@@ -12,13 +12,15 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 03 - Canonical
+
 Importance: 80
 
 Date:   25 Feb 2020
 
 Index:  Markdown; Gruber, John; Daring Fireball; 
 
-Minutes to Read: 8
+Minutes to Read: 7
 
 Image Name: Markdown mark
 

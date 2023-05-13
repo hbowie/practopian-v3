@@ -1,14 +1,16 @@
 Title: Practopian 3 Content - hbowie
 
+Title Set by User: false
+
 Link: /Users/hbowie/Sites/practopian 3/content/hbowie
 
-Sort Parm: 11
+Sort Parm: 0
 
 Sort Descending: false
 
 Other Fields Allowed: false
 
-Last Index Selected: 92
+Last Index Selected: 76
 
 Mirror Auto Index: false
 
@@ -26,9 +28,13 @@ Missing Targets: false
 
 Curly Apostrophes: true
 
-Window Numbers: 274.0;0.0;1202.0;1415.0;540.0;
+Ext Links Open in New Windows: true
 
 Note File Format: nnk
 
 Hash Tags: false
+
+Window Numbers: 525.0;0.0;1322.0;1415.0;540.0;
+
+Column Widths: klass: 60, 80, 150; author: 100, 200, 1000; x: 12, 20, 50; rank: 50, 118, 1500; dateadded: 100, 180, 250; date: 80, 120, 500; datemod: 100, 180, 250; importance: 30, 80, 1500; seq: 30, 66, 1500; statusdigit: 20, 30, 50; category: 50, 126, 250; title: 200, 511, 1500; tags: 50, 100, 1200; 
 

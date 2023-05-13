@@ -1,4 +1,6 @@
-Title: practopian 3 author-notes
+Title: practopian 3 / content / author-notes
+
+Title Set by User: true
 
 Link: /Users/hbowie/Sites/practopian 3/content/author-notes
 
@@ -8,7 +10,7 @@ Sort Descending: false
 
 Other Fields Allowed: false
 
-Last Index Selected: 108
+Last Index Selected: 160
 
 Mirror Auto Index: false
 
@@ -26,11 +28,15 @@ Missing Targets: false
 
 Curly Apostrophes: true
 
-Shortcut: authorspr
+Ext Links Open in New Windows: false
 
-Window Numbers: 62.0;803.0;1066.0;612.0;500.0;
+Shortcut: authorspr
 
 Note File Format: nnk
 
 Hash Tags: false
+
+Window Numbers: 201.0;202.0;1066.0;612.0;500.0;
+
+Column Widths: tags: 50, 100, 1200; klass: 60, 80, 150; statusdigit: 20, 30, 50; author: 200, 471, 1500; dateadded: 100, 180, 250; date: 80, 120, 500; rank: 50, 80, 250; seq: 30, 80, 250; datemod: 100, 180, 250; title: 200, 445, 1500; x: 12, 20, 50; 
 

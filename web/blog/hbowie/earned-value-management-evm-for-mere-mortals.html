@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>Earned Value Management (EVM) for Mere Mortals</title>
+    <!-- Favicons -->
+    <link rel="icon" href="../../favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="../../favicon.png" type="image/png" />
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="../../css/bootstrap.min.css" type="text/css" />
+    <!-- Fonts -->
+    <link rel="stylesheet" href="../../fonts/concourse_t3.css" type="text/css" />
+    <link rel="stylesheet" href="../../fonts/stylesheet.css" type="text/css" />
+    <!-- Custom styles for Practopians -->
+    <link rel="stylesheet" href="../../css/styles.css" />
+    <!-- Icons -->
+    <link rel="stylesheet" href="../../open-iconic/font/css/open-iconic-bootstrap.min.css" >
+
+ <link href="../..//fontawesome/css/all.css" rel="stylesheet">
+ <script src="../../js/share-to-mastodon.js"></script>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+	<div class="container-md">
+
+    <a class="navbar-brand" href="../../index.html">
+    	<img width="32" height="32" alt="logo" src="../../images/logo_sq128.png">
+    </a>
+
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#main-navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="main-navigation">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../index.html">
+								Home
+							</a>
+					</li>
+
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../recent.html">
+								Recent
+							</a>
+					</li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-topics" data-bs-toggle="dropdown" aria-expanded="false">
+            	Topics
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-topics">
+              <li><a class="dropdown-item pr-nav-item" href="../../tags/index.html">
+              	Topic Index
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../tags/core.html">
+              	Core Beliefs
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../tags/missing.html">
+              	"Missing" Topics
+              </a></li>
+            </ul>
+          </li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-essays" data-bs-toggle="dropdown" aria-expanded="false">
+            	Essays
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-essays">
+              <li><a class="dropdown-item pr-nav-item" href="../../blog/hbowie/index.html">
+              	Essays by Title
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../blog/hbowie/latest.html">
+              	Latest Essays
+              </a></li>
+            </ul>
+          </li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-appreciations" data-bs-toggle="dropdown" aria-expanded="false">
+            	Appreciations
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-appreciations">
+              <li><a class="dropdown-item pr-nav-item" href="../../appreciation/index.html">
+              	Appreciations by Title
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../appreciation/latest.html">
+              	Latest Appreciations
+              </a></li>
+            </ul>
+          </li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-quotes" data-bs-toggle="dropdown" aria-expanded="false">
+            	Quotes
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-quotes">
+              <li><a class="dropdown-item pr-nav-item" href="../../authors/index.html">
+              	Authors
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../quotes/latest.html">
+              	Latest Quotes
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../quotes/random.html">
+              	Random Quote
+              </a></li>
+            </ul>
+          </li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-find" data-bs-toggle="dropdown" aria-expanded="false">
+            	Find
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-find">
+              <li><a class="dropdown-item pr-nav-item" href="../../search.html">
+              	Search
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../site-index.html">
+              	Site Index
+              </a></li>
+            </ul>
+          </li>
+
+          <li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-about" data-bs-toggle="dropdown" aria-expanded="false">
+            	About
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-about">
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-author.html">
+              	About the Author
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-site.html">
+              	About the Site
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-tools.html">
+              	About the Tools
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../about/follow.html">
+              	Follow
+              </a></li>
+            </ul>
+          </li>
+
+        </ul>
+    </div> <!-- /#main-navigation -->
+
+  </div> <!-- /.container -->
+
+</nav>
+
+<div class="container">
+
+	<div class="row">
+
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-10 col-lg-8 col-xl-6">
+
+			<main>
+
+				<h1 class="pr-page-title">Earned Value Management (EVM) for Mere Mortals</h1>
+
+				<p class="pr-date-and-mins">08 Oct 2012 &middot; 11 min read</p>
+
+				<p><span class="pr-topics-label">topics:</span> <a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/critical-thinking.html' rel='tag'>critical thinking</a><a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/science.html' rel='tag'>science</a><a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/value-creation.html' rel='tag'>value creation</a></p>
+
+
+				<div class="pr-content">
+					<p>In all my years working on software development projects, I think I&#8217;ve observed more silliness around the topic of <a href="http://en.wikipedia.org/wiki/Earned_value_management" class="ext-link" target="_blank" rel="noopener">Earned Value Management</a> &#8211; or EVM, for those in the know &#8211; than on any other subject I can think of. </p>
+
+<p>The many varieties of dysfunction that people exhibit towards this project management tool tend to place them in one of the following categories: </p>
+<ul>
+<li><p>Those who have no idea what it is but are sure they don&#8217;t need it; </p></li>
+<li><p>Those who view EVM as a necessary evil, like some sort of pagan god periodically demanding a ritual sacrifice from its followers; </p></li>
+<li><p>Those who treat EVM numbers as powerful omens foreshadowing their fates, as if massaging the numbers to change the resulting stoplight colors could actually positively influence the outcomes of their projects; </p></li>
+<li><p>Those who rely on amulets and talismans to keep the evil EVM from their doors &#8211; such as estimates that seem to always fall just a hair under the threshold that would trigger a hard and fast requirement for it; </p></li>
+<li><p>Those high priests and priestesses of EVM who use a familiarity with its mystical language and calculations as an avenging force to root out and punish the unbelievers. </p></li>
+</ul>
+
+<p>In practice, I&#8217;ve found much of this behavior to be based on a lack of understanding about what EVM is, how it works, and what it is good for. So let me try to cast a few rays of light into the darkness that often surrounds this subject. </p>
+
+<h2 id="the-case-for-evm">The Case for EVM </h2>
+
+<p>The easiest way to understand the problem that EVM is trying to solve is by describing the all-too-frequently observed characteristics of an IT project without EVM. The typical scenario is that the project is reported by everyone involved to be in good shape until it nears its planned completion date, at which point it enters the dreaded &#8220;almost done&#8221; state, and then stays there for what seems like (and often actually is) an eternity, before being finally brought to some sort of dreary conclusion, usually through forced removal of life support. </p>
+
+<p>In other words, the problem can be stated thusly: there is a strong human predisposition to assume, with the consumption of budget and the passing of time, that actual project progress is proceeding at the same pace. Sadly, facts recorded at project completion have repeatedly failed to demonstrate this correlation. </p>
+
+<p><img src="../images/evm.png " alt="The 90% Done Dilemma" title="The 90% Done Dilemma" /> </p>
+
+<h2 id="the-essence-of-evm">The Essence of EVM </h2>
+
+<p>Here is the best analogy I&#8217;ve been able to come up with to explain how EVM works. Let&#8217;s say that you are flying from Los Angeles to New York in order to serve as best man at your friend&#8217;s wedding. You fill up the plane&#8217;s gas tank, you figure out what time you have to get there, and you take off. </p>
+
+<p>OK. You&#8217;ve been up in the air for an hour. The land below is skimming by at a reassuring rate. The needle on the gas tank shows that you&#8217;ve got plenty of gas left. Life is good, right? What could go wrong? </p>
+
+<p>Well, two things, actually: </p>
+<ol>
+<li><p>You could get there an hour late, thus missing the ceremony, in which case you may as well have stayed home. </p></li>
+<li><p>You could run out of gas before you get there, in which case you would plummet to a fiery death. </p></li>
+</ol>
+
+<p>Since neither of these outcomes appears desirable, you might look for some reassurance that you will avoid them both. So what additional data do you need? Two things: </p>
+<ol>
+<li><p>You need to know your speed, so you can calculate when you will arrive. </p></li>
+<li><p>You need to know your mileage, or the miles per gallon you are achieving, to know whether your fuel supply will get you to your destination. </p></li>
+</ol>
+
+<p>EVM is simply a way of calculating these two pieces of data for a project. The first is called schedule performance, and is the equivalent of speed. The second is called cost performance, and is the equivalent of mileage (since a project&#8217;s budget is equivalent to a plane&#8217;s fuel). </p>
+
+<p>For an airplane, of course, progress can be measured in miles traveled. For a project, progress is measured by tasks completed. And, since, unlike miles, all tasks are not of the same size, you need to factor in the size of each task as well. </p>
+
+<p>Oh, and one more thing: since we lack any absolute units of measurement for project progress (no easy equivalent to miles in our analogy), our performance numbers are calculated as indices, in which we compare our actuals to our plan. So a value of 1.00 means that we are precisely on our plan. A value greater than 1 means that we are doing better than our plan. A value of less than 1 means that we are not doing as well as we had planned. </p>
+
+<p>That&#8217;s pretty much the whole thing in a nutshell. </p>
+
+<h2 id="those-confusing-formulae">Those Confusing Formulae </h2>
+
+<p>Here is where most people run off the rails and become convinced that if they never hear of EVM again, it will be too soon. </p>
+
+<p>Feel free to skip this section if it makes your head spin. It&#8217;s not all that important, unless you&#8217;re the person who will actually be doing the EVM calculations. </p>
+
+<p>Here are the key terms used: </p>
+
+<p><strong>Budgeted Cost of Work Performed (BCWP)</strong>: The amount of work actually completed so far, measured in terms of the total budgeted (i.e., planned) cost for all tasks completed to date. This is also referred to as the <em>earned value</em>. </p>
+
+<p><strong>Budgeted Cost of Work Scheduled (BCWS)</strong>: The amount of work we had planned to complete by now (measured in terms of the total budgeted costs for all of the tasks that were planned to be completed by this date). </p>
+
+<p><strong>Actual Cost of Work Performed (ACWP)</strong>: The amount of money we&#8217;ve actually spent to get us this far. </p>
+
+<p>And here are the two key formulas: </p>
+
+<p><strong>Schedule Performance Index (SPI)</strong> = Budgeted Cost of Work Performed (BCWP) / Budgeted Cost of Work Scheduled (BCWS). <em>In other words, how much work we&#8217;ve actually done at this point, compared to how much work we had planned to get done.</em> Your SPI is an indication of how fast you can complete the work. In our airplane analogy above, SPI would be equivalent to groundspeed. </p>
+
+<p><strong>Cost Performance Index (CPI)</strong> = Budgeted Cost of Work Performed (BCWP) / Actual Cost of Work Performed (ACWP). <em>In other words, how much we had planned to spend on the work we&#8217;ve completed, vs. how much we&#8217;ve actually spent.</em> Your CPI is an indication of how costly it is to perform the work. In our airplane analogy above, CPI would be equivalent to miles per gallon. </p>
+
+<p>One other point may be helpful: if most of your costs are in labor, and most of your labor is paid at roughly the same rate, then you can substitute hours for dollars in your calculations and still achieve essentially the same results. </p>
+
+<h2 id="work-breakdown-and-estimating">Work Breakdown and Estimating </h2>
+
+<p>For a complex project involving many different types and sizes of activities, it is important to decompose the overall statement of work into lower-level tasks that will become the basis for your project plan. This decomposition is known as your Work Breakdown Structure (WBS). Each of these tasks can then be estimated in terms of effort, or cost, and then, based on the planned availability of your resources, these tasks can be scheduled. This then becomes your project plan, from which your budgeted costs can be derived. </p>
+
+<p>In an ideal situation, all of this work breakdown, estimating and planning will have occurred before any budget or schedule has been assigned to the project. In a less than ideal situation, the project&#8217;s budget and schedule may have been derived from higher-level estimates, or even from wishful thinking. In either case, it is still important to perform the more detailed work breakdown; however then the task of estimating turns into a task of allocation: how much of the project&#8217;s available budget and time is it reasonable to allocate to each task? This allocation should be done on relative estimated sizes, however it is important that all of the project&#8217;s budget and schedule (and no more) be allocated to planned tasks, save possibly for some amount of prudent management reserve. </p>
+
+<h2 id="reasons-for-variations">Reasons for Variations </h2>
+
+<p>It&#8217;s worthwhile noting that, if your SPI and CPI numbers are not perfect, this will always be due to one or more of the following three factors. </p>
+
+<p>To help explain these causal factors, it may help to think of a bricklaying job. Let&#8217;s say that you need to lay 80 bricks, and you&#8217;re planning to have two bricklayers who can each lay 10 bricks an hour, and who charge $20 an hour. Therefore, you are planning for the job to be done in 4 hours, at a cost of $160. </p>
+
+<p><strong>Available Resources</strong> &#8211; If you have fewer resources than planned, then this will tend to drag down your schedule performance (SPI). Conversely, if you have more resources than planned, this will tend to improve your SPI. In other words, if only one bricklayer shows up to work, then it will take him 8 hours instead of 4, working by himself. </p>
+
+<p>Note that the number of resources you have will not affect your cost performance (CPI). In our example, having only one bricklayer will delay the job&#8217;s completion, but it won&#8217;t cost you any more. </p>
+
+<p><strong>Efficiency/Productivity</strong> &#8211; If your resources are less productive than planned, then this will tend to drag down both your CPI and your SPI. Conversely, if they are more productive, then this will tend to improve both. In other words, if both bricklayers show up to work, but they only lay 5 bricks an hour, the job will take 8 hours instead of 4, and will cost you $320 instead of $160. </p>
+
+<p>Note that, in EVM terms, the words &#8220;productive&#8221; and &#8220;efficient,&#8221; or their opposites, are not meant to necessarily reflect well or poorly on the value of the workers. Your CPI could be low because your workers are less productive than their peers, or because your estimates of how much work they could produce per unit of time were overly optimistic. From an EVM perspective, either of these conditions would result in a low CPI, and hence a &#8220;low&#8221; productivity. </p>
+
+<p><strong>Scope</strong> &#8211; Let&#8217;s say that you&#8217;re building a wall with your 80 bricks, and the size of the job was based on your customer&#8217;s measurements of how long the wall needed to be. Now, if you show up at the customer&#8217;s site, and it turns out the wall needs to be twice as long as the customer had previously indicated, then it will take 8 hours to complete the job, and will cost $320. In this case, however, neither the SPI nor the CPI were off, but instead the scope, or size, of the job doubled. This should cause you to renegotiate your contract and modify your plan accordingly. </p>
+
+<h2 id="reacting-to-evm-variations">Reacting to EVM Variations </h2>
+
+<p>I&#8217;ve seen cases where any sort of variation from CPI and SPI numbers between 0.99 and 1.01 resulted in general panic and manning of the lifeboats, but more discriminating responses are generally called for. Small and short-term variations from SPI and CPI numbers of 1.00 probably need no special attention. More sizable variations should typically elicit responses along the lines indicated below, based on the particular combination of SPI and CPI variations you have. </p>
+
+<dl>
+<dt>CPI &gt; or = 1 and SPI &lt; 1: </dt>
+<dd>Your resources are performing well, but you are not getting as many as planned: you need to make resources more available (e.g., by providing more people and/or overtime).
+</dd>
+<dt>CPI &gt; 1 and SPI &gt; 1: </dt>
+<dd>Life is good: you can assign some resources to other tasks and still complete on time and under budget, or you can keep your current resources and finish ahead of schedule and under budget. (On the other hand, management will probably think you're padding your estimates on the next project, and so will trim them accordingly.)
+</dd>
+<dt>CPI &lt; 1 and SPI &lt; 1: </dt>
+<dd>You are getting the resources you planned, but they are not performing as well as you had planned: you will need to de-scope or improve performance (to correct SPI &amp; CPI), or acquire additional resources (to correct SPI).
+</dd>
+<dt>CPI &lt; 1 and SPI &gt; 1: </dt>
+<dd>You are on schedule, but only because you are applying more resources than planned. You will need to de-scope or improve performance to avoid going over budget.
+</dd>
+</dl>
+
+<h2 id="implementation-tips">Implementation Tips </h2>
+
+<p>Here are a few simple tips for an effective EVM implementation. </p>
+<ol>
+<li><p>The work in your project should be broken down into relatively discrete tasks (roughly one to two weeks in duration). If you end up with one or more large, amorphous tasks, then you have just reproduced essentially the same problem statement that we started with, only at a slightly lower level. </p></li>
+<li><p>Each task should produce a deliverable whose completeness can be easily and objectively determined. In other words, there should not be a lot of room for debate about whether a particular task is done yet or not: otherwise you are liable to find out at the end of the project that tasks you thought were &#8220;done&#8221; are really still in varying states of completion. </p></li>
+<li><p>Your project team needs to take ownership of the EVM numbers and the results of the calculations. In practice, the only way I know to achieve that is to have the entire team review their EVM numbers on a weekly basis. </p></li>
+</ol>
+
+<h2 id="the-agile-controversy">The Agile Controversy </h2>
+
+<p>One question that often arises is whether it is valid or necessary to apply EVM to Agile projects. </p>
+
+<p>Let&#8217;s think about this for a minute. In order to implement EVM we need to break our work down into discrete tasks&#8230; each task needs to have a discrete deliverable that can be readily determined to be done or not&#8230; we need to objectively track our progress against our backlog of tasks yet to be completed&#8230; we&#8217;re more concerned with the quantity of work completed than which specific tasks were completed&#8230;. </p>
+
+<p>Hmmm&#8230;. In Agile, we break our work down into features, and features into tasks&#8230; we deliver those features on a regular basis, with short delivery cycles&#8230; the team has a &#8220;definition of done&#8221; for each feature&#8230; the backlog is dynamic&#8230; we regularly track features delivered vs. features still in our backlog&#8230;. </p>
+
+<p>Oh. Wait a minute. I get it. Agile <em>is</em> essentially a form of EVM for software projects. </p>
+
+<p>So the Agile vs. EVM controversy should be a non-issue, so long as the project is estimating all of the work needed for a project at some level (and not just whatever happens to fit in the current iteration). If an agile project needs to feed data into a more traditional EVM system, then that should be easy to arrange. </p>
+
+<h2 id="if-all-you-have-is-a-hammer..">If All You Have is a Hammer&#8230; </h2>
+
+<p>Not every project management issue is a nail that can be driven into place with the hammer of EVM. </p>
+
+<p>For one thing, it is no substitute for identifying your <a href="http://en.wikipedia.org/wiki/Critical_path_method" class="ext-link" target="_blank" rel="noopener">critical path</a> through your project, which will identify those tasks that must be completed on time in order for the project as a whole to be completed on time. If you are 90% done, with a perfect SPI and CPI, but you have been avoiding all the tasks on your critical path, then you may still be a year away from completing your year-long project. </p>
+
+<p>Also, EVM is meaningless unless you first have a well defined project <a href="http://en.wikipedia.org/wiki/Project_management_triangle" class="ext-link" target="_blank" rel="noopener">scope</a> and <a href="http://en.wikipedia.org/wiki/Work_breakdown_structure" class="ext-link" target="_blank" rel="noopener">work breakdown structure</a>. If you don&#8217;t know your destination, or don&#8217;t know the route you&#8217;re going to take, then knowing your speed and mileage won&#8217;t really help to get you there on time and within your budget. </p>
+				</div>
+
+
+				<div>
+				<hr>
+				<p>Thanks for reading! You can also generally follow my work on <a href="https://hbowie.medium.com/">Medium</a> and <a href="https://buttondown.email/practopian">Buttondown</a>. </p>
+
+				If you&#8217;d like a convenient short URL to link to this piece, you can use <a href="https://pract.org/evmm.html">pract.org/evmm.html</a>.
+				Or feel free to simply share this piece using one of the social media buttons below!
+				</p>
+				</div>
+
+			</main>
+
+			<div class="d-flex justify-content-center">
+
+				<a class="btn btn-primary m-2" style="background-color: #3b5998" role="button" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fpractopian.org%2Fblog%2Fhbowie%2Fearned-value-management-evm-for-mere-mortals.html&title=Earned+Value+Management+Evm+For+Mere+Mortals">
+  				<i class="fab fa-facebook-f me-2"></i>
+  				Facebook
+  			</a>
+
+  			<a class="btn btn-primary m-2" style="background-color: #0082ca" role="button" rel="noopener"
+   href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fpractopian.org%2Fblog%2Fhbowie%2Fearned-value-management-evm-for-mere-mortals.html&title=Earned+Value+Management+Evm+For+Mere+Mortals">
+  				<i class="fab fa-linkedin-in me-2"></i>
+  				LinkedIn
+  			</a>
+
+				<a class="btn btn-primary m-2" style="background-color: #55acee" role="button" rel="noopener" onclick="shareToMastodon('Earned Value Management (EVM) for Mere Mortals', 'https://practopian.org/blog/hbowie/earned-value-management-evm-for-mere-mortals.html');" />
+  				<i class="fab fa-mastodon me-2"></i>
+  				Mastodon
+  			</a>
+
+  			<a href="#" class="btn btn-outline-secondary m-2" role="button">
+  				Back to top
+  			</a>
+
+			</div>
+			
+			<hr />
+			
+			<div>
+			
+				<p>There&#8217;s never any charge to read my words here, but if you&#8217;d like to show your appreciation for my work, small gifts are always appreciated!</p>
+			
+				<div class="d-flex justify-content-center">
+			
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Donate via Ko-fi', '#29abe0', 'Z8Z0H6EWS');kofiwidget2.draw();</script> 
+
+				</div>
+
+			</div>
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+	</div> <!-- /.row -->
+
+	<div class="row">
+
+		<div class="col-12">
+
+			<hr />
+
+			<p class="text-center pr-footer-p" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+				<a class="pr-footer-a" property="dct:title" rel="cc:attributionURL" href="https://practopian.org">
+					The Practical Utopian website
+				</a>
+				by
+				<a  class="pr-footer-a" rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://hbowie.net">
+					Herb Bowie
+				</a>
+				is licensed under
+				<a  class="pr-footer-a" href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
+					CC BY-SA 4.0
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1">
+				</a>
+			</p>
+
+		</div>
+
+	</div> <!-- /.row -->
+
+</div> <!-- /.container -->
+
+    <script src="../../js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

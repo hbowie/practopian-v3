@@ -360,6 +360,12 @@ let searchQuotes = [
 		content: "1 Do not feel absolutely certain of anything 2 Do not think it worth while to proceed by concealing evidence for the evidence is sure to come to light 3 Never try to discourage thinking for you are sure to succeed 4 When you meet with opposition even if it should be from your husband or your children endeavour to overcome it by argument and not by authority for a victory dependent upon authority is unreal and illusory 5 Have no respect for the authority of others for there are always contrary authorities to be found 6 Do not use power to suppress opinions you think pernicious for if you do the opinions will suppress you 7 Do not fear to be eccentric in opinion for every opinion now accepted was once eccentric 8 Find more pleasure in intelligent dissent that in passive agreement for if you value intelligence as you should the former implies a deeper agreement than the latter 9 Be scrupulously truthful even if the truth is inconvenient for it is more inconvenient when you try to conceal it 10 Do not feel envious of the happiness of those who live in a fool s paradise for only a fool will think that it is happiness Bertrand Russell British polymath, philosopher, logician, mathematician, historian, writer, social critic, political activist, and Nobel laureate unknown "
 	},
 	{
+		title: "We must welcome the stranger",
+		date: "25 Jan 2023",
+    url: "quotes/we-must-welcome-the-stranger.html",
+		content: "I have always believed in the idea that we must welcome the stranger the person in need And that if we search for common ground with all those we meet we will discover our shared humanity and we will all be better for it Bibi Bahrami  A stranger planned to bomb my mosque. He became a member instead. "
+	},
+	{
 		title: "Digging up fossil fuels and setting them alight",
 		date: "2019",
     url: "quotes/digging-up-fossil-fuels-and-setting-them-alight.html",
@@ -645,7 +651,7 @@ let searchQuotes = [
 		title: "The chicken experiment",
 		date: "2019",
     url: "quotes/the-chicken-experiment.html",
-		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The entire pageant of human history",
@@ -657,19 +663,19 @@ let searchQuotes = [
 		title: "The eternal struggle between good and evil",
 		date: "2019",
     url: "quotes/the-eternal-struggle-between-good-and-evil.html",
-		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Increase nurturance thoughout the life span",
 		date: "2019",
     url: "quotes/increase-nurturance-thoughout-the-life-span.html",
-		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Living in small groups has been baked into our psyches",
 		date: "2019",
     url: "quotes/living-in-small-groups-has-been-baked-into-our-psyches.html",
-		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The malleability of life",
@@ -681,19 +687,25 @@ let searchQuotes = [
 		title: "Nurturance is a master variable",
 		date: "2019",
     url: "quotes/nurturance-is-a-master-variable.html",
-		content: "One basic prescription is to do everything possible to re create the ancestral social environment of small groups of nurturing individuals who know each other by their actions Provide such an environment and prosocial child development and adult relations will take place with surprising ease In the absence of a nurturing social environment the shaping of behavior will lead in a very different direction survival and reproductive strategies that are predicated on the absence of social support that benefit me and not you us and not them today without regard for tomorrow That s what Tony means by calling nurturance a master variable David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "One basic prescription is to do everything possible to re create the ancestral social environment of small groups of nurturing individuals who know each other by their actions Provide such an environment and prosocial child development and adult relations will take place with surprising ease In the absence of a nurturing social environment the shaping of behavior will lead in a very different direction survival and reproductive strategies that are predicated on the absence of social support that benefit me and not you us and not them today without regard for tomorrow That s what Tony means by calling nurturance a master variable David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Our long-term personal and societal goals",
 		date: "2019",
     url: "quotes/our-long-term-personal-and-societal-goals.html",
-		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Our species does represent a new evolutionary process",
 		date: "2019",
     url: "quotes/our-species-does-represent-a-new-evolutionary-process.html",
 		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+	},
+	{
+		title: "Relationships among groups",
+		date: "2019",
+    url: "quotes/relationships-among-groups.html",
+		content: "In large societies that consist of many groups relationships among groups must embody the same principles as the relationships among individuals within groups This means that the core design principles are scale independent David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Religions are great bushy trees",
@@ -711,7 +723,7 @@ let searchQuotes = [
 		title: "A vast repository of information learned and passed down from previous generations",
 		date: "2019",
     url: "quotes/a-vast-repository-of-information-learned-and-passed-down-from-previous-generations.html",
-		content: "With this perspective you can begin to think of yourself as not just a product of your genes and not just a product of your personal experience but also as one of many members of your culture who collectively contain a vast repository of information learned and passed down from previous generations This makes you part of something larger than yourself The information has not just been passed down but it has also been winnowed through the generations leaving us with a set of beliefs and practices that helped us to cohere as groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "With this perspective you can begin to think of yourself as not just a product of your genes and not just a product of your personal experience but also as one of many members of your culture who collectively contain a vast repository of information learned and passed down from previous generations This makes you part of something larger than yourself The information has not just been passed down but it has also been winnowed through the generations leaving us with a set of beliefs and practices that helped us to cohere as groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The Columbia Disaster",
@@ -930,10 +942,22 @@ let searchQuotes = [
 		content: "Great minds discuss ideas average ones discuss events and small minds discuss people Eleanor Roosevelt  unknown "
 	},
 	{
+		title: "An agenda of ambition and hope",
+		date: "1 Dec 2022",
+    url: "quotes/an-agenda-of-ambition-and-hope.html",
+		content: "This spirit of fraternity must enable us to build an agenda of ambition and hope as our two countries share the same faith in freedom in democratic values in empowerment through education and work and in progress through science and knowledge Emmanuel Macron French politician who has served as President of France Macron Remarks on 1-Dec-2022 "
+	},
+	{
 		title: "Television mesmerizes people",
 		date: "2016",
     url: "quotes/television-mesmerizes-people.html",
 		content: "The boob tube turns you into a boob Television mesmerizes people and turns them into intellectual spectators It feeds passivity and makes you less engaged Eric Braverman president of Path Foundation NY Fast Company "
+	},
+	{
+		title: "Mass Movements and Boredom",
+		date: "1951",
+    url: "quotes/mass-movements-and-boredom.html",
+		content: "There is perhaps no more reliable indicator of a society s ripeness for a mass movement than the prevalence of unrelieved boredom In almost all the descriptions of the periods preceding the rise of mass movements there is reference to vast ennui and in their earliest stages mass movements are more likely to find sympathizers among the bored than among the exploited and suppressed To a deliberate fomenter of mass upheavals the report that people are bored stiff should be at least as encouraging as that they are suffering from intolerable economic or political abuses Eric Hoffer American moral and social philosopher The True Believer: Thoughts on the Nature of Mass Movements "
 	},
 	{
 		title: "The productive orientation is expressed in love",
@@ -988,6 +1012,12 @@ let searchQuotes = [
 		date: "1932",
     url: "quotes/but-above-all-try-something.html",
 		content: "The country needs and unless I mistake its temper the country demands bold persistent experimentation It is common sense to take a method and try it if it fails admit it frankly and try another But above all try something Franklin D. Roosevelt an American politician and attorney who served as the 32nd president of the United States FDR Address at Oglethorpe University in Atlanta, Georgia "
+	},
+	{
+		title: "Government has a final responsibility for the well-being of its citizenship",
+		date: "3 Jan 1938",
+    url: "quotes/government-has-a-final-responsibility-for-the-well-being-of-its-citizenship.html",
+		content: "Government has a final responsibility for the well being of its citizenship If private cooperative endeavor fails to provide work for willing hands and relief for the unfortunate those suffering hardship from no fault of their own have a right to call upon the Government for aid and a government worthy of its name must make fitting response Franklin D. Roosevelt an American politician and attorney who served as the 32nd president of the United States State of the Union 1938 "
 	},
 	{
 		title: "God and Morality",
@@ -1060,6 +1090,12 @@ let searchQuotes = [
 		date: "12/13/2016",
     url: "quotes/the-point-of-modern-propaganda.html",
 		content: "The point of modern propaganda isn t only to misinform or push an agenda It is to exhaust your critical thinking to annihilate truth Garry Kasparov  Twitter "
+	},
+	{
+		title: "Art presents us with a window into the minds of these people",
+		date: "15 Sep 2016",
+    url: "quotes/art-presents-us-with-a-window-into-the-minds-of-these-people.html",
+		content: "Art presents us with a window into the minds of these people that other types of artifacts just can t provide It offers us glimpses into their world their culture and their belief systems Genevieve von Petzinger Canadian paleoanthropologist and rock art researcher First Signs: Unlocking the Mysteries of the World's Oldest Symbols "
 	},
 	{
 		title: "My Life Belongs to the Whole Community",
@@ -1284,6 +1320,12 @@ let searchQuotes = [
 		content: "One guy he had nothing to do with the movies but I ve taken a lot of direction from him That s Bucky Fuller Bucky he s most famous for the geodesic dome but he made a great observation about these oceangoing tankers And he noticed that the engineers were particularly challenged by how to turn this thing you know They got this big rudder it took too much energy to turn the rudder to turn the ship So they came up with a brilliant idea Let s put a little rudder on the big rudder The little rudder will turn the big rudder the big rudder will turn the ship The little rudder is called a trim tab Bucky made the analogy that a trim tab is an example of how the individual is connected to society and how we affect society And I like to think of myself as a trim tab All of us are trim tabs We might seem like we re not up to the task but we are man We re alive We can make a difference We can turn this ship in the way we wanna go man Towards love creating a healthy planet for all of us Jeff Bridges American actor, singer, and producer Golden Globes Speech "
 	},
 	{
+		title: "Questioning one's habitual ways of seeing",
+		date: "2019",
+    url: "quotes/questioning-ones-habitual-ways-of-seeing.html",
+		content: "To me the only habit worth designing for is the habit of questioning one s habitual ways of seeing and that is what artists writers and musicians help us to do It s in the realm of poetics that we learn how to encounter Significantly these encounters are not optimized to empower us by making us happier or more productive In fact they may actually completely unsettle the priorities of the productive self and even the boundaries between self and other Rather than providing us with drop down menus they confront us with serious questions the answering of which may change us irreversibly Jenny Odell American multidisciplinary artist, writer, and educator How to Do Nothing: Resisting the Attention Economy "
+	},
+	{
 		title: "Thou shalt love thy neighbour as thyself",
 		date: "",
     url: "quotes/thou-shalt-love-thy-neighbour-as-thyself.html",
@@ -1294,6 +1336,12 @@ let searchQuotes = [
 		date: "2019",
     url: "quotes/the-only-thing-thats-constant-there-is-other-people.html",
 		content: "This is part of the model that we ve developed called the social baseline model When you average everything out that humans have experienced over millennia the only thing that s constant is other humans We re so adaptable we ve been to so many places we live in the arctic and the equator We eat whale blubber and unrefined grains We ve been to the moon and practically at the bottom of the ocean The only thing that s constant there is other people Jim Coan Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+	},
+	{
+		title: "Bringing the worldview associated with sports-talk radio to politics",
+		date: "4 Jan 2023",
+    url: "quotes/bringing-the-worldview-associated-with-sports-talk-radio-to-politics.html",
+		content: "Getting a lot more Americans interested in politics is not the same as getting a lot more Americans knowledgeable about the workings of democracy or government It has brought the worldview associated with sports talk radio to politics you ve got a team and you want that team to win and the other team is always the worst and the refs are always unfairly treating your side Heaven forbid you concede that the other team played a better game Jim Geraghty senior political correspondent of National Review and author of several books How did politics get so awful? I blame MTV circa 1992. "
 	},
 	{
 		title: "Lean",
@@ -1650,6 +1698,18 @@ let searchQuotes = [
 		content: "It s never been more essential for CEOs to have a consistent voice a clear purpose a coherent strategy and a long term view Your company s purpose is its north star in this tumultuous environment Putting your company s purpose at the foundation of your relationships with your stakeholders is critical to long term success Larry Fink American billionaire businessman, chairman and CEO of BlackRock Letter to CEOs from Larry Fink in 2022 "
 	},
 	{
+		title: "Her faith had twisted very early in her childhood",
+		date: "2021",
+    url: "quotes/her-faith-had-twisted-very-early-in-her-childhood.html",
+		content: "And it was true the religion she was raised in had always seemed vaguely foolish to her if rich with mystery and ceremony for why should babies be born into sin why should she pray to the invisible forces why would god be a trinity why should she who felt her greatness hot in her blood be considered lesser because the first woman was molded from a rib and ate a fruit and thus lost lazy Eden It was senseless Her faith had twisted very early in her childhood it would slowly grow ever more bent into its geometry until it was its own angular majestic thing Lauren Groff American novelist and short story writer Matrix "
+	},
+	{
+		title: "Safe in the hands of a force far greater",
+		date: "2021",
+    url: "quotes/safe-in-the-hands-of-a-force-far-greater.html",
+		content: "For it is a deep and human truth that most souls upon the earth are not at ease unless they find themselves safe in the hands of a force far greater than themselves Lauren Groff American novelist and short story writer Matrix "
+	},
+	{
 		title: "Hands that must work",
 		date: "1916",
     url: "quotes/hands-that-must-work.html",
@@ -1720,6 +1780,12 @@ let searchQuotes = [
 		date: "",
     url: "quotes/four-sentences-that-lead-to-wisdom.html",
 		content: "There are four sentences that lead to wisdom Do with them what you will + I am sorry + I was wrong + I don t know + I need help Louise Penny Canadian author of mystery novels set in the Canadian province of Quebec centred on the work of francophone Chief Inspector Armand Gamache of the Sûreté du Québec. The Madness of Crowds "
+	},
+	{
+		title: "The press is so powerful in its image-making role",
+		date: "13 Dec 1964",
+    url: "quotes/the-press-is-so-powerful-in-its-image-making-role.html",
+		content: "The press is so powerful in its image making role it can make the criminal look like he s a the victim and make the victim look like he s the criminal This is the press an irresponsible press If you aren t careful the newspapers will have you hating the people who are being oppressed and loving the people who are doing the oppressing Malcolm X American Muslim minister and human rights activist Malcolm X Speech at the Audobon Ballroom in Harlem "
 	},
 	{
 		title: "Changing the World",
@@ -2043,7 +2109,7 @@ let searchQuotes = [
 		title: "Finish every day and be done with it",
 		date: "8 Apr 1854",
     url: "quotes/finish-every-day-and-be-done-with-it.html",
-		content: "Finish every day and be done with it You have done what you could some blunders and absurdities no doubt crept in forget them as fast as you can Tomorrow is a new day You shall begin it well and serenely and with too high a spirit to be cumbered with your old nonsense Ralph Waldo Emerson American essayist, lecturer, philosopher, abolitionist and poet who led the transcendentalist movement of the mid-19th century To Daughter Ellen "
+		content: "Finish every day and be done with it For manners and for wise living it is a vice to remember You have done what you could some blunders and absurdities no doubt crept in forget them as fast as you can Tomorrow is a new day You shall begin it well and serenely and with too high a spirit to be cumbered with your old nonsense This day for all that is good and fair It is too dear with its hopes and invitations to waste a moment on the rotten yesterdays Ralph Waldo Emerson American essayist, lecturer, philosopher, abolitionist and poet who led the transcendentalist movement of the mid-19th century To Daughter Ellen "
 	},
 	{
 		title: "People ask me to predict the future",
@@ -2098,6 +2164,12 @@ let searchQuotes = [
 		date: "2006",
     url: "quotes/evolutionary-drive-towards-complexity.html",
 		content: "The evolutionary drive towards complexity comes in those lineages where it comes at all not from any inherent propensity for increased complexity and not from biased mutation It comes from natural selection the process which as far as we know is the only process ultimately capable of generating complexity out of simplicity Richard Dawkins British evolutionary biologist The God Delusion "
+	},
+	{
+		title: "The limitations of specialization",
+		date: "2 May 1956",
+    url: "quotes/the-limitations-of-specialization.html",
+		content: "In this age of specialization men who thoroughly know one field are often incompetent to discuss another The great problems of the relations between one and another aspect of human activity have for this reason been discussed less and less in public When we look at the past great debates on these subjects we feel jealous of those times for we should have liked the excitement of such argument The old problems such as the relation of science and religion are still with us and I believe present as difficult dilemmas as ever but they are not often publicly discussed because of the limitations of specialization Richard Feynman American theoretical physicist Feynman 1956 remarks at a Caltech YMCA Lunch Forum "
 	},
 	{
 		title: "The Paranoid Style in American Politics",
@@ -2433,13 +2505,13 @@ let searchQuotes = [
 		title: "In the thrall of a vast, world-spanning machine",
 		date: "2017",
     url: "quotes/in-the-thrall-of-a-vast-world-spanning-machine.html",
-		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
+		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Worshipping the divine right of capital",
 		date: "2017",
     url: "quotes/worshipping-the-divine-right-of-capital.html",
-		content: "Future economic historians may look back wryly at this period when we worshipped the divine right of capital while looking down on our ancestors who believed in the divine right of kings Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
+		content: "Future economic historians may look back wryly at this period when we worshipped the divine right of capital while looking down on our ancestors who believed in the divine right of kings Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Belief in Impossible Things",

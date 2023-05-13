@@ -16,7 +16,7 @@ Featured: <boolean>
 
 Greatest Hits: <boolean> 
 
-Category: <rank: 1 - Foundational; 2 - Core; 3 - Canonical; 4 - Political; 5 - Critical; 6 - Christmas; 7 - Topical; > 
+Category: <rank: 1 - Foundational; 2 - Core; 3 - Canonical; 4 - Political; 5 - Critical; 6 - Christmas; 7 - Topical; 8 - Technical; > 
 
 Importance: <seq> 
 
@@ -35,6 +35,10 @@ Image Caption:
 Image Credit:  
 
 Image Credit Link: <link> 
+
+Buttondown Link: <link> 
+
+Ghost Link: <link> 
 
 Medium Link: <link> 
 

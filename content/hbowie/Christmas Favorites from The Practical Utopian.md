@@ -56,8 +56,9 @@ The Christmas season is one of my favorite times of year, and I've acquired a hu
 + [The Christmas Song](the-christmas-song.html)
 + [Santa Claus is Coming to Town](santa-claus-is-coming-to-town.html)
 
-And all of these songs but one can be heard on Apple Music in the [Words about Songs - Christmas][pl] playlist. 
+And all of these songs but one can be heard on Apple Music in the [Christmas Favorites from The Practical Utopian][pl] playlist. 
 
 Enjoy!
 
-[pl]: https://itunes.apple.com/us/playlist/words-about-songs-christmas/pl.u-DdAN0koTgqpdG
+[pl]: https://music.apple.com/us/playlist/christmas-favorites-from-the-practical-utopian/pl.u-DdANyyqCgqpdG
+

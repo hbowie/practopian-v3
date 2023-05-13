@@ -8,13 +8,19 @@ Status: 9 - Published
 
 Type:   blog
 
+Featured: false
+
+Greatest Hits: false
+
+Category: 04 - Political
+
 Importance: 80
 
 Date:   11 Feb 2020
 
 Index:  democracy; Democrats; politics, US; 
 
-Minutes to Read: 10
+Minutes to Read: 9
 
 Image Name: Trump in the news
 
@@ -26,12 +32,12 @@ Image Credit Link: https://www.istockphoto.com/photo/european-newspapers-react-t
 
 Short ID: wtgr
 
-Teaser: 
+Teaser:
 
 As we contemplate the road forward for progressives, I thought it might be useful to point out some things that Donald Trump gets right. This is not because I want to convince you to vote Republican, but because I think it's important for the Democrats to understand the challenges they face in persuading many Americans to vote for them. 
 
 
-Body: 
+Body:
 
 As we contemplate the road forward for progressives, I thought it might be useful to point out some things that Donald Trump gets right. This is not because I want to convince you to vote Republican, but because I think it's important for the Democrats to understand the challenges they face in persuading many Americans to vote for them. 
 

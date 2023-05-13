@@ -12,6 +12,8 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 05 - Critical
+
 Importance: 80
 
 Date:   15 Aug 2018

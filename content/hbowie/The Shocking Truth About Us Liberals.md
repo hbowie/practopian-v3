@@ -12,6 +12,8 @@ Featured: false
 
 Greatest Hits: false
 
+Category: 04 - Political
+
 Importance: 90
 
 Date:   6 Sep 2020

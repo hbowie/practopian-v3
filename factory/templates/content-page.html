@@ -2,10 +2,12 @@
 <?if =$type$= eq "appreciation" ?>
 <?output "../../web/appreciation/=$title&f$=.html"?>
 <?set pr-path = "appreciation" ?>
+<?set pr2-path = "appreciation" ?>
 <?endif?>
 <?if =$type$= eq "blog" ?>
 <?output "../../web/blog/hbowie/=$title&f$=.html"?>
 <?set pr-path = "blog%2Fhbowie" ?>
+<?set pr2-path = "blog/hbowie" ?>
 <?endif?>
 <!DOCTYPE html>
 <html lang="en">
@@ -15,6 +17,7 @@
 	<title>=$title$=</title>
 <?include "../includes/head-links.html" ?>
  <link href="=$relative$=/fontawesome/css/all.css" rel="stylesheet">
+ <script src="=$relative$=js/share-to-mastodon.js"></script>
 </head>
 <body>
 
@@ -69,20 +72,12 @@
 
 				<div>
 				<hr>
-				<p>Thanks for reading!
-<?if "=$medium-link$=" ?>
-				If you&#8217;d like to leave a comment, you can do so
-<?if "=$substack-link$=" ?>
-				either on <a href="=$medium-link$=">Medium</a> or on <a href="=$substack-link$=">Substack</a>.
-<?else?>
-				on <a href="=$medium-link$=">Medium</a>.
-<?endif?>
-<?endif?>
-				If you&#8217;d like a convenient short URL to link to this piece, you can use <a href="https://pract.org/s/=$shortid$=.html">pract.org/s/=$shortid$=.html</a>.
+				<p>Thanks for reading! You can also generally follow my work on <a href="https://hbowie.medium.com/">Medium</a> and <a href="https://buttondown.email/practopian">Buttondown</a>. </p>
+
+				If you&#8217;d like a convenient short URL to link to this piece, you can use <a href="https://pract.org/=$shortid$=.html">pract.org/=$shortid$=.html</a>.
 				Or feel free to simply share this piece using one of the social media buttons below!
 				</p>
 				</div>
-
 
 			</main>
 
@@ -99,10 +94,9 @@
   				LinkedIn
   			</a>
 
-				<a class="btn btn-primary m-2" style="background-color: #55acee" role="button" rel="noopener"
-   href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fpractopian.org%2F=$pr-path$=%2F=$title&f$=.html&text==$title&caaa+$=+by+%40herbbowie&hashtags=">
-  				<i class="fab fa-twitter me-2"></i>
-  				Twitter
+				<a class="btn btn-primary m-2" style="background-color: #55acee" role="button" rel="noopener" onclick="shareToMastodon('=$title$=', 'https://practopian.org/=$pr2-path$=/=$title&f$=.html');" />
+  				<i class="fab fa-mastodon me-2"></i>
+  				Mastodon
   			</a>
 
   			<a href="#" class="btn btn-outline-secondary m-2" role="button">
@@ -110,12 +104,20 @@
   			</a>
 
 			</div>
+			
+			<hr />
+			
+			<div>
+			
+				<p>There&#8217;s never any charge to read my words here, but if you&#8217;d like to show your appreciation for my work, small gifts are always appreciated!</p>
+			
+				<div class="d-flex justify-content-center">
+			
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Donate via Ko-fi', '#29abe0', 'Z8Z0H6EWS');kofiwidget2.draw();</script> 
 
-			<p>
+				</div>
 
-
-
-			</p>
+			</div>
 
 		</div>
 
