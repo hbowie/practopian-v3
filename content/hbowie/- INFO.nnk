@@ -8,17 +8,25 @@ Sort Parm: 0
 
 Sort Descending: false
 
+Sort Blank Dates Last: true
+
 Other Fields Allowed: false
 
-Last Index Selected: 76
+Last Index Selected: 111
 
 Mirror Auto Index: false
 
 Display Body Label: true
 
+Minimum Body Edit View Height: 5.0
+
 Title Display Option: h1
 
-Streamlined Reading: false
+Display Mode: normal
+
+Outline Tab: false
+
+Override Custom Display: false
 
 MathJax: false
 
@@ -30,11 +38,13 @@ Curly Apostrophes: true
 
 Ext Links Open in New Windows: true
 
+Scrolling Sync: false
+
 Note File Format: nnk
 
-Hash Tags: false
+Hash Tags: notenik-field
 
-Window Numbers: 525.0;0.0;1322.0;1415.0;540.0;
+Window Numbers: 1302.0;0.0;1247.0;1415.0;540.0;
 
-Column Widths: klass: 60, 80, 150; author: 100, 200, 1000; x: 12, 20, 50; rank: 50, 118, 1500; dateadded: 100, 180, 250; date: 80, 120, 500; datemod: 100, 180, 250; importance: 30, 80, 1500; seq: 30, 66, 1500; statusdigit: 20, 30, 50; category: 50, 126, 250; title: 200, 511, 1500; tags: 50, 100, 1200; 
+Column Widths: dateadded: 100, 180, 250; rank: 50, 118, 1500; seq: 30, 66, 1500; category: 50, 126, 250; title: 200, 511, 1500; klass: 60, 80, 150; datemod: 100, 180, 250; date: 80, 120, 500; tags: 50, 100, 1200; importance: 30, 80, 1500; author: 100, 200, 1000; statusdigit: 20, 30, 50; x: 12, 20, 50; 
 

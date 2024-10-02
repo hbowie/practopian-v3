@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Are Political Parties Doing Us More Harm Than Good?</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style>
+/* The following CSS comes from the darkModeAdjustments 
+   method of the DisplayPrefs class within Notenik. */
+:root {
+    color-scheme: light dark;
+    --background-color: #FFFFFF;
+    --text-color: #000000;
+    --link-color: Blue;
+    --link-hover-color: Blue;
+    --background-hover-color: #f0f0f0;
+    --link-visited-color: Purple;
+    --link-active-color: Red;
+    --background-active-color: #e0e0e0;
+    --highlight-color: Gainsboro
+}
+a.ext-link::after {
+    content: "";
+    width: 0.9em;
+    height: 0.9em;
+    margin-left: 0.2em;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z'/%3E%3Cpath fill-rule='evenodd' d='M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z'/%3E%3C/svg%3E");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+}
+@media screen and (prefers-color-scheme: dark) { 
+  :root {
+    --background-color: #000000;
+    --text-color: #F0F0F0;
+    --link-color: #93d5ff;
+    --link-hover-color: #94d8ff;
+    --background-hover-color: #282828;
+    --link-visited-color: #cab7ff;
+    --link-active-color: #94d8ff;
+    --background-active-color: #363636;
+    --highlight-color: DimGray
+  }
+    a.ext-link::after {
+        content: "";
+        width: 0.9em;
+        height: 0.9em;
+        margin-left: 0.2em;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' stroke='%23F0F0F0' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z'/%3E%3Cpath fill-rule='evenodd' d='M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z'/%3E%3C/svg%3E");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+        display: inline-block;
+    }
+}
+a {
+    color: var(--link-color);
+}
+a:focus {
+    color: var(--link-hover-color);
+    background: var(--background-hover-color);
+}
+a:hover {
+    color: var(--link-hover-color);
+    background: var(--background-hover-color);
+}
+a:active {
+    color: var(--link-active-color);
+    background: var(--background-active-color);
+}
+.search-results {
+    background-color: var(--highlight-color);
+}
+/* The following CSS comes from the displayCSS method of the
+   DisplayPrefs class within Notenik.                        */
+body {
+  tab-size: 4;
+  margin: 1em;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  line-height: 1.45;
+/* fontCSS insertion starts here */
+font-family: "Concourse 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 15pt;
+/* fontCSS insertion ends here   */
+}
+p {
+    margin-top: 0.2em;
+    margin-bottom: 0.7em;
+}
+blockquote {
+  border-left: 0.4em solid #999;
+  margin-left: 0;
+  padding-left: 1em;
+}
+.quote-from {
+    margin-block-start: 0.1rem;
+    margin-block-end: 0.5rem;
+    margin: 0.1rem 0 0.5rem 0;
+    padding: 0.25rem 2.4em;
+    line-height: 1.45;
+    position: relative;
+}
+.quote-from:before {
+    display: block;
+    padding-left: 1.4em;
+    content: "\2014";
+    position: absolute;
+    left: 0;
+}
+figure {
+  margin-left: 0.2em;
+  padding-left: 0.2em;
+}
+table, th, td {
+  border: 2px solid gray;
+}
+table {
+  border-collapse: collapse;
+  margin-bottom: 0.7em;
+}
+th, td {
+  padding: 6px;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+li { margin-top: 0.2em; margin-bottom: 0.2em; }
+ul.checklist { list-style-type: none; }
+ul.tags-list { list-style-type: none; }
+ul.tags-cloud {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  line-height: 2.5rem;
+}
+ul.tags-cloud a {
+  display: block;
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-decoration: none;
+  position: relative;
+  border-radius: 15px;
+  background-color: var(--highlight-color);
+  padding: 2px 12px 2px 12px;
+  margin: 10px 10px 10px 10px;
+  min-width: 40px;
+  text-align: center;
+}
+figure.notenik-quote-attrib {
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-bottom: 2em;
+}
+figure.notenik-quote-attrib blockquote {
+  border-left: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+figure.notenik-quote-attrib figcaption {
+    text-align: right;
+}
+ol.notenik-biblio-list {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+ol.notenik-biblio-list li {
+  margin-left: 3em;
+  text-indent: -3em;
+  margin-bottom: 1em;
+}
+cite.notenik-cite-major {
+  font-style: italic;
+}
+cite.notenik-cite-minor {
+  font-style: normal;
+}
+.notenik-aka {
+    font-style: italic;
+    text-align: center;
+    margin-top: 0;
+}
+ul.notenik-toc {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+table.notenik-calendar {
+  table-layout: fixed;
+  width: 100%;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+td.notenik-calendar-day-data {
+  vertical-align: top;
+}
+p.notenik-calendar-day-of-month {
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: right;
+  font-size: 1.2em;
+}
+p.notenik-calendar-day-contents {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+a:visited {
+    color: var(--link-visited-color);
+}
+a:active {
+    color: var(--link-active-color);
+}
+
+a.wiki-link {
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
+
+a.hashtag {
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
+
+a.ext-link {
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
+
+a.nav-link:link {
+    text-decoration: none;
+    border-bottom: none;
+}
+
+header {
+    text-align: center;
+}
+
+nav {
+    float: right;
+    font-style: italic;
+}
+
+nav ul {
+    margin-top: 0;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    text-decoration: none;
+    border-bottom: none;
+}
+
+nav ul li a.wiki-link {
+    text-decoration: none;
+    border-bottom: none;
+}
+
+footer {
+    clear: both;
+    border-top: 1px dashed var(--text-color);
+    margin-top: 1em;
+    font-size: 0.8em;
+    font-weight: lighter;
+    text-align: right;
+}
+
+footer p {
+    padding-top: 0.5em;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.heading-1-details {
+    margin-left: 2.2em;
+}
+.heading-2-details {
+    margin-left: 2.2em;
+}
+.heading-3-details {
+    margin-left: 2.2em;
+}
+.heading-4-details {
+    margin-left: 2.2em;
+}
+.heading-5-details {
+    margin-left: 2.2em;
+}
+.heading-6-details {
+    margin-left: 2.2em;
+}
+
+.heading-1-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-2-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-3-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-4-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-5-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-6-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+
+ul.outline-ul {
+    list-style-type: none;
+}
+ul.outline-ul-within-details {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 5px;
+}
+li.outline-li-bullet {
+    list-style-type: disc;
+    list-style-position: inside;
+}
+
+details {
+    margin-left: 2.2em;
+}
+summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+pre {
+    overflow-x: auto;
+}
+/* Generated CSS for headings follows. */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Equity A", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    margin-top: 0.7em;
+    margin-bottom: 0.2em;
+    font-style: normal;
+}
+h1 {
+    text-align: left;
+    font-size: 2.0em;
+}
+h2 {
+    text-align: left;
+    font-size: 1.8em;
+}
+h3 {
+    text-align: left;
+    font-size: 1.6em;
+}
+h4 {
+    text-align: left;
+    font-size: 1.4em;
+}
+h5 {
+    text-align: left;
+    font-size: 1.2em;
+}
+h6 {
+    text-align: left;
+    font-size: 1.0em;
+}
+
+</style>
+</head>
+<body>
+
+<main>
+<p><em><a href="notenik://expand?path=/Users/hbowie/Sites/practopian%203/content/hbowie&tag=balance" style="text-decoration: none">balance</a>, <a href="notenik://expand?path=/Users/hbowie/Sites/practopian%203/content/hbowie&tag=critical%20thinking" style="text-decoration: none">critical thinking</a>, <a href="notenik://expand?path=/Users/hbowie/Sites/practopian%203/content/hbowie&tag=governance" style="text-decoration: none">governance</a></em></p><h1 id="arepoliticalpartiesdoingusmoreharmthangood">Are Political Parties Doing Us More Harm Than Good?</h1>
+<figure>
+<img src="files/Are Political Parties Doing Us More Harm Than Good  | istock.jpg" alt="Democratic Donkey Vs Republican Elephant" title="Democratic Donkey Vs Republican Elephant" class="notenik-image" /><figcaption>Image Credit: <a href="https://www.istockphoto.com/vector/democratic-donkey-vs-republican-elephant-gm488507962-74171229" class="ext-link" target="_blank" rel="noopener">iStock / kbeis</a></figcaption></figure>
+<p>Status: 9 - Published</p><p>Type: blog</p><p>Featured: false</p><p>Greatest Hits: false</p><p>Category: 04 - Political</p><p>Importance: 20</p><p>Date: 25 Jun 2021 - Friday</p><p>Minutes to Read: 6</p><p>Image Name: istock</p><p>Image Alt: Democratic Donkey Vs Republican Elephant</p><p>Image Credit: iStock / kbeis</p><p>Image Credit Link: <a href="https://www.istockphoto.com/vector/democratic-donkey-vs-republican-elephant-gm488507962-74171229" class="ext-link" target="_blank" rel="noopener">https://www.istockphoto.com/vector/democratic-donkey-vs-republican-elephant-gm488507962-74171229</a></p><p>Medium Link: <a href="https://hbowie.medium.com/are-political-parties-doing-us-more-harm-than-good-e59aa655d6f5" class="ext-link" target="_blank" rel="noopener">https://hbowie.medium.com/are-political-parties-doing-us-more-harm-than-good-e59aa655d6f5</a></p><p>Substack Link: <a href="https://practopian.substack.com/p/political-parties-more-harm-than-good" class="ext-link" target="_blank" rel="noopener">https://practopian.substack.com/p/political-parties-more-harm-than-good</a></p><p>Short ID: ppdumhtg</p><p>Teaser: </p><p>I&#8217;ve been making the case lately that the Republican Party is in decline, and needs to reinvent itself. But perhaps something even more radical is needed. For when we look at the current state of our two-party system in the US, nothing about it makes any sense. </p><p>Body: </p><p>I&#8217;ve been making the case lately that the <a href="https://hbowie.medium.com/the-decline-of-the-republican-party-first-gradually-and-then-suddenly-5aa0c8784898" class="ext-link" target="_blank" rel="noopener">Republican Party is in decline</a>, and needs to <a href="https://hbowie.medium.com/where-exactly-are-the-republicans-headed-8dbfdb24604" class="ext-link" target="_blank" rel="noopener">reinvent itself</a>. </p>
+
+<p>But perhaps something even more radical is needed. </p>
+
+<p>For when we look at the current state of our two-party system in the US, nothing about it makes any sense. </p>
+
+<p>Here in Seattle, where I live, our mayor has announced that the current term will be her last, and so we have a whole host of new faces appearing in our primary, the results of which will determine the two candidates who will be competing for the mayoral seat in the fall. </p>
+
+<p>But neither of them will be a Republican. </p>
+
+<p>This is because our parties have largely <a href="https://www.nytimes.com/2021/06/21/us/politics/republicans-cities-elections-new-york.html" class="ext-link" target="_blank" rel="noopener">divvied up our national electorate along the urban/rural divide</a>, which means that a Republican mayor in one our big cities is about as likely as a snowball fight in Florida on the Fourth of July. </p>
+
+<p>Here in the state of Washington, starting in 2008, we have what are known as <a href="https://www.sos.wa.gov/elections/faqcandidates.aspx" class="ext-link" target="_blank" rel="noopener">Top 2 primaries</a>, meaning that the two candidates receiving the most votes in a primary move on to the general election &#8211; no matter what their party affiliation (or lack thereof). </p>
+
+<p>This innovative approach to our elections was, of course, not advanced by either of our parties, but was brought forward and made into law through our initiative process, and approved by almost 60% of the voters. </p>
+
+<p>What this means is that neither the candidates, nor the journalists, nor the voters, can simply check the usual boxes and mail in their efforts &#8211; we all have to start at ground zero, and evaluate issues and candidates without relying on rote party characterizations and preferences and affiliations. </p>
+
+<p>Which arguably results in a better informed electorate, and a more meaningful democratic process. </p>
+
+<p>And so what, exactly, are the Democrats and Republicans good for? </p>
+
+<p>Both of our modern parties are charter members of the mutual vilification society, in which they spend vast sums of money in order to raise more money in order to fund marketing campaigns based, not on the most accurate and pertinent facts, but on fine judgments of which attacks on which opponents will be most likely to motivate their members to dig ever deeper into their pockets, and perhaps even to show up at the polls on election day. </p>
+
+<p>And the result of all of this frenzied partisan activity? Is anyone educated in the process? Does anyone become smarter or better informed? I think not. Probably the most predictable result is that <a href="https://templatelab.com/public-trust-in-government/" class="ext-link" target="_blank" rel="noopener">citizens lose faith in their governments</a>, and increasing numbers of voters become, not just undecided, but <a href="https://news.gallup.com/poll/329639/support-third-political-party-high-point.aspx" class="ext-link" target="_blank" rel="noopener">disenchanted with our entire political process</a>. </p>
+
+<p>Is it any wonder? We have one of our parties largely representing urban and suburban voters, and encouraging them to vilify their country cousins as unsophisticated hicks, and another party representing the more sparsely populated regions of our country, and encouraging them to think of their cousins in the city as mad socialists marching for blood in the streets. </p>
+
+<p>I&#8217;m sure these depictions benefit someone, but I find it hard to believe they benefit our electorate, and and even harder to believe that the net effect is good for our country as a whole. </p>
+
+<p>So perhaps we shouldn&#8217;t be surprised to find ourselves living in an increasingly confused and divided country that finds it impossible to come to meaningful grips with any substantive issues. </p>
+
+<p>And we can thank both of our political parties for this sorry state of affairs. </p>
+
+<p>It is telling that some of our most compelling national figures of late &#8211; Donald Trump on the right, and Alexandria Ocasio-Cortez on the left &#8211; have risen to elected office, not through the channels of their respective parties, but despite the best efforts of the party machinery to promote more traditional candidates. </p>
+
+<p>Our media landscape has also been neatly divided along these same lines. Because the news outlets, like the parties, need steady infusions of cash, and the most reliable way to generate page views is to pit one side against the other in the most derisive fashion possible. (If you doubt this proposition, I submit <a href="https://www.nytimes.com/2021/06/17/opinion/frank-bruni-final-times-column.html" class="ext-link" target="_blank" rel="noopener">Frank Bruni&#8217;s final column for the New York Times</a> to you as substantiation.) </p>
+
+<p>Part of the problem, I&#8217;m convinced, is that the traditional alignment of our parties around the labels of <em>conservative</em> and <em>progressive</em> is not very helpful. As <a href="https://practopian.org/quotes/conservatives-and-progressives.html" class="ext-link" target="_blank" rel="noopener">G. K. Chesterton observed almost one hundred years ago</a>: </p>
+
+<blockquote>
+
+<p>The whole modern world has divided itself into Conservatives and Progressives. The business of Progressives is to go on making mistakes. The business of Conservatives is to prevent mistakes from being corrected.  </p>
+</blockquote>
+
+<p>And while these words sound like they might have been meant as a depiction of comic extremes, when we examine some of our current controversies, Chesterton&#8217;s words seem eerily prescient. For example, look at current debates about excessive use of force by police, especially against people of color. One side talks of defunding the police, while the other staunchly defends our boys in blue as universal saviors who are beyond reproach. And so any more nuanced discussions &#8211; say, of the perhaps excessive power and influence amassed by police unions, and the increasing militarization of our police, and the decreasing funding for social services &#8211; all seem to get lost in the noise generated by the <em>faux</em> debate between the two equally senseless extremes. </p>
+
+<p>But perhaps more to the point in our current era, the third decade of the 21st century doesn&#8217;t seem like an especially good time to center every discussion around the issue of conservative vs. progressive. Our modern world is facing a growing array of novel and challenging problems that will require measured innovation, and creative partnerships between government and industry, and as we confront these challenges, the traditional political talking points &#8211; socialism vs. capitalism, Christianity vs. other beliefs, foreign affairs vs. domestic, public investment vs. tax cuts &#8211; all seem increasingly like baggage that is slowing us down, and preventing us from actually dealing with the important stuff.  </p>
+
+<p>So what is the solution? Some are tempted to argue for a more centrist approach, but I think <a href="https://medium.com/s/story/is-there-any-middle-left-d1dcd9df484f" class="ext-link" target="_blank" rel="noopener">the fate of Howard Schulz&#8217;s stillborn 2020 presidential campaign</a> should serve as a cautionary warning about the growing irrelevance of <em>conservative</em> and <em>progressive</em> as defining labels: the judgment of voters seemed to be that, if the best you can do is define your position as being midway between these two traditional poles, then you must be even less relevant than either extreme &#8211; which puts you so far down the list that you have no business even running.  </p>
+
+<p>No, what I think we need are more independent problem-solvers focused on helping our entire nation. In some ways I think both Bernie Sanders and Joe Biden can serve as useful templates. Bernie ran for president in the Democratic primaries in 2020, but he has historically defined himself as an independent in the Senate, and has avoided any sort of strict allegiance to party leadership. </p>
+
+<p>And although Biden may at first appear to be an odd choice to pair with Sanders in this regard, I include him because of the following characteristics: </p>
+<ul>
+<li>his avoidance of strict adherence to any sort of progressive orthodoxy; </li>
+<li>his consistent emphasis on the need for government to deliver real solutions to real problems for real people ; </li>
+<li>his stated and demonstrated desire to find common ground among  a variety of perspectives, rather than using every issue as a new opportunity for political posturing. </li>
+</ul>
+
+<p>In the past our two-party system has helped to assure that our governments consider diverse viewpoints before forging compromise solutions that deliver optimal benefits to our country as a whole. </p>
+
+<p>But in our modern world of novel problems, industrial-scale fundraising, out-of-control social media, 24-hour news cycles, and growing urbanization, our political parties seem to be doing little to educate or unify us, and instead seem to be doing all they can to spread disinformation and further divide our already fractured society. </p>
+
+<p>Let&#8217;s all do everything we can to dive to the core of complex issues and seek out honest and authentic candidates who are focused on the hard work of governing, rather than the cheap thrills of seeking out their next soundbites so that they can gain a few more minutes in the national spotlight. </p>
+
+<p>It&#8217;s hard work, but it&#8217;s the work that needs to be done. </p>
+
+<!--
+[centrist]: https://practopian.org/blog/hbowie/is-there-any-middle-left.html
+[decline]: https://practopian.org/blog/hbowie/the-decline-of-the-republican-party-first-gradually-and-then-suddenly.html
+[where]: https://practopian.org/blog/hbowie/where-exactly-are-the-republicans-headed.html
+-->
+
+
+<hr />
+<p>Timestamp: 20210625145241</p>
+
+</main>
+</body>
+</html>

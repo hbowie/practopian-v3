@@ -1,22 +1,32 @@
 Title: practopian 3 topics
 
+Title Set by User: true
+
 Link: /Users/hbowie/Sites/practopian 3/content/topics
 
 Sort Parm: 0
 
 Sort Descending: false
 
+Sort Blank Dates Last: true
+
 Other Fields Allowed: false
 
-Last Index Selected: 6
+Last Index Selected: 25
 
 Mirror Auto Index: false
 
 Display Body Label: true
 
+Minimum Body Edit View Height: 5.0
+
 Title Display Option: p bold
 
-Streamlined Reading: false
+Display Mode: normal
+
+Outline Tab: false
+
+Override Custom Display: false
 
 MathJax: false
 
@@ -26,9 +36,15 @@ Missing Targets: false
 
 Curly Apostrophes: true
 
-Window Numbers: 210.0;0.0;1250.0;1415.0;451.5;
+Ext Links Open in New Windows: false
+
+Scrolling Sync: false
 
 Note File Format: nnk
 
-Hash Tags: false
+Hash Tags: notenik-field
+
+Window Numbers: 1277.0;0.0;1250.0;1415.0;451.5;
+
+Column Widths: rank: 50, 80, 250; title: 200, 422, 1500; statusdigit: 20, 30, 50; dateadded: 100, 180, 250; seq: 30, 80, 250; x: 12, 20, 50; date: 80, 120, 500; datemod: 100, 180, 250; tags: 50, 100, 1200; klass: 60, 80, 150; author: 100, 200, 1000; 
 

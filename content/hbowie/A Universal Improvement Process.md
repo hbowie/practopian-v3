@@ -8,7 +8,7 @@ Status: 9 - Published
 
 Type:   blog
 
-Featured: true
+Featured: false
 
 Greatest Hits: false
 
@@ -16,7 +16,7 @@ Category: 01 - Foundational
 
 Importance: 1
 
-Date:   13 May 2023
+Date:   2023-05-13
 
 Minutes to Read: 5
 
@@ -37,7 +37,7 @@ These are the elements of a generalized improvement process, integrating compone
 
 Body:
 
-{:outline}
+{:outline-headings}
 All living things are interested in improvement, whether it's improving ourselves, our society, our processes, our products, or our species.
 
 But how does improvement work?

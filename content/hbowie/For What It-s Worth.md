@@ -6,7 +6,7 @@ Status: 9 - Published
 
 Type:   appreciation
 
-Featured: false
+Featured: true
 
 Greatest Hits: false
 
@@ -14,7 +14,7 @@ Category: 05 - Critical
 
 Importance: 66
 
-Date:   31 Jan 2022
+Date:   2022-01-31
 
 Minutes to Read: 6
 
@@ -23,6 +23,10 @@ Image Name: Buffalo Springfield album
 Image Alt: The Buffalo Springfield album cover
 
 Short ID: whwo
+
+Teaser:
+
+An appreciation for this classic understated song about the sixties counter-culture. 
 
 Body:
 

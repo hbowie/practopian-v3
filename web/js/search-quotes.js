@@ -1,9 +1,15 @@
 let searchQuotes = [
 	{
+		title: "The Seventh Generation Principle",
+		date: "",
+    url: "quotes/the-seventh-generation-principle.html",
+		content: "In our every deliberation we must consider the impact of our decisions on the next seven generations    "
+	},
+	{
 		title: "A law against private jets",
 		date: "09 Apr 2019",
     url: "quotes/a-law-against-private-jets.html",
-		content: "If I were queen of the world I would pass a law against private jets because they enable you to get around a certain reality You don t have to go through an airport terminal you don t have to interact you don t have to be patient you don t have to be uncomfortable These are the things that remind us we re human Abigail Disney Disney family fortune heir The Cut Podcast "
+		content: "If I were queen of the world I would pass a law against private jets because they enable you to get around a certain reality You don t have to go through an airport terminal you don t have to interact you don t have to be patient you don t have to be uncomfortable These are the things that remind us we re human Abigail Disney American documentary film producer, philanthropist, and social activist The Cut Podcast "
 	},
 	{
 		title: "The better angels of our nature",
@@ -28,6 +34,12 @@ let searchQuotes = [
 		date: "Dec. 3, 1861",
     url: "quotes/labor-is-the-superior-of-capital.html",
 		content: "Labor is prior to and independent of capital Capital is only the fruit of labor and could never have existed if labor had not first existed Labor is the superior of capital and deserves much the higher consideration Abraham Lincoln American statesman and lawyer Speech to Congress "
+	},
+	{
+		title: "Computer Errors",
+		date: "1968",
+    url: "quotes/computer-errors.html",
+		content: "I know there s a proverb which says To err is human but a human error is nothing to what a computer can do if it tries Agatha Christie  Halloween Party "
 	},
 	{
 		title: "The best way to predict the future is to invent it",
@@ -147,25 +159,25 @@ let searchQuotes = [
 		title: "No person in America should be too poor to live",
 		date: "28 Jun 2018",
     url: "quotes/no-person-in-america-should-be-too-poor-to-live.html",
-		content: "For me democratic socialism is about really the value for me is that I believe that in a modern moral and wealthy society no person in America should be too poor to live Alexandria Ocasio-Cortez  Stephen Colbert Show "
+		content: "For me democratic socialism is about really the value for me is that I believe that in a modern moral and wealthy society no person in America should be too poor to live Alexandria Ocasio-Cortez American politician and activist Stephen Colbert Show "
 	},
 	{
 		title: "The exercise of the intellect",
 		date: "1835",
     url: "quotes/the-exercise-of-the-intellect.html",
-		content: "From the time when the exercise of the intellect became a source of strength and of wealth we see that every addition to science every fresh truth and every new idea became a germ of power placed within the reach of the people Alexis de Tocqueville  Democracy in America "
+		content: "From the time when the exercise of the intellect became a source of strength and of wealth we see that every addition to science every fresh truth and every new idea became a germ of power placed within the reach of the people Alexis de Tocqueville French aristocrat, diplomat, political scientist, political philosopher and historian Democracy in America "
 	},
 	{
 		title: "The wonder remains",
 		date: "1938",
     url: "quotes/the-wonder-remains.html",
-		content: "Philosophy begins in wonder And at the end when philosophic thought has done its best the wonder remains Alfred North Whitehead  Modes of Thought "
+		content: "Philosophy begins in wonder And at the end when philosophic thought has done its best the wonder remains Alfred North Whitehead English mathematician and philosopher Modes of Thought "
 	},
 	{
 		title: "The Art of Progress",
 		date: "",
     url: "quotes/the-art-of-progress.html",
-		content: "The art of progress is to preserve order amid change and to preserve change amid order Alfred North Whitehead  unknown "
+		content: "The art of progress is to preserve order amid change and to preserve change amid order Alfred North Whitehead English mathematician and philosopher unknown "
 	},
 	{
 		title: "Words that are empowered that make your hair stand on end",
@@ -198,6 +210,12 @@ let searchQuotes = [
 		content: "The following four principles each based on an archetype comprise what I call the Four Fold Way 1 <em>Show up or choose to be present < em> Being present allows us to access the human resources of power presence and communication This is the way of the Warrior 2 <em>Pay attention to what has heart and meaning < em> Paying attention opens us to the human resources of love gratitude acknowledgment and validation This is the way of the Healer 3 <em>Tell the truth without blame or judgment < em> Nonjudgmental truthfulness maintains our authenticity and develops our inner vision and intuition This is the way of the Visionary 4 <em>Be open to outcome not attached to outcome < em> Openness and nonattachment help us to recover the human resources of wisdom and objectivity This is the way of the Teacher Angeles Arrien A Basque-American cultural anthropologist, educator, author, lecturer and consultant The Four-Fold Way "
 	},
 	{
+		title: "Life is not like formula fiction",
+		date: "1994",
+    url: "quotes/life-is-not-like-formula-fiction.html",
+		content: "Life is not like formula fiction The villain has a heart and the hero has great flaws Anne Lamott American novelist and non-fiction writer Bird by Bird: Some Instructions on Writing and Life "
+	},
+	{
 		title: "Fuzzy Concept",
 		date: "",
     url: "quotes/fuzzy-concept.html",
@@ -208,6 +226,12 @@ let searchQuotes = [
 		date: "1974",
     url: "quotes/excitement-from-art.html",
 		content: "The excitement we derive from a work of art is mostly the excitement of seeing connections that did not exist before of seeing quite different aspects of life unified through a pattern Anthony Burgess English writer and composer English Literature: A Survey for Students "
+	},
+	{
+		title: "The heart of liberty",
+		date: "1992",
+    url: "quotes/the-heart-of-liberty.html",
+		content: "At the heart of liberty is the right to define one s own concept of existence of meaning of the universe and of the mystery of human life Anthony M. Kennedy American lawyer and jurist Planned Parenthood v. Casey US Supreme Court opinion "
 	},
 	{
 		title: "The Extent of Freedom in All of its Dimensions",
@@ -225,31 +249,31 @@ let searchQuotes = [
 		title: "Accidents of birth",
 		date: "2016",
     url: "quotes/accidents-of-birth.html",
-		content: "Today Americans still feel that by and large every individual is responsible for constructing his or her own fate the classic pursuit of happiness and there is still much debate in the United States about the extent to which if at all an individual s success or failure is also shaped by accidents of birth Nordic people have long ago moved beyond this debate To most Nordics it s completely obvious that an accident of birth like being born into poverty or a neighborhood without a good school can severely disadvantage an individual and destroy any chances of success no matter what he or she does Anu Partanen  The Nordic Theory of Everything: In Search of a Better Life "
+		content: "Today Americans still feel that by and large every individual is responsible for constructing his or her own fate the classic pursuit of happiness and there is still much debate in the United States about the extent to which if at all an individual s success or failure is also shaped by accidents of birth Nordic people have long ago moved beyond this debate To most Nordics it s completely obvious that an accident of birth like being born into poverty or a neighborhood without a good school can severely disadvantage an individual and destroy any chances of success no matter what he or she does Anu Partanen Finnish journalist living in the United States The Nordic Theory of Everything: In Search of a Better Life "
 	},
 	{
 		title: "Independence, freedom and opportunity for every member of society",
 		date: "2016",
     url: "quotes/independence-freedom-and-opportunity-for-every-member-of-society.html",
-		content: "At the same time the Nordic theory of love has become an overarching philosophy about how to structure a society As such it has inspired the broad variety of policy choices in the Nordic nations that together ensure a single predominant goal independence freedom and opportunity for every member of society Anu Partanen  The Nordic Theory of Everything: In Search of a Better Life "
+		content: "At the same time the Nordic theory of love has become an overarching philosophy about how to structure a society As such it has inspired the broad variety of policy choices in the Nordic nations that together ensure a single predominant goal independence freedom and opportunity for every member of society Anu Partanen Finnish journalist living in the United States The Nordic Theory of Everything: In Search of a Better Life "
 	},
 	{
 		title: "Nordic societies have simply taken the job of government seriously",
 		date: "2016",
     url: "quotes/nordic-societies-have-simply-taken-the-job-of-government-seriously.html",
-		content: "Overall the secret to Nordic success is not complicated Nordic societies have simply taken the job of government seriously They make mistakes and have their troubles but they keep tweaking their systems in search of improvements and they work hard to balance the books They prove that there is nothing inherent in government that automatically makes it less efficient for arranging social services than the private sector Anu Partanen  The Nordic Theory of Everything: In Search of a Better Life "
+		content: "Overall the secret to Nordic success is not complicated Nordic societies have simply taken the job of government seriously They make mistakes and have their troubles but they keep tweaking their systems in search of improvements and they work hard to balance the books They prove that there is nothing inherent in government that automatically makes it less efficient for arranging social services than the private sector Anu Partanen Finnish journalist living in the United States The Nordic Theory of Everything: In Search of a Better Life "
 	},
 	{
 		title: "The US remains astonishingly backward when it comes to education",
 		date: "2016",
     url: "quotes/the-us-remains-astonishingly-backward-when-it-comes-to-education.html",
-		content: "It s an unfortunate fact that the United States remains astonishingly backward compared to almost all other advanced Western countries when it comes to education because in America what predicts how well a child will do in school is not a child s aptitude or hard work but the status of the child s parents which is to say their own levels of education and wealth Other countries suffer from this condition too but the United States is especially anachronistic And it s getting worse The influence of this wealth predictor in the United States today has only been growing stronger in recent years Anu Partanen  The Nordic Theory of Everything: In Search of a Better Life "
+		content: "It s an unfortunate fact that the United States remains astonishingly backward compared to almost all other advanced Western countries when it comes to education because in America what predicts how well a child will do in school is not a child s aptitude or hard work but the status of the child s parents which is to say their own levels of education and wealth Other countries suffer from this condition too but the United States is especially anachronistic And it s getting worse The influence of this wealth predictor in the United States today has only been growing stronger in recent years Anu Partanen Finnish journalist living in the United States The Nordic Theory of Everything: In Search of a Better Life "
 	},
 	{
 		title: "You can simply focus on raising a human being",
 		date: "2016",
     url: "quotes/you-can-simply-focus-on-raising-a-human-being.html",
-		content: "Imagine then what it s like to be a Nordic parent You can simply focus on raising a human being in an age appropriate way at every stage without ever once feeling guilty that you re not saving enough money or not making enough money to secure them the college education they ll need to avoid ending up in the gutter Anu Partanen  The Nordic Theory of Everything: In Search of a Better Life "
+		content: "Imagine then what it s like to be a Nordic parent You can simply focus on raising a human being in an age appropriate way at every stage without ever once feeling guilty that you re not saving enough money or not making enough money to secure them the college education they ll need to avoid ending up in the gutter Anu Partanen Finnish journalist living in the United States The Nordic Theory of Everything: In Search of a Better Life "
 	},
 	{
 		title: "We don't even own suits",
@@ -273,7 +297,7 @@ let searchQuotes = [
 		title: "The welfare of the whole human race",
 		date: "",
     url: "quotes/the-welfare-of-the-whole-human-race.html",
-		content: "The twentieth century will be chiefly remembered by future generations not as an era of political conflicts or technical inventions but as an age in which human society dared to think of the welfare of the whole human race as a practical objective Arnold J. Toynbee   "
+		content: "The twentieth century will be chiefly remembered by future generations not as an era of political conflicts or technical inventions but as an age in which human society dared to think of the welfare of the whole human race as a practical objective Arnold J. Toynbee English historian, a philosopher of history, an author of numerous books and a research professor of international history  "
 	},
 	{
 		title: "The Makers of Things",
@@ -283,7 +307,7 @@ let searchQuotes = [
 	},
 	{
 		title: "Immigration is tough, and it always has been",
-		date: "18 Sep 2021",
+		date: "2021-09-18",
     url: "quotes/immigration-is-tough-and-it-always-has-been.html",
 		content: "Immigration is tough It always has been because on the one hand I think we are naturally a people that wants to help others And we see tragedy and hardship and families that are desperately trying to get here so that their kids are safe and they re in some cases fleeing violence or catastrophe At the same time we re a nation state We have borders The idea that we can just have open borders is something that as a practical matter is unsustainable Barack Obama American politician and attorney who served as the 44th president of the United States from 2009 to 2017 ABC News Interview with Barack Obama on 18 Sep 2021 "
 	},
@@ -315,31 +339,31 @@ let searchQuotes = [
 		title: "Notions to Explain Nature",
 		date: "1677",
     url: "quotes/notions-to-explain-nature.html",
-		content: "We see therefore that all the notions whereby the common people are wont to explain Nature are merely modes of imagining and denote not the nature of anything but only the constitution of the imagination Baruch Spinoza  The Ethics "
+		content: "We see therefore that all the notions whereby the common people are wont to explain Nature are merely modes of imagining and denote not the nature of anything but only the constitution of the imagination Baruch Spinoza One of the foremost and seminal thinkers of the Enlightenment, modern biblical criticism, and 17th-century Rationalism The Ethics "
 	},
 	{
 		title: "Freedom of Judgment",
 		date: "1670",
     url: "quotes/freedom-of-judgment.html",
-		content: "Since we have the rare good fortune to live in a commonwealth where the freedom of judgment is fully granted to the individual citizen and he may worship God as he pleases and where nothing is esteemed dearer and more precious than freedom I think I am undertaking no ungrateful or unprofitable task in demonstrating that not only can this freedom be granted without endangering piety and the peace of the commonwealth but also the peace of the commonwealth and piety depend on this freedom Baruch Spinoza  Tractatus Theologico-Politicus "
+		content: "Since we have the rare good fortune to live in a commonwealth where the freedom of judgment is fully granted to the individual citizen and he may worship God as he pleases and where nothing is esteemed dearer and more precious than freedom I think I am undertaking no ungrateful or unprofitable task in demonstrating that not only can this freedom be granted without endangering piety and the peace of the commonwealth but also the peace of the commonwealth and piety depend on this freedom Baruch Spinoza One of the foremost and seminal thinkers of the Enlightenment, modern biblical criticism, and 17th-century Rationalism Tractatus Theologico-Politicus "
 	},
 	{
 		title: "The stagnation of American middle-class living standards",
 		date: "2005",
     url: "quotes/the-stagnation-of-american-middle-class-living-standards.html",
-		content: "I believe that the rising intolerance and incivility and the eroding generosity and openness that have marked important aspects of American society in the recent past have been in significant part a consequence of the stagnation of American middle class living standards Ben Friedman  The Moral Consequences of Economic Growth "
+		content: "I believe that the rising intolerance and incivility and the eroding generosity and openness that have marked important aspects of American society in the recent past have been in significant part a consequence of the stagnation of American middle class living standards Ben Friedman American political economist The Moral Consequences of Economic Growth "
 	},
 	{
 		title: "Every Body cries, a Union is absolutely necessary",
 		date: "29 December 1754",
     url: "quotes/every-body-cries-a-union-is-absolutely-necessary.html",
-		content: "Every Body cries a Union is absolutely necessary but when they come to the Manner and Form of the Union their weak Noddles are perfectly distracted Benjamin Franklin  The Writings of Benjamin Franklin "
+		content: "Every Body cries a Union is absolutely necessary but when they come to the Manner and Form of the Union their weak Noddles are perfectly distracted Benjamin Franklin American polymath who was active as a writer, scientist, inventor, statesman, diplomat, printer, publisher, and political philosopher. The Writings of Benjamin Franklin "
 	},
 	{
 		title: "Art is a Hammer",
 		date: "",
     url: "quotes/art-is-a-hammer.html",
-		content: "Art is not a mirror held up to reality but a hammer with which to shape it Bertolt Brecht  Unknown "
+		content: "Art is not a mirror held up to reality but a hammer with which to shape it Bertolt Brecht German theatre practitioner, playwright, and poet Unknown "
 	},
 	{
 		title: "The Celestial Teapot",
@@ -369,13 +393,13 @@ let searchQuotes = [
 		title: "Digging up fossil fuels and setting them alight",
 		date: "2019",
     url: "quotes/digging-up-fossil-fuels-and-setting-them-alight.html",
-		content: "For two hundred years human economic activity has largely consisted of digging up fossil fuels and setting them alight and while two hundred years seems like a long time to us in geological terms it s like a bat out of well out of hell We re currently injecting carbon dioxide into the atmosphere ten times faster than during the End Permiasn which was just to repeat the worst event in the earth s history Bill McKibben  Falter: Has the Human Game Begun to Play Itself Out? "
+		content: "For two hundred years human economic activity has largely consisted of digging up fossil fuels and setting them alight and while two hundred years seems like a long time to us in geological terms it s like a bat out of well out of hell We re currently injecting carbon dioxide into the atmosphere ten times faster than during the End Permiasn which was just to repeat the worst event in the earth s history Bill McKibben American environmentalist, author, and journalist Falter: Has the Human Game Begun to Play Itself Out? "
 	},
 	{
 		title: "The Human Experiment is Now in Question",
 		date: "2019",
     url: "quotes/the-human-experiment-is-now-in-question.html",
-		content: "Put simply between ecological destruction and technological hubris the human experiment is now in question The stakes feel very high and the odds very long and the trends very ominous Bill McKibben  Falter: Has the Human Game Begun to Play Itself Out? "
+		content: "Put simply between ecological destruction and technological hubris the human experiment is now in question The stakes feel very high and the odds very long and the trends very ominous Bill McKibben American environmentalist, author, and journalist Falter: Has the Human Game Begun to Play Itself Out? "
 	},
 	{
 		title: "The Team, The Team, The Team",
@@ -387,7 +411,7 @@ let searchQuotes = [
 		title: "The Songs are my Lexicon",
 		date: "1997",
     url: "quotes/the-songs-are-my-lexicon.html",
-		content: "Here s the thing with me and the religious thing This is the flat out truth I find the religiosity and philosophy in the music I don t find it anywhere else Songs like Let Me Rest on a Peaceful Mountain or I Saw the Light that s my religion I don t adhere to rabbis preachers evangelists all of that I ve learned more from the songs than I ve learned from any of this kind of entity The songs are my lexicon I believe the songs Bob Dylan American singer-songwriter, author and visual artist Bob Dylan 1997 Interview for Newsweek "
+		content: "Here s the thing with me and the religious thing This is the flat out truth I find the religiosity and philosophy in the music I don t find it anywhere else Songs like Let Me Rest on a Peaceful Mountain or I Saw the Light that s my religion I don t adhere to rabbis preachers evangelists all of that I ve learned more from the songs than I ve learned from any of this kind of entity The songs are my lexicon I believe the songs Bob Dylan American journalist and novelist Bob Dylan 1997 Interview for Newsweek "
 	},
 	{
 		title: "Living happily ever after",
@@ -399,7 +423,7 @@ let searchQuotes = [
 		title: "A diminishing sense of shared humanity",
 		date: "2017",
     url: "quotes/a-diminishing-sense-of-shared-humanity.html",
-		content: "In grounded theory researchers try to understand what we call the main concern of study participants When it comes to belonging I asked What are people trying to achieve What are they worried about The answer was surprisingly complex They want to be a part of something to experience real connection with others but not at the cost of their authenticity freedom or power Participants further reported feeling surrounded by us versus them cultures that create feelings of spiritual disconnection When I dug deeper into what they meant by spiritually disconnected the research participants described a diminishing sense of shared humanity Over and over participants talked about their concern that the only thing that binds us together now is shared fear and disdain not common humanity shared trust respect or love Brené Brown  Braving the Wilderness: The Quest for True Belonging and the Courage to Stand Alone "
+		content: "In grounded theory researchers try to understand what we call the main concern of study participants When it comes to belonging I asked What are people trying to achieve What are they worried about The answer was surprisingly complex They want to be a part of something to experience real connection with others but not at the cost of their authenticity freedom or power Participants further reported feeling surrounded by us versus them cultures that create feelings of spiritual disconnection When I dug deeper into what they meant by spiritually disconnected the research participants described a diminishing sense of shared humanity Over and over participants talked about their concern that the only thing that binds us together now is shared fear and disdain not common humanity shared trust respect or love Brené Brown American professor, author, and podcast host Braving the Wilderness: The Quest for True Belonging and the Courage to Stand Alone "
 	},
 	{
 		title: "Cooperative communication",
@@ -417,31 +441,37 @@ let searchQuotes = [
 		title: "I learned a lot of things from failure",
 		date: "2008",
     url: "quotes/i-learned-a-lot-of-things-from-failure.html",
-		content: "I learned a lot of things from failure When you play 162 games I don t think any sport emulates life like baseball You play football once a week or basketball twice But you start playing baseball you play every day day in and day out And you understand in a hurry that you re going to have bad days and bad nights You re going to have bad weeks and you just have to make up your mind that hey tomorrow s tomorrow and you forget about it Brooks Robinson  We Would Have Played For Nothing "
+		content: "I learned a lot of things from failure When you play 162 games I don t think any sport emulates life like baseball You play football once a week or basketball twice But you start playing baseball you play every day day in and day out And you understand in a hurry that you re going to have bad days and bad nights You re going to have bad weeks and you just have to make up your mind that hey tomorrow s tomorrow and you forget about it Brooks Robinson American third baseman in Major League Baseball who played his entire career for the Baltimore Orioles We Would Have Played For Nothing "
 	},
 	{
 		title: "A Long Conversation",
 		date: "2009-Jan-05",
     url: "quotes/a-long-conversation.html",
-		content: "At this point I m in the middle of a very long conversation with my audience It s an ongoing dialogue about what living means You create a space together You are involved in an act of the imagination together imagining the life you want to live the kind of country you want to live in the kind of place you want to leave to your children What are the things that bring you ecstasy and bliss what are the things that bring on the darkness and what can we do together to combat those things That s the dialogue I have in my imagination when I m writing I have it in front of me when I m performing Bruce Springsteen  Rolling Stone 2007 "
+		content: "At this point I m in the middle of a very long conversation with my audience It s an ongoing dialogue about what living means You create a space together You are involved in an act of the imagination together imagining the life you want to live the kind of country you want to live in the kind of place you want to leave to your children What are the things that bring you ecstasy and bliss what are the things that bring on the darkness and what can we do together to combat those things That s the dialogue I have in my imagination when I m writing I have it in front of me when I m performing Bruce Springsteen American rock singer, songwriter and guitarist Rolling Stone 2007 "
 	},
 	{
 		title: "The Trick in Keeping Bands Together",
 		date: "2009-Jan-05",
     url: "quotes/the-trick-in-keeping-bands-together.html",
-		content: "The trick in keeping bands together is always the same Hey asshole the guy standing next to you is more important than you think he is Bruce Springsteen  Rolling Stone 2009-Jan-05 "
+		content: "The trick in keeping bands together is always the same Hey asshole the guy standing next to you is more important than you think he is Bruce Springsteen American rock singer, songwriter and guitarist Rolling Stone 2009-Jan-05 "
 	},
 	{
 		title: "The Enormous Extension of our Being",
 		date: "1961",
     url: "quotes/the-enormous-extension-of-our-being.html",
-		content: "Those of us who have been true readers all our life seldom fully realize the enormous extension of our being which we owe to authors We realize it best when we talk with an unliterary friend He may be full of goodness and good sense but he inhabits a tiny world In it we should be suffocated The man who is contented to be only himself and therefore less a self is in prison My own eyes are not enough for me I will see through those of others Reality even seen through the eyes of many is not enough I will see what others have invented Even the eyes of all humanity are not enough I regret that the brutes cannot write books Very gladly would I learn what face things present to a mouse or a bee more gladly still would I perceive the olfactory world charged with all the information and emotion it carries for a dog C. S. Lewis  An Experiment in Criticism "
+		content: "Those of us who have been true readers all our life seldom fully realize the enormous extension of our being which we owe to authors We realize it best when we talk with an unliterary friend He may be full of goodness and good sense but he inhabits a tiny world In it we should be suffocated The man who is contented to be only himself and therefore less a self is in prison My own eyes are not enough for me I will see through those of others Reality even seen through the eyes of many is not enough I will see what others have invented Even the eyes of all humanity are not enough I regret that the brutes cannot write books Very gladly would I learn what face things present to a mouse or a bee more gladly still would I perceive the olfactory world charged with all the information and emotion it carries for a dog C. S. Lewis British writer, literary scholar, and Anglican lay theologian An Experiment in Criticism "
 	},
 	{
 		title: "Mastery of Inner and Outer Worlds",
 		date: "1962",
     url: "quotes/mastery-of-inner-and-outer-worlds.html",
 		content: "Mastery of the inner world with a relative contempt for the outer must inevitably lead to great catastrophe Mastery of the outer world to the exclusion of the inner delivers us over to the demonic forces of the latter and keeps us barbaric despite all outward forms of culture Carl Jung Swiss psychiatrist and psychoanalyst who founded analytical psychology  "
+	},
+	{
+		title: "Until you make the unconscious conscious",
+		date: "1951",
+    url: "quotes/until-you-make-the-unconscious-conscious.html",
+		content: "Until you make the unconscious conscious it will direct your life and you will call it fate Carl Jung Swiss psychiatrist and psychoanalyst who founded analytical psychology  "
 	},
 	{
 		title: "Bathing in mystery and confusion",
@@ -468,6 +498,12 @@ let searchQuotes = [
 		content: "On the basis of all the evidence the closest relative of the human proves to be the chimp The closest relative of the chimp is the human Not orangs but people Us Chimps and humans are nearer kin than are chimps and gorillas or any other kinds of ape not of the same species Carl Sagan and Ann Druyan American astronomer, planetary scientist, cosmologist, astrophysicist, astrobiologist, author, and science communicator; American writer, producer, and director. Shadows of Forgotten Ancestors: A Search for Who We Are "
 	},
 	{
+		title: "A raving demagogue counseling hatred",
+		date: "1993",
+    url: "quotes/a-raving-demagogue-counseling-hatred.html",
+		content: "So next time you hear a raving demagogue counseling hatred for other slightly different groups of humans for a moment at least see if you can understand his problem He is heeding an ancient call that however dangerous obsolete and maladaptive it may be today once benefitted our species Carl Sagan and Ann Druyan American astronomer, planetary scientist, cosmologist, astrophysicist, astrobiologist, author, and science communicator; American writer, producer, and director. Shadows of Forgotten Ancestors: A Search for Who We Are "
+	},
+	{
 		title: "Everything had nuance",
 		date: "2017",
     url: "quotes/everything-had-nuance.html",
@@ -483,19 +519,19 @@ let searchQuotes = [
 		title: "To simply see human beings",
 		date: "28 Apr 2018",
     url: "quotes/to-simply-see-human-beings.html",
-		content: "If I ask you all today to look around and tell me who you see When you look around I don t want you to see black white Asian I don t want you to wonder if a person is Democrat or Republican gay or straight When you look around I just want you to simply see human beings nothing more nothing less And I guarantee you if you can begin to see people that way just as human beings you ll begin to treat them a little differently you ll begin to understand their points of view Charles Woodson  2018 University of Michigan Spring Commencement Address "
+		content: "If I ask you all today to look around and tell me who you see When you look around I don t want you to see black white Asian I don t want you to wonder if a person is Democrat or Republican gay or straight When you look around I just want you to simply see human beings nothing more nothing less And I guarantee you if you can begin to see people that way just as human beings you ll begin to treat them a little differently you ll begin to understand their points of view Charles Woodson American football player who won a Heisman Trophy playing for the Michigan Wolverines 2018 University of Michigan Spring Commencement Address "
 	},
 	{
 		title: "Model II Decision-Making",
 		date: "1974",
     url: "quotes/model-ii-decision-making.html",
-		content: "Model II encourages the individual to maximize his uniqueness If in doing so he should arrive at goals that differ from those developed by others he will have done so under conditions of openness trust and risk taking The individual would therefore feel free to discuss his differences openly with the group Moreover if the individual is in a subordinate power position and if he feels he had adequate opportunity to dissuade the group and that the group publicly confronted and tested all differences then the individual will probably be motivated to work toward the group goal but still be motivated to generate new information that may change the group s decision This means that one can be externally committed to a decision and internally committed to the decision making processes that produced the decision yet simultaneously monitor the consequences of the decision thoroughly to seek new valid information to reconfront the decision without being considered disloyal In the model II world conflicts do not disappear indeed the illusion of conflict disappearing is more typical of the model I world in which conflicts are settled by power plays based on sanctions charisma or loyalty Chris Argyris and Donald Schön  Theory in Practice: Increasing Personal Effectiveness "
+		content: "Model II encourages the individual to maximize his uniqueness If in doing so he should arrive at goals that differ from those developed by others he will have done so under conditions of openness trust and risk taking The individual would therefore feel free to discuss his differences openly with the group Moreover if the individual is in a subordinate power position and if he feels he had adequate opportunity to dissuade the group and that the group publicly confronted and tested all differences then the individual will probably be motivated to work toward the group goal but still be motivated to generate new information that may change the group s decision This means that one can be externally committed to a decision and internally committed to the decision making processes that produced the decision yet simultaneously monitor the consequences of the decision thoroughly to seek new valid information to reconfront the decision without being considered disloyal In the model II world conflicts do not disappear indeed the illusion of conflict disappearing is more typical of the model I world in which conflicts are settled by power plays based on sanctions charisma or loyalty Chris Argyris and Donald Schön American business theorist and professor Theory in Practice: Increasing Personal Effectiveness "
 	},
 	{
 		title: "Model II Values",
 		date: "1974",
     url: "quotes/model-ii-values.html",
-		content: "Clearly Model II touches on values that are central to social life and to the traditions of moral philosophy freedom of choice truth and testability the nature of commitment the possibilities for and limitations on openness in communication among individuals the basis for trust and cooperation among human beings the sources of long term personal effectiveness Chris Argyris and Donald Schön  Theory in Practice: Increasing Personal Effectiveness "
+		content: "Clearly Model II touches on values that are central to social life and to the traditions of moral philosophy freedom of choice truth and testability the nature of commitment the possibilities for and limitations on openness in communication among individuals the basis for trust and cooperation among human beings the sources of long term personal effectiveness Chris Argyris and Donald Schön American business theorist and professor Theory in Practice: Increasing Personal Effectiveness "
 	},
 	{
 		title: "Egocentric Existence",
@@ -519,7 +555,7 @@ let searchQuotes = [
 		title: "Man must believe in an open future",
 		date: "1972",
     url: "quotes/man-must-believe-in-an-open-future.html",
-		content: "Man s freedom is a reality a reality that makes a difference to his physical as well as his mental health When Frankl s prisoners ceased to believe in the possibility of freedom they grew sick and died On the other hand when they saw that Dachau had no chimney standing out all night in the rain seemed no great hardship they laughed and joked The conclusion needs to be stated in letters ten feet high In order to realise his possibilities man must believe in an open future he must have a vision of something worth doing And this will not be possible until all the determinism and pessimism that we have inherited from the 19th century and which has infected every department of our culture from poetry to atomic physics has been dismissed as fallacious and illogical Colin Wilson  New Pathways In Psychology: Maslow and the Post-Freudian Revolution "
+		content: "Man s freedom is a reality a reality that makes a difference to his physical as well as his mental health When Frankl s prisoners ceased to believe in the possibility of freedom they grew sick and died On the other hand when they saw that Dachau had no chimney standing out all night in the rain seemed no great hardship they laughed and joked The conclusion needs to be stated in letters ten feet high In order to realise his possibilities man must believe in an open future he must have a vision of something worth doing And this will not be possible until all the determinism and pessimism that we have inherited from the 19th century and which has infected every department of our culture from poetry to atomic physics has been dismissed as fallacious and illogical Colin Wilson English existentialist philosopher-novelist New Pathways In Psychology: Maslow and the Post-Freudian Revolution "
 	},
 	{
 		title: "Critical Thinking Followed by Action",
@@ -630,16 +666,64 @@ let searchQuotes = [
 		content: "But there are all different kinds of freedom and the kind that is most precious you will not hear much talked about in the great outside world of winning and achieving and displaying The really important kind of freedom involves attention and awareness and discipline and effort and being able truly to care about other people and to sacrifice for them over and over in myriad petty little unsexy ways every day That is real freedom The alternative is unconsciousness the default setting the rat race the constant gnawing sense of having had and lost some infinite thing David Foster Wallace American author of novels, short stories and essays Commencement Address at Kenyon College "
 	},
 	{
+		title: "The freedom to enact other forms of social existence",
+		date: "2021",
+    url: "quotes/the-freedom-to-enact-other-forms-of-social-existence.html",
+		content: "If something did go terribly wrong in human history and given the current state of the world it s hard to deny something did then perhaps it began to go wrong precisely when people started losing that freedom to imagine and enact other forms of social existence to such a degree that some now feel this particular type of freedom hardly even existed or was barely exercised for the greater part of human history David Graeber and David Wengrow American anthropologist and British archaeologist The Dawn of Everything: A New History of Humanity "
+	},
+	{
 		title: "Many humans just don't like their families",
 		date: "2021",
     url: "quotes/many-humans-just-dont-like-their-families.html",
 		content: "There is an obvious objection to evolutionary models which assume that our strongest social ties are based on close biological kinship many humans just don t like their families very much And this appears to be just as true of present day hunter gatherers as anybody else Many seem to find the prospect of living their entire lives surrounded by close relatives so unpleasant that they will travel very long distances just to get away from them David Graeber and David Wengrow American anthropologist and British archaeologist The Dawn of Everything: A New History of Humanity "
 	},
 	{
+		title: "Three basic forms of social liberty",
+		date: "2021",
+    url: "quotes/three-basic-forms-of-social-liberty.html",
+		content: "But for us the key point to remember is that we are not talking here about freedom as an abstract ideal or formal principle as in Liberty Equality and Fraternity Over the course of these pages we have instead talked about basic forms of social liberty which one might actually put into practice 1 the freedom to move away or relocate from one s surroundings 2 the freedom to ignore or disobey commands issued by others and 3 the freedom to shape entirely new social realities or shift back and forth between different ones David Graeber and David Wengrow American anthropologist and British archaeologist The Dawn of Everything: A New History of Humanity "
+	},
+	{
 		title: "Very large social units are imaginary",
 		date: "2021",
     url: "quotes/very-large-social-units-are-imaginary.html",
 		content: "Very large social units are always in a sense imaginary Or to put it in a slightly different way there is always a fundamental distinction between the way one relates to friends family neighbourhood people and places that we actually know directly and the way one relates to empires nations and metropolises phenomena that exist largely or at least most of the time in our heads David Graeber and David Wengrow American anthropologist and British archaeologist The Dawn of Everything: A New History of Humanity "
+	},
+	{
+		title: "Sacred values",
+		date: "2023",
+    url: "quotes/sacred-values.html",
+		content: "Sacred values differ from material or instrumental values in that they incorporate moral beliefs such as the welfare of family commitment to country or identification with a particular religion that is thought to be absolute and inviolable Sharing of these stories demonstrates honest reliable signals that an individual values the group and its goals Finally and perhaps most importantly the sharing of these sacred values is essential to the formation and maintenance of group identity David R. Samson Associate Professor of Evolutionary Anthropology  "
+	},
+	{
+		title: "The encoding of the Tribe Drive in our DNA",
+		date: "2023",
+    url: "quotes/the-encoding-of-the-tribe-drive-in-our-dna.html",
+		content: "As we explore the natural history of tribalism we will see that some three hundred thousand years ago humans chanced upon a revolutionary adaptation that led to the encoding of the Tribe Drive in our DNA This was the evolution of nested groups each with their own particular symbols and enshrined shared myths and values that bound participants together in trusting relationships David R. Samson Associate Professor of Evolutionary Anthropology Our Tribal Future: How to Channel our Foundational Human Instincts Into a Force for Good "
+	},
+	{
+		title: "Paradoxes rationally serve as tribal loyalty tests",
+		date: "2023",
+    url: "quotes/paradoxes-rationally-serve-as-tribal-loyalty-tests.html",
+		content: "Anthropologist Claude Levi Strauss made the argument that the purpose of mythology is to create paradoxes for example the Holy Ghost is a paradoxical trinity where God the father God the Son and God the Holy Spirit are one and the same It is a mystery that must be believed nevertheless Paradoxes rationally serve as tribal loyalty tests because the more logic defying the premise the stronger the tribal signal David R. Samson Associate Professor of Evolutionary Anthropology Our Tribal Future: How to Channel our Foundational Human Instincts Into a Force for Good "
+	},
+	{
+		title: "The systematic weaponization of the human Tribe Drive",
+		date: "2023",
+    url: "quotes/the-systematic-weaponization-of-the-human-tribe-drive.html",
+		content: "There is growing evidence that tribalism is the systematic weaponization of the human Tribe Drive and will be one of the twenty first century s greatest military tools in global competition It may be the greatest threat humanity faces David R. Samson Associate Professor of Evolutionary Anthropology Our Tribal Future: How to Channel our Foundational Human Instincts Into a Force for Good "
+	},
+	{
+		title: "The Tribe Drive",
+		date: "2023",
+    url: "quotes/the-tribe-drive.html",
+		content: "The Tribe Drive is an ancient adaptation that has been a prerequisite for survival for 99 9 percent of our species evolutionary history It is a critical piece of cognitive machinery honed by millions of years of evolution that gave us the ability to navigate both cooperatively and competitively increasingly complex social landscapes David R. Samson Associate Professor of Evolutionary Anthropology Our Tribal Future: How to Channel our Foundational Human Instincts Into a Force for Good "
+	},
+	{
+		title: "A tribe is a creed",
+		date: "2023",
+    url: "quotes/a-tribe-is-a-creed.html",
+		content: "A tribe is not a race or even a population a tribe is a creed it is a team that has agreed upon a set of symbols including sacred values that identify membership A creed is a mechanism that glues together disparate small camps and bands of cohabitating humans into a singular identity and shared purpose Those who know the codes have in their possession a social passport David R. Samson Associate Professor of Evolutionary Anthropology Our Tribal Future: How to Channel our Foundational Human Instincts Into a Force for Good "
 	},
 	{
 		title: "Between-group selection became the primary evolutionary force",
@@ -657,13 +741,13 @@ let searchQuotes = [
 		title: "The entire pageant of human history",
 		date: "2019",
     url: "quotes/the-entire-pageant-of-human-history.html",
-		content: "Once we become attuned to it the entire pageant of human history starting approximately 100 000 years ago can be seen as evolution at high speed made possible by the transmission of learned information across generations Our departure from Africa and colonization of the rest of the planet our ability to inhabit all climatic zones and dozens of ecological niches as hunter gatherers our ability to grow food as farmers the advent of writing and the exploitation of fossil fuels were all made possible by the generational transfer of information David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Once we become attuned to it the entire pageant of human history starting approximately 100 000 years ago can be seen as evolution at high speed made possible by the transmission of learned information across generations Our departure from Africa and colonization of the rest of the planet our ability to inhabit all climatic zones and dozens of ecological niches as hunter gatherers our ability to grow food as farmers the advent of writing and the exploitation of fossil fuels were all made possible by the generational transfer of information David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The eternal struggle between good and evil",
 		date: "2019",
     url: "quotes/the-eternal-struggle-between-good-and-evil.html",
-		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Increase nurturance thoughout the life span",
@@ -681,7 +765,7 @@ let searchQuotes = [
 		title: "The malleability of life",
 		date: "2019",
     url: "quotes/the-malleability-of-life.html",
-		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Nurturance is a master variable",
@@ -699,13 +783,13 @@ let searchQuotes = [
 		title: "Our species does represent a new evolutionary process",
 		date: "2019",
     url: "quotes/our-species-does-represent-a-new-evolutionary-process.html",
-		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Relationships among groups",
 		date: "2019",
     url: "quotes/relationships-among-groups.html",
-		content: "In large societies that consist of many groups relationships among groups must embody the same principles as the relationships among individuals within groups This means that the core design principles are scale independent David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "In large societies that consist of many groups relationships among groups must embody the same principles as the relationships among individuals within groups This means that the core design principles are scale independent David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Religions are great bushy trees",
@@ -723,7 +807,7 @@ let searchQuotes = [
 		title: "A vast repository of information learned and passed down from previous generations",
 		date: "2019",
     url: "quotes/a-vast-repository-of-information-learned-and-passed-down-from-previous-generations.html",
-		content: "With this perspective you can begin to think of yourself as not just a product of your genes and not just a product of your personal experience but also as one of many members of your culture who collectively contain a vast repository of information learned and passed down from previous generations This makes you part of something larger than yourself The information has not just been passed down but it has also been winnowed through the generations leaving us with a set of beliefs and practices that helped us to cohere as groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "With this perspective you can begin to think of yourself as not just a product of your genes and not just a product of your personal experience but also as one of many members of your culture who collectively contain a vast repository of information learned and passed down from previous generations This makes you part of something larger than yourself The information has not just been passed down but it has also been winnowed through the generations leaving us with a set of beliefs and practices that helped us to cohere as groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The Columbia Disaster",
@@ -846,6 +930,18 @@ let searchQuotes = [
 		content: "Society is a partnership in all science a partnership in all art a partnership in every virtue and in all perfection As the ends of such a partnership cannot be obtained in many generations it becomes a partnership not only between those who are living but between those who are living those who are dead and those who are to be born Each contract of each particular State is but a clause in the great primeval contract of eternal society linking the lower with the higher natures connecting the visible and invisible world according to a fixed compact sanctioned by the inviolable oath whith holds all physical and all moral natures each in their appointed place Edmund Burke British and Irish statesman, economist, and philosopher Reflections on the Revolution in France "
 	},
 	{
+		title: "Mistrust of experts",
+		date: "1950",
+    url: "quotes/mistrust-of-experts.html",
+		content: "Mistrust of experts in spite of all that the apologists for technocracy can advance against it is deeply rooted in the English character and Fen whose habit of mind was not cosmopolitan shared in it abundantly Edmund Crispin British mystery author Sudden Vengeance "
+	},
+	{
+		title: "Superstition is not mere intellectual error",
+		date: "1950",
+    url: "quotes/superstition-is-not-mere-intellectual-error.html",
+		content: "Superstition is not mere intellectual error it is a part of the emotional life and the worldly wise who suppress it do so at the risk of impoverishing their souls an eventuality which for the most part they do not succeed in avoiding Edmund Crispin British mystery author Sudden Vengeance "
+	},
+	{
 		title: "All must be held valuable, or none",
 		date: "1947",
     url: "quotes/all-must-be-held-valuable-or-none.html",
@@ -873,61 +969,61 @@ let searchQuotes = [
 		title: "Capitalism works best in societies where there are high levels of trust",
 		date: "2017",
     url: "quotes/capitalism-works-best-in-societies-where-there-are-high-levels-of-trust.html",
-		content: "Adam Smith the great theorist of free trade economics is revered for his The Wealth of Nations His companion work The Theory of Moral Sentiments is mostly forgotten Yet it is the more important of the two In it Smith sets out why capitalism works best in societies where there are high levels of trust between its participants When social trust falls the cost of doing business rises Even in the late eighteenth century at the dawn of modern growth Smith grasped the psychological importance of possessing faith in a better future Edward Luce Edward Luce The Retreat of Western Liberalism "
+		content: "Adam Smith the great theorist of free trade economics is revered for his The Wealth of Nations His companion work The Theory of Moral Sentiments is mostly forgotten Yet it is the more important of the two In it Smith sets out why capitalism works best in societies where there are high levels of trust between its participants When social trust falls the cost of doing business rises Even in the late eighteenth century at the dawn of modern growth Smith grasped the psychological importance of possessing faith in a better future Edward Luce English journalist and the *Financial Times* chief US commentator The Retreat of Western Liberalism "
 	},
 	{
 		title: "Conscious Improvement for the Masses",
 		date: "2017",
     url: "quotes/conscious-improvement-for-the-masses.html",
-		content: "In the newly created Germany Otto von Bismarck set up the world s first social insurance system for the working classes in the late nineteenth century Britian followed suit under Lloyd George in the early twentieth century America distributed small parcels of freeholdings to first comers in the feverish westwards push that came after the Civil War Had America instead chosen to auction the undivided land to the highest bidders the US would now have a Latin America style hacienda economy The railroad barons would have gobbled up most of the land and converted it into vast estates America also made public land grants to set up new universities across its rapidly opening landscape Each of the big Western countries consciously opted to spread skills and assets to its poor For the first time in history governments exended public education moving the school leaving age upwards as the factory clock supplanted the farm day as the timekeeper of the new age The gilded age was an era of spectacular new wealth It was also a time of conscious improvement for the masses They were no longer unlettered As China and India are discovering the rise of mass literacy changes everything Though the Towntrees and the Carnegies became richer than God their workers could read and write Edward Luce Edward Luce The Retreat of Western Liberalism "
+		content: "In the newly created Germany Otto von Bismarck set up the world s first social insurance system for the working classes in the late nineteenth century Britian followed suit under Lloyd George in the early twentieth century America distributed small parcels of freeholdings to first comers in the feverish westwards push that came after the Civil War Had America instead chosen to auction the undivided land to the highest bidders the US would now have a Latin America style hacienda economy The railroad barons would have gobbled up most of the land and converted it into vast estates America also made public land grants to set up new universities across its rapidly opening landscape Each of the big Western countries consciously opted to spread skills and assets to its poor For the first time in history governments exended public education moving the school leaving age upwards as the factory clock supplanted the farm day as the timekeeper of the new age The gilded age was an era of spectacular new wealth It was also a time of conscious improvement for the masses They were no longer unlettered As China and India are discovering the rise of mass literacy changes everything Though the Towntrees and the Carnegies became richer than God their workers could read and write Edward Luce English journalist and the *Financial Times* chief US commentator The Retreat of Western Liberalism "
 	},
 	{
 		title: "Governments losing their ability to anticipate events",
 		date: "2017",
     url: "quotes/governments-losing-their-ability-to-anticipate-events.html",
-		content: "Governments of all types democratic and authoritarian small states and superpowers are losing their ability to anticipate events They are thus losing the means to shape them The days when national leaders could peer around the corner and head off coming dangers are receding The best foreigh policy is conducted by calm minds in possession of the facts and shielded from the pressure to broadcast instant moral absolutes The more time leaders have to weigh up their options the likelier they are to choose the right ones The speed of technological change is working against them Edward Luce Edward Luce The Retreat of Western Liberalism "
+		content: "Governments of all types democratic and authoritarian small states and superpowers are losing their ability to anticipate events They are thus losing the means to shape them The days when national leaders could peer around the corner and head off coming dangers are receding The best foreigh policy is conducted by calm minds in possession of the facts and shielded from the pressure to broadcast instant moral absolutes The more time leaders have to weigh up their options the likelier they are to choose the right ones The speed of technological change is working against them Edward Luce English journalist and the *Financial Times* chief US commentator The Retreat of Western Liberalism "
 	},
 	{
 		title: "A hereditary meritocracy",
 		date: "2017",
     url: "quotes/a-hereditary-meritocracy.html",
-		content: "The golden decades of the post war era bore out the theory of declining inequality But over the last thirty years that has gone into reverse During those decades the share of the US economic pie divided between labour and capital was roughly 70 30 Capital s share the flows taken up by returns on financial assets rather than wages and salaries has since risen to a level not seen since the days of The Great Gatsby The gap between the pay of the average chief executive and their employees has risen tenfold since the lat 1970s to around four hundred Europe has seen varying rates of rising inequality with Britain and Spain recording the fastest rising Gini coefficient the measure of inequality and Germany and Scandinavia the least But all have been moving in the same way In contrast to the industrial era however today s inequality is accompanied by vanishing mobility It is not just that people are staying physically put They are also likelier to stay trapped in the same income group America in particular which had traditionally shown the highest class mobility of any Western country now has the lowest Today it is rarer for a poor American to become rich than a poor Briton which means the American dream is less likely to be realized in America The meritocratic society has given way to a hereditary meritocracy The children of the rich are overwhelmingly likely to stay rich Edward Luce Edward Luce The Retreat of Western Liberalism "
+		content: "The golden decades of the post war era bore out the theory of declining inequality But over the last thirty years that has gone into reverse During those decades the share of the US economic pie divided between labour and capital was roughly 70 30 Capital s share the flows taken up by returns on financial assets rather than wages and salaries has since risen to a level not seen since the days of The Great Gatsby The gap between the pay of the average chief executive and their employees has risen tenfold since the late 1970s to around four hundred Europe has seen varying rates of rising inequality with Britain and Spain recording the fastest rising Gini coefficient the measure of inequality and Germany and Scandinavia the least But all have been moving in the same way In contrast to the industrial era however today s inequality is accompanied by vanishing mobility It is not just that people are staying physically put They are also likelier to stay trapped in the same income group America in particular which had traditionally shown the highest class mobility of any Western country now has the lowest Today it is rarer for a poor American to become rich than a poor Briton which means the American dream is less likely to be realized in America The meritocratic society has given way to a hereditary meritocracy The children of the rich are overwhelmingly likely to stay rich Edward Luce English journalist and the *Financial Times* chief US commentator The Retreat of Western Liberalism "
 	},
 	{
 		title: "History is not some self-driving car",
 		date: "2017",
     url: "quotes/history-is-not-some-self-driving-car.html",
-		content: "But I have grave doubts about history s long arc History is not some self driving car taking humanity to a pre set destination Whichever human is behind the wheel must ensure the others stay in the car Telling some of the passengers they have no business in the driver s seat because they are clueless about the destination will sooner or later result in a crash Take back control was the chant of Brexiteers and Trump voters alike It is the war cry of populist backlashes across the Western world Edward Luce Edward Luce The Retreat of Western Liberalism "
+		content: "But I have grave doubts about history s long arc History is not some self driving car taking humanity to a pre set destination Whichever human is behind the wheel must ensure the others stay in the car Telling some of the passengers they have no business in the driver s seat because they are clueless about the destination will sooner or later result in a crash Take back control was the chant of Brexiteers and Trump voters alike It is the war cry of populist backlashes across the Western world Edward Luce English journalist and the *Financial Times* chief US commentator The Retreat of Western Liberalism "
 	},
 	{
 		title: "Liberal democracy's strongest glue is economic growth",
 		date: "2017",
     url: "quotes/liberal-democracys-strongest-glue-is-economic-growth.html",
-		content: "We are taught to think our democracies are held together by values Our faith in history fuels that myth But liberal democracy s strongest glue is economic growth When groups fight over the fruits of growth the rules of the political game are relatively easy to uphold When those fruits disappear or are monopolised by a fortunate few things turn nasty History should have taught us that The losers seek scapegoats The politics of interest group management turn into a zero sum battle over declining resources The past also tells us to beware of the West at times of stark and growing inequality It rarely ends well Edward Luce Edward Luce The Retreat of Western Liberalism "
+		content: "We are taught to think our democracies are held together by values Our faith in history fuels that myth But liberal democracy s strongest glue is economic growth When groups fight over the fruits of growth the rules of the political game are relatively easy to uphold When those fruits disappear or are monopolised by a fortunate few things turn nasty History should have taught us that The losers seek scapegoats The politics of interest group management turn into a zero sum battle over declining resources The past also tells us to beware of the West at times of stark and growing inequality It rarely ends well Edward Luce English journalist and the *Financial Times* chief US commentator The Retreat of Western Liberalism "
 	},
 	{
 		title: "Responsible Nationalism",
 		date: "2017",
     url: "quotes/responsible-nationalism.html",
-		content: "Lawrence Summers complained of the development of stateless elites whose allegiance is to global economic success and their own prosperity rather than the interests of the nation where they are headquartered By 2016 he was warning that the public s tolerance for expert solutions appears to have been exhausted He advised a new responsible nationalism which would begin from the idea that the basic responsibility of government is to maximize the welfare of its citizens not to pursue some abstract concept of the global good The global elites in other words need to catch up with how most people view the world not the other way round Edward Luce Edward Luce The Retreat of Western Liberalism "
+		content: "Lawrence Summers complained of the development of stateless elites whose allegiance is to global economic success and their own prosperity rather than the interests of the nation where they are headquartered By 2016 he was warning that the public s tolerance for expert solutions appears to have been exhausted He advised a new responsible nationalism which would begin from the idea that the basic responsibility of government is to maximize the welfare of its citizens not to pursue some abstract concept of the global good The global elites in other words need to catch up with how most people view the world not the other way round Edward Luce English journalist and the *Financial Times* chief US commentator The Retreat of Western Liberalism "
 	},
 	{
 		title: "What would a new social compact look like?",
 		date: "2017",
     url: "quotes/what-would-a-new-social-compact-look-like.html",
-		content: "What would a new social compact look like Since our crisis is political the solutions must stretch far beyond economics My own views do not always fit into twentieth century pigeonholes But I believe that protecting society s weakest from arbitrary misfortune is the ultimate test of our civilisational worth It seems blindingly obvious that universal healthcare ought to be a basic shield against the vicissitudes of an increasingly volatile labour market Humane immigration laws should be enforced and the link between public benefits and citizenship restored Ours is an age of lawyers and accountants Micro regulation of the workplace ought to be replaced with broad guideines free speech in whatever form it takes must be upheld on campuses and in the media the tax system should be ruthlessly simplified governments must tax bad things such as carbon rather than good things like jobs companies should be taxed where they conduct their business Governments must launch Marshall Plans to retrain their middle classes The nature of representative democracy should be re imagined Above all money s stranglehold on the legistlative process has to be broken Edward Luce Edward Luce The Retreat of Western Liberalism "
+		content: "What would a new social compact look like Since our crisis is political the solutions must stretch far beyond economics My own views do not always fit into twentieth century pigeonholes But I believe that protecting society s weakest from arbitrary misfortune is the ultimate test of our civilisational worth It seems blindingly obvious that universal healthcare ought to be a basic shield against the vicissitudes of an increasingly volatile labour market Humane immigration laws should be enforced and the link between public benefits and citizenship restored Ours is an age of lawyers and accountants Micro regulation of the workplace ought to be replaced with broad guideines free speech in whatever form it takes must be upheld on campuses and in the media the tax system should be ruthlessly simplified governments must tax bad things such as carbon rather than good things like jobs companies should be taxed where they conduct their business Governments must launch Marshall Plans to retrain their middle classes The nature of representative democracy should be re imagined Above all money s stranglehold on the legistlative process has to be broken Edward Luce English journalist and the *Financial Times* chief US commentator The Retreat of Western Liberalism "
 	},
 	{
 		title: "Writing off half of society as deplorable",
 		date: "2017",
     url: "quotes/writing-off-half-of-society-as-deplorable.html",
-		content: "If we write off half of society as deplorable we forfeit claims on their attention We also endanger liberal democracy Edward Luce Edward Luce The Retreat of Western Liberalism "
+		content: "If we write off half of society as deplorable we forfeit claims on their attention We also endanger liberal democracy Edward Luce English journalist and the *Financial Times* chief US commentator The Retreat of Western Liberalism "
 	},
 	{
 		title: "The yen to work drops in flat economies",
 		date: "2017",
     url: "quotes/the-yen-to-work-drops-in-flat-economies.html",
-		content: "Writing in the 1950s Daniel Bell the great American sociologist said economic growth has become the secular religion of advancing industrial societies He was right It follows that in its absence many people lapse into the equivalent of atheism That sense of listlessness shows up in many ways In the labour market it means falling rates of workforce participation Much as the desire to worship falls in agnostic societies the yen to work drops in flat economies In the last decade America s share of people in full time jobs has dropped to European levels which used to be written off as a sclerotic consequence of the continent s over regulated labour markets Now the US rate is bang on the European average In some respects it is worse There is now a higher share of French males in full time jobs than Americans a statistic that reflects poorly on America rather than well on France Edward Luce Edward Luce The Retreat of Western Liberalism "
+		content: "Writing in the 1950s Daniel Bell the great American sociologist said economic growth has become the secular religion of advancing industrial societies He was right It follows that in its absence many people lapse into the equivalent of atheism That sense of listlessness shows up in many ways In the labour market it means falling rates of workforce participation Much as the desire to worship falls in agnostic societies the yen to work drops in flat economies In the last decade America s share of people in full time jobs has dropped to European levels which used to be written off as a sclerotic consequence of the continent s over regulated labour markets Now the US rate is bang on the European average In some respects it is worse There is now a higher share of French males in full time jobs than Americans a statistic that reflects poorly on America rather than well on France Edward Luce English journalist and the *Financial Times* chief US commentator The Retreat of Western Liberalism "
 	},
 	{
 		title: "Cultural, as opposed to biological, evolution",
@@ -1032,6 +1128,24 @@ let searchQuotes = [
 		content: "He who has a why to live can bear almost any how Friedrich Nietzsche German philosopher Twilight of the Idols "
 	},
 	{
+		title: "A burst of astonishment at our own existence",
+		date: "",
+    url: "quotes/a-burst-of-astonishment-at-our-own-existence.html",
+		content: "No man knows how much he is an optimist even when he calls himself a pessimist because he has not really measured the depths of his debt to whatever created him and enabled him to call himself anything At the back of our brains there is a forgotten blaze or burst of astonishment at our own existence The object of the artistic and spiritual life is to dig for this submerged sunrise of wonder so that a man sitting in a chair might suddenly understand that he is actually alive and be happy G. K. Chesterton English writer, philosopher, lay theologian, and literary and art critic  "
+	},
+	{
+		title: "A miraculous world",
+		date: "",
+    url: "quotes/a-miraculous-world.html",
+		content: "What was wonderful about childhood is that anything in it was a wonder It was not merely a world full of miracles it was a miraculous world G. K. Chesterton English writer, philosopher, lay theologian, and literary and art critic  "
+	},
+	{
+		title: "No true patriot",
+		date: "",
+    url: "quotes/no-true-patriot.html",
+		content: " My country right or wrong is a thing that no true patriot would think of saying It is like saying My mother drunk or sober G. K. Chesterton English writer, philosopher, lay theologian, and literary and art critic  "
+	},
+	{
 		title: "Generosity Among the Rich",
 		date: "1912",
     url: "quotes/generosity-among-the-rich.html",
@@ -1089,7 +1203,7 @@ let searchQuotes = [
 		title: "The point of modern propaganda",
 		date: "12/13/2016",
     url: "quotes/the-point-of-modern-propaganda.html",
-		content: "The point of modern propaganda isn t only to misinform or push an agenda It is to exhaust your critical thinking to annihilate truth Garry Kasparov  Twitter "
+		content: "The point of modern propaganda isn t only to misinform or push an agenda It is to exhaust your critical thinking to annihilate truth Garry Kasparov Russian chess grandmaster, former World Chess Champion (1985–2000), political activist and writer. Twitter "
 	},
 	{
 		title: "Art presents us with a window into the minds of these people",
@@ -1134,6 +1248,12 @@ let searchQuotes = [
 		content: "The great thing to remember is that the mind of man cannot be enlightened permanently by merely teaching him to reject some particular set of superstitions There is an infinite supply of other superstitions always at hand and the mind that desires such things that is the mind that has not trained itself to the hard discipline of reasonableness and honesty will as soon as its devils are cast out proceed to fill itself with their relations Gilbert Murray  Five Stages of Greek Religion "
 	},
 	{
+		title: "Before I started school striking",
+		date: "",
+    url: "quotes/before-i-started-school-striking.html",
+		content: "Before I started school striking I had no energy no friends and I didn t speak to anyone I just sat alone at home with an eating disorder All of that is gone now since I have found a meaning in a world that sometimes seems shallow and meaningless to so many people Greta Thunberg Swedish environmental activist  "
+	},
+	{
 		title: "A book is a man's best friend",
 		date: "",
     url: "quotes/a-book-is-a-mans-best-friend.html",
@@ -1166,7 +1286,7 @@ let searchQuotes = [
 	{
 		title: "The original naiveté",
 		date: "Feb 18, 2017",
-    url: "quotes/the-original-naivet.html",
+    url: "quotes/the-original-naiveté.html",
 		content: "You study you learn but you guard the original naiveté It has to be within you as desire for drink is within the drunkard or love is within the lover Henri Matisse  Time Magazine "
 	},
 	{
@@ -1194,6 +1314,18 @@ let searchQuotes = [
 		content: "What are we here for if not to enjoy life eternal solve what problems we can give light peace and joy to our fellow man and leave this dear fucked up planet a little healthier than when we were born Henry Miller American writer and artist Memo to Self "
 	},
 	{
+		title: "On Turning Eighty",
+		date: "1972",
+    url: "quotes/on-turning-eighty.html",
+		content: "If at eighty you re not a cripple or an invalid if you have your health if you still enjoy a good walk a good meal with all the trimmings if you can sleep without first taking a pill if birds and flowers mountains and sea still inspire you you are a most fortunate individual and you should get down on your knees morning and night and thank the good Lord for his savin and keepin power If you are young in years but already weary in spirit already on the way to becoming an automaton it may do you good to say to your boss under your breath of course Fuck you Jack You don t own me If you can fall in love again and again if you can forgive your parents for the crime of bringing you into the world if you are content to get nowhere just take each day as it comes if you can forgive as well as forget if you can keep from growing sour surly bitter and cynical man you ve got it half licked Henry Miller American writer and artist On Turning Eighty "
+	},
+	{
+		title: "We bludgeon one another with facts and theories",
+		date: "1945",
+    url: "quotes/we-bludgeon-one-another-with-facts-and-theories.html",
+		content: "We do not talk we bludgeon one another with facts and theories gleaned from cursory readings of newspapers magazines and digests Henry Miller American writer and artist The Air-Conditioned Nightmare "
+	},
+	{
 		title: "The Tautness of this Resonant Connection",
 		date: "2010",
     url: "quotes/the-tautness-of-this-resonant-connection.html",
@@ -1216,6 +1348,12 @@ let searchQuotes = [
 		date: "10 Nov 2022",
     url: "quotes/social-media-is-hyperactive.html",
 		content: "The terms social network and social media are used interchangeably now but they shouldn t be A social network is an idle inactive system a Rolodex of contacts a notebook of sales targets a yearbook of possible soul mates But social media is active hyperactive really spewing material across those networks instead of leaving them alone until needed Ian Bogost  The Age of Social Media Is Ending "
+	},
+	{
+		title: "The dullness of fact",
+		date: "1962",
+    url: "quotes/the-dullness-of-fact.html",
+		content: "The dullness of fact is the mother of fiction Isaac Asimov  Fact and Fancy "
 	},
 	{
 		title: "The Cult of Ignorance",
@@ -1254,10 +1392,22 @@ let searchQuotes = [
 		content: "On the face of it shareholder value is the dumbest idea in the world Shareholder value is a result not a strategy your main constituencies are your employees your customers and your products Managers and investors should not set share price increases as their overarching goal Short term profits should be allied with an increase in the long term value of a company Jack Welch  Interview with Francesco Guerrera of the Financial Times "
 	},
 	{
+		title: "The way the hammer shapes the hand",
+		date: "2002",
+    url: "quotes/the-way-the-hammer-shapes-the-hand.html",
+		content: "Camera crews search for clues amid the detritus And entertainment shapes the land The way the hammer shapes the hand Jackson Browne  Casino Nation "
+	},
+	{
 		title: "You are going to have to make it different",
 		date: "1979",
     url: "quotes/you-are-going-to-have-to-make-it-different.html",
 		content: "I once addressed on a Christmas day many years ago on behalf of the United Nations an audience of about two thousand school children in London As on this occasion I knew in general what I was going to say but I did not know exactly what I was going to say and in a moment of abandon I said to them This is how the world goes you are going to have to make it different you are going to have to stop listening to your parents If you go on obeying your parents the world will never be a better place And at that moment twenty newspaper men representing the European press got up from the front row and rushed for the telephone boxes And by the time I got home one of the more adventurous correspondents from Geneva had actually phoned my daughter then aged seven at school in order to ask her whether she was encouraged to disobey her parents at home Jacob Bronowski  The Origins of Knowledge and Imagination "
+	},
+	{
+		title: "Education demands a certain daring",
+		date: "1961",
+    url: "quotes/education-demands-a-certain-daring.html",
+		content: "Education demands a certain daring a certain independence of mind We have to teach young people to think And to teach young people in order to teach young people to think you have to teach them to think about everything There mustn t be something they cannot think about If there s something if there s one thing they can t think about then very shortly they can t think about anything you know Now there s always something in this country of course one cannot think about James Baldwin American novelist, playwright, essayist, poet and activist 1961 Studs Terkel Interview with James Baldwin "
 	},
 	{
 		title: "Larger, freer, and more loving",
@@ -1306,6 +1456,12 @@ let searchQuotes = [
 		date: "15 Apr 2021",
     url: "quotes/you-have-to-create-more-than-you-consume.html",
 		content: "If you want to be successful in business in life actually you have to create more than you consume Your goal should be to create value for everyone you interact with Any business that doesn t create value for those it touches even if it appears successful on the surface isn t long for this world It s on the way out Jeff Bezos American internet entrepreneur, industrialist, media proprietor, and investor 2020 Letter to Shareholders "
+	},
+	{
+		title: "Reversible vs. Irreversible Decisions",
+		date: "1999",
+    url: "quotes/reversible-vs-irreversible-decisions.html",
+		content: "Some decisions are consequential and irreversible or nearly irreversible one way doors and these decisions must be made methodically carefully slowly with great deliberation and consultation If you walk through and don t like what you see on the other side you can t get back to where you were before We can call these Type 1 decisions But most decisions aren t like that they are changeable reversible they re two way doors If you ve made a suboptimal Type 2 decision you don t have to live with the consequences for that long You can reopen the door and go back through Type 2 decisions can and should be made quickly by high judgment individuals or small groups As organizations get larger there seems to be a tendency to use the heavy weight Type 1 decision making process on most decisions including many Type 2 decisions The end result of this is slowness unthoughtful risk aversion failure to experiment sufficiently and consequently diminished invention We ll have to figure out how to fight that tendency Jeff Bezos American internet entrepreneur, industrialist, media proprietor, and investor Amazon Letter to Shareholders "
 	},
 	{
 		title: "Seeing the Bigger Picture from Multiple Angles",
@@ -1461,7 +1617,7 @@ let searchQuotes = [
 		title: "Climate Changers",
 		date: "2006",
     url: "quotes/climate-changers.html",
-		content: "We urgently need to stabilise and reduce human numbers There is no way that a population of nine billion the UN s medium forecast for 2050 can meet its energy needs without unacceptable damage to the planet and a great deal of human misery We need to think about climate changers human beings and their numbers as well as climate change It is the elephant in the room that nobody wants to talk about Unless we reduce the human population humanely through family planning nature will do it for us through violence epidemics or starvation John Guillebaud  The Independent "
+		content: "We urgently need to stabilise and reduce human numbers There is no way that a population of nine billion the UN s medium forecast for 2050 can meet its energy needs without unacceptable damage to the planet and a great deal of human misery We need to think about climate changers human beings and their numbers as well as climate change It is the elephant in the room that nobody wants to talk about Unless we reduce the human population humanely through family planning nature will do it for us through violence epidemics or starvation John Guillebaud Emeritus Professor of Family Planning and Reproductive Health at University College London The Independent "
 	},
 	{
 		title: "Conventional Views",
@@ -1528,6 +1684,12 @@ let searchQuotes = [
 		date: "",
     url: "quotes/intellectual-debate.html",
 		content: "In all intellectual debates both sides tend to be correct in what they affirm and wrong in what they deny John Stuart Mill English philosopher, political economist, Member of Parliament (MP) and civil servant unknown "
+	},
+	{
+		title: "An assembly that meshes over a specific problem",
+		date: "2024-05-24",
+    url: "quotes/an-assembly-that-meshes-over-a-specific-problem.html",
+		content: "To manifest possibility in the zone of dialogical imagination David Graeber learned there was no need to persuade everybody to agree on every issue You don t even want to achieve ideological uniformity he averred An assembly that meshes over a definition of a specific problem and a commitment to a specific course of action forms a community of purpose without a community of definition The rules of discourse can support a revisable consensus Do not blow up minor moral differences into mortal threats Do extend the benefit of the doubt Do not reduce perspectives to a juxtaposition of opposite extremes Do look for zones of affinity If such rules do not yield a creative synthesis that everybody can accept then the rules can change Deliberative assemblies when properly facilitated encompass a plurality of perspectives from a perspective that refuses to impose itself as a worldview The crux is that everybody gets a say John Summers  David Graeber’s Magic Words "
 	},
 	{
 		title: "Prime training for permanent underclasses",
@@ -1602,6 +1764,12 @@ let searchQuotes = [
 		content: "The word economics was coined by the philosopher Xenophon in Ancient Greece Combining oikos meaning household with nomos meaning rules or norms he invented the art of household management and it could not be more relevant today This century we need some pretty insightful managers to guide our planetary household and ones who are ready to pay attention to the needs of all of its inhabitants Kate Raworth English economist Doughnut Economics: 7 Ways to Think Like a 21st Century Economist "
 	},
 	{
+		title: "Economies that enable us to thrive",
+		date: "2024-05-13",
+    url: "quotes/economies-that-enable-us-to-thrive.html",
+		content: "Instead of pursuing endless growth it is time to pursue wellbeing for all people as part of a thriving world with policymaking that is designed in the service of this goal This results in a very different conception of progress in the place of endless growth we seek a dynamic balance one that aims to meet the essential needs of every person while protecting the life supporting systems of our planetary home And since we are the inheritors of economies that need to grow whether or not they make us thrive a critical challenge in high income countries is to create economies that enable us to thrive whether or not they grow Kate Raworth English economist What does progress look like on a planet at its limit? "
+	},
+	{
 		title: "Diversity Helps Your Business -- But Not The Way You Think",
 		date: "02 Jun 2009",
     url: "quotes/diversity-helps-your-business-but-not-the-way-you-think.html",
@@ -1660,6 +1828,12 @@ let searchQuotes = [
 		date: "1973",
     url: "quotes/exponential-growth-in-a-finite-world.html",
 		content: "Anyone who believes that exponential growth can go on forever in a finite world is either a madman or an economist Kenneth Boulding English-born American economist, educator, peace activist, and interdisciplinary philosopher Congressional Hearings on Energy Reorganization Act of 1973 "
+	},
+	{
+		title: "We are here on Earth to fart around",
+		date: "1996",
+    url: "quotes/we-are-here-on-earth-to-fart-around.html",
+		content: "I work at home and if I wanted to I could have a computer right by my bed and I d never have to leave it But I use a typewriter and afterward I mark up the pages with a pencil Then I call up this woman named Carol out in Woodstock and say Are you still doing typing Sure she is and her husband is trying to track bluebirds out there and not having much luck and so we chitchat back and forth and I say Okay I ll send you the pages Then I go down the steps and my wife calls Where are you going Well I say I m going to buy an envelope And she says You re not a poor man Why don t you buy a thousand envelopes They ll deliver them and you can put them in the closet And I say Hush So I go to this newsstand across the street where they sell magazines and lottery tickets and stationery I have to get in line because there are people buying candy and all that sort of thing and I talk to them The woman behind the counter has a jewel between her eyes and when it s my turn I ask her if there have been any big winners lately I get my envelope and seal it up and go to the postal convenience center down the block at the corner of Forty seventh Street and Second Avenue where I m secretly in love with the woman behind the counter I keep absolutely poker faced I never let her know how I feel about her One time I had my pocket picked in there and got to meet a cop and tell him about it Anyway I address the envelope to Carol in Woodstock I stamp the envelope and mail it in a mailbox in front of the post office and I go home And I ve had a hell of a good time I tell you we are here on Earth to fart around and don t let anybody tell you any different Kurt Vonnegut American writer Kurt Vonnegut lecture at Western Case University "
 	},
 	{
 		title: "We are what we pretend to be",
@@ -1740,6 +1914,18 @@ let searchQuotes = [
 		content: "An unholy alliance between wealthy plutocrats practitioners of white identity politics and religious ideologues has produced a reactionary conservative party and they re systematically rigging the rules to keep themselves in power Leah Greenberg and Ezra Levin  We Are Indivisible "
 	},
 	{
+		title: "A church you could bear",
+		date: "2024",
+    url: "quotes/a-church-you-could-bear.html",
+		content: "We stayed with the blues and Francie sensing a vein of covenant sang in her scratchiest aching voice the reason we cajoled her into the band to start with and it began to resemble what I once imagined church might be like a church you could bear where people laughed and enjoyed each other and did not care if they were right all the time or if other people were wrong Leif Enger American author I Cheerfully Refuse "
+	},
+	{
+		title: "To refuse Apocalypse in all its forms",
+		date: "2024",
+    url: "quotes/to-refuse-apocalypse-in-all-its-forms.html",
+		content: "She said the church was a broken compass That our job always and forever was to refuse Apocalypse in all its forms and work cheerfully against it Leif Enger American author I Cheerfully Refuse "
+	},
+	{
 		title: "Our Reply to Violence",
 		date: "",
     url: "quotes/our-reply-to-violence.html",
@@ -1785,7 +1971,13 @@ let searchQuotes = [
 		title: "The press is so powerful in its image-making role",
 		date: "13 Dec 1964",
     url: "quotes/the-press-is-so-powerful-in-its-image-making-role.html",
-		content: "The press is so powerful in its image making role it can make the criminal look like he s a the victim and make the victim look like he s the criminal This is the press an irresponsible press If you aren t careful the newspapers will have you hating the people who are being oppressed and loving the people who are doing the oppressing Malcolm X American Muslim minister and human rights activist Malcolm X Speech at the Audobon Ballroom in Harlem "
+		content: "The press is so powerful in its image making role it can make the criminal look like he s the victim and make the victim look like he s the criminal This is the press an irresponsible press If you aren t careful the newspapers will have you hating the people who are being oppressed and loving the people who are doing the oppressing Malcolm X American Muslim minister and human rights activist Malcolm X Speech at the Audobon Ballroom in Harlem "
+	},
+	{
+		title: "We must discover wisdom for ourselves",
+		date: "1919",
+    url: "quotes/we-must-discover-wisdom-for-ourselves.html",
+		content: "We do not receive wisdom we must discover it for ourselves after a journey through the wilderness which no one else can make for us which no one can spare us for our wisdom is the point of view from which we come at last to regard the world Marcel Proust  Within a Budding Grove "
 	},
 	{
 		title: "Changing the World",
@@ -1828,6 +2020,12 @@ let searchQuotes = [
 		date: "1952",
     url: "quotes/merely-thoroughly-outrageous.html",
 		content: "He made the discovery with a certain amount of relief since it took him at least out of the region of pure fantasy and into the merely thoroughly outrageous with which as a modern he was by now more or less familiar Margery Allingham English mystery novelist The Tiger in the Smoke "
+	},
+	{
+		title: "Be more curious about ideas",
+		date: "1937",
+    url: "quotes/be-more-curious-about-ideas.html",
+		content: "Be less curious about people and more curious about ideas Marie Curie Polish and naturalised-French physicist and chemist who conducted pioneering research on radioactivity  "
 	},
 	{
 		title: "Do the Right Thing",
@@ -1968,6 +2166,12 @@ let searchQuotes = [
 		content: "The blend of corporate mysticism and transcendental consumerism he Tom Peters offers has its roots planted in the pragmatic optimistic can do American work ethic But like the Taylorist philosophy from which it springs it is also a work ethic gone mad It begins with the idea that work can be meaningful and stretches it to the point where there is no meaning outside work It becomes a deluded form of optimism a feverish activity that masks an underlying anxiety about the meaning of life a form of self alienation so complete that the self disappears entirely into its consumer preferences and transactions Matthew Stewart  The Management Myth: Why the Experts Keep Getting it Wrong "
 	},
 	{
+		title: "We love America in a James Baldwin kind of way",
+		date: "2023-08-22",
+    url: "quotes/we-love-america-in-a-james-baldwin-kind-of-way.html",
+		content: "And I ll miss being able to represent our country I think a lot of times that gets lost when people talk about me in particular Oh you guys don t sing the anthem blah blah blah blah blah You don t love America But we do love America It s just more in a James Baldwin kind of way not in a bald eagle on your shoulder kind of way Megan Rapinoe American professional soccer player Megan Rapinoe Answers the Critics "
+	},
+	{
 		title: "A mind is blown",
 		date: "2004",
     url: "quotes/a-mind-is-blown.html",
@@ -1990,6 +2194,12 @@ let searchQuotes = [
 		date: "",
     url: "quotes/push-outward.html",
 		content: "Search for what is good and strong and beautiful in your society and elaborate from there Push outward Always create from what you already have Then you will know what to do Michel Foucault  unknown "
+	},
+	{
+		title: "Bargaining away the experience of being alive",
+		date: "1968",
+    url: "quotes/bargaining-away-the-experience-of-being-alive.html",
+		content: "That seems to me the great American danger we re all in that we ll bargain away the experience of being alive for the appearance of it Mike Nichols   "
 	},
 	{
 		title: "Belief is the end of Observation",
@@ -2040,6 +2250,12 @@ let searchQuotes = [
 		content: "And it ought to be remembered that there is nothing more difficult to take in hand more perilous to conduct or more uncertain in its success than to take the lead in the introduction of a new order of things Because the innovator has for enemies all those who have done well under the old conditions and lukewarm defenders in those who may do well under the new This coolness arises partly from fear of the opponents who have the laws on their side and partly from the incredulity of men who do not readily believe in new things until they have had a long experience of them Niccolò Machiavelli  The Prince "
 	},
 	{
+		title: "The Social Suite",
+		date: "2019",
+    url: "quotes/the-social-suite.html",
+		content: "At the core of all societies I will show is the social suite 1 The capacity to have and recognize individual identity 2 Love for partners and offspring 3 Friendship 4 Social networks 5 Cooperation 6 Preference for one s own group that is in group bias 7 Mild hierarchy that is relative egalitarianism 8 Social learning and teaching Nicholas Christakis Greek-American sociologist and physician Blueprint: The Evolutionary Origins of a Good Society "
+	},
+	{
 		title: "The Other Side of Complexity",
 		date: "",
     url: "quotes/the-other-side-of-complexity.html",
@@ -2056,6 +2272,18 @@ let searchQuotes = [
 		date: "1923",
     url: "quotes/art-is-a-lie-that-makes-us-realize-truth.html",
 		content: "We all know that Art is not truth Art is a lie that makes us realize truth at least the truth that is given us to understand The artist must know the manner whereby to convince others of the truthfulness of his lies If he only shows in his work that he has searched and re searched for the way to put over lies he would never accomplish anything Pablo Picasso Spanish painter, sculptor, printmaker, ceramicist and theatre designer The Arts "
+	},
+	{
+		title: "Meaningful Activities",
+		date: "2021",
+    url: "quotes/meaningful-activities.html",
+		content: "A meaningful activity is oriented toward a goal one that if accomplished would have an impact on the world and this usually means that it has an impact on other people This activity extends across a significant portion of one s life and has some structure it s the sort of thing that one can tell a story about It often connects to religion and spirituality and often connects to flow leading to the experience of self loss and often brings you into close contact with other people and is often seen as morally virtuous but none of these additional features are essential Paul Bloom Canadian American psychologist The Sweet Spot "
+	},
+	{
+		title: "What makes an activity meaningful?",
+		date: "",
+    url: "quotes/what-makes-an-activity-meaningful.html",
+		content: "A meaningful activity is oriented toward a goal one that if accomplished would have an impact on the world and this usually means that it has an impact on other people This activity has some structure it s the sort of thing that one can tell a story about It connects to spirituality and often connects to flow leading to experience of self loss and often brings you into close contact with other people and is often seen as morally virtuous Paul Bloom Canadian American psychologist The Sweet Spot "
 	},
 	{
 		title: "The Ultimate Democracy",
@@ -2092,6 +2320,18 @@ let searchQuotes = [
 		date: "1990",
     url: "quotes/learning-from-experience.html",
 		content: "The most powerful learning comes from direct experience But what happens when we can no longer observe the consequences of our actions Herein lies the core <em>learning dilemma< em> that confronts organizations <em> we learn best from experience but we never directly experience the consequences of many of our most important decisions < em> The most critical decisions made in organizations have systemwide consequences that stretch over years or decades Peter Senge  The Fifth Discipline: The Art and Practice of the Learning Organization "
+	},
+	{
+		title: "Your generation must come to terms with the environment",
+		date: "1962-06",
+    url: "quotes/your-generation-must-come-to-terms-with-the-environment.html",
+		content: "The stream of time moves forward and mankind moves with it Your generation must come to terms with the environment You must face realities instead of taking refuge in ignorance and evasion of truth Yours is a grave and sobering responsibility but it is also a shining opportunity You go out into a world where mankind is challenged as it has never been challenged before to prove its maturity and its mastery not of nature but of itself Therein lies our hope and our destiny Rachel Carson American marine biologist, writer, and conservationist 1962 Commencement Address at Scripps College "
+	},
+	{
+		title: "The conquest of nature",
+		date: "1962",
+    url: "quotes/the-conquest-of-nature.html",
+		content: "Man has long talked somewhat arrogantly about the conquest of nature now he has the power to achieve his boast It is our misfortune it may well be our final tragedy that this power has not been tempered with wisdom but has been marked by irresponsibility that there is all too little awareness that man is part of nature and that the price of conquest may well be the destruction of man himself Rachel Carson American marine biologist, writer, and conservationist Rachel Carson Speech at Scripps College "
 	},
 	{
 		title: "A foolish consistency",
@@ -2167,7 +2407,7 @@ let searchQuotes = [
 	},
 	{
 		title: "The limitations of specialization",
-		date: "2 May 1956",
+		date: "1956-05-02",
     url: "quotes/the-limitations-of-specialization.html",
 		content: "In this age of specialization men who thoroughly know one field are often incompetent to discuss another The great problems of the relations between one and another aspect of human activity have for this reason been discussed less and less in public When we look at the past great debates on these subjects we feel jealous of those times for we should have liked the excitement of such argument The old problems such as the relation of science and religion are still with us and I believe present as difficult dilemmas as ever but they are not often publicly discussed because of the limitations of specialization Richard Feynman American theoretical physicist Feynman 1956 remarks at a Caltech YMCA Lunch Forum "
 	},
@@ -2206,6 +2446,12 @@ let searchQuotes = [
 		date: "2018",
     url: "quotes/the-world-is-failing-precisely-because.html",
 		content: "To be human is to confuse a satisfying story with a meaningful one and to mistake life for something huge with two legs No life is mobilized on a vastly larger scale and the world is failing precisely because no novel can make the contest for the world seem as compelling as the struggles between a few lost people Richard Powers  The Overstory "
+	},
+	{
+		title: "Nature transcends our tendencies to label and classify",
+		date: "2023",
+    url: "quotes/nature-transcends-our-tendencies-to-label-and-classify.html",
+		content: "If you re picking colors based on a Pantone book you re limited to a certain number of choices If you step out in nature the palette is infinite Each rock has such a variation of color within it we could never find a can of paint to mimic the exact same shade Nature transcends our tendencies to label and classify to reduce and limit The natural world is unfathomably more rich interwoven and complicated than we are taught and so much more mysterious and beautiful Rick Rubin American record executive and record producer The Creative Act: A Way of Being "
 	},
 	{
 		title: "Public morality",
@@ -2278,6 +2524,12 @@ let searchQuotes = [
 		date: "01/30/2012",
     url: "quotes/steve-jobs-ideals.html",
 		content: "Q What ideals have you embraced from Steve Jobs A The importance of doing everything you do to your very best And that the journey is the reward If you do things well one at a time you end up in a really good place Don t get ahead of yourself Control the things you can Ron Johnson  The Seattle Times "
+	},
+	{
+		title: "Moving across the city's great broken body",
+		date: "1968",
+    url: "quotes/moving-across-the-citys-great-broken-body.html",
+		content: "I had to admit to myself that I lived for nights like these moving across the city s great broken body making connections among its millions of cells I had a crazy wish or fantasy that some day before I died if I made all the right neural connections the citty would come all the way alive Like the Bride of Frankenstein Ross MacDonald Ross Macdonald is the main pseudonym that was used by the American-Canadian writer of crime fiction Kenneth Millar The Instant Enemy "
 	},
 	{
 		title: "The more they yearned for omnipotence",
@@ -2493,7 +2745,7 @@ let searchQuotes = [
 		title: "Generosity is the robust strategy",
 		date: "2017",
     url: "quotes/generosity-is-the-robust-strategy.html",
-		content: "It is deeply unfortunate how difficult it is for humans to practice foresight In his wise and insightful book The Wealth of Humans senior editor for the Economist Ryan Avent traces the lessons that we could and should take from the centuries of economic and political struggle that led from the innovations of the industrial revolution to the successful economies of the second half of the twentieth century Prosperity came when the fruits of productivity were widely shared enmity political turmoil and even outright warfare were the harvest of rampant inequality It is obvious that generosity is the robust strategy Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
+		content: "It is deeply unfortunate how difficult it is for humans to practice foresight In his wise and insightful book The Wealth of Humans senior editor for the Economist Ryan Avent traces the lessons that we could and should take from the centuries of economic and political struggle that led from the innovations of the industrial revolution to the successful economies of the second half of the twentieth century Prosperity came when the fruits of productivity were widely shared enmity political turmoil and even outright warfare were the harvest of rampant inequality It is obvious that generosity is the robust strategy Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Governance is essential",
@@ -2505,13 +2757,13 @@ let searchQuotes = [
 		title: "In the thrall of a vast, world-spanning machine",
 		date: "2017",
     url: "quotes/in-the-thrall-of-a-vast-world-spanning-machine.html",
-		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
+		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Worshipping the divine right of capital",
 		date: "2017",
     url: "quotes/worshipping-the-divine-right-of-capital.html",
-		content: "Future economic historians may look back wryly at this period when we worshipped the divine right of capital while looking down on our ancestors who believed in the divine right of kings Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
+		content: "Future economic historians may look back wryly at this period when we worshipped the divine right of capital while looking down on our ancestors who believed in the divine right of kings Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Belief in Impossible Things",
@@ -2562,6 +2814,12 @@ let searchQuotes = [
 		content: "The world around you is in flux You re anxious to control your destiny but yearn for the aid comforts and genuine recognition of a community You wonder at the marvels of modern science but tremble at its implications of a world without God or indeed any moral character or ideal purpose James and Dewey sought to reconcile or rather hold in fruitful tension the notions of unity and pluralism change and continuity free will and determinism science and religion self and society real and ideal and to show other people how their lives would be better if they learned to do the same Trygve Throntveit   "
 	},
 	{
+		title: "Human life is complicated",
+		date: "",
+    url: "quotes/human-life-is-complicated.html",
+		content: "What s good about an individual human life can t be boiled down to any single value It s not all about beauty or all about justice or all about happiness Pluralist theories are more plausible postulating a variety of relevant values including human well being justice fairness beauty the artistic peaks of human achievement the quality of mercy and the many different and indeed sometimes contrasting kinds of happiness Life is complicated Tyler Cowen American economist, columnist and blogger  "
+	},
+	{
 		title: "When his salary depends on his not understanding it",
 		date: "1935",
     url: "quotes/when-his-salary-depends-on-his-not-understanding-it.html",
@@ -2572,6 +2830,12 @@ let searchQuotes = [
 		date: "2016",
     url: "quotes/imagination-is-not-a-means-of-making-money.html",
 		content: "In America the imagination is generally looked on as something that might be useful when the TV is out of order Poetry and plays have no relation to practical politics Novels are for students housewives and other people who don t work Fantasy is for children and primitive peoples Literacy is so you can read the operating instructions I think the imagination is the single most useful tool mankind possesses It beats the opposable thumb I can imagine living without my thumbs but not without my imagination I hear voices agreeing with me Yes yes they cry The creative imagination is a tremendous plus in business We value creativity we reward it In the marketplace the word creativity has come to mean the generation of ideas applicable to practical strategies to make larger profits This reduction has gone on so long that the word creative can hardly be degraded further I don t use it any more yielding it to capitalists and academics to abuse as they like But they can t have imagination Imagination is not a means of making money It has no place in the vocabulary of profit making It is not a weapon though all weapons originate from it and their use or non use depends on it as with all tools and their uses The imagination is an essential tool of the mind a fundamental way of thinking an indispensable means of becoming and remaining human Ursula K. Le Guin  Words Are My Matter "
+	},
+	{
+		title: "To choose one's attitude",
+		date: "",
+    url: "quotes/to-choose-ones-attitude.html",
+		content: "Everything can be taken from a man but one thing the last of the human freedoms to choose one s attitude in any given set of circumstances to choose one s own way Victor Frankl Austrian Holocaust survivor, neurologist, psychiatrist and author  "
 	},
 	{
 		title: "Each man is questioned by life",
@@ -2608,6 +2872,12 @@ let searchQuotes = [
 		date: "1973",
     url: "quotes/the-only-sensible-procedure-for-a-critic.html",
 		content: "The only sensible procedure for a critic is to keep silent about works which he believes to be bad while at the same time vigorously campaigning for those which he believes to be good especially if they are being neglected or underestimated by the public W. H. Auden An Anglo-American poet and critic The Dyer's Hand and Other Essays "
+	},
+	{
+		title: "Dying is a very dull, dreary affair",
+		date: "1978",
+    url: "quotes/dying-is-a-very-dull-dreary-affair.html",
+		content: "Dying is a very dull dreary affair And my advice to you is to have nothing whatever to do with it W. Somerset Maugham English writer, known for his plays, novels and short stories Conversations with Willie "
 	},
 	{
 		title: "The American cult of the individual",
@@ -2740,6 +3010,12 @@ let searchQuotes = [
 		date: "",
     url: "quotes/we-are-doing-our-best.html",
 		content: "It s no use saying We are doing our best You have got to succeed in doing what is necessary Winston Churchill British statesman, army officer and writer unknown "
+	},
+	{
+		title: "Notation not to be confused with music itself",
+		date: "1938",
+    url: "quotes/notation-not-to-be-confused-with-music-itself.html",
+		content: "Essentially then notation is a convention by which the general proportions of a composition may be roughly described It is not to be confused with music itself It is merely the blue print from which music may be constructed It has its advantages as an expedient for the preservation of the structural ideas of composers and as an aid in the manipulation of musical proportions but music itself remains a transient experience of ephemeral designs in values of time a process of change in which each element passes from the future into the past dying at the instant of its birth tangible only as a momentary oscillation of air particles If I seem to digress here into the general field of musical aesthetics it is only because these discrepancies are so often ignored by writers on music as to constitute a continual source of muddlement Winthrop Sargeant American music critic, violinist, and writer Jazz: Hot and Hybrid "
 	},
 	{
 		title: "Balance is Required to Maintain Democracy",

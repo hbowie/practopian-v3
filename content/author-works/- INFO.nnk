@@ -8,9 +8,11 @@ Sort Parm: 0
 
 Sort Descending: false
 
+Sort Blank Dates Last: true
+
 Other Fields Allowed: false
 
-Last Index Selected: 172
+Last Index Selected: 203
 
 Mirror Auto Index: false
 
@@ -30,6 +32,8 @@ Curly Apostrophes: true
 
 Ext Links Open in New Windows: false
 
+Scrolling Sync: false
+
 Shortcut: workspr
 
 Note File Format: nnk
@@ -38,5 +42,5 @@ Hash Tags: false
 
 Window Numbers: 231.0;471.0;1068.0;640.0;500.0;
 
-Column Widths: author: 100, 200, 1000; klass: 60, 80, 150; rank: 50, 80, 250; seq: 30, 80, 250; date: 80, 120, 500; title: 200, 471, 1500; dateadded: 100, 180, 250; x: 12, 20, 50; tags: 50, 100, 1200; statusdigit: 20, 30, 50; datemod: 100, 180, 250; 
+Column Widths: x: 12, 20, 50; author: 100, 200, 1000; dateadded: 100, 180, 250; datemod: 100, 180, 250; title: 200, 471, 1500; date: 80, 120, 500; tags: 50, 100, 1200; klass: 60, 80, 150; rank: 50, 80, 250; statusdigit: 20, 30, 50; seq: 30, 80, 250; 
 

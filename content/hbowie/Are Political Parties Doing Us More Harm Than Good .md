@@ -12,11 +12,11 @@ Featured: false
 
 Greatest Hits: false
 
-Category: 04 - Political 
+Category: 04 - Political
 
 Importance: 20
 
-Date:   25 Jun 2021
+Date:   2021-06-25
 
 Minutes to Read: 6
 
@@ -113,7 +113,7 @@ It's hard work, but it's the work that needs to be done.
 
 [conpro]: https://practopian.org/quotes/conservatives-and-progressives.html
 
-[govtrust]: https://www.pewresearch.org/politics/2021/05/17/public-trust-in-government-1958-2021/
+[govtrust]: https://templatelab.com/public-trust-in-government/
 
 [rnc2020]: https://prod-cdn-static.gop.com/docs/Resolution_Platform_2020.pdf
 

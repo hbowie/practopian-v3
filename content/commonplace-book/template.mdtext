@@ -1,20 +1,22 @@
-Title: <title> 
+Title: <title>
 
-Featured: <boolean> 
+Featured: <boolean>
 
-Recommended: <boolean> 
+Recommended: <boolean>
 
-Author: <lookup: authorspr> 
+Quote Link: <link>
 
-Date: <date> 
+Author: <lookup: authorspr>
 
-Tags: <tags> 
+Date: <date>
 
-Work Title: <lookup: workspr> 
+Tags: <tags>
 
-Work Pages:  
+Work Title: <lookup: workspr>
 
-Date Added: <dateadded> 
+Work Pages: 
 
-Body:  
+Date Added: <dateadded>
+
+Body: 
 

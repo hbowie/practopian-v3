@@ -10,7 +10,7 @@ Status: 9 - Published
 
 Type:   appreciation
 
-Featured: true
+Featured: false
 
 Greatest Hits: false
 
@@ -18,7 +18,7 @@ Category: 05 - Critical
 
 Importance: 50
 
-Date:   03 Feb 2023
+Date:   2023-02-03
 
 Index:  Hiatt, John; 
 
@@ -33,6 +33,7 @@ Short ID: trbi
 Teaser:
 
 Southerner Thomas Wolfe, in his book *You Can't Go Home Again*, wrote about our inability to travel back in time and return to our origins. John Hiatt seemed to have had much the same sentiments in mind when he penned his song "Train to Birmingham."
+
 
 Body:
 
@@ -143,4 +144,3 @@ May I always have such days.
 -----
 
 *Also incorporated into the [Lexicon of Song](https://lexiconofsong.org/train-to-birmingham.html).*
-

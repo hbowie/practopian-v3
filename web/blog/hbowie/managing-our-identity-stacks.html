@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>Managing Our Identity Stacks</title>
+    <!-- Favicons -->
+    <link rel="icon" href="../../favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="../../favicon.png" type="image/png" />
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="../../css/bootstrap.min.css" type="text/css" />
+    <!-- Fonts -->
+    <link rel="stylesheet" href="../../fonts/concourse_t3.css" type="text/css" />
+    <link rel="stylesheet" href="../../fonts/stylesheet.css" type="text/css" />
+    <!-- Custom styles for Practopians -->
+    <link rel="stylesheet" href="../../css/styles.css" />
+    <!-- Icons -->
+    <link rel="stylesheet" href="../../open-iconic/font/css/open-iconic-bootstrap.min.css" >
+
+ <link href="../..//fontawesome/css/all.css" rel="stylesheet">
+ <script src="../../js/share-to-mastodon.js"></script>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+	<div class="container-md">
+
+    <a class="navbar-brand" href="../../index.html">
+    	<img width="32" height="32" alt="logo" src="../../images/logo_sq128.png">
+    </a>
+
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#main-navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="main-navigation">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../index.html">
+								Home
+							</a>
+					</li>
+
+					<li class="nav-item pr-nav-item">
+							<a class="nav-link" href="../../recent.html">
+								Recent
+							</a>
+					</li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-topics" data-bs-toggle="dropdown" aria-expanded="false">
+            	Topics
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-topics">
+              <li><a class="dropdown-item pr-nav-item" href="../../tags/index.html">
+              	Topic Index
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../tags/core.html">
+              	Core Beliefs
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../tags/missing.html">
+              	"Missing" Topics
+              </a></li>
+            </ul>
+          </li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-essays" data-bs-toggle="dropdown" aria-expanded="false">
+            	Essays
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-essays">
+              <li><a class="dropdown-item pr-nav-item" href="../../blog/hbowie/index.html">
+              	Essays by Title
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../blog/hbowie/latest.html">
+              	Latest Essays
+              </a></li>
+            </ul>
+          </li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-appreciations" data-bs-toggle="dropdown" aria-expanded="false">
+            	Appreciations
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-appreciations">
+              <li><a class="dropdown-item pr-nav-item" href="../../appreciation/index.html">
+              	Appreciations by Title
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../appreciation/latest.html">
+              	Latest Appreciations
+              </a></li>
+            </ul>
+          </li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-quotes" data-bs-toggle="dropdown" aria-expanded="false">
+            	Quotes
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-quotes">
+              <li><a class="dropdown-item pr-nav-item" href="../../authors/index.html">
+              	Authors
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../quotes/latest.html">
+              	Latest Quotes
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../quotes/random.html">
+              	Random Quote
+              </a></li>
+            </ul>
+          </li>
+
+					<li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-find" data-bs-toggle="dropdown" aria-expanded="false">
+            	Find
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-find">
+              <li><a class="dropdown-item pr-nav-item" href="../../search.html">
+              	Search
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../site-index.html">
+              	Site Index
+              </a></li>
+            </ul>
+          </li>
+
+          <li class="nav-item pr-nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown-about" data-bs-toggle="dropdown" aria-expanded="false">
+            	About
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-about">
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-author.html">
+              	About the Author
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-site.html">
+              	About the Site
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../about/the-tools.html">
+              	About the Tools
+              </a></li>
+              <li><a class="dropdown-item pr-nav-item" href="../../about/follow.html">
+              	Follow
+              </a></li>
+            </ul>
+          </li>
+
+        </ul>
+    </div> <!-- /#main-navigation -->
+
+  </div> <!-- /.container -->
+
+</nav>
+
+<div class="container">
+
+	<div class="row">
+
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-10 col-lg-8 col-xl-6">
+
+			<main>
+
+				<h1 class="pr-page-title">Managing Our Identity Stacks</h1>
+
+				<p class="pr-date-and-mins">29 Sep 2023 &middot; 5 min read</p>
+
+				<p><span class="pr-topics-label">topics:</span> <a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/connection.html' rel='tag'>connection</a>, <a class='btn btn-secondary mx-1 my-1 pr-topic' href='../../tags/society.html' rel='tag'>society</a></p>
+
+				<figure>
+					<img class="img-fluid rounded" src="../../images/managing-our-identity-stacks-fingerprint.jpg.jpg" alt="Multi-colored fingerprint">
+				<figcaption>
+				image credit:
+					<a href="https://www.istockphoto.com/photo/multi-colored-fingerprint-gm1384541738-443782295" class="ext-link" target="_blank" rel="noopener">
+						iStock / Eoneren
+					</a>
+				</figcaption>
+				</figure>
+
+
+				<div class="pr-content">
+					<p>I&#8217;ve spent a good amount of time lately diving into <a href="https://davidrsamson.com" class="ext-link" target="_blank" rel="noopener">David R. Samson</a>'s intriguing new book, <em><a href="https://read.macmillan.com/lp/our-tribal-future/" class="ext-link" target="_blank" rel="noopener">Our Tribal Future: How to Channel our Foundational Human Instincts Into a Force for Good</a></em>. </p>
+
+<p>While I can&#8217;t say I agree with all of Samson&#8217;s conclusions, I did find the book to be chock full of good information and interesting ideas. </p>
+
+<p>One useful concept I came across was the idea of an &#8220;Identity Stack&#8221; (from page 320). This is a ranked list of all the categories that make up your particular identity: those social groups that contribute to your sense of self. </p>
+
+<p>In other words, if a stranger came up and asked &#8220;Who are you?&#8221;, what would your answers be, and which answers would be most important to communicate? </p>
+
+<p>(If you&#8217;d like more information about identity stacks, Samson offered this <a href="https://www.thenetworkstate.com/sociopolitical-axes" class="ext-link" target="_blank" rel="noopener">web page</a> as a reference.) </p>
+
+<p>In hindsight, I realize I constructed a sort of identity stack for myself in a recent piece declaring that &#8220;<a href="we-are-multi-tribal.html" class="wiki-link">We Are Multi-Tribal</a> .&#8221; </p>
+
+<p>Samson&#8217;s concept of an identity stack goes farther than my list, though, suggesting that you rank each social identity category based on its strength for you, from <em>not strong at all</em> up to <em>very strong</em> (with <em>slightly strong</em> and <em>somewhat strong</em> in between). </p>
+
+<p>I think it might be more interesting and suggestive, though, to assign each category a percentage, with the total adding up to 100%. </p>
+
+<p>What a percentage scheme suggests, of course, is that we all have a complete identity, and that we construct that identity from one or more pieces, with each piece contributing more or less to the whole. </p>
+
+<p>What a fixed sum of 100% also suggests is that we are all going to fill up our stack with something, drawing upon whatever sources might be available to us &#8211; because identity is not optional: to be human means to have an identity. </p>
+
+<p>Identity is important because it determines our beliefs, our values, our allegiances and &#8211; ultimately &#8211; our behavior. </p>
+
+<p>Now I suppose that there are three stages here, in terms of our attitudes towards our identity stacks: </p>
+<ol>
+<li>Unconscious acceptance &#8211; We just are who we are. </li>
+<li>Awareness &#8211; we become aware of the various components of our identity. </li>
+<li>Conscious management &#8211; we start to think of our identity as being malleable, and subject to change, based on our knowledge, desires and intentions. </li>
+</ol>
+
+<p>I think it pretty clear that these identity stack stages map somewhat to our developmental stages, which map somewhat to our ages. We all start out with unconscious acceptance and then, as we become older and wiser, perhaps develop the capabilities for awareness and even perhaps for management. </p>
+
+<p>I think it&#8217;s also pretty clear that the components of our identity stacks are somewhat constrained by the experiences available to us in our lives. As an example, someone who moved around a lot as a child, perhaps even living abroad for some time, is likely to be able to draw upon experiences different from someone who lived in one place their whole lives, with few if any opportunities for travel. </p>
+
+<p>Now Samson makes the case that there are several fundamentally different sorts of social groups, and hence different sources of identity. </p>
+
+<p>This starts with family. It then proceeds up to the collection of individuals we know from face-to-face encounters &#8211; the number of such people being limited by <a href="https://en.wikipedia.org/wiki/Dunbar%27s_number" class="ext-link" target="_blank" rel="noopener">Dunbar&#8217;s Number</a>. It might then proceed to groups that share a common set of tribal symbols. It might also proceed to groups that share a common set of beliefs. Or a common pool of knowledge. Or a common set of interests. </p>
+
+<p>Such identity components can also include personal characteristics: gender, the color of one&#8217;s skin, hair color, height, genetic ancestry, and so on. </p>
+
+<p>One&#8217;s age, and hence the generation to which one belongs, can also serve as an identity component. </p>
+
+<p>Identity components can also include places of origin, and of residence. </p>
+
+<p>Samson seems to feel a clear preference for identity components aligned with smaller groups and, to some extent, more regional groups: larger groups and, to some degree, more geographically dispersed groups, are harder to influence and perhaps less capable of delivering significant benefits to an individual. </p>
+
+<p>Although Samson doesn&#8217;t talk about this, I think it&#8217;s clear that the strength of a particular identity component within a stack often depends on some sense of <em>differentiation</em> from other, comparable identities. </p>
+
+<p>And then, moving on from differentiation, it also seems clear that we can experience some identity components as being in <em>opposition</em> to other comparable alternatives &#8211; in the case of political parties, for example, especially in a two-party system. But historic <a href="https://en.wikipedia.org/wiki/Family_feuds_in_the_United_States" class="ext-link" target="_blank" rel="noopener">family feuds</a> are also good examples of such opposition serving to strengthen senses of identity. And such a sense of opposition can also &#8211; at least up to a point &#8211; serve to intensify the importance of that identity component in one&#8217;s stack. </p>
+
+<p>So how do we constructively question, and perhaps even change, our own identity stacks? </p>
+
+<p>Here are a number of suggestions. </p>
+<ol>
+<li><p>Question the authenticity of the elements of your own identity stacks. To what extent do those elements arise from your own lived experiences, and from face-to-face knowledge of others? On the other hand, to what extent might certain elements be reinforced, or distorted, through media exposure? And who benefits from these elements being strengthened within your stack? Is it you, or those you love? Or is your stack being manipulated by someone else for their own benefit, rather than for yours? </p></li>
+<li><p>Considering your own life and experiences, are there potential identity components that you are overlooking, or glossing over, that could perhaps more constructively be emphasized? </p></li>
+<li><p>Consider the top of your stack. Is there a single dominant identity component? If so, then it is likely you are investing significant resources &#8211; time and energy &#8211; into your affiliation with that social group, and into defending that group from others. Is that investment justified? Are you receiving a good return on your investment? </p></li>
+<li><p>Invest more time in appreciation of a variety of works of art. What do I mean by a work of art? A painting, or a piece of music, or a film, or a book, that expresses the unique perspective of a particular individual, but that also manages to convey some elements of our shared humanity. And what do I mean by a variety? Works created in different countries, and in different times, by different sorts of people. You may have to seek these out, because if you simply accept what&#8217;s put in front of you by others, it&#8217;s likely that you will be missing some important perspectives. (This is why book bans are so pernicious, because they try to put blinders on us, often to emphasize some particular component of our identity stacks, and deny us potential access to others.) </p></li>
+</ol>
+
+<p>None of us create our own identity stacks from scratch. We all start with what we are given by those around us. But at some point in our development it is perhaps wise to take some responsibility for what we&#8217;ve been handed, and perhaps change it up a bit. </p>
+
+<p>Otherwise we may find that our identities have been stacked against us. </p>
+				</div>
+
+
+				<div>
+				<hr>
+				<p>Thanks for reading! You can also generally follow my work on <a href="https://hbowie.medium.com/">Medium</a> and <a href="https://buttondown.email/practopian">Buttondown</a>. </p>
+
+				If you&#8217;d like a convenient short URL to link to this piece, you can use <a href="https://pract.org/mais.html">pract.org/mais.html</a>.
+				Or feel free to simply share this piece using one of the social media buttons below!
+				</p>
+				</div>
+
+			</main>
+
+			<div class="d-flex justify-content-center">
+
+				<a class="btn btn-primary m-2" style="background-color: #3b5998" role="button" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fpractopian.org%2Fblog%2Fhbowie%2Fmanaging-our-identity-stacks.html&title=Managing+Our+Identity+Stacks">
+  				<i class="fab fa-facebook-f me-2"></i>
+  				Facebook
+  			</a>
+
+  			<a class="btn btn-primary m-2" style="background-color: #0082ca" role="button" rel="noopener"
+   href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fpractopian.org%2Fblog%2Fhbowie%2Fmanaging-our-identity-stacks.html&title=Managing+Our+Identity+Stacks">
+  				<i class="fab fa-linkedin-in me-2"></i>
+  				LinkedIn
+  			</a>
+
+				<a class="btn btn-primary m-2" style="background-color: #55acee" role="button" rel="noopener" onclick="shareToMastodon('Managing Our Identity Stacks', 'https://practopian.org/blog/hbowie/managing-our-identity-stacks.html');" />
+  				<i class="fab fa-mastodon me-2"></i>
+  				Mastodon
+  			</a>
+
+  			<a href="#" class="btn btn-outline-secondary m-2" role="button">
+  				Back to top
+  			</a>
+
+			</div>
+			
+			<hr />
+			
+			<div>
+			
+				<p>There&#8217;s never any charge to read my words here, but if you&#8217;d like to show your appreciation for my work, small gifts are always appreciated!</p>
+			
+				<div class="d-flex justify-content-center">
+			
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Donate via Ko-fi', '#29abe0', 'Z8Z0H6EWS');kofiwidget2.draw();</script> 
+
+				</div>
+
+			</div>
+
+		</div>
+
+		<div class="col-12 col-sm-12 col-md-1 col-lg-2 col-xl-3">
+
+		</div>
+
+	</div> <!-- /.row -->
+
+	<div class="row">
+
+		<div class="col-12">
+
+			<hr />
+
+			<p class="text-center pr-footer-p" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+				<a class="pr-footer-a" property="dct:title" rel="cc:attributionURL" href="https://practopian.org">
+					The Practical Utopian website
+				</a>
+				by
+				<a  class="pr-footer-a" rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://hbowie.net">
+					Herb Bowie
+				</a>
+				is licensed under
+				<a  class="pr-footer-a" href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
+					CC BY-SA 4.0
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">
+					<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1">
+				</a>
+			</p>
+
+		</div>
+
+	</div> <!-- /.row -->
+
+</div> <!-- /.container -->
+
+    <script src="../../js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

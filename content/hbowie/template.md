@@ -46,6 +46,8 @@ Substack Link: <link>
 
 Short ID: <shortid> 
 
+Page Style: <pagestyle>
+
 Teaser: <longtext> 
 
 Body:  

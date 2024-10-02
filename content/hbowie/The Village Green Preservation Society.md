@@ -16,7 +16,7 @@ Category: 05 - Critical
 
 Importance: 80
 
-Date:   21 Sep 2018
+Date:   2018-09-21
 
 Index:  Ray Davies; Kinks; George Santayana; virginity; nostalgia; Tragedy of the Commons; village green; Village Green Preservation Society; 
 

@@ -18,6 +18,11 @@
 <?include "../includes/head-links.html" ?>
  <link href="=$relative$=/fontawesome/css/all.css" rel="stylesheet">
  <script src="=$relative$=js/share-to-mastodon.js"></script>
+<?if =$pagestyle$= ?>
+<style>
+=$pagestyle$=
+</style>
+<?endif?>
 </head>
 <body>
 
@@ -48,7 +53,7 @@
 				<figcaption>
 				image credit:
 <?if "imagecreditlink" ?>
-					<a href="=$imagecreditlink$=">
+					<a href="=$imagecreditlink$=" class="ext-link" target="_blank" rel="noopener">
 <?endif?>
 						=$imagecredit$=
 <?if "imagecreditlink" ?>
@@ -66,7 +71,7 @@
 <?endif?>
 
 				<div class="pr-content">
-					=$body&o$=
+					=$body&w1o$=
 				</div>
 
 
